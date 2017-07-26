@@ -42,8 +42,7 @@ In many countries and regions, you can sign up for a Pay-As-You-Go account from 
   1. Click the **Free Trial** icon, then click **Confirm Your Free Account** and select **Option 1**.
   2. Enter your country or region and click **Add Credit Card** to provide your credit card information.
 
-After you provide your billing and credit card information, accept the terms and conditions, and submit your account request. 
-Then, your credit card will be validated. A confirmation email of the account information is also sent. A few minutes after 
+After you provide your billing and credit card information, accept the terms and conditions, and submit your account request, your credit card will be validated. A confirmation email of the account information is also sent. A few minutes after 
 you receive the confirmation email, you can return to {{site.data.keyword.Bluemix_notm}} to continue building your apps. 
 
 If your online request can't be processed for your country or region, you can contact 
