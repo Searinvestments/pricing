@@ -5,7 +5,7 @@
 copyright:
 
   years: 2016, 2017
-lastupdated: "2017-06-01"
+lastupdated: "2017-08-02"
 
 
 ---
@@ -18,15 +18,15 @@ lastupdated: "2017-06-01"
 # IBM {{site.data.keyword.Bluemix_notm}} Standard Account Limited Release
 {: #betaintro}
 
-The {{site.data.keyword.Bluemix}} Standard Account Limited Release introduces a new free account, which offers a new way to work in the {{site.data.keyword.Bluemix_notm}} Public Cloud. The Standard account never expires, unlike the 30-day {{site.data.keyword.Bluemix_notm}} trial. You can continue to work on your {{site.data.keyword.Bluemix_notm}} applications without any concerns about time restrictions. 
+The {{site.data.keyword.Bluemix}} Standard Account Limited Release introduces a new free account, which offers a new way to work in the {{site.data.keyword.Bluemix_notm}} Public Cloud. A Standard account never expires, unlike a 30-day {{site.data.keyword.Bluemix_notm}} trial. You can continue to work on your {{site.data.keyword.Bluemix_notm}} applications without any concerns about time restrictions. 
 {:shortdesc}
 
-Users in the United Kingdom and US South regions are eligible for the Standard account. If you are not in either region, you can still create a Standard account by asking a friend for an invite or reaching out to our sales team at sales@bluemix.net. Once you have a Standard account, you can invite friends and colleagues to participate.    
+Users in the United Kingdom and US South regions are eligible for a Standard account. If you are not in either of those regions, you can still create a Standard account by asking a friend for an invite or reaching out to our sales team at sales@bluemix.net. As a Standard account owner, you can invite friends and colleagues to participate.  
 
 ## Introducing the {{site.data.keyword.Bluemix_notm}} Standard account
 {: #standardaccount}
 
-You might be wondering what is different in the Standard account as compared to the trial account. The following tables summarize the key details about the {{site.data.keyword.Bluemix_notm}} Standard account. 
+You might be wondering what is different in a Standard account as compared to a trial account. The following tables summarize the key details about a {{site.data.keyword.Bluemix_notm}} Standard account. 
 
 |What's new in a Standard account? |    
 |-----------------|
@@ -45,14 +45,14 @@ You might be wondering what is different in the Standard account as compared to 
 |The level of {{site.data.keyword.Bluemix_notm}} Support stays the same. |
 {:caption="Table 2. What's not changing" caption-side="top"}
 
-**Note**: If your trial account doesn't convert, you will see a message that explains why. You might have more than one organization in your existing trial account or apps that cannot be transferred. You can take the appropriate action and then try to convert the account again.
+**Note**: If your trial account doesn't convert, you'll see a message that explains why. You might have more than one organization in your existing trial account or apps that cannot be transferred. You can take the appropriate action and then try to convert the account again.
 
-When you are signed up for a Standard account, you can invite team members to collaborate in your organization and spaces, view your usage, create spaces, update your account profile, and manage your organization.
+When you own a Standard account, you can invite team members to collaborate in your organization and spaces, view your usage, create spaces, update your account profile, and manage your organization.
 
 ## Lite plans
 {: #liteplans}
    
-Lite plans, which are also available in a Pay-As-You-Go Account, are structured as a free quota. You can work on your projects worry free, without the risk of generating an accidental bill. The quota might operate for a specific time period, for example, a month, or on a one-off usage basis. Here are some examples of Lite plan quotas:
+Lite plans, which are also available in a Pay-As-You-Go account, are structured as a free quota. You can work on your projects worry free, without the risk of generating an accidental bill. The quota might operate for a specific time period, for example, a month, or on a one-off usage basis. Here are some examples of Lite plan quotas:
 
 <ul>
 <li>Maximum number of registered devices.</li>
@@ -61,9 +61,9 @@ Lite plans, which are also available in a Pay-As-You-Go Account, are structured 
 <li>Provisioned throughput capacity.</li>
 </ul> 
 
-In a Standard account, you can use anything in the {{site.data.keyword.Bluemix_notm}} Catalog that has a Lite plan. Lite plans are easy to find. By default, when you open the Catalog, all services with a Lite plan are displayed and identified with a Lite tag ![Lite tag](../icons/Lite.svg). Select a service to view the quota details for the associated Lite plan.
+In a Standard account, you can use anything in the {{site.data.keyword.Bluemix_notm}} catalog that has a Lite plan. Lite plans are easy to find. By default, when you access the catalog, all services with a Lite plan are displayed and identified with a Lite tag ![Lite tag](../icons/Lite.svg). Select a service to view the quota details for the associated Lite plan.
 
-## What’s available in the Standard account?
+## What’s available in a Standard account?
 {: #whatsavailable}
 
 In a Standard account, Cloud Foundry applications can access up to a maximum of 256 MB of instantaneous runtime memory. If you exceed your allocated quota, you can stop some of your apps to free up runtime memory. You can also work with a Kubernetes cluster with 2 CPU and 4 GB RAM. 
@@ -83,11 +83,11 @@ During the Standard Account Limited Release, the following {{site.data.keyword.B
 
 Some services are not available in all {{site.data.keyword.Bluemix_notm}} regions. For more information, see [Services by region](/docs/services/services_region.html#services_region).
 
-We’ll be adding to this list of services, so stay tuned!
+We’ll be adding to this list of services so stay tuned!
 
 ### Quota limits
 
-When quota limits are reached, your application is stopped or your service is disabled. If the Lite plan specifies that the quota is provided on a monthly basis, the resource usage is reset on the 1st of every month when you can resume working with the service. When you are approaching a quota limit, or are at the quota limit, you will receive a notification email. 
+When quota limits are reached, your application is stopped or your service is disabled. If the Lite plan specifies that the quota is provided on a monthly basis, the resource usage is reset on the 1st of every month when you can resume working with the service. When you are approaching a quota limit, or are at the quota limit, you receive a notification email. 
 
 You can provision 1 instance per Lite plan. 
 
@@ -104,7 +104,7 @@ Your apps will go to sleep after 10 days of development inactivity. This helps w
 
 To wake up your apps, start working on them again in the Cloud Foundry command line or the {{site.data.keyword.Bluemix_notm}} console. 
  
- Here’s a list of all commands that’ll wake up your app:
+ Here’s a list of all commands that will wake up your app:
   * cf push
   * cf restate
   * cf restart
@@ -121,7 +121,7 @@ To wake up your apps, start working on them again in the Cloud Foundry command l
 
 For usage details, see [Cloud Foundry commands](/docs/cli/reference/cfcommands/index.html).
 
- **Note**: If your app is already ssh enabled, you can't use the `cf enable-ssh` and `cf disable-sh` commands to wake up your app. 
+ **Note**: If your app is already enabled for SSH, you can't use the `cf enable-ssh` and `cf disable-sh` commands to wake up your app. 
 
 ### Garbage collection
 
@@ -129,4 +129,7 @@ Your Lite plan services are deleted if there isn’t any activity on them for 30
  
 ## Participating in the Standard Account Limited Release
 {: #lgainvitation}
+
 You can ask a friend with a Standard account for an invite or reach out to our sales team at sales@bluemix.net. We would love to have you try it out!
+
+If you receive an invitation from a friend or a Bluemix seller, your exclusive invite is sent to the email address you provide. When you receive the invite, complete the instructions in the email to register for a Standard account. 
