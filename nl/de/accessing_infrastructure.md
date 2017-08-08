@@ -17,10 +17,10 @@ lastupdated: "2017-05-25"
 # Auf Infrastrukturressource zugreifen
 {: #accessinfrastructure}
 
-Wenn Sie Ihre Apps in der öffentlichen {{site.data.keyword.Bluemix_notm}}-Cloud erstellen, können Sie die Infrastructure as a Service- (IaaS-) Ressourcen nutzen, die im Infrastruktur-Dashboard aufgelistet sind.
+Wenn Sie Ihre Apps in der öffentlichen {{site.data.keyword.Bluemix_notm}}-Cloud erstellen, können Sie die Infrastructure as a Service- (IaaS-) Ressourcen nutzen, die im Infrastruktur-Dashboard aufgelistet sind. 
 IaaS-Ressourcen können zum Erstellen virtueller Umgebungen verwendet werden, zur Bereitstellung von Speicherplatz, zum Aufbauen eines Netzwerks und Sichern der Umgebung. Weitere Informationen finden Sie unter [Infrastruktur](/docs/overview/whatisbluemix.html#bluemixoverviewinfrastructure). 
 
-Nicht jedes belastbare {{site.data.keyword.Bluemix_notm}}-Konto kann auf das Infrastruktur-Dashboard zugreifen. Für den Zugriff aus IaaS-Ressourcen müssen Sie über ein nutzungsabhängiges Konto verfügen. Weitere Informationen finden Sie unter [Anmeldung für ein belastbares Konto](/docs/pricing/billable.html). 
+Nicht jedes gebührenpflichtige {{site.data.keyword.Bluemix_notm}}-Konto kann auf das Infrastruktur-Dashboard zugreifen. Für den Zugriff aus IaaS-Ressourcen müssen Sie über ein nutzungsabhängiges Konto verfügen. Weitere Informationen finden Sie unter [Anmeldung für ein gebührenpflichtiges Konto](/docs/pricing/billable.html). 
 
 Zur Gliederung der {{site.data.keyword.Bluemix_notm}}-Konten, die in der öffentlichen Cloud verfügbar sind, sind in der folgenden Tabelle die verschiedenen Konten sowie Erklärungen aufgeführt, wie Sie vorgehen müssen, um auf das Infrastruktur-Dashboard zuzugreifen. 
 

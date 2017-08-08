@@ -45,21 +45,21 @@ lastupdated: "2017-05-30"
 
 |ISO 4217 代碼| 貨幣|
 |-------------|---------|
-|AUD |	  澳幣|
-|BRL |	  巴西小銀幣|
-|CAD |	  加拿大幣|
-|CHF |	  瑞士法郎|
-|DKK |	  丹麥克朗|
-|EUR |	  歐元|
-|GBP |	  英鎊|
-|INR |	  印度盧比|
-|JPY |	  日圓|
-|KRW |	  韓圜|
-|NOK |	  挪威克朗|
-|NZD |	  紐元|
-|SEK |	  瑞典克朗|
-|USD |    美元|
-|ZAR |	  南非幣|
+|AUD|	  澳幣|
+|BRL|	  巴西小銀幣|
+|CAD|	  加拿大幣|
+|CHF|	  瑞士法郎|
+|DKK|	  丹麥克朗|
+|EUR|	  歐元|
+|GBP|	  英鎊|
+|INR|	  印度盧比|
+|JPY|	  日圓|
+|KRW|	  韓圜|
+|NOK|	  挪威克朗|
+|NZD|	  紐元|
+|SEK|	  瑞典克朗|
+|USD|    美元|
+|ZAR|	  南非幣|
 {:caption="表 2. 支援的貨幣" caption-side="top"}
 
 **附註：**如果您已鏈結 {{site.data.keyword.Bluemix_notm}} 與 SoftLayer 帳戶，則所收到的單一發票的計價單位僅為美元 (USD)。

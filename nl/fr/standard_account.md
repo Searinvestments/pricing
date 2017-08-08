@@ -5,7 +5,7 @@
 copyright:
 
   years: 2016, 2017
-lastupdated: "2017-05-02"
+lastupdated: "2017-06-01"
 
 
 ---
@@ -15,20 +15,16 @@ lastupdated: "2017-05-02"
 {:screen: .screen}
 {:new_window: target="_blank"}
 
-# Compte standard bêta IBM {{site.data.keyword.Bluemix_notm}} 
+# IBM {{site.data.keyword.Bluemix_notm}} Standard Account Limited Release
 {: #betaintro}
 
-Le compte standard bêta {{site.data.keyword.Bluemix}} introduit
-un nouveau compte gratuit, qui permet de travailler d'une nouvelle façon dans le
-cloud {{site.data.keyword.Bluemix_notm}} public. Le compte standard
+L'édition {{site.data.keyword.Bluemix}} Standard Account Limited Release introduit un nouveau compte gratuit, lequel permet de travailler d'une nouvelle façon dans le cloud {{site.data.keyword.Bluemix_notm}} Public. Le compte standard
 n'expire jamais, contrairement au compte d'essai {{site.data.keyword.Bluemix_notm}} de 30 jours. Vous pouvez continuer à
 utiliser vos applications {{site.data.keyword.Bluemix_notm}}
 sans vous soucier des restrictions de temps. 
 {:shortdesc}
 
-La participation au compte standard bêta s'effectue uniquement sur
-invitation. Une fois que vous avez accepté l'invitation et que vous avez créé votre compte standard, vous pouvez inviter des amis et des collègues à
-rejoindre ce compte bêta.  
+Les utilisateurs aux Royaume-Uni et dans les régions Sud des Etats-Unis sont éligibles pour le compte Standard. Si vous n'êtes pas situé dans ces régions, vous pouvez néanmoins créer un compte Standard en demandant à un ami de vous inviter ou en contactant notre équipe commerciale à l'adresse sales@bluemix.net. Une fois que vous disposez d'un compte Standard, vous pouvez inviter des amis et des collègues à participer.    
 
 ## Présentation du compte {{site.data.keyword.Bluemix_notm}} standard
 {: #standardaccount}
@@ -41,7 +37,7 @@ essentielles liées au compte standard {{site.data.keyword.Bluemix_notm}}.
 |-----------------|
 | Le compte n'expire jamais. |
 | Les applications Cloud Foundry peuvent accéder à 256 Mo de mémoire d'exécution instantanée et gratuite. |
-| Vous pouvez accéder aux plans Lite gratuits pour Cloudant NoSQL DB et Internet of Things Platform, avec davantage de services à venir. |
+| Vous pouvez accéder à des plans Lite gratuits pour des services Watson en demande comme Conversation, Internet of Things Platform, Cloudant NoSQLDB. Pour plus d'informations, voir [Qu'est-ce qui est disponible dans le compte standard ?](/docs/pricing/standard_account.html#whatsavailable). |
 | Vos applications passent en veille au bout de dix jours d'inactivité en termes de développement. |
 | Vos instances de service sont supprimées au bout de 30 jours d'inactivité. |
 {:caption="Tableau 1. Quelles sont les nouveautés du compte standard ?" caption-side="top"}
@@ -49,7 +45,7 @@ essentielles liées au compte standard {{site.data.keyword.Bluemix_notm}}.
 |Qu'est-ce qui ne change pas quand un compte d'essai est converti ? | 
 |-----------------|
 |Le compte est gratuit ; vous n'avez pas besoin de carte de crédit. |
-|Les instances Lite de Cloudant NoSQL DB et d'Internet of Things Platform. Il est possible de transférer une instance Lite pour chacun de ces services vers votre nouveau compte. |
+|Vous pouvez continuer à utiliser vos instances de plans Lite. |
 |Votre organisation, vos espaces et les paramètres d'accès des membres d'équipe associés restent les mêmes. Vous pouvez transférer une organisation vers votre nouveau compte. |
 |Le niveau de support {{site.data.keyword.Bluemix_notm}} reste le même. |
 {:caption="Tableau 2. Qu'est-ce qui ne change pas ?" caption-side="top"}
@@ -60,8 +56,7 @@ de conversion.
 Une fois inscrit à un compte standard, vous pouvez inviter des membres
 d'équipe à collaborer dans votre organisation et vos espaces, afficher votre
 utilisation, créer des espaces, mettre à jour votre profil de compte et gérer
-votre organisation. Pour plus
-d'informations, voir [Gestion de votre compte](/docs/admin/adminpublic.html#account).
+votre organisation.
 
 ## Plans Lite
 {: #liteplans}
@@ -89,16 +84,26 @@ catalogue, tous les services dotés d'un plan Lite sont affichés et identifiés
 
 Dans un compte standard, les applications Cloud Foundry peuvent accéder, au maximum, à 256 Mo de mémoire d'exécution instantanée. Si vous
 dépassez votre quota alloué, vous pouvez arrêter certaines applications afin de
-libérer de la mémoire d'exécution. 
+libérer de la mémoire d'exécution. Vous pouvez également exploiter un cluster Kubernetes avec 2 UC et 4 Go de mémoire RAM. 
 
-Dans le compte standard bêta, les services suivants offrent un plan Lite :
+Dans l'édition Standard Account Limited Release, les services {{site.data.keyword.Bluemix_notm}} suivants proposent un plan Lite :
 
 <ul>
-<li>Cloudant NoSQL DB</li>
-<li>Internet of Things Platform</li>
+<li>{{site.data.keyword.prf_hublong}}</li>
+<li>{{site.data.keyword.mobilepushfull}}</li>
+<li>{{site.data.keyword.cloudantfull}}</li>
+<li>{{site.data.keyword.conversationfull}}</li>
+<li>{{site.data.keyword.iot_full}}</li>
+<li>{{site.data.keyword.languagetranslatorfull}}</li>
+<li>{{site.data.keyword.personalityinsightsfull}}</li>
+<li>{{site.data.keyword.toneanalyzerfull}}</li>
 </ul>
 
+Certains services ne sont pas disponibles dans toutes les régions {{site.data.keyword.Bluemix_notm}}. Pour plus d'informations, voir [Services par region](/docs/services/services_region.html#services_region).
+
 Nous étendrons cette liste, donc restez à l'écoute !
+
+### Limites de quota
 
 Quand vos limites de quota sont atteintes, votre application est arrêtée
 ou votre service est désactivé. Si le plan Lite spécifie que le quota est
@@ -108,20 +113,22 @@ vous approchez ou atteignez une limite de quota, vous recevez un courrier élect
 
 Vous pouvez mettre à disposition 1 instance par plan Lite. 
 
-**Remarque** : ces limitations s'appliquent uniquement au compte standard. Vous pouvez à tout moment procéder à une mise à niveau
-vers un compte de facturation d'abonnement ou de type Paiement à la carte. Vous
-ne payez que ce que vous utilisez au-delà des franchises. Pour plus d'informations sur les comptes Paiement à la carte et Abonnement,
-voir [Types de compte](/docs/pricing/index.html#pay-accounts).
+**Remarque **: ces restrictions ne concernent que le compte Standard. Vous pouvez à tout moment procéder à une mise à niveau vers un compte de type Paiement à la carte ou Abonnement. Vous
+ne payez que ce que vous utilisez au-delà des franchises. Pour plus d'informations sur les comptes de type Paiement à la carte ou Abonnement, voir [Inscription pour un compte facturable](/docs/pricing/billable.html#billable).
 
-## Activité de développement
+## Fonctions d'efficience
 {: #devactivity}
 
-Pour aider les utilisateurs de compte standard à mieux gérer leurs ressources, nous avons intégré diverses fonctionnalités efficaces basées sur l'activité de développement et l'utilisation :
+Pour vous aider à gérer vos ressources, nous avons inclus des fonctions d'efficience axées sur l'activité de développement et l'utilisation.
 
- * Vos applications passent en veille après 10 jours d'inactivité en
+### Mise en veille automatique de l'application
+
+Vos applications passent en veille après 10 jours d'inactivité en
 termes de développement. Cela facilite l'utilisation d'une nouvelle
 application, car vous évitez ainsi  d'atteindre la limite du quota de mémoire
-de 256 Mo. Pour activer vos applications, commencez à les réutiliser dans la
+de 256 Mo. 
+
+Pour activer vos applications, commencez à les réutiliser dans la
 ligne de commande Cloud Foundry ou dans la console {{site.data.keyword.Bluemix_notm}}. 
  
  Voici la liste de toutes les commandes qui permettent d'activer votre
@@ -140,22 +147,14 @@ application :
   * cf enable-ssh
   * cf disable-ssh
 
- **Remarque** : si votre application est déjà activée pour SSH, les commandes `cf enable-ssh` et `cf disable-ssh` ne permettent pas d'activer l'application. 
+Pour plus de détails sur l'utilisation, voir [Commandes Cloud Foundry](/docs/cli/reference/cfcommands/index.html).
 
- * Vos services de plan Lite sont supprimés en l'absence d'activité pendant 30 jours. Il n'est ensuite plus nécessaire de supprimer les instances
-inactives lorsque vous souhaitez créer une nouvelle instance. Actuellement,
-seul le service Internet of Things Platform utilise cette fonctionnalité. 
+ **Remarque **: si votre application est déjà activée pour ssh, vous ne pouvez pas utiliser les commandes `cf enable-ssh` et `cf disable-sh` pour ranimer votre application. 
+
+### Récupération de place
+
+Vos services de plan Lite sont supprimés en l'absence d'activité pendant 30 jours. Il n'est donc pas nécessaire de supprimer les instances inactives lorsque vous souhaitez en créer une nouvelle. 
  
- Conservez votre instance Lite Internet of Things Platform active en vous
-connectant au tableau de bord de l'instance du service Internet of Things
-Platform.
- 
-## Participation au compte standard bêta
-{: #betainvitation}
-
-Si vous êtes sélectionné pour participer à l'évaluation de la version bêta, une invitation est envoyée à l'adresse électronique associée à votre compte d'essai {{site.data.keyword.Bluemix_notm}}. Lorsque vous
-recevez l'invitation, suivez les instructions indiquées dans le courrier
-électronique pour vous enregistrer dans le compte standard. 
-
-Vous souhaitez participer à l'offre du compte standard bêta ? Parlez-en à
-vos amis et collègues. S'ils ont été invités à rejoindre ce compte bêta et qu'ils ont créé leur compte standard, ils peuvent vous inviter à leur tour. 
+## Participation au compte Standard Account Limited Release
+{: #lgainvitation}
+Vous pouvez demander à un ami disposant d'un compte Standard de vous inviter ou contacter notre équipe commerciale à l'adresse sales@bluemix.net. Vous êtes le bienvenu si vous désirez l'essayer !

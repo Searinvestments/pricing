@@ -20,12 +20,12 @@ Le seguenti domande frequenti sono correlate a un account Standard, che viene cr
 ## Chi può registrarsi per un account Standard?
 {: #whocanuse}
 
-Attualmente, i nuovi utenti {{site.data.keyword.Bluemix_notm}} nel Regno Unito possono registrarsi per un account Standard. Lo stesso vale per gli utenti che ricevono un invito a partecipare nell'account Standard Beta. Puoi chiedere a un amico che già ha un account Standard di invitarti oppure contattare il nostro team vendite all'indirizzo sales@bluemix.net.
+Poiché si tratta di una release limitata, solo un numero selezionato di nuovi utenti {{site.data.keyword.Bluemix_notm}} nel Regno Unito e negli Stati Uniti sono eleggibili per un account Standard. Gli utenti possono anche registrarsi per un account Standard se ricevono un invito da parte di un utente che partecipa alla release limitata. Puoi chiedere a un amico che già ha un account Standard di invitarti oppure contattare il nostro team vendite all'indirizzo sales@bluemix.net.
 
 ## Quante organizzazioni possono usare in un account Standard?
 {: #howmanyorgs}
 
-Poiché non è concepito per i casi d'uso avanzati, l'account Standard è limitato a un singolo account. Se hai bisogno di più di una singola organizzazione, puoi eseguire l'upgrade a un account fatturabile e pagare solo per quello che usi oltre i limiti concessi dalle franchigie. Per ulteriori informazioni, vedi [Registrazione per un account fatturabile](/docs/pricing/billable.html#billable).
+Poiché l'account Standard non è destinato ai casi di utilizzo avanzati, è limitato a un solo account. Se hai bisogno di più di una singola organizzazione, puoi eseguire l'upgrade a un account fatturabile e pagare solo per quello che usi oltre i limiti concessi dalle franchigie. Per ulteriori informazioni, vedi [Registrazione per un account fatturabile](/docs/pricing/billable.html#billable).
 
 ## Un account Standard ha una scadenza?
 {: #neverexpires}
@@ -88,4 +88,4 @@ Se non esegui alcuna attività di sviluppo nel tuo account per un periodo di 10 
 
 Chiedi alla tua community di sviluppatori su StackOverflow. Rispondiamo attivamente alle domande pubblicate in detta community. Per pubblicare una domanda dopo aver eseguito l'accesso al tuo account, fai clic su **Supporto** e seleziona **Trova risposte**.  
 
-Puoi anche inoltrare un ticket di supporto. Dopo che hai eseguito l'accesso al tuo account, fai clic su **Supporto** e seleziona **Aggiungi ticket**. Scegli quindi la categoria pertinente e immetti i dettagli. Altrimenti, ottieni il supporto utilizzando il link elencato nella pagina [Supporto {{site.data.keyword.Bluemix_notm}} ![Icona link esterno](../icons/launch-glyph.svg)](http://ibm.biz/bluemixsupport){: new_window}. 
+Puoi anche inoltrare un ticket di supporto. Dopo che hai eseguito l'accesso al tuo account, fai clic su **Supporto** e seleziona **Aggiungi ticket**. Scegli quindi la categoria pertinente e immetti i dettagli. Altrimenti, puoi ottenere assistenza utilizzando il link elencato nella pagina [Supporto {{site.data.keyword.Bluemix_notm}} ![Icona link esterno](../icons/launch-glyph.svg)](http://ibm.biz/bluemixsupport){: new_window}. 

@@ -50,7 +50,7 @@ El ciclo de uso de {{site.data.keyword.Bluemix_notm}} se basa en meses naturales
 
 Cuando las cuentas estén enlazadas, el uso de {{site.data.keyword.Bluemix_notm}} seguirá midiéndose para el ciclo mensual y dicho uso se facturará en una factura de {{site.data.keyword.Bluemix_notm}}. A partir del día 1 del siguiente mes, los cargos de {{site.data.keyword.Bluemix_notm}} y SoftLayer se combinarán en la factura de {{site.data.keyword.Bluemix_notm}}.
 
-Por ejemplo, si enlazó las cuentas el 16 de abril del 2017, recibirá una factura de Bluemix para su uso de abril. Según cuándo haya enlazado las cuentas, podrá obtener una factura independiente para el uso de SoftLayer. Su uso durante mayo tanto para SoftLayer como para {{site.data.keyword.Bluemix_notm}} se facturará mediante su cuenta de {{site.data.keyword.Bluemix_notm}}. 
+Por ejemplo, si enlazó las cuentas el 16 de abril del 2017, recibirá una factura de Bluemix para su uso de abril. Según cuándo haya enlazado las cuentas, podrá obtener una factura independiente para el uso de SoftLayer. Su uso durante mayo tanto para SoftLayer como para {{site.data.keyword.Bluemix_notm}} se facturará mediante su cuenta de {{site.data.keyword.Bluemix_notm}}.
 
 ![Resumen del enlace de cuentas de Bluemix y SoftLayer](BluemixSoftLayerBill.svg)
 
@@ -62,7 +62,7 @@ Una vez que se enlacen las facturas, la factura de {{site.data.keyword.Bluemix_n
 En la siguiente lista encontrará los servicios que puede configurar para ejecutarlos con su código de aplicación.
 {:shortdesc}
 
-No todos los planes para estos servicios están disponibles para su utilización con las cuentas {{site.data.keyword.Bluemix_notm}} y SoftLayer enlazadas. Para utilizar con las cuentas enlazadas, solo están disponibles los planes habilitados para cuentas Pago según uso. Sin embargo, si tiene una cuenta de {{site.data.keyword.Bluemix_notm}} separada que también se factura de forma separada, puede utilizar cualquier plan para cualquiera de estos servicios. 
+No todos los planes para estos servicios están disponibles para su utilización con las cuentas {{site.data.keyword.Bluemix_notm}} y SoftLayer enlazadas. Para utilizar con las cuentas enlazadas, solo están disponibles los planes habilitados para cuentas Pago según uso. Sin embargo, si tiene una cuenta de {{site.data.keyword.Bluemix_notm}} separada que también se factura de forma separada, puede utilizar cualquier plan para cualquiera de estos servicios.
 
 * {{site.data.keyword.alchemyapishort}}
 * {{site.data.keyword.alertnotificationshort}}

@@ -52,7 +52,7 @@ lastupdated: "2017-05-31"
 
 例えば、2017年 4 月 16 日にアカウントをリンクした場合、4 月の使用量については Bluemix の請求書を受け取ります。アカウントをリンクしたタイミングによっては、SoftLayer 使用量に対して別個の請求書を受け取ることがあります。SoftLayer と {{site.data.keyword.Bluemix_notm}} の両方の 5 月の使用量は、{{site.data.keyword.Bluemix_notm}} アカウントを介して請求されます。
 
-![Bluemix と SoftLayer のアカウントのリンクのサマリー](BluemixSoftLayerBill.svg)
+![Bluemix アカウントと SoftLayer アカウントのリンクのサマリー](BluemixSoftLayerBill.svg)
 
 請求書がリンクされた後には、{{site.data.keyword.Bluemix_notm}} 請求書には、使用した各リソースに対する別個の料金がリストされます。
 

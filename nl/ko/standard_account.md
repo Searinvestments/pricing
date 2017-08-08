@@ -5,7 +5,7 @@
 copyright:
 
   years: 2016, 2017
-lastupdated: "2017-05-02"
+lastupdated: "2017-06-01"
 
 
 ---
@@ -15,40 +15,39 @@ lastupdated: "2017-05-02"
 {:screen: .screen}
 {:new_window: target="_blank"}
 
-# IBM {{site.data.keyword.Bluemix_notm}} 표준 계정 베타 
+# IBM {{site.data.keyword.Bluemix_notm}} 표준 계정 제한된 릴리스
 {: #betaintro}
 
-{{site.data.keyword.Bluemix}} 표준 계정 베타에서 새로운 무료 계정을 선보입니다. 이를 통해 새로운 방식으로 {{site.data.keyword.Bluemix_notm}} 퍼블릭 클라우드에서 작업할 수 있습니다. 표준 계정은 30일 {{site.data.keyword.Bluemix_notm}} 평가판과는 달리 절대 만료되지 않습니다. 시간 제한에 대해 신경쓰지 않고 {{site.data.keyword.Bluemix_notm}} 애플리케이션 작업을 계속할 수 있습니다.
+{{site.data.keyword.Bluemix}} 표준 계정 제한된 릴리스에는 새로운 무료 계정을 선보입니다. 이를 통해 새로운 방식으로 {{site.data.keyword.Bluemix_notm}} 퍼블릭 클라우드에서 작업할 수 있습니다. 표준 계정은 30일 {{site.data.keyword.Bluemix_notm}} 평가판과는 달리 절대 만료되지 않습니다. 시간 제한에 대해 신경쓰지 않고 {{site.data.keyword.Bluemix_notm}} 애플리케이션 작업을 계속할 수 있습니다.
 {:shortdesc}
 
-초대를 통해서만 표준 계정 베타에 참여할 수 있습니다. 초대를 수락하고 표준 계정을 작성한 후에는, 베타에 참여하도록 친구와 동료들을 초대할 수 있습니다.  
+영국과 미국 남부 지역의 사용자가 표준 계정을 사용할 수 있습니다. 해당 지역이 아닌 경우라도 친구에게 초대를 요청하거나 sales@bluemix.net으로 영업 팀에 연락하여 표준 계정을 작성할 수 있습니다. 표준 계정이 있으면 친구와 동료들이 참여하도록 초대할 수 있습니다.    
 
 ## {{site.data.keyword.Bluemix_notm}} 표준 계정 소개
 {: #standardaccount}
 
 평가판 계정과 비교하여 표준 계정의 차이점이 무엇인지 궁금해 할 수 있습니다. {{site.data.keyword.Bluemix_notm}} 표준 계정에 대한 주요 세부사항이 다음 표에 요약되어 있습니다. 
 
-|표준 계정의 새로운 기능 |    
+|표준 계정의 새로운 기능|    
 |-----------------|
-| 계정이 만료되지 않습니다. |
-| Cloud Foundry 애플리케이션이 바로 사용 가능한 최대 256MB의 무료 런타임 메모리에 액세스할 수 있습니다. |
-| Cloudant NoSQL DB 및 Internet of Things Platform용 무료 라이트 플랜에 액세스할 수 있으며 곧 더 많은 서비스가 추가될 예정입니다. |
-| 10일 동안 개발 활동이 없으면 애플리케이션이 휴면 상태가 됩니다. |
-| 비활성 상태가 30일 넘게 지속되면 서비스 인스턴스가 삭제됩니다. |
+| 계정이 만료되지 않습니다.|
+| Cloud Foundry 애플리케이션이 바로 사용 가능한 최대 256MB의 무료 런타임 메모리에 액세스할 수 있습니다.|
+| 대화와 같은 수요가 많은 Watson 서비스, Internet of Things Platform, Cloudant NoSQLDB에 대한 무료 라이트 플랜에 액세스할 수 있습니다. 자세한 정보는 [사용 가능한 기능](/docs/pricing/standard_account.html#whatsavailable)을 참조하십시오.|
+| 10일 동안 개발 활동이 없으면 애플리케이션이 휴면 상태가 됩니다.|
+| 비활성 상태가 30일 넘게 지속되면 서비스 인스턴스가 삭제됩니다.|
 {:caption="표 1. 표준 계정의 새로운 기능" caption-side="top"}
 
-|평가판 계정을 변환할 때 변경되지 않는 사항 | 
+|평가판 계정을 변환할 때 변경되지 않는 사항| 
 |-----------------|
-|계정이 무료로 제공됩니다. 신용카드가 필요하지 않습니다. |
-|Cloudant NoSQL DB 및 Internet of Things Platform의 라이트 인스턴스. 각 서비스별로 하나의 라이트 인스턴스를 사용자의 새 계정으로 전송할 수 있습니다. |
-|사용자의 조직, 영역 및 연관된 팀 구성원 액세스 설정이 동일하게 유지됩니다. 하나의 조직을 사용자의 새 계정으로 전송할 수 있습니다. |
-|{{site.data.keyword.Bluemix_notm}} 지원의 레벨이 동일하게 유지됩니다. |
+|계정이 무료로 제공됩니다. 신용카드가 필요하지 않습니다.|
+|라이트 플랜 인스턴스를 계속 사용할 수 있습니다.|
+|사용자의 조직, 영역 및 연관된 팀 구성원 액세스 설정이 동일하게 유지됩니다. 하나의 조직을 사용자의 새 계정으로 전송할 수 있습니다.|
+|{{site.data.keyword.Bluemix_notm}} 지원의 레벨이 동일하게 유지됩니다.|
 {:caption="표 2. 변경되지 않는 내용" caption-side="top"}
 
 **참고**:  평가판 계정이 변환되지 않으면 해당 이유를 설명하는 메시지가 표시됩니다. 기존 평가판 계정에 둘 이상의 조직이 있거나 이전할 수 없는 앱이 있을 수 있습니다. 적절한 조치를 취한 다음에 계정을 다시 변환할 수 있습니다.
 
 표준 계정에 등록하면, 팀 구성원을 초대하여 조직과 영역에서 협업할 수 있으며, 사용량을 확인하고, 영역을 작성하며, 계정 프로파일을 업데이트하고, 조직을 관리할 수 있습니다. 
-자세한 정보는 [계정 관리](/docs/admin/adminpublic.html#account)를 참조하십시오. 
 
 ## 라이트 플랜
 {: #liteplans}
@@ -67,30 +66,43 @@ lastupdated: "2017-05-02"
 ## 표준 계정에서 사용 가능한 사항
 {: #whatsavailable}
 
-표준 계정에서는 Cloud Foundry 애플리케이션이 바로 사용 가능한 최대 256MB의 런타임 메모리에 액세스할 수 있습니다. 할당량을 초과하는 경우, 일부 앱을 중지하여 런타임 메모리를 비울 수 있습니다. 
+표준 계정에서는 Cloud Foundry 애플리케이션이 바로 사용 가능한 최대 256MB의 런타임 메모리에 액세스할 수 있습니다. 할당량을 초과하는 경우, 일부 앱을 중지하여 런타임 메모리를 비울 수 있습니다.2개의 CPU와 4GB RAM의 Kubernetes 클러스터로 작업할 수도 있습니다.  
 
-표준 계정 베타 기간에는 다음 서비스에서 라이트 플랜을 제공합니다. 
+표준 계정 제한된 릴리스 기간에는 다음 {{site.data.keyword.Bluemix_notm}} 서비스에서 라이트 플랜을 제공합니다. 
 
 <ul>
-<li>Cloudant NoSQL DB</li>
-<li>Internet of Things Platform</li>
+<li>{{site.data.keyword.prf_hublong}}</li>
+<li>{{site.data.keyword.mobilepushfull}}</li>
+<li>{{site.data.keyword.cloudantfull}}</li>
+<li>{{site.data.keyword.conversationfull}}</li>
+<li>{{site.data.keyword.iot_full}}</li>
+<li>{{site.data.keyword.languagetranslatorfull}}</li>
+<li>{{site.data.keyword.personalityinsightsfull}}</li>
+<li>{{site.data.keyword.toneanalyzerfull}}</li>
 </ul>
 
+일부 {{site.data.keyword.Bluemix_notm}} 지역에서 사용할 수 없는 서비스도 있습니다. 자세한 정보는 [지역별 서비스](/docs/services/services_region.html#services_region)를 참조하십시오. 
+
 서비스를 계속 추가할 예정입니다. 소식을 확인해 주십시오.
+
+### 할당량 한계
 
 할당량 한계에 도달하면 애플리케이션이 중지되거나 서비스를 사용할 수 없게 됩니다. 라이트 플랜에서 월 단위로 할당량이 제공된다고 지정한 경우, 리소스 사용량이 매월 1일에 재설정되며, 이때 다시 서비스 작업을 재개할 수 있습니다. 할당량 한계에 가까워지거나 할당량 한계에 도달할 때 알림 이메일을 받게 됩니다.  
 
 라이트 플랜당 한 개의 인스턴스를 프로비저닝할 수 있습니다. 
 
-**참고:** 이러한 제한사항은 표준 계정에만 적용됩니다. 언제든지 종량과금제 또는 구독 청구 계정으로 업그레이드할 수 있습니다. 무료 사용량을 초과한 항목에 대해서만 비용을 지불하면 됩니다. 
-종량과금제 및 구독 계정에 대한 자세한 정보는 [계정 유형](/docs/pricing/index.html#pay-accounts)을 참조하십시오. 
+**참고**: 이러한 제한사항은 표준 계정에만 적용됩니다. 언제든지 종량과금제 또는 구독 계정으로 업그레이드할 수 있습니다. 무료 사용량을 초과한 항목에 대해서만 비용을 지불하면 됩니다. 종량과금제 및 구독 계정에 대한 자세한 정보는 [청구 가능 계정에 등록](/docs/pricing/billable.html#billable)을 참조하십시오. 
 
-## 개발 활동
+## 효율성 기능
 {: #devactivity}
 
-표준 계정 사용자의 리소스 관리를 돕기 위해, 개발 활동 및 사용량을 기반으로 하는 몇 가지 효율성 기능을 구축했습니다.
+사용자의 리소스 관리를 돕도록 개발 활동 및 사용량을 기반으로 하는 효율성 기능을 포함시켰습니다.
 
- * 10일 동안 개발 활동이 없을 경우 앱이 휴면 상태가 됩니다. 이를 통해 256MB 메모리 할당량 한계에 도달하는 것을 피할 수 있으며, 새 앱에 대한 작업을 원활하게 수행할 수 있습니다. 앱을 활성화하려면 Cloud Foundry 명령행 또는 {{site.data.keyword.Bluemix_notm}} 콘솔에서 다시 작업을 시작하십시오. 
+### 앱 자동 휴면
+
+10일 동안 개발 활동이 없을 경우 앱이 휴면 상태가 됩니다. 이를 통해 256MB 메모리 할당량 한계에 도달하는 것을 피할 수 있으며, 새 앱에 대한 작업을 원활하게 수행할 수 있습니다.  
+
+앱을 활성화하려면 Cloud Foundry 명령행 또는 {{site.data.keyword.Bluemix_notm}} 콘솔에서 다시 작업을 시작하십시오. 
  
  앱을 활성화하는 모든 명령의 목록:
   * cf push
@@ -107,15 +119,14 @@ lastupdated: "2017-05-02"
   * cf enable-ssh
   * cf disable-ssh
 
- **참고**: 앱에서 이미 ssh를 사용하는 경우에는 `cf enable-ssh` 및 `cf disable-sh` 명령으로 앱이 활성화되지 않습니다.  
+사용법 세부사항은 [Cloud Foundry 명령](/docs/cli/reference/cfcommands/index.html)을 참조하십시오.
 
- * 30일 동안 라이트 플랜 서비스에 대한 활동이 없을 경우, 해당 서비스는 삭제됩니다. 이를 통해, 새 인스턴스를 작성하고자 할 때 비활성 인스턴스를 삭제하지 않아도 됩니다. 현재는 Internet of Things Platform 서비스에서만 이 기능을 사용합니다.  
+ **참고**: 앱에서 이미 ssh를 사용하는 경우에는 `cf enable-ssh` 및 `cf disable-sh` 명령을 사용하여 앱을 활성화할 수 없습니다.  
+
+### 가비지 콜렉션
+
+30일 동안 라이트 플랜 서비스에 대한 활동이 없을 경우 해당 서비스는 삭제됩니다. 이는 새 인스턴스를 작성하고자 할 때 비활성 인스턴스를 삭제하지 않아도 된다는 것을 의미합니다.  
  
- Internet of Things Platform 서비스 인스턴스 대시보드에 로그인하여 Internet of Things Platform 라이트 인스턴스를 활성 상태로 유지하십시오.
- 
-## 표준 계정 베타 참여
-{: #betainvitation}
-
-베타에 참여하도록 선택된 경우에는 {{site.data.keyword.Bluemix_notm}} 평가판 계정과 연관된 이메일 주소로 초대장이 발송됩니다. 초대를 받으면 이메일의 지시사항을 완료하여 표준 계정에 등록하십시오. 
-
-표준 계정 베타 오퍼링에 참여하는 것에 관심이 있으십니까? 친구와 동료들에게 요청하십시오. 베타에 참여하도록 초대받고 표준 계정을 작성한 경우, 다른 사용자를 초대할 수 있습니다. 
+## 표준 계정 제한된 릴리스 참여
+{: #lgainvitation}
+표준 계정이 있는 친구에게 초대를 요청하거나 sales@bluemix.net으로 영업 팀에 연락하십시오. 사용해보실 수 있도록 도와드리겠습니다!

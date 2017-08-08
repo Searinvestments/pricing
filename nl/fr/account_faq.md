@@ -20,14 +20,14 @@ Ces questions courantes concernent un compte Standard, lequel est créé dans le
 ## Qui peut s'inscrire pour un compte Standard ?
 {: #whocanuse}
 
-Actuellement, les nouveaux utilisateurs {{site.data.keyword.Bluemix_notm}} au Royaume-Uni peuvent s'inscrire pour un compte Standard. De même, les utilisateurs qui reçoivent une invitation à participer à la version bêta du compte Standard. Vous pouvez demander à un ami qui dispose déjà d'un compte Standard de vous inviter ou bien contacter notre équipe commerciale à l'adresse sales@bluemix.net.
+Vu qu'il s'agit d'une édition limitée, seuls quelques nouveaux utilisateurs {{site.data.keyword.Bluemix_notm}} sélectionnés au Royaume-Uni et aux Etats-Unis sont éligibles pour un compte Standard. Les utilisateurs peuvent également souscrire à un compte Standard s'ils reçoivent une invitation d'un utilisateur participant à l'édition limitée. Vous pouvez demander à un ami qui dispose déjà d'un compte Standard de vous inviter ou bien contacter notre équipe commerciale à l'adresse sales@bluemix.net.
 
 ## Combien d'organisations peut-on utiliser dans un compte Standard ?
 {: #howmanyorgs}
 
 Vu que le compte Standard n'est pas destiné à des scénarios d'utilisation avancés, il est limité à un seul compte. Si vous avez besoin d'utiliser plusieurs organisations, vous pouvez effectuer une mise à niveau vers un type de compte facturable en ne payant que pour les dépassements de franchise. Pour plus d'informations, voir [Inscription pour un compte facturable](/docs/pricing/billable.html#billable).
 
-## Un compte Standard expire-t-il un jour ? 
+## Un compte Standard expire-t-il un jour ?
 {: #neverexpires}
    
 Non , ce compte n'expire jamais. Vous pouvez utiliser le compte Standard gratuit aussi longtemps que vous le souhaitez. A un certain stade, vous voudrez peut-être utiliser des ressources d'infrastructure ou d'autres services non couverts par un plan Lite. Vous pourrez alors procéder à une mise à niveau vers un compte facturable . 
@@ -88,4 +88,4 @@ Si aucune activité de développement actif n'a lieu dans votre compte pendant 1
 
 Interrogez notre communauté de développeurs sur StackOverflow. Nous y répondons promptement aux questions. Pour poster une question alors que vous êtes connecté à votre compte, cliquez sur **Support** et sélectionnez **Trouver des réponses**.  
 
-Vous pouvez également soumettre un ticket de demande de service. Alors que vous êtes connecté à votre compte, cliquez sur **Support** et sélectionnez **Ajouter un ticket**. Choisissez ensuite la catégorie pertinente et entrez vos informations. Vous pouvez également obtenir de l'aide en cliquant sur le lien figurant sur la page [Support {{site.data.keyword.Bluemix_notm}}![Icône de lien externe](../icons/launch-glyph.svg)](http://ibm.biz/bluemixsupport){: new_window}. 
+Vous pouvez également soumettre un ticket de demande de service. Alors que vous êtes connecté à votre compte, cliquez sur **Support** et sélectionnez **Ajouter un ticket**. Choisissez ensuite la catégorie pertinente et entrez vos informations. Vous pouvez également obtenir de l'aide en cliquant sur le lien figurant sur la page [Support {{site.data.keyword.Bluemix_notm}} ![External link icon](../icons/launch-glyph.svg)](http://ibm.biz/bluemixsupport){: new_window}. 

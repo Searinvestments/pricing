@@ -28,14 +28,14 @@ lastupdated: "2017-05-30"
 
 為了保持範例的簡單性，假設下表中的價格不會在時間範圍（例如，一個月）內或之間波動。此範例中的所有定價都是美國貨幣。
 
-|服務 |	特性 |	價格 |
+|服務|	特性|	價格|
 |--------|-----------|--------|
-|SDK for Node.js |	每個月有 375 GB-小時免費（跨所有運行環境共用） |	$0.07 USD/GB-小時|
-|Auto-Scaling |	Auto-Scaling 服務的免費服務方案 |	免費|
-|Data Cache - Starter |	1 GB 的快取空間及一個抄本 |	$55.00 USD/實例 |
-|Data Cache - Standard |	5 GB 的快取空間及一個抄本  |	$155.00 USD/實例 |
-|Data Cache - Premium |	25 GB 的快取空間及一個抄本 |	$505.00 USD/實例|
-|IBM Cloudant® NoSQL DB for {{site.data.keyword.Bluemix_notm}} |	2 GB 的可用資料儲存空間<br/>每個月有 50,000 次輕量型 API 呼叫免費<br/>每個月有 10,000 次重量型 API 呼叫免費 | $1.00 USD/GB<br/>$0.03 USD/1000 次輕量型 API 呼叫<br/>$0.15 USD/1000 次重量型 API 呼叫 |
+|SDK for Node.js|	每個月有 375 GB-小時免費（跨所有運行環境共用）|	$0.07 USD/GB-小時|
+|Auto-Scaling|	Auto-Scaling 服務的免費服務方案|	免費|
+|Data Cache - Starter|	1 GB 的快取空間及一個抄本|	$55.00 USD/實例|
+|Data Cache - Standard|	5 GB 的快取空間及一個抄本 |	$155.00 USD/實例|
+|Data Cache - Premium|	25 GB 的快取空間及一個抄本|	$505.00 USD/實例|
+|IBM Cloudant® NoSQL DB for {{site.data.keyword.Bluemix_notm}}|	2 GB 的可用資料儲存空間<br/>每個月有 50,000 次輕量型 API 呼叫免費<br/>每個月有 10,000 次重量型 API 呼叫免費| $1.00 USD/GB<br/>$0.03 USD/1000 次輕量型 API 呼叫<br/>$0.15 USD/1000 次重量型 API 呼叫|
 {:caption="表 1. 資源的定價" caption-side="top"}
 
 ## 計算應用程式價格

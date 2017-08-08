@@ -39,7 +39,7 @@ Beheben Sie alle gemeldeten Probleme für die Zahlung. Der Kontostand wird aktua
 ## Zahlungsmethode ändern
 {: #managepaymentmethod}
 
-Jedes belastbares Konto muss eine registrierte Kreditkarte haben, die gültig ist. Die Abrechnung für die Kreditkarte erfolgt monatlich für die Verbrauchsmenge, die sich während dieses Monats angesammelt hat. Führen Sie in der {{site.data.keyword.Bluemix_notm}}-Konsole die folgenden Schritte aus, um Ihre Zahlungsinformationen hinzuzufügen oder zu ändern. 
+Jedes gebührenpflichtiges Konto muss eine registrierte Kreditkarte haben, die gültig ist. Die Abrechnung für die Kreditkarte erfolgt monatlich für die Verbrauchsmenge, die sich während dieses Monats angesammelt hat. Führen Sie in der {{site.data.keyword.Bluemix_notm}}-Konsole die folgenden Schritte aus, um Ihre Zahlungsinformationen hinzuzufügen oder zu ändern. 
 
 1. Wählen Sie eine der folgenden Optionen aus, je nachdem, welches Dashboard Sie verwenden:  
  * Klicken Sie im Apps- oder Services-Dashboard auf **Verwalten** &gt; **Abrechnung und Nutzung** &gt; **Zahlungsmethode ändern**.  
@@ -55,7 +55,7 @@ Sie können Rechnungspositionen zu bestimmten Geräten zuordnen und diese Zuordn
 
 1. Wählen Sie eine der folgenden Optionen aus, je nachdem, welches Dashboard Sie verwenden:   
  * Klicken Sie im Apps- oder Services-Dashboard auf **Verwalten** &gt; **Abrechnung und Nutzung** &gt; **Rechnungspositionen**.  
- * Klicken Sie im Infrastructure-Dashboard auf **Konto** &gt; **Abrechnung** &gt; **Rechungspositionen**.
+ * Klicken Sie im Infrastructure-Dashboard auf **Konto** &gt; **Abrechnung** &gt; **Rechnungspositionen**.
 2. Wählen Sie die gewünschte Option für die Rechnungspositionen aus und füllen Sie die entsprechenden Felder aus. 
 
 ## Rechnungen anzeigen

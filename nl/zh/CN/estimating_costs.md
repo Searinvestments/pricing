@@ -44,21 +44,21 @@ lastupdated: "2017-05-30"
 
 |ISO 4217 代码| 货币|
 |-------------|---------|
-|AUD |	  澳元|
-|BRL |	  巴西雷亚尔|
-|CAD |	  加拿大元|
-|CHF |	  瑞士法郎|
-|DKK |	  丹麦克郎|
-|EUR |	  欧元|
-|GBP |	  英镑|
-|INR |	  印度卢比|
-|JPY |	  日元|
-|KRW |	  韩元|
-|NOK |	  挪威克朗|
-|NZD |	  新西兰元|
-|SEK |	  瑞典克朗|
-|USD |    美元|
-|ZAR |	  南非兰特|
+|AUD|	  澳元|
+|BRL|	  巴西雷亚尔|
+|CAD|	  加拿大元|
+|CHF|	  瑞士法郎|
+|DKK|	  丹麦克郎|
+|EUR|	  欧元|
+|GBP|	  英镑|
+|INR|	  印度卢比|
+|JPY|	  日元|
+|KRW|	  韩元|
+|NOK|	  挪威克朗|
+|NZD|	  新西兰元|
+|SEK|	  瑞典克朗|
+|USD|    美元|
+|ZAR|	  南非兰特|
 {:caption="表 2. 支持的货币" caption-side="top"}
 
 **注：**如果已链接您的 {{site.data.keyword.Bluemix_notm}} 和 SoftLayer 帐户，那么您收到的单个发票只使用美元 (USD)。

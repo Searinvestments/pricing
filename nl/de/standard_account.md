@@ -5,7 +5,7 @@
 copyright:
 
   years: 2016, 2017
-lastupdated: "2017-05-02"
+lastupdated: "2017-06-01"
 
 
 ---
@@ -15,13 +15,13 @@ lastupdated: "2017-05-02"
 {:screen: .screen}
 {:new_window: target="_blank"}
 
-# IBM {{site.data.keyword.Bluemix_notm}}-Standardkonto (Betaversion) 
+# IBM {{site.data.keyword.Bluemix_notm}}-Standardkonto (begrenztes Release)
 {: #betaintro}
 
-Mit der Betaversion des {{site.data.keyword.Bluemix}}-Standardkontos wird ein neues kostenfreies Konto eingeführt, das eine neue Möglichkeit bietet, in der öffentlichen Cloud von {{site.data.keyword.Bluemix_notm}} zu arbeiten. Für das Standardkonto gilt kein Ablaufdatum, im Gegensatz zum {{site.data.keyword.Bluemix_notm}}-Testkonto mit einer Gültigkeit von 30 Tagen. Sie können die Arbeit mit den {{site.data.keyword.Bluemix_notm}}-Anwendungen fortsetzen, ohne sich um Zeitbegrenzungen zu kümmern. 
+Mit dem {{site.data.keyword.Bluemix}}-Standardkonto (begrenztes Release) wird ein neues kostenfreies Konto eingeführt, das die Möglichkeit bietet, in der öffentlichen Cloud von {{site.data.keyword.Bluemix_notm}} zu arbeiten. Für das Standardkonto gilt kein Ablaufdatum, im Gegensatz zum {{site.data.keyword.Bluemix_notm}}-Testkonto mit einer Gültigkeit von 30 Tagen. Sie können die Arbeit mit den {{site.data.keyword.Bluemix_notm}}-Anwendungen fortsetzen, ohne sich um Zeitbegrenzungen zu kümmern. 
 {:shortdesc}
 
-Die Teilnahme bei der Betaversion des Standardkontos ist nur mit einer Einladung möglich. Nachdem Sie die Einladung akzeptiert und ein Standardkonto erstellt haben, können Sie Freunde und Kollegen einladen, an der Betaversion teilzunehmen.  
+Für Benutzer in den Regionen 'Vereinigtes Königreich' und 'USA (Süden)' steht das Standardkonto zur Verfügung. Auch wenn Sie sich nicht in einer dieser Regionen befinden, können Sie ein Standardkonto erstellen, indem Sie einen Freund um eine Einladung bitten oder indem Sie sich unter sales@bluemix.net an das Vertriebsteam wenden. Sobald Sie über ein Standardkonto verfügen, können Sie Freunde und Kollegen einladen, sodass auch sie teilnehmen können.    
 
 ## {{site.data.keyword.Bluemix_notm}}-Standardkonto - Einführung
 {: #standardaccount}
@@ -32,7 +32,7 @@ Sicher interessiert es Sie, welche Unterschiede zwischen dem Standardkonto und d
 |-----------------|
 | Für das Konto existiert kein Ablaufdatum. |
 | Cloud Foundry-Anwendungen können auf bis zu 256 MB an freiem, sofort verfügbarem Laufzeitspeicher zugreifen. |
-| Sie können auf kostenfreie Lite-Pläne für Cloudant NoSQL DB und Internet of Things Platform zugreifen; weitere Services sind demnächst verfügbar. |
+| Sie können auf kostenfreie Lite-Pläne für gefragte Watson-Services wie Conversation, Internet of Things Platform und Cloudant NoSQLDB zugreifen. Weitere Informationen finden Sie unter [Merkmale und Leistungen](/docs/pricing/standard_account.html#whatsavailable). |
 | Ihre Anwendungen werden in den Ruhemodus versetzt, falls über einen Zeitraum von 10 Tagen keine Entwicklungsaktivität stattfindet. |
 | Ihre Serviceinstanzen werden nach einem Inaktivitätszeitraum von 30 Tagen gelöscht. |
 {:caption="Tabelle 1. Neuerungen in einem Standardkonto" caption-side="top"}
@@ -40,20 +40,19 @@ Sicher interessiert es Sie, welche Unterschiede zwischen dem Standardkonto und d
 |Was bleibt nach dem Konvertieren eines Testkontos unverändert? | 
 |-----------------|
 |Das Konto ist kostenfrei - Sie benötigen keine Kreditkarte. |
-|Alle Lite-Instanzen von Cloudant NoSQL DB und Internet of Things Platform. Eine Lite-Instanz für jeden dieser Services kann an das neue Konto übertragen werden. |
+|Sie können weiterhin die Instanzen Ihres Lite-Plans verwenden. |
 |Die Organisation, Bereiche und zugehörige Zugriffseinstellungen für Teammitglieder bleiben unverändert. Eine Organisation kann an das neue Konto übertragen werden. |
 |Die {{site.data.keyword.Bluemix_notm}} Support-Stufe bleibt unverändert. |
 {:caption="Tabelle 2. Was bleibt unverändert?" caption-side="top"}
 
 **Hinweis**: Wenn Ihr Testkonto nicht konvertiert werden kann, erhalten Sie eine Nachricht mit einer Erläuterung zur Ursache. Möglicherweise enthält das bestehende Testkonto mehr als eine Organisation oder Apps, die nicht übertragen werden können. Sie können die entsprechende Maßnahme ausführen und dann die Konvertierung des Kontos erneut versuchen.
 
-Wenn Sie bei einem Standardkonto angemeldet sind, können Sie Teammitglieder dazu einladen, in Ihrer Organisation und Ihren Bereichen mitzuarbeiten, Nutzungsdaten anzuzeigen, Bereiche zu erstellen, das Kontoprofil zu aktualisieren und die Organisation zu verwalten. Weitere Informationen
-finden Sie in [Konto verwalten](/docs/admin/adminpublic.html#account).
+Wenn Sie bei einem Standardkonto angemeldet sind, können Sie Teammitglieder dazu einladen, in Ihrer Organisation und Ihren Bereichen mitzuarbeiten, Nutzungsdaten anzuzeigen, Bereiche zu erstellen, das Kontoprofil zu aktualisieren und die Organisation zu verwalten.
 
 ## Lite-Pläne
 {: #liteplans}
    
-Lite-Pläne, die auch in einem nutzungsabhängigen Konto verfügbar sind, sind mit kostenfreien Kontingenten strukturiert. Sie können an Ihren Projekten arbeiten, ohne sich darüber Gedanken zu machen, versehentlich Kosten zu generieren. Das Kontingent kann über einen bestimmten Zeitraum hinweg gültig sein, z . B. für einen Monat, oder auf einer Einzelnuztungsbasis. Beispiele für Kontingente im Rahmen eines Lite-Plans:
+Lite-Pläne, die auch in einem nutzungsabhängigen Konto verfügbar sind, sind mit kostenfreien Kontingenten strukturiert. Sie können an Ihren Projekten arbeiten, ohne sich darüber Gedanken zu machen, versehentlich Kosten zu generieren. Das Kontingent kann über einen bestimmten Zeitraum hinweg gültig sein, z . B. für einen Monat, oder auf einer Einzelnutzungsbasis. Beispiele für Kontingente im Rahmen eines Lite-Plans:
 
 <ul>
 <li>Maximale Anzahl registrierter Geräte.</li>
@@ -67,29 +66,43 @@ In einem Standardkonto können Sie alle Angebote des {{site.data.keyword.Bluemix
 ## Was ist mit einem Standardkonto verfügbar?
 {: #whatsavailable}
 
-In einem Standardkonto können Cloud Foundry-Anwendungen auf maximal 256 MB sofort verfügbaren Laufzeitspeicher zugreifen. Wenn das zugeordnete Kontingent überschritten wird, können Sie einige Ihrer Apps stoppen, um Laufzeitspeicher freizugeben. 
+In einem Standardkonto können Cloud Foundry-Anwendungen auf maximal 256 MB sofort verfügbaren Laufzeitspeicher zugreifen. Wenn das zugeordnete Kontingent überschritten wird, können Sie einige Ihrer Apps stoppen, um Laufzeitspeicher freizugeben. Sie haben auch die Möglichkeit, mit einem Kubernetes-Cluster mit 2 CPUs und 4 GB RAM arbeiten.  
 
-Währen der Betaphase des Standardkontos wird für die folgenden Services ein Lite-Plan angeboten:
+Während der begrenzten Verfügbarkeit des Standardkontos (Standard Account Limited Release) wird für die folgenden {{site.data.keyword.Bluemix_notm}}-Services ein Lite-Plan angeboten: 
 
 <ul>
-<li>Cloudant NoSQL DB</li>
-<li>Internet of Things Platform</li>
+<li>{{site.data.keyword.prf_hublong}}</li>
+<li>{{site.data.keyword.mobilepushfull}}</li>
+<li>{{site.data.keyword.cloudantfull}}</li>
+<li>{{site.data.keyword.conversationfull}}</li>
+<li>{{site.data.keyword.iot_full}}</li>
+<li>{{site.data.keyword.languagetranslatorfull}}</li>
+<li>{{site.data.keyword.personalityinsightsfull}}</li>
+<li>{{site.data.keyword.toneanalyzerfull}}</li>
 </ul>
 
+Manche Services sind nicht in allen {{site.data.keyword.Bluemix_notm}}-Regionen verfügbar. Weitere Informationen finden Sie unter [Services nach Region](/docs/services/services_region.html#services_region).
+
 Zu dieser Liste werden weitere Services hinzugefügt, bleiben Sie also dran!
+
+### Grenzwerte des Kontingents
 
 Wenn die Grenzwerte des Kontingents erreicht sind, wird die Anwendung gestoppt oder der Service wird inaktiviert. Wenn im Lite-Plan angegeben ist, dass das Kontingent auf monatlicher Basis bereitgestellt wird, wird die Ressourcennutzung am ersten Tag jedes Monats zurückgesetzt und Sie können die Arbeit mit dem Service fortsetzen. Wenn ein Kontingentgrenzwert erreicht oder fast erreicht ist, erhalten Sie eine Benachrichtigungs-E-Mail. 
 
 Sie können 1 Instanz pro Lite-Plan bereitstellen. 
 
-**Hinweis**: Diese Einschränkungen gelten nur für das Standardkonto. Sie können jederzeit ein Upgrade auf ein nutzungsabhängiges Konto oder ein abonnementbasiertes Abrechnungskonto durchführen. Kosten fallen nur für die Nutzung an, die über die kostenfreien Kontingente hinausgeht. Weitere Informationen zu nutzungsabhängigen Konten und Abonnementkonten finden Sie unter [Kontotypen](/docs/pricing/index.html#pay-accounts).
+**Hinweis**: Diese Einschränkungen gelten nur für ein Standardkonto. Sie können jederzeit ein Upgrade auf ein nutzungsabhängiges Konto oder ein abonnementbasiertes Konto durchführen. Kosten fallen nur für die Nutzung an, die über die kostenfreien Kontingente hinausgeht. Weitere Informationen zu nutzungsabhängigen Konten und Abonnementkonten finden Sie unter [Anmeldung für ein gebührenpflichtiges Konto](/docs/pricing/billable.html#billable).
 
-## Entwicklungsaktivität
+## Optimierungsfeatures
 {: #devactivity}
 
-Als Unterstützung für Standardkontobenutzer bei der bestmöglichen Verwaltung ihrer Ressourcen stehen einige Optimierungsfeatures zur Verfügung, die auf der Entwicklungsaktivität und Nutzung basieren:
+Neue Optimierungsfeatures, die auf Entwicklungsaktivitäten und dem Einsatz in der Entwicklungsumgebung basieren, unterstützen Sie beim Ressourcenmanagement. 
 
- * Ihre Apps werden in den Ruhemodus versetzt, falls über einen Zeitraum von 10 Tagen keine Entwicklungsaktivität stattfindet. Dies ist nützlich, wenn Sie an einer neuen App arbeiten möchten, da Sie auf diese Weise den Grenzwert von 256 MB für das Speicherkontingent nicht so schnell erreichen. Wenn Sie die Apps erneut aktivieren möchten, beginnen Sie in der Cloud Foundry-Befehlszeile oder der {{site.data.keyword.Bluemix_notm}}-Konsole erneut mit der Bearbeitung der Apps. 
+### Automatischer Ruhemodus für Apps
+
+Ihre Apps werden in den Ruhemodus versetzt, falls über einen Zeitraum von 10 Tagen keine Entwicklungsaktivität stattfindet. Dies ist nützlich, wenn Sie an einer neuen App arbeiten möchten, da Sie auf diese Weise den Grenzwert von 256 MB für das Speicherkontingent nicht so schnell erreichen. 
+
+Wenn Sie die Apps erneut aktivieren möchten, beginnen Sie in der Cloud Foundry-Befehlszeile oder der {{site.data.keyword.Bluemix_notm}}-Konsole erneut mit der Bearbeitung der Apps. 
  
  In der folgenden Liste sind alle Befehle aufgeführt, mit denen die App aktiviert wird:
   * cf push
@@ -106,15 +119,14 @@ Als Unterstützung für Standardkontobenutzer bei der bestmöglichen Verwaltung 
   * cf enable-ssh
   * cf disable-ssh
 
- **Hinweis**: Wenn für die App der SSH-Modus bereits aktiviert ist, kann sie mit den Befehlen `cf enable-ssh` und `cf disable-sh` nicht aktiviert werden. 
+Informationen zur Verwendung finden Sie unter [Cloud Foundry-Befehle](/docs/cli/reference/cfcommands/index.html). 
 
- * Ihre Lite-Plan-Services werden gelöscht, wenn über einen Zeitraum von 30 Tagen keine Aktivität dafür stattfindet. Auf diese Weise müssen Sie keine inaktiven Instanzen löschen, wenn Sie eine neue Instanz erstellen möchten. Zum gegenwärtigen Zeitpunkt verwendet nur der Internet of Things Platform-Service dieses Feature. 
+ **Hinweis**: Wenn für die App der SSH-Modus bereits aktiviert ist, kann sie mit den Befehlen `cf enable-ssh` und `cf disable-sh` nicht aktiviert werden.  
+
+### Garbage-Collection
+
+Ihre Lite-Plan-Services werden gelöscht, wenn über einen Zeitraum von 30 Tagen keine Aktivität dafür stattfindet. Auf diese Weise müssen Sie keine inaktiven Instanzen löschen, wenn Sie eine neue Instanz erstellen möchten.  
  
- Sie können die Lite-Instanz für Internet of Things Platform im aktiven Modus behalten, indem Sie sich beim Dashboard der Internet of Things Platform-Serviceinstanz anmelden.
- 
-## An der Betaversion des Standardkontos teilnehmen
-{: #betainvitation}
-
-Wenn Sie für die Teilnahme an der Betaversion ausgewählt werden, wird eine Einladung an die E-Mail-Adresse gesendet, die Ihrem {{site.data.keyword.Bluemix_notm}}-Testkonto zugeordnet ist. Wenn Sie die Einladung erhalten, führen Sie die in der E-Mail enthaltenen Anweisungen zur Registrierung beim Standardkonto aus. 
-
-Möchten Sie am Angebot der Betaversion für das Standardkonto teilnehmen? Fragen Sie auch Ihre Freunde und Kollegen. Falls diese eine Einladung zur Teilnahme an der Betaversion erhalten und ein Standardkonto erstellt haben, können sie auch Ihnen eine Einladung senden. 
+## Teilnahme am begrenzten Release des Standardkontos
+{: #lgainvitation}
+Sie können einen Freund, der bereits ein Standardkonto besitzt, bitten, Sie einzuladen, oder Sie können sich unter sales@bluemix.net an das Vertriebsteam wenden. Nutzen Sie die Gelegenheit, das Produkt zu testen! 

@@ -16,7 +16,8 @@ copyright:
 # Acessando recursos de infraestrutura
 {: #accessinfrastructure}
 
-Quando você está construindo seus apps na nuvem pública do {{site.data.keyword.Bluemix_notm}}, é possível usar recursos de infraestrutura como serviço (IaaS), que são listados no painel Infraestrutura. Os recursos de IaaS podem ser usados para construir ambientes virtuais, fornecer armazenamento, estabelecer uma rede e assegurar seu ambiente. Para obter mais informações, consulte [Infraestrutura](/docs/overview/whatisbluemix.html#bluemixoverviewinfrastructure). 
+Quando você está construindo seus apps na nuvem pública do {{site.data.keyword.Bluemix_notm}}, é possível usar recursos de infraestrutura como serviço (IaaS), que são listados no painel Infraestrutura. 
+Os recursos de IaaS podem ser usados para construir ambientes virtuais, fornecer armazenamento, estabelecer uma rede e assegurar seu ambiente. Para obter mais informações, consulte [Infraestrutura](/docs/overview/whatisbluemix.html#bluemixoverviewinfrastructure). 
 
 Nem toda conta faturável do {{site.data.keyword.Bluemix_notm}} pode acessar o painel Infraestrutura. Para acessar os recursos de IaaS, deve-se ter uma conta Pagamento por uso. Para obter mais informações, veja [Inscrevendo-se para uma conta faturável](/docs/pricing/billable.html). 
 

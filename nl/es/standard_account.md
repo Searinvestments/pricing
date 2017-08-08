@@ -5,7 +5,7 @@
 copyright:
 
   years: 2016, 2017
-lastupdated: "2017-05-02"
+lastupdated: "2017-06-01"
 
 
 ---
@@ -15,13 +15,13 @@ lastupdated: "2017-05-02"
 {:screen: .screen}
 {:new_window: target="_blank"}
 
-# Cuenta Estándar Beta de {{site.data.keyword.Bluemix_notm}} de IBM 
+# Versión limitada de cuenta estándar de IBM {{site.data.keyword.Bluemix_notm}}
 {: #betaintro}
 
-La cuenta Estándar Beta de {{site.data.keyword.Bluemix}} presenta una nueva cuenta gratuita, que ofrece una nueva forma de trabajo en la nube pública de {{site.data.keyword.Bluemix_notm}}. La cuenta Estándar no caduca nunca, lo que la diferencia de la cuenta de prueba de {{site.data.keyword.Bluemix_notm}} de 30 días. Puede seguir trabajando en sus aplicaciones de {{site.data.keyword.Bluemix_notm}} sin ninguna preocupación sobre las restricciones de tiempo. 
+La cuenta Estándar de versión limitada de {{site.data.keyword.Bluemix}} presenta una nueva cuenta gratuita, que ofrece una nueva forma de trabajo en la nube pública de {{site.data.keyword.Bluemix_notm}}. La cuenta Estándar no caduca nunca, lo que la diferencia de la cuenta de prueba de {{site.data.keyword.Bluemix_notm}} de 30 días. Puede seguir trabajando en sus aplicaciones de {{site.data.keyword.Bluemix_notm}} sin ninguna preocupación sobre las restricciones de tiempo. 
 {:shortdesc}
 
-La participación en la cuenta Estándar Beta es sólo por invitación. Una vez que acepte la invitación y que cree la cuenta Estándar, puede invitar a sus amigos y colegas para que participen en Beta.  
+Los usuarios en las regiones del Reino Unido y EE.UU. Sur serán aptos para la cuenta Estándar. Si no está en una de estas regiones, puede seguir creando una cuenta Estándar y pedir una invitación a un amigo o ponerse en contacto con nuestro equipo de ventas en sales@bluemix.net. Una vez tenga una cuenta Estándar, puede invitar a sus amigos y colegas para que participen.    
 
 ## Presentación de la cuenta Estándar de {{site.data.keyword.Bluemix_notm}}
 {: #standardaccount}
@@ -32,7 +32,7 @@ Puede que se pregunte sobre qué diferencia hay entre la cuenta Estándar y la c
 |-----------------|
 | La cuenta no caduca nunca. |
 | Las aplicaciones de Cloud Foundry pueden acceder hasta un máximo 256 MB de memoria de tiempo de ejecución gratuita e instantánea. |
-| Puede acceder a planes Lite gratuitos para Cloudant NoSQL DB y a la Plataforma Internet de las cosas con más servicios gratuitos disponibles muy pronto. |
+| Puede acceder a los planes Lite gratuitos para servicios in-demand Watson como Conversación, Plataforma de Internet de las Cosas, Cloudant NoSQLDB. Para obtener más información, consulte [Qué hay disponible](/docs/pricing/standard_account.html#whatsavailable). |
 | Sus aplicaciones entrarán en suspensión si no hay actividad de desarrollo durante 10 días. |
 | Las instancias de servicio se suprimirán tras 30 días de inactividad. |
 {:caption="Tabla 1. Novedades en una cuenta estándar" caption-side="top"}
@@ -40,14 +40,14 @@ Puede que se pregunte sobre qué diferencia hay entre la cuenta Estándar y la c
 |¿Qué es lo que no cambia cuando se convierte una cuenta de prueba? | 
 |-----------------|
 |La cuenta es gratuita. No necesita una tarjeta de crédito. |
-|Cualquier instancia Lite de Cloudant NoSQL DB y de la Plataforma Internet de las cosas. Se puede transferir a su nueva cuenta una instancia de Lite para cada uno de estos servicios. |
+|Puede seguir utilizando sus instancias de planes Lite. |
 |Los valores de acceso de su organización, espacios y miembros de equipo asociados siguen siendo los mismos. Se puede transferir una organización a su cuenta nueva. |
 |El nivel de soporte de {{site.data.keyword.Bluemix_notm}} sigue siendo el mismo. |
 {:caption="Tabla 2. Qué es lo que no cambia" caption-side="top"}
 
 **Nota**: Si la cuenta de prueba no se convierte, verá un mensaje que le dirá el motivo. Puede que tenga más de una organización en la cuenta de prueba existente o apps que no se puedan transferir. Puede realizar la acción apropiada y volver a intentar convertir la cuenta.
 
-Cuando se haya registrado para una cuenta Estándar, puede invitar a los miembros del equipo a colaborar en su organización y espacios, a ver su uso, a crear espacios, a actualizar el perfil de la cuenta y a gestionar su organización. Para obtener más información, consulte [Gestión de la cuenta](/docs/admin/adminpublic.html#account).
+Cuando se haya registrado para una cuenta Estándar, puede invitar a los miembros del equipo a colaborar en su organización y espacios, a ver su uso, a crear espacios, a actualizar el perfil de la cuenta y a gestionar su organización.
 
 ## Planes de Lite
 {: #liteplans}
@@ -66,29 +66,43 @@ En una cuenta Estándar, puede utilizar cualquier cosa del Catálogo de {{site.d
 ## ¿Qué hay disponible en la cuenta Estándar?
 {: #whatsavailable}
 
-En una cuenta Estándar, las aplicaciones de Cloud Foundry pueden acceder hasta un máximo de 256 MB de memoria de tiempo de ejecución instantánea. Si supera la cuota asignada, puede detener algunas de las apps para liberar memoria de tiempo de ejecución. 
+En una cuenta Estándar, las aplicaciones de Cloud Foundry pueden acceder hasta un máximo de 256 MB de memoria de tiempo de ejecución instantánea. Si supera la cuota asignada, puede detener algunas de las apps para liberar memoria de tiempo de ejecución. También puede trabajar con un clúster de Kubernetes con 2 CPU y 4 GB de RAM. 
 
-Durante la cuenta Estándar Beta, los servicios siguientes ofrecen un plan Lite:
+Durante la cuenta Estándar versión limitada, los siguientes servicios de {{site.data.keyword.Bluemix_notm}} ofrecen un plan Lite:
 
 <ul>
-<li>Cloudant NoSQL DB</li>
-<li>Plataforma Internet de las cosas</li>
+<li>{{site.data.keyword.prf_hublong}}</li>
+<li>{{site.data.keyword.mobilepushfull}}</li>
+<li>{{site.data.keyword.cloudantfull}}</li>
+<li>{{site.data.keyword.conversationfull}}</li>
+<li>{{site.data.keyword.iot_full}}</li>
+<li>{{site.data.keyword.languagetranslatorfull}}</li>
+<li>{{site.data.keyword.personalityinsightsfull}}</li>
+<li>{{site.data.keyword.toneanalyzerfull}}</li>
 </ul>
 
+Algunos servicios no están disponibles en todas las regiones de {{site.data.keyword.Bluemix_notm}}. Para obtener más información, consulte [Servicios por región](/docs/services/services_region.html#services_region).
+
 Permanezca atento a las novedades que iremos añadiendo a esta lista de servicios.
+
+### Límites de cuota
 
 Cuando se alcancen los límites de la cuota, se detendrá la aplicación o se inhabilitará el servicio. Si el plan de Lite especifica que la cuota se proporciona de forma mensual, el uso de los recursos se restablecerá el día 1 de cada mes cuando vuelva a trabajar con el servicio. Cuando esté llegando al límite de una cuota, o cuando esté en el límite de la misma, recibirá un correo electrónico de notificación. 
 
 Puede suministrar 1 instancia por plan de Lite. 
 
-**Nota**: Estas limitaciones se aplican únicamente a la cuenta Estándar. Puede actualizar a una cuenta de pago según uso o de facturación por suscripción en cualquier momento. Pague sólo lo que utilice más allá de las concesiones gratuitas. Para obtener más información sobre las cuentas Pago según uso y Suscripción, consulte [Tipos de cuenta](/docs/pricing/index.html#pay-accounts).
+**Nota**: Estas limitaciones se aplican únicamente a la cuenta Estándar. Puede actualizar a una cuenta de pago según uso o de suscripción en cualquier momento. Pague sólo lo que utilice más allá de las concesiones gratuitas. Para obtener más información sobre las cuentas de Pago según uso y Suscripción, consulte [Registro de una cuenta facturable](/docs/pricing/billable.html#billable).
 
-## Actividad de desarrollo
+## Características de eficiencia
 {: #devactivity}
 
-Para ayudar a los usuarios de la cuenta Estándar a gestionar mejor sus recursos, hemos creado varias características de eficiencia que se basan en la actividad de despliegue y en el uso:
+Para ayudarle a gestionar los recursos, hemos incluido características de eficiencia que se basan en la actividad y el uso del desarrollo.
 
- * Las apps entrarán en suspensión tras 10 días de inactividad de desarrollo. Esto ayuda a la hora de trabajar en una nueva app, porque así no llegará al límite de cuota de memoria de 256 MB. Para reactivar las apps, empiece trabajando en ellas de nuevo en la línea de mandatos de Cloud Foundry o en la consola de {{site.data.keyword.Bluemix_notm}}. 
+### Inactividad automática de la app
+
+Las apps entrarán en suspensión tras 10 días de inactividad de desarrollo. Esto ayuda a la hora de trabajar en una nueva app, porque así no llegará al límite de cuota de memoria de 256 MB. 
+
+Para reactivar las apps, empiece trabajando en ellas de nuevo en la línea de mandatos de Cloud Foundry o en la consola de {{site.data.keyword.Bluemix_notm}}. 
  
  A continuación hay una lista de todos los mandatos que reactivarán la app:
   * cf push
@@ -105,15 +119,14 @@ Para ayudar a los usuarios de la cuenta Estándar a gestionar mejor sus recursos
   * cf enable-ssh
   * cf disable-ssh
 
- **Nota**: Si la app ya tiene habilitado ssh, los mandatos `cf enable-ssh` y `cf disable-sh` no reactivarán la app. 
+Para ver los detalles de uso, consulte los [mandatos de Cloud Foundry](/docs/cli/reference/cfcommands/index.html).
 
- * Los servicios del plan de Lite se suprimirán si no hay ninguna actividad en ellos durante 30 días. Entonces, no tendrá que suprimir las instancias inactivas cuando desee crear una nueva instancia. En este momento, sólo está utilizando esta característica el servicio de la Plataforma Internet de las cosas. 
+ **Nota**: Si la app ya tiene habilitado ssh, no puede utilizar los mandatos `cf enable-ssh` y `cf disable-sh` para reactivar la app. 
+
+### Recogida de basura
+
+Los servicios del plan de Lite se suprimen si no hay ninguna actividad en ellos durante 30 días. Esto significa que no tendrá que suprimir las instancias inactivas cuando desee crear una nueva instancia. 
  
- Mantenga activa la instancia Lite de la Plataforma Internet de las cosas iniciando sesión en el panel de control de la instancia de servicio de la Plataforma Internet de las cosas.
- 
-## Participación en la cuenta Estándar Beta
-{: #betainvitation}
-
-Si ha seleccionado participar en la Beta, se enviará una invitación a la dirección de correo electrónico asociada con la cuenta de prueba de {{site.data.keyword.Bluemix_notm}}. Cuando reciba la invitación, lleve a cabo las instrucciones del correo electrónico para registrarse para la cuenta Estándar. 
-
-¿Está interesado en participar en la oferta de la cuenta Estándar Beta? Pregunte a sus amigos y colegas. Si se les ha invitado a unirse a Beta y han creado sus cuentas Estándar, ellos también pueden invitarle a usted. 
+## Participación en la cuenta Estándar de disponibilidad limitada
+{: #lgainvitation}
+Puede solicitar a un amigo con una cuenta Estándar a que le invite o póngase en contacto con nuestro equipo de ventas en sales@bluemix.net. ¡Nos gustaría que lo probara!

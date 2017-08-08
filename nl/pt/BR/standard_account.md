@@ -5,7 +5,7 @@
 copyright:
 
   years: 2016, 2017
-lastupdated: "2017-05-02"
+lastupdated: "2017-06-01"
 
 
 ---
@@ -15,14 +15,13 @@ lastupdated: "2017-05-02"
 {:screen: .screen}
 {:new_window: target="_blank"}
 
-# Conta IBM {{site.data.keyword.Bluemix_notm}} Standard Beta 
+# IBM {{site.data.keyword.Bluemix_notm}} Standard Account Limited Release
 {: #betaintro}
 
-A conta {{site.data.keyword.Bluemix}} Standard Beta introduz uma nova conta grátis, que oferece uma nova maneira de trabalhar na Nuvem Pública {{site.data.keyword.Bluemix_notm}}. A conta Standard nunca expira, ao contrário da avaliação de 30 dias do {{site.data.keyword.Bluemix_notm}}. É possível continuar a trabalhar em seus aplicativos {{site.data.keyword.Bluemix_notm}} sem quaisquer preocupações sobre restrições de tempo. 
+O {{site.data.keyword.Bluemix}} Standard Account Limited Release introduz uma nova conta grátis, que oferece uma nova maneira de trabalhar na Nuvem pública do {{site.data.keyword.Bluemix_notm}}. A conta Padrão nunca expira, ao contrário da avaliação de 30 dias do {{site.data.keyword.Bluemix_notm}}. É possível continuar a trabalhar em seus aplicativos {{site.data.keyword.Bluemix_notm}} sem quaisquer preocupações sobre restrições de tempo. 
 {:shortdesc}
 
-A participação na conta Standard Beta é possível apenas por meio de um convite. Depois de aceitar o
-convite e criar sua conta Standard, será possível convidar amigos e colegas para participar na conta Beta.  
+Os usuários nas regiões do Reino Unido e do sul dos EUA são elegíveis para a conta Padrão. Se você não estiver em nenhuma dessas regiões, ainda será possível criar uma conta Padrão pedindo um convite a um amigo ou entrando em contato com nossa equipe de vendas em sales@bluemix.net. Depois de ter uma conta Padrão, será possível convidar amigos e colegas para participar.     
 
 ## Introdução à conta {{site.data.keyword.Bluemix_notm}} Standard
 {: #standardaccount}
@@ -30,22 +29,20 @@ convite e criar sua conta Standard, será possível convidar amigos e colegas pa
 Você pode estar imaginando o que é diferente na conta Standard em comparação com a conta para teste. As tabelas a seguir resumem os principais detalhes sobre a conta {{site.data.keyword.Bluemix_notm}}
 Standard. 
 
-|O que há de novo em uma conta Standard? |    
+|O que há de novo em uma conta Padrão? |    
 |-----------------|
 | A conta nunca expira. |
 | Os aplicativos Cloud Foundry podem acessar até 256 MB de memória de tempo execução instantânea
 grátis. |
-| É possível acessar planos Lite para Cloudant NoSQL DB e para a Plataforma Internet of Things com
-mais serviços em breve. |
+| É possível acessar planos Lite grátis para serviços Watson em demanda, como Conversation, Internet of Things Platform, Cloudant NoSQLDB. Para obter mais informações, veja [O que está disponível](/docs/pricing/standard_account.html#whatsavailable). |
 | Seus aplicativos serão suspensos se não houver atividade de desenvolvimento por 10 dias. |
 | Suas instâncias de serviço serão excluídas após 30 dias de inatividade. |
-{:caption="Tabela 1. O que há de novo em uma conta Standard" caption-side="top"}
+{:caption="Tabela 1. O que há de novo em uma conta Padrão" caption-side="top"}
 
 |O que não está mudando quando uma conta para teste é convertida? | 
 |-----------------|
 |A conta é grátis -- você não precisa de um cartão de crédito. |
-|Quaisquer instâncias Lite do Cloudant NoSQL DB e da Plataforma Internet of Things. Uma instância
-Lite para cada um desses serviços pode ser transferida para sua nova conta. |
+|É possível continuar usando suas instâncias do plano Lite. |
 |Sua organização, os espaços e as configurações de acesso de membro da equipe associada permanecem
 os mesmos. Uma organização pode ser transferida para a sua nova conta. |
 |O nível do Suporte {{site.data.keyword.Bluemix_notm}} permanece o mesmo. |
@@ -56,8 +53,7 @@ converter a conta novamente.
 
 Quando você se inscrever para uma conta Standard, poderá convidar membros da equipe para colaborar na
 sua organização e espaços, visualizar seu uso, criar espaços, atualizar seu perfil de conta e gerenciar sua
-organização. Para obter mais
-informações, veja [Gerenciando sua conta](/docs/admin/adminpublic.html#account).
+organização.
 
 ## Planos Lite
 {: #liteplans}
@@ -80,21 +76,31 @@ de localizar. Por padrão, quando você abre o Catálogo, todos os serviços com
 identificados com uma tag Lite ![tag Lite](../icons/Lite.svg). Selecione um serviço para
 visualizar os detalhes da cota para o plano Lite associado.
 
-## O que está disponível na conta Standard?
+## O que está disponível na conta Padrão?
 {: #whatsavailable}
 
 Em uma conta Standard, os aplicativos Cloud Foundry podem acessar até um máximo de 256 MB de memória de
 tempo de execução instantânea. Se você exceder sua cota alocada, poderá parar alguns
-dos seus apps para liberar memória de tempo de execução. 
+dos seus apps para liberar memória de tempo de execução. Também é possível trabalhar com um cluster do Kubernetes com 2 CPU e 4 GB de RAM. 
 
-Durante a conta Standard Beta, os serviços a seguir oferecem um plano Lite:
+Durante o Standard Account Limited Release, os serviços do {{site.data.keyword.Bluemix_notm}} a seguir oferecem um plano Lite:
 
 <ul>
-<li>Cloudant NoSQL DB</li>
-<li>Internet of Things Platform</li>
+<li>{{site.data.keyword.prf_hublong}}</li>
+<li>{{site.data.keyword.mobilepushfull}}</li>
+<li>{{site.data.keyword.cloudantfull}}</li>
+<li>{{site.data.keyword.conversationfull}}</li>
+<li>{{site.data.keyword.iot_full}}</li>
+<li>{{site.data.keyword.languagetranslatorfull}}</li>
+<li>{{site.data.keyword.personalityinsightsfull}}</li>
+<li>{{site.data.keyword.toneanalyzerfull}}</li>
 </ul>
 
+Alguns serviços não estão disponíveis em todas as regiões do {{site.data.keyword.Bluemix_notm}}. Para obter mais informações, veja [Serviços por região](/docs/services/services_region.html#services_region).
+
 Mais serviços serão incluídos nesta lista, portanto, fique ligado!
+
+### Limites de cota
 
 Quando os limites de cota forem atingidos, seu aplicativo será interrompido ou seu serviço
 será desativado. Se o plano Lite especificar que a cota será fornecida mensalmente, o uso do recurso será
@@ -103,20 +109,21 @@ você estiver se aproximando de um limite de cota, receberá um e-mail de notifi
 
 É possível fornecer uma instância por Plano Lite. 
 
-**Nota**: essas limitações se aplicam à conta Standard apenas. A qualquer
-momento, é possível fazer upgrade para uma conta de cobrança Pay-As-You-Go ou de Assinatura. Você paga
-somente pelo que usar, além dos abonos grátis. Para obter mais informações sobre as contas Pagamento por uso e
-Assinatura, veja [Tipos de conta](/docs/pricing/index.html#pay-accounts).
+**Nota**: essas limitações se aplicam apenas a uma conta Padrão. A qualquer momento, é possível fazer upgrade para uma conta de Pagamento por uso ou de Assinatura. Você paga
+somente pelo que usar, além dos abonos grátis. Para obter mais informações sobre as contas de Pagamento por uso e de Assinatura, veja [Inscrevendo-se para uma conta faturável](/docs/pricing/billable.html#billable).
 
-## Atividade de desenvolvimento
+## Recursos de eficiência
 {: #devactivity}
 
-Para ajudar os usuários da conta Standard a gerenciar melhor seus recursos, construímos alguns recursos
-de eficiência que são baseados na atividade de desenvolvimento e no uso:
+Para ajudar a gerenciar seus recursos, incluímos recursos de eficiência que se baseiam na atividade de desenvolvimento e no uso.
 
- * Seus apps serão suspensos após de 10 dias de inatividade de desenvolvimento. Isso ajudará
+### Suspensão automática do app
+
+Seus apps serão suspensos após de 10 dias de inatividade de desenvolvimento. Isso ajudará
 quando você desejar trabalhar em um novo app, porque não atingirá o limite de cota de memória
-de 256 MB. Para acordar seus apps, comece a trabalhar neles novamente na linha de comandos do
+de 256 MB. 
+
+Para acordar seus apps, comece a trabalhar neles novamente na linha de comandos do
 Cloud Foundry ou no console do {{site.data.keyword.Bluemix_notm}}. 
  
  Aqui está uma lista de todos os comandos que acordarão seu app:
@@ -134,21 +141,14 @@ Cloud Foundry ou no console do {{site.data.keyword.Bluemix_notm}}.
   * cf enable-ssh
   * cf disable-ssh
 
- **Nota**: se o seu app já estiver ativado para ssh, os comandos `cf enable-ssh` e `cf disable-sh` não acordarão seu app. 
+Para obter detalhes de uso, veja [Comandos do Cloud Foundry](/docs/cli/reference/cfcommands/index.html).
 
- * Seus serviços do plano Lite serão excluídos se não houver nenhuma atividade neles por 30 dias. Então, você não precisará excluir instâncias inativas quando desejar criar uma nova
-instância. Neste momento, somente o serviço da Plataforma Internet of Things está usando esse
-recurso. 
+ **Nota**: se o seu app já estiver ativado por ssh, não será possível usar os comandos `cf enable-ssh` e `cf disable-sh` para acordá-lo. 
+
+### Coleta de Lixo
+
+Os serviços de seu plano Lite serão excluídos se não houver nenhuma atividade neles por 30 dias. Isso significa que você não terá que excluir instâncias inativas quando quiser criar uma nova. 
  
- Mantenha sua instância Lite da Plataforma Internet of Things ativa ao efetuar login no
-painel da instância de serviço da Plataforma Internet of Things.
- 
-## Participando da conta Standard Beta
-{: #betainvitation}
-
-Se você for selecionado para participar na Beta, um convite será enviado para o endereço de e-mail associado à sua conta para teste do {{site.data.keyword.Bluemix_notm}}. Ao receber o convite, conclua
-as instruções no e-mail para registrar-se para a conta Standard. 
-
-Você está interessado em participar da oferta de conta Standard Beta? Pergunte a seus
-amigos e colegas. Se eles foram convidados para participar na conta Beta e criaram sua conta Standard, eles
-poderão convidá-lo também. 
+## Participando do Standard Account Limited Release
+{: #lgainvitation}
+É possível pedir um convite a um amigo com uma conta Padrão ou entrar em contato com nossa equipe de vendas em sales@bluemix.net. Adoraríamos que você experimentasse!

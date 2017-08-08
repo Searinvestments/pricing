@@ -7,19 +7,28 @@
     {: .navgroup id="learn"}
     index.md
     standard_account.md
-    how_charged.md
-    api_based_services.md
     {: .navgroup-end}
     
     {: .navgroup id="howto"}
     {: .topicgroup}
-    가격 책정
-        linking_accounts.md
+가격 책정    
+        free.md
+        billable.md
+        how_charged.md
         estimating_costs.md
+        scenario.md
+            
+    changing_plan.md
             
     {: .topicgroup}
     사용량
         viewing_usage.md
-        changing_plan.md
         manage_billing.md
+        
+    linking_accounts.md
+    accessing_infrastructure.md
+    {: .navgroup-end}
+    
+    {: .navgroup id="help"}
+    account_faq.md
     {: .navgroup-end}

@@ -28,14 +28,14 @@ lastupdated: "2017-05-30"
 
 예를 단순화하기 위해 다음 표의 가격은 특정 시간 범위(예: 한 달) 내에서 또는 시간 범위 간에 변동되지 않는다고 가정합니다. 이 예의 모든 가격은 미국 통화입니다. 
 
-|서비스 |	기능 |	가격 |
+|서비스|	기능|	가격|
 |--------|-----------|--------|
-|SDK for Node.js |	매월 375GB-시간 무료(모든 런타임에서 공유됨) |	$0.07 USD/GB-시간|
-|Auto-Scaling |	Auto-Scaling 서비스에 대한 무료 서비스 플랜 |	무료|
-|데이터 캐시 - 스타터 |	1GB의 캐시 공간 및 복제본 |	$55.00 USD/인스턴스 |
-|데이터 캐시 - 표준 |	5GB의 캐시 공간 및 복제본 |	$155.00 USD/인스턴스 |
-|데이터 캐시 - 프리미엄 |	25GB의 캐시 공간 및 복제본 |	$505.00 USD/인스턴스|
-|IBM Cloudant® NoSQL DB for {{site.data.keyword.Bluemix_notm}} |	2GB의 사용 가능한 데이터 스토리지<br/>매월 50,000개의 Light API 호출 무료<br/>매월 10,000개의 Heavy API 호출 무료 | $1.00 USD/GB<br/>$0.03 USD/1000개의 Light API 호출<br/>$0.15 USD/1000개의 Heavy API 호출 |
+|SDK for Node.js|	매월 375GB-시간 무료(모든 런타임에서 공유됨)|	$0.07 USD/GB-시간|
+|Auto-Scaling|	Auto-Scaling 서비스에 대한 무료 서비스 플랜|	무료|
+|데이터 캐시 - 스타터|	1GB의 캐시 공간 및 복제본|	$55.00 USD/인스턴스|
+|데이터 캐시 - 표준|	5GB의 캐시 공간 및 복제본|	$155.00 USD/인스턴스|
+|데이터 캐시 - 프리미엄|	25GB의 캐시 공간 및 복제본|	$505.00 USD/인스턴스|
+|IBM Cloudant® NoSQL DB for {{site.data.keyword.Bluemix_notm}}|	2GB의 사용 가능한 데이터 스토리지<br/>매월 50,000개의 Light API 호출 무료<br/>매월 10,000개의 Heavy API 호출 무료| $1.00 USD/GB<br/>$0.03 USD/1000개의 Light API 호출<br/>$0.15 USD/1000개의 Heavy API 호출|
 {:caption="표 1. 리소스 가격 책정" caption-side="top"}
 
 ## 앱 가격 계산

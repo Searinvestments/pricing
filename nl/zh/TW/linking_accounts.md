@@ -62,7 +62,7 @@ lastupdated: "2017-05-31"
 下列清單包含可設定為與您的應用程式碼搭配執行的服務。
 {:shortdesc}
 
-並非這些服務的所有方案都可以與所鏈結的 {{site.data.keyword.Bluemix_notm}} 及 SoftLayer 帳戶搭配使用。只有針對「隨收隨付制」帳戶啟用的方案，才能用於已鏈結的帳戶。不過，如果您有分開計費的個別 {{site.data.keyword.Bluemix_notm}} 帳戶，則可將任何方案用於上述任何服務。
+並非這些服務的所有方案都可以與鏈結的 {{site.data.keyword.Bluemix_notm}} 及 SoftLayer 帳戶搭配使用。只有針對「隨收隨付制」帳戶啟用的方案，才能用於已鏈結的帳戶。不過，如果您有分開計費的個別 {{site.data.keyword.Bluemix_notm}} 帳戶，則可將任何方案用於上述任何服務。
 
 * {{site.data.keyword.alchemyapishort}}
 * {{site.data.keyword.alertnotificationshort}}

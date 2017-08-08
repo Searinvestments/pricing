@@ -5,7 +5,7 @@
 copyright:
 
   years: 2016, 2017
-lastupdated: "2017-05-02"
+lastupdated: "2017-06-01"
 
 
 ---
@@ -15,39 +15,39 @@ lastupdated: "2017-05-02"
 {:screen: .screen}
 {:new_window: target="_blank"}
 
-# IBM {{site.data.keyword.Bluemix_notm}} 标准帐户 Beta 版 
+# IBM {{site.data.keyword.Bluemix_notm}} 标准帐户受限发行版
 {: #betaintro}
 
-{{site.data.keyword.Bluemix}} 标准帐户 Beta 版引入了全新的免费帐户，其提供了一种在 {{site.data.keyword.Bluemix_notm}} Public Cloud 中工作的新方法。与 30 天 {{site.data.keyword.Bluemix_notm}} 试用帐户不同，标准帐户永不过期。您可以持续使用 {{site.data.keyword.Bluemix_notm}} 应用程序，而无需考虑任何时间限制。
+{{site.data.keyword.Bluemix}} 标准帐户受限发行版引入了新的免费帐户，通过该帐户，可在 {{site.data.keyword.Bluemix_notm}} 公共云中以全新的方式工作。与 30 天 {{site.data.keyword.Bluemix_notm}} 试用帐户不同，标准帐户永不过期。您可以持续使用 {{site.data.keyword.Bluemix_notm}} 应用程序，而无需考虑任何时间限制。
 {:shortdesc}
 
-只有受到邀请才能参与标准帐户 Beta 版。在您接受邀请并创建标准帐户后，您可以邀请朋友和同事参与 Beta 版。  
+英国和美国南部区域中的用户有资格使用标准帐户。如果您不在这两个区域中，也仍然可以通过要求朋友邀请您，或者通过 sales@bluemix.net 与我们的销售团队取得联系来创建标准帐户。一旦拥有标准帐户后，就可以邀请朋友和同事参与。    
 
 ## {{site.data.keyword.Bluemix_notm}} 标准帐户简介
 {: #standardaccount}
 
 您可能想知道标准帐户与试用帐户相比有何不同。下表汇总了有关 {{site.data.keyword.Bluemix_notm}} 标准帐户的重要详细信息。 
 
-|标准帐户中的新增功能？ |    
+|标准帐户中的新增功能？|    
 |-----------------|
-| 帐户永不过期。 |
-| Cloud Foundry 应用程序可以访问高达 256 MB 的可用即时运行时内存。 |
-| 您可以使用即将推出的更多服务，访问 Cloudant NoSQL DB 和 Internet of Things Platform 的免费 Lite 套餐。 |
-| 如果超过 10 天没有任何开发活动，那么您的应用程序将休眠。 |
-| 您的服务实例将在处于不活动状态 30 天后删除。 |
+| 帐户永不过期。|
+| Cloud Foundry 应用程序可以访问高达 256 MB 的可用即时运行时内存。|
+| 可以访问免费 Lite 套餐以使用 Conversation、Internet of Things Platform、Cloudant NoSQLDB 等按需供应的 Watson 服务。有关更多信息，请参阅[可用功能](/docs/pricing/standard_account.html#whatsavailable)。|
+| 如果超过 10 天没有任何开发活动，那么您的应用程序将休眠。|
+| 您的服务实例将在处于不活动状态 30 天后删除。|
 {:caption="表 1. 标准帐户中的新增功能" caption-side="top"}
 
-|转换试用帐户时哪些内容不会更改？ | 
+|转换试用帐户时哪些内容不会更改？| 
 |-----------------|
-|帐户是免费的 -- 不需要信用卡。 |
-|Cloudant NoSQL DB 和 Internet of Things Platform 的任何 Lite 实例。上述每个服务的一个 Lite 实例可转移到您的新帐户。 |
-|您的组织、空间和相关联团队成员权限设置仍保持相同。一个组织可转移到您的新帐户。 |
-|{{site.data.keyword.Bluemix_notm}} 支持的级别仍相同。 |
+|帐户是免费的 -- 不需要信用卡。|
+|可以继续使用您的 Lite 套餐实例。|
+|您的组织、空间和相关联团队成员权限设置仍保持相同。一个组织可转移到您的新帐户。|
+|{{site.data.keyword.Bluemix_notm}} 支持的级别仍相同。|
 {:caption="表 2. 未更改的内容" caption-side="top"}
 
 **注**：如果未转换试用帐户，那么您将看到一条说明原因的消息。您可能在现有试用帐户中有多个组织，或者有无法转移的应用程序。您可以采取适当的操作，然后重新尝试转换帐户。
 
-当您注册标准帐户时，您可以邀请团队成员在您的组织和空间中进行协作、查看使用情况、创建空间、更新帐户概要文件并管理组织。有关更多信息，请参阅[管理帐户](/docs/admin/adminpublic.html#account)。
+当您注册标准帐户时，您可以邀请团队成员在您的组织和空间中进行协作、查看使用情况、创建空间、更新帐户概要文件并管理组织。
 
 ## Lite 套餐
 {: #liteplans}
@@ -66,29 +66,43 @@ Lite 套餐（也在现买现付帐户中提供）构造为免费配额。您可
 ## 标准帐户中提供的功能？
 {: #whatsavailable}
 
-在标准帐户中，Cloud Foundry 应用程序可以访问最多 256 MB 的即时运行时内存。如果您超过分配的配额，那么您可以停止一些应用程序，以释放运行时内存。 
+在标准帐户中，Cloud Foundry 应用程序可以访问最多 256 MB 的即时运行时内存。如果您超过分配的配额，那么您可以停止一些应用程序，以释放运行时内存。您还可以使用具有 2 个 CPU 和 4 GB RAM 的 Kubernetes 集群。 
 
-在标准帐户 Beta 版中，以下服务提供 Lite 套餐：
+在标准帐户受限发行版中，以下 {{site.data.keyword.Bluemix_notm}} 服务提供 Lite 套餐：
 
 <ul>
-<li>Cloudant NoSQL DB</li>
-<li>Internet of Things Platform</li>
+<li>{{site.data.keyword.prf_hublong}}</li>
+<li>{{site.data.keyword.mobilepushfull}}</li>
+<li>{{site.data.keyword.cloudantfull}}</li>
+<li>{{site.data.keyword.conversationfull}}</li>
+<li>{{site.data.keyword.iot_full}}</li>
+<li>{{site.data.keyword.languagetranslatorfull}}</li>
+<li>{{site.data.keyword.personalityinsightsfull}}</li>
+<li>{{site.data.keyword.toneanalyzerfull}}</li>
 </ul>
 
+有些服务并非在所有 {{site.data.keyword.Bluemix_notm}} 区域中都可用。有关更多信息，请参阅[按区域列出的服务](/docs/services/services_region.html#services_region)。
+
 我们将随时对此服务列表进行补充，敬请关注！
+
+### 配额限制
 
 当达到配额限制时，将停止您的应用程序或禁用您的服务。如果 Lite 套餐指定按月提供配额，那么将在每月 1 号重置资源使用情况，这时您可以恢复使用服务。当您将要达到或已达到配额限制时，您将收到通知电子邮件。 
 
 您可以针对每个 Lite 套餐供应 1 个实例。 
 
-**注**：这些限制仅适用于标准帐户。您可以随时升级到现买现付或预订缴费帐户。您仅需要为超出免费限额的使用部分付费。有关现买现付帐户和预订帐户的更多信息，请参阅[帐户类型](/docs/pricing/index.html#pay-accounts)。
+**注**：这些限制仅适用于标准帐户。您可以随时升级到现买现付或预订帐户。您仅需要为超出免费限额的使用部分付费。有关现买现付和预订帐户的更多信息，请参阅[注册计费帐户](/docs/pricing/billable.html#billable)。
 
-## 开发活动
+## 效率功能
 {: #devactivity}
 
-为了帮助标准帐户用户最佳地管理其资源，我们构建了基于开发活动和使用情况的几个效率特性：
+为了帮助您管理资源，我们纳入了基于开发活动和使用情况的效率功能。
 
- * 如果应用程序的开发处于不活动状态的时间超过 10 天，该应用程序将进入休眠。当您想要使用新应用程序时，这非常有用，因为您将发现自己不会达到 256 MB 的内存配额限制。要唤醒应用程序，可在 Cloud Foundry 命令行或 {{site.data.keyword.Bluemix_notm}} 控制台中重新开始使用它们。 
+### 应用程序自动休眠
+
+如果应用程序的开发处于不活动状态的时间超过 10 天，该应用程序将进入休眠。当您想要使用新应用程序时，这非常有用，因为您将发现自己不会达到 256 MB 的内存配额限制。 
+
+要唤醒应用程序，可在 Cloud Foundry 命令行或 {{site.data.keyword.Bluemix_notm}} 控制台中重新开始使用它们。 
  
  以下是可唤醒应用程序的所有命令的列表：
   * cf push
@@ -105,15 +119,14 @@ Lite 套餐（也在现买现付帐户中提供）构造为免费配额。您可
   * cf enable-ssh
   * cf disable-ssh
 
- **注**：如果您的应用程序已启用 ssh，那么 `cf enable-ssh` 和 `cf disable-sh` 命令将不会唤醒应用程序。 
+有关用法详细信息，请参阅 [Cloud Foundry 命令](/docs/cli/reference/cfcommands/index.html)。
 
- * 如果 Lite 套餐服务处于不活动状态超过 30 天，那么将会删除这些服务。然后，当您想要创建新实例时，无需删除处于不活动状态的实例。目前，仅 Internet of Things Platform 服务使用此功能。 
+ **注**：如果您的应用程序已启用 SSH，那么无法使用 `cf enable-ssh` 和 `cf disable-sh` 命令来唤醒应用程序。 
+
+### 垃圾回收
+
+如果 Lite 套餐服务处于不活动状态超过 30 天，那么会删除这些服务。这意味着，要创建新的实例时，不必删除不活动的实例。 
  
- 通过登录到 Internet of Things Platform 服务实例仪表板，使 Internet of Things Platform Lite 实例处于活动状态。
- 
-## 参与标准帐户 Beta 版
-{: #betainvitation}
-
-如果您被选中参与 Beta 版，那么会向与您的 {{site.data.keyword.Bluemix_notm}} 试用帐户相关联的电子邮件地址发送邀请。当您收到邀请时，请完成电子邮件中的指示信息，以注册标准帐户。 
-
-有兴趣参与标准帐户 Beta 版产品吗？邀请您的朋友和同事。如果他们已受邀加入 Beta 版并创建了自己的标准帐户，那么他们也可以邀请您。 
+## 参与标准帐户受限发行版
+{: #lgainvitation}
+您可以要求已经拥有标准帐户的朋友邀请您，或者通过 sales@bluemix.net 与我们的销售团队取得联系。我们期待您的试用！

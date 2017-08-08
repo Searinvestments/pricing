@@ -12,7 +12,7 @@ lastupdated: "2017-05-30"
 {:screen: .screen}
 {:new_window: target="_blank"}
 
-# Ejemplo: Estimación de costes de una app Node.js de ejemplo 
+# Ejemplo: Estimación de costes de una app Node.js de ejemplo
 {: #sample}
 
 Suponga que tiene una app web de Node.js con prestaciones de escalabilidad y que la app utiliza varios servicios que suministra {{site.data.keyword.Bluemix_notm}}. En este ejemplo, podrá aprender a calcular el coste real de la app. La app web utiliza los servicios y elementos de {{site.data.keyword.Bluemix_notm}} siguientes:

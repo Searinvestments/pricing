@@ -28,14 +28,14 @@ lastupdated: "2017-05-30"
 
 为简化示例，假设下表中的价格在某个时间范围（例如，一个月）内不波动。此示例中的所有定价使用美元。
 
-|服务 |	功能 |	价格 |
+|服务|	功能|	价格|
 |--------|-----------|--------|
-|SDK for Node.js |	每月 375 GB-小时可用（在所有运行时共享） |	0.07 美元/GB-小时|
-|Auto-Scaling |	Auto-Scaling 服务的免费服务套餐 |	免费|
-|Data Cache - 入门级 |	1 GB 高速缓存空间和副本 |	55.00 美元/实例 |
-|Data Cache - 标准 |	5 GB 高速缓存空间和副本 |	155.00 美元/实例 |
-|Data Cache - 高级 |	25 GB 高速缓存空间和副本 |	505.00 美元/实例|
-|IBM Cloudant® NoSQL DB for {{site.data.keyword.Bluemix_notm}} |	2 GB 免费数据存储<br/>每月 50,000 个免费稀少 API 调用<br/>每月 10,000 个免费频繁 API 调用 | 1.00 美元/GB<br/>0.03 美元/1000 个稀少 API 调用<br/>0.15 美元/1000 个频繁 API 调用 |
+|SDK for Node.js|	每月 375 GB-小时可用（在所有运行时共享）|	0.07 美元/GB-小时|
+|Auto-Scaling|	Auto-Scaling 服务的免费服务套餐|	免费|
+|Data Cache - 入门级|	1 GB 高速缓存空间和副本|	55.00 美元/实例|
+|Data Cache - 标准|	5 GB 高速缓存空间和副本|	155.00 美元/实例|
+|Data Cache - 高级|	25 GB 高速缓存空间和副本|	505.00 美元/实例|
+|IBM Cloudant® NoSQL DB for {{site.data.keyword.Bluemix_notm}}|	2 GB 免费数据存储<br/>每月 50,000 个免费稀少 API 调用<br/>每月 10,000 个免费频繁 API 调用| 1.00 美元/GB<br/>0.03 美元/1000 个稀少 API 调用<br/>0.15 美元/1000 个频繁 API 调用|
 {:caption="表 1. 资源的定价" caption-side="top"}
 
 ## 计算应用程序价格

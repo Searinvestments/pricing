@@ -20,17 +20,18 @@ Die folgenden häufig gestellten Fragen beziehen sich auf ein Standardkonto, das
 ## Wer kann sich für ein Standardkonto anmelden?
 {: #whocanuse}
 
-Derzeit können sich neue {{site.data.keyword.Bluemix_notm}}-Benutzer in UK für ein Standardkonto anmelden. Außerdem können sich Benutzer anmelden, die eine Einladung zur Teilnahme an der Betaversion des Standardkontos erhalten. Sie können einen Bekannten, der bereits ein Standardkonto besitzt, bitten, Sie einzuladen, oder sich an unseren Vertrieb unter sales@bluemix.net wenden.
+Da es sich um ein begrenztes Release (Limited Release) handelt, sind nur wenige neue {{site.data.keyword.Bluemix_notm}}-Benutzer im Vereinigten Königreich und in den USA für ein Standardkonto berechtigt. 
+Außerdem erhalten Benutzer die Möglichkeit zur Verwendung eines Standardkontos, wenn sie eine Einladung von einem Benutzer erhalten, der an dem begrenzten Release teilnimmt. Sie können einen Bekannten, der bereits ein Standardkonto besitzt, bitten, Sie einzuladen, oder sich an unseren Vertrieb unter sales@bluemix.net wenden.
 
 ## Wie viele Organisationen kann ich in einem Standardkonto verwenden?
 {: #howmanyorgs}
 
-Da das Standardkonto nicht für erweiterte Anwendungsfälle ausgelegt ist, ist es auf ein einziges Konto beschränkt. Wenn Sie mehr als eine Organisation benötigen, können Sie ein Upgrade auf ein belastbares Konto durchführen und nur für das bezahlen, was Sie über die Gratisleistungen hinaus in Anspruch nehmen. Weitere Informationen finden Sie unter [Anmeldung für ein belastbares Konto](/docs/pricing/billable.html#billable).
+Da das Standardkonto nicht für erweiterte Anwendungsfälle ausgelegt ist, ist es auf ein einziges Konto beschränkt. Wenn Sie mehr als eine Organisation benötigen, können Sie ein Upgrade auf ein gebührenpflichtiges Konto durchführen und nur für das bezahlen, was Sie über die Gratisleistungen hinaus in Anspruch nehmen. Weitere Informationen finden Sie unter [Anmeldung für ein gebührenpflichtiges Konto](/docs/pricing/billable.html#billable).
 
 ## Kann ein Standardkonto ablaufen?
 {: #neverexpires}
    
-Nein, es läuft nicht ab. Sie können das kostenlose Standardkonto so lange verwenden, wie Sie es brauchen. Irgendwann möchten Sie vielleicht Infrastrukturressourcen oder andere Services nutzen, die keinem Lite-Plan unterliegen. Zu dem Zeitpunkt können Sie ein Upgrade auf ein belastbares Konto durchführen. 
+Nein, es läuft nicht ab. Sie können das kostenlose Standardkonto so lange verwenden, wie Sie es brauchen. Irgendwann möchten Sie vielleicht Infrastrukturressourcen oder andere Services nutzen, die keinem Lite-Plan unterliegen. Zu dem Zeitpunkt können Sie ein Upgrade auf ein gebührenpflichtiges Konto durchführen. 
 
 ## Kann ich andere zur Zusammenarbeit in mein Standardkonto einladen?
 {: #inviteothers}
@@ -40,7 +41,7 @@ Ja, Sie können Bekannte und Kollegen einladen, um gemeinsam mit Ihnen an den Pr
 ## Welche Bluemix-Regionen kann ich verwenden?
 {: #whichregions}
 
-Bei einem Standardkonto können Sie nur in einer Region arbeiten. Wenn Sie Ihr Konto einrichten und sich zum ersten Mal anmelden, können Sie auswählen, in welcher {{site.data.keyword.Bluemix_notm}}-Region Sie arbeiten möchten. Mit einem belastbaren Konto können Sie auf alle Regionen zugreifen.
+Bei einem Standardkonto können Sie nur in einer Region arbeiten. Wenn Sie Ihr Konto einrichten und sich zum ersten Mal anmelden, können Sie auswählen, in welcher {{site.data.keyword.Bluemix_notm}}-Region Sie arbeiten möchten. Mit einem gebührenpflichtigen Konto können Sie auf alle Regionen zugreifen.
 
 ## Welche Bluemix-Ressourcen kann ich in einem Standardkonto verwenden?
 {: #whichservices}

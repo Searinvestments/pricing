@@ -30,7 +30,7 @@ Para manter o exemplo simples, suponha que os preços na tabela a seguir não fl
 |Serviço |	Recursos |	Preço |
 |--------|-----------|--------|
 |SDK for Node.js |	375 GB/horas grátis por mês (compartilhados entre todos os tempos de execução) |	$0,07 USD/GB/hora|
-|Ajuste automático de escala |	Plano de serviço grátis para o serviço de ajuste automático de escala |	Grátis|
+|Auto-Scaling |	Plano de serviço grátis para o serviço de ajuste automático de escala |	Grátis|
 |Data Cache - Iniciador |	1 GB de espaço em cache e uma réplica |	$55,00 USD/instância |
 |Data Cache - Padrão |	5 GB de espaço em cache e uma réplica |	$155,00 USD/instância |
 |Data Cache - Premium |	25 GB de espaço em cache e uma réplica |	$505,00 USD/instância|

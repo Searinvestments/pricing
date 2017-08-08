@@ -5,7 +5,7 @@
 copyright:
 
   years: 2016, 2017
-lastupdated: "2017-05-02"
+lastupdated: "2017-06-01"
 
 
 ---
@@ -15,13 +15,13 @@ lastupdated: "2017-05-02"
 {:screen: .screen}
 {:new_window: target="_blank"}
 
-# Account standard beta di IBM {{site.data.keyword.Bluemix_notm}} 
+# Release limitata dell'account Standard IBM {{site.data.keyword.Bluemix_notm}}
 {: #betaintro}
 
-L'Account standard beta di {{site.data.keyword.Bluemix}} introduce un nuovo account gratuito, che offre un nuovo modo di lavorare in {{site.data.keyword.Bluemix_notm}} Public Cloud. A differenza della versione di prova di 30 giorni {{site.data.keyword.Bluemix_notm}}, l'Account standard non ha una scadenza. Puoi continuare a lavorare sulle tue applicazioni {{site.data.keyword.Bluemix_notm}} senza preoccuparti dei limiti di tempo. 
+La release limitata dell'account Standard di {{site.data.keyword.Bluemix}} introduce un nuovo account gratuito, che offre un nuovo modo di lavorare nel cloud pubblico di {{site.data.keyword.Bluemix_notm}}. A differenza della versione di prova di 30 giorni {{site.data.keyword.Bluemix_notm}}, l'Account standard non ha una scadenza. Puoi continuare a lavorare sulle tue applicazioni {{site.data.keyword.Bluemix_notm}} senza preoccuparti dei limiti di tempo. 
 {:shortdesc}
 
-La partecipazione all'utilizzo dell'Account standard beta è solo su invito. Dopo aver accettato l'invito e creato il tuo account standard, potrai invitare amici e colleghi a partecipare alla versione Beta.  
+Gli utenti nelle regioni Regno Unito e Stati Uniti Sud sono eleggibili per l'account Standard. Se non ti trovi in queste regioni, puoi comunque creare un account Standard chiedendo un invito a un amico o contattando il nostro team di vendite all'indirizzo sales@bluemix.net. Dopo aver ottenuto un account Standard, potrai invitare amici e colleghi a partecipare.    
 
 ## Presentazione dell'Account standard {{site.data.keyword.Bluemix_notm}}
 {: #standardaccount}
@@ -32,7 +32,7 @@ Potresti chiederti qual è la differenza tra l'Account standard e l'account di p
 |-----------------|
 | L'account non scade mai. |
 | Le applicazioni Cloud Foundry possono accedere fino a 256 MB di memoria di runtime immediata. |
-| Puoi accedere ai piani Lite gratuiti per Cloudant NoSQL DB e la Piattaforma Internet delle cose con altri servizi in arrivo. |
+| Puoi accedere ai piani Lite gratuiti per i servizi Watson richiesti come Conversation, Internet of Things Platform, Cloudant NoSQLDB. Per ulteriori informazioni, vedi [Disponibilità](/docs/pricing/standard_account.html#whatsavailable). |
 | Le tue applicazioni verranno sospese se non vengono svolte attività di sviluppo per 10 giorni. |
 | Le tue istanze del servizio vengono eliminate dopo 30 giorni di inattività. |
 {:caption="Tabella 1. Novità in un account standard" caption-side="top"}
@@ -40,15 +40,14 @@ Potresti chiederti qual è la differenza tra l'Account standard e l'account di p
 |Cosa rimane invariato quando si converte un account di prova? | 
 |-----------------|
 |L'account è gratuito -- non ti serve una carta di credito. |
-|Tutte le istanze Lite di Cloudant NoSQL DB e della Piattaforma Internet delle cose. È possibile trasferire un'istanza Lite al tuo nuovo account per ognuno di questi servizi. |
+|Puoi continuare a utilizzare le tue istanze del piano Lite.|
 |L'organizzazione, gli spazi e le impostazioni di accesso dei membri del team associate rimangono uguali. È possibile trasferire un'organizzazione al tuo nuovo account. |
 |Il livello di supporto di {{site.data.keyword.Bluemix_notm}} rimane lo stesso. |
 {:caption="Tabella 2. Cosa rimane invariato" caption-side="top"}
 
 **Nota**: se il tuo account di prova non viene convertito, viene visualizzato un messaggio che ne spiega il motivo. Potresti avere più di un'organizzazione nel tuo account di prova esistente o applicazioni che non è possibile trasferire. Effettua l'operazione appropriata e prova a convertire di nuovo l'account.
 
-Se hai eseguito la registrazione per un account standard, puoi invitare i membri del team a collaborare nella tua organizzazione e nei tuoi spazi, visualizzare il tuo utilizzo, creare gli spazi, aggiornare il profilo del tuo account e gestire la tua organizzazione. Per ulteriori
-informazioni, vedi [Gestione del tuo account](/docs/admin/adminpublic.html#account).
+Se hai eseguito la registrazione per un account standard, puoi invitare i membri del team a collaborare nella tua organizzazione e nei tuoi spazi, visualizzare il tuo utilizzo, creare gli spazi, aggiornare il profilo del tuo account e gestire la tua organizzazione.
 
 ## Piani Lite
 {: #liteplans}
@@ -67,33 +66,46 @@ In un account standard, puoi utilizzare qualsiasi servizio del Catalogo {{site.d
 ## Cosa è disponibile nell'account standard?
 {: #whatsavailable}
 
-In un account standard, le applicazioni Cloud Foundry possono accedere fino a un massimo di 256 MB di memoria di runtime immediata. Se superi la quota assegnata, puoi arrestare alcune delle tue applicazioni per liberare memoria di runtime. 
+In un account standard, le applicazioni Cloud Foundry possono accedere fino a un massimo di 256 MB di memoria di runtime immediata. Se superi la quota assegnata, puoi arrestare alcune delle tue applicazioni per liberare memoria di runtime. Puoi anche lavorare con un cluster Kubernetes con 2 CPU e 4 GB di RAM. 
 
-Nell'Account standard beta, i seguenti servizi offrono un piano Lite:
+Nella Release limitata dell'account Standard, i seguenti servizi {{site.data.keyword.Bluemix_notm}} offrono un piano Lite:
 
 <ul>
-<li>Cloudant NoSQL DB</li>
-<li>Piattaforma Internet delle cose</li>
+<li>{{site.data.keyword.prf_hublong}}</li>
+<li>{{site.data.keyword.mobilepushfull}}</li>
+<li>{{site.data.keyword.cloudantfull}}</li>
+<li>{{site.data.keyword.conversationfull}}</li>
+<li>{{site.data.keyword.iot_full}}</li>
+<li>{{site.data.keyword.languagetranslatorfull}}</li>
+<li>{{site.data.keyword.personalityinsightsfull}}</li>
+<li>{{site.data.keyword.toneanalyzerfull}}</li>
 </ul>
 
+Alcuni servizi non sono disponibili in tutte le regioni {{site.data.keyword.Bluemix_notm}}. Per ulteriori informazioni, vedi [Servizi per regione](/docs/services/services_region.html#services_region).
+
 Prossimamente l'elenco verrà aggiornato con altri servizi.
+
+### Limiti di quota
 
 Quando si raggiungono i limiti di quota, la tua applicazione viene arrestata o il tuo servizio viene disabilitato. Se il piano Lite specifica che la quota viene fornita su base mensile, l'utilizzo delle risorse viene ripristinato il 1° di ogni mese, giorno in cui potrai riattivare il servizio. Quando stai per raggiungere il limite di quota o si già al limite, riceverai un'e-mail di notifica. 
 
 Puoi eseguire il provisioning di 1 istanza per piano Lite. 
 
-**Nota**: queste limitazioni si applicano solo all'Account standard. In qualsiasi momento, puoi effettuare l'aggiornamento a un account Pagamento a consumo o con fatturazione di sottoscrizione. Paghi solo per ciò che utilizzi oltre i limiti concessi dalle franchigie. Per ulteriori informazioni sugli account Pagamento a consumo e Sottoscrizione,
-vedi [Tipi di account](/docs/pricing/index.html#pay-accounts).
+**Nota**: queste limitazioni si applicano solo a un account Standard. In qualsiasi momento, puoi effettuare l'aggiornamento a un account Pagamento a consumo o Sottoscrizione. Paghi solo per ciò che utilizzi oltre i limiti concessi dalle franchigie. Per ulteriori informazioni sugli account Pagamento a consumo e Sottoscrizione, vedi [Registrazione per un account fatturabile](/docs/pricing/billable.html#billable).
 
-## Attività di sviluppo
+## Funzioni di efficienza
 {: #devactivity}
 
-Per aiutare gli utenti dell'Account standard a gestire al meglio le proprie risorse, abbiamo creato un paio di funzioni di efficienza che si basano sull'attività di sviluppo e sull'utilizzo:
+Per aiutarti a gestire le tue risorse, abbiamo incluso funzioni di efficienza che si basano sull'attività di sviluppo e sull'utilizzo.
 
- * Le applicazioni verranno sospese dopo 10 giorni di inattività dello sviluppo. Ciò è utile quando vuoi lavorare su una nuova applicazione perché non ti ritroverai a raggiungere il limite di 512 MB di quota di memoria. Per riattivare le tue applicazioni, inizia di nuovo a utilizzarle nella riga di comando Cloud Foundry o nella console {{site.data.keyword.Bluemix_notm}}. 
+### Sospensione automatica delle applicazioni
+
+Le applicazioni verranno sospese dopo 10 giorni di inattività dello sviluppo. Ciò è utile quando vuoi lavorare su una nuova applicazione perché non ti ritroverai a raggiungere il limite di 512 MB di quota di memoria. 
+
+Per riattivare le tue applicazioni, inizia di nuovo a utilizzarle nella riga di comando Cloud Foundry o nella console {{site.data.keyword.Bluemix_notm}}. 
  
  Ecco un elenco di tutti i comandi che riattiveranno la tua applicazione.
-  * push cf
+  * cf push
   * cf restate
   * cf restart
   * cf ssh
@@ -107,15 +119,14 @@ Per aiutare gli utenti dell'Account standard a gestire al meglio le proprie riso
   * cf enable-ssh
   * cf disable-ssh
 
- **Nota**: se la tua applicazione è già abilitata a ssh, i comandi `cf enable-ssh` e `cf disable-sh` non riattiveranno la tua applicazione. 
+Per i dettagli dell'utilizzo, vedi [Comandi Cloud Foundry](/docs/cli/reference/cfcommands/index.html).
 
- * I tuoi servizi con piano Lite verranno eliminati in assenza di attività per 30 giorni. Non dovrai quindi eliminare le istanze inattive quando desideri creare una nuova istanza. Al momento, questa funzione è utilizzata solo dalla Piattaforma Internet delle cose. 
+ **Nota**: se la tua applicazione è già abilitata a ssh, non puoi utilizzare i comandi `cf enable-ssh` e `cf disable-sh` per riattivare la tua applicazione. 
+
+### Garbage collection
+
+I tuoi servizi con piano Lite vengono eliminati in assenza di attività per 30 giorni. Questo significa che non devi eliminare le istanze inattive quando vuoi crearne una nuova. 
  
- Mantieni attiva l'istanza Lite della Piattaforma Internet delle cose accedendo al dashboard dell'istanza del servizio di tale piattaforma.
- 
-## Partecipazione all'Account standard beta
-{: #betainvitation}
-
-Se sei stato selezionato per partecipare alla versione Beta, ti viene inviato un invito all'indirizzo e-mail associato al tuo account di prova {{site.data.keyword.Bluemix_notm}}. Una volta ricevuto l'invito, completa le istruzioni riportate nell'e-mail per registrare l'account standard. 
-
-Sei interessato a partecipare all'offerta dell'Account standard beta? Chiedi ai tuoi amici e colleghi. Se loro sono stati invitati a partecipare alla versione Beta e hanno creato il proprio account standard, potranno invitare anche te. 
+## Partecipazione alla Release limitata dall'account Standard
+{: #lgainvitation}
+Puoi chiedere un invito a un amico che ha un account Standard o contattare il nostro team di vendite all'indirizzo sales@bluemix.net. Ci piacerebbe che lo provassi.

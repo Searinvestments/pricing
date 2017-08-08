@@ -19,12 +19,12 @@ As perguntas mais frequentes a seguir são relacionadas a uma conta Padrão, que
 ## Quem pode se inscrever para uma conta Padrão?
 {: #whocanuse}
 
-Atualmente, os novos usuários do {{site.data.keyword.Bluemix_notm}} no Reino Unido podem se inscrever para uma conta Padrão. Além disso, os usuários que recebem um convite para participar do Beta da conta Padrão. Também é possível pedir que um amigo que já tenha uma conta Padrão o convide ou entrar em contato com nossa equipe de vendas em sales@bluemix.net.
+Como ela está na liberação limitada, somente uma pequena seleção de novos usuários do {{site.data.keyword.Bluemix_notm}} no Reino Unido e nos Estados Unidos são elegíveis para uma conta Padrão. Os usuários também poderão inscrever-se para uma conta Padrão se receberem um convite de um usuário participante da liberação limitada. Também é possível pedir que um amigo que já tenha uma conta Padrão o convide ou entrar em contato com nossa equipe de vendas em sales@bluemix.net.
 
 ## Quantas organizações posso usar em uma conta Padrão?
 {: #howmanyorgs}
 
-Como a conta Padrão não se destina a casos de uso avançados, ela é limitada a uma conta. Se precisar de mais de uma organização, será possível fazer upgrade para uma conta faturável e pagar somente pelo que você usar acima dos abonos grátis. Para obter mais informações, veja [Inscrevendo-se para uma conta faturável](/docs/pricing/billable.html#billable).
+Como a conta Padrão não deve ser usada para casos de uso avançados, ela está limitada a uma conta. Se precisar de mais de uma organização, será possível fazer upgrade para uma conta faturável e pagar somente pelo que você usar acima dos abonos grátis. Para obter mais informações, veja [Inscrevendo-se para uma conta faturável](/docs/pricing/billable.html#billable).
 
 ## Não uma conta padrão nunca expiram.
 {: #neverexpires}
@@ -88,4 +88,4 @@ Se você não estiver desenvolvendo ativamente a sua conta por um período de 10
 
 Pergunte a nossa comunidade de desenvolvedores em stackoverflow. Lá, nós estamos respondendo ativamente as perguntas. Para postar uma pergunta quando você está conectado à sua conta, clique em **Suporte** e selecione **Localizar respostas**.  
 
-Também é possível enviar um chamado de suporte. Quando você está conectado à sua conta, clique em **Suporte** e selecione **Incluir chamado**. Em seguida, escolha a categoria relevante e insira os detalhes. Caso contrário, é possível obter suporte usando o link listado na página [Suporte do {{site.data.keyword.Bluemix_notm}} ![Ícone de link externo](../icons/launch-glyph.svg)](http://ibm.biz/bluemixsupport){: new_window}. 
+Também é possível enviar um chamado de suporte. Quando você está conectado à sua conta, clique em **Suporte** e selecione **Incluir chamado**. Em seguida, escolha a categoria relevante e insira os detalhes. Caso contrário, será possível obter suporte usando o link listado na página [Suporte do {{site.data.keyword.Bluemix_notm}} ![Ícone de link externo](../icons/launch-glyph.svg)](http://ibm.biz/bluemixsupport){: new_window}. 

@@ -52,7 +52,7 @@ Quando gli account sono collegati, l'utilizzo di {{site.data.keyword.Bluemix_not
 
 Ad esempio, se hai collegato gli account il 16 aprile 2017, riceverai una fattura Bluemix per l'utilizzo nel mese di aprile. A seconda di quando hai collegato i tuoi account, potresti ricevere una fattura separata per l'utilizzo di SoftLayer. Il tuo utilizzo nel mese di maggio per SoftLayer e {{site.data.keyword.Bluemix_notm}} verrà fatturato tramite il tuo account {{site.data.keyword.Bluemix_notm}}.
 
-![Collegamento del riepilogo degli account Bluemix e SoftLayer](BluemixSoftLayerBill.svg)
+![Riepilogo del collegamento degli account Bluemix e SoftLayer](BluemixSoftLayerBill.svg)
 
 Una volta collegate le fatture, la tua fattura {{site.data.keyword.Bluemix_notm}} elencherà i diversi addebiti per ogni risorsa che hai utilizzato.
 
