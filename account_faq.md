@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-05-31"
+lastupdated: "2017-08-16"
 
 ---
 
@@ -12,7 +12,7 @@ lastupdated: "2017-05-31"
 {:screen: .screen}
 {:new_window: target="_blank"}
 
-# Standard account FAQ 
+# Standard account FAQ
 {: #stdaccountfaq}
 
 The following frequently asked questions relate to a Standard account, which is created in the {{site.data.keyword.Bluemix}} public cloud.
@@ -29,8 +29,8 @@ Because the Standard account is not meant for advanced use cases, it is limited 
 
 ## Does a Standard account ever expire?
 {: #neverexpires}
-   
-No it does not expire - you can use the free Standard account for as long as you need it. At some point, you might want to use infrastructure resources or other services that don't have a Lite plan. Then, you can upgrade to a billable account. 
+
+No it does not expire - you can use the free Standard account for as long as you need it. At some point, you might want to use infrastructure resources or other services that don't have a Lite plan. Then, you can upgrade to a billable account.
 
 ## Can I invite others to collaborate in my Standard account?
 {: #inviteothers}
@@ -66,7 +66,7 @@ Some services are not available in all {{site.data.keyword.Bluemix_notm}} region
 <li>Kubernetes clusters</li>
 </ul>
 
-More catalog resources will be added to this list, watch this space! 
+More catalog resources will be added to this list, watch this space!
 
 ## What's a Lite plan?
 {: #whatisliteplan}
@@ -88,4 +88,9 @@ If you are not actively developing in your account for a period of 10 days, your
 
 Ask our developer community on StackOverflow. We are actively answering questions there. To post a question when you are signed in to your account, click **Support** and select **Find Answers**.  
 
-You can also submit a support ticket. When you are signed in to your account, click **Support** and select **Add Ticket**. Then, choose the relevant category and enter the details. Otherwise, you can get support by using the link listed on the [{{site.data.keyword.Bluemix_notm}} Support ![External link icon](../icons/launch-glyph.svg)](http://ibm.biz/bluemixsupport){: new_window} page. 
+You can also submit a support ticket. When you are signed in to your account, click **Support** and select **Add Ticket**. Then, choose the relevant category and enter the details. Otherwise, you can get support by using the link listed on the [{{site.data.keyword.Bluemix_notm}} Support ![External link icon](../icons/launch-glyph.svg)](http://ibm.biz/bluemixsupport){: new_window} page.
+
+## How do I cancel my account?
+{: #cancelaccount}
+
+In the {{site.data.keyword.Bluemix_notm}} console, go to the **Manage > Billing and Usage > Billing** page and click **Deactivate Account**.
