@@ -5,7 +5,7 @@
 copyright:
 
   years: 2016, 2017
-lastupdated: "2017-06-01"
+lastupdated: "2017-08-02"
 
 
 ---
@@ -18,15 +18,15 @@ lastupdated: "2017-06-01"
 # IBM {{site.data.keyword.Bluemix_notm}}-Standardkonto (begrenztes Release)
 {: #betaintro}
 
-Mit dem {{site.data.keyword.Bluemix}}-Standardkonto (begrenztes Release) wird ein neues kostenfreies Konto eingeführt, das die Möglichkeit bietet, in der öffentlichen Cloud von {{site.data.keyword.Bluemix_notm}} zu arbeiten. Für das Standardkonto gilt kein Ablaufdatum, im Gegensatz zum {{site.data.keyword.Bluemix_notm}}-Testkonto mit einer Gültigkeit von 30 Tagen. Sie können die Arbeit mit den {{site.data.keyword.Bluemix_notm}}-Anwendungen fortsetzen, ohne sich um Zeitbegrenzungen zu kümmern. 
+Mit dem {{site.data.keyword.Bluemix}}-Standardkonto (begrenztes Release) wird ein neues kostenfreies Konto eingeführt, das die Möglichkeit bietet, in der öffentlichen Cloud von {{site.data.keyword.Bluemix_notm}} zu arbeiten. Für ein Standardkonto gilt kein Ablaufdatum, im Gegensatz zum {{site.data.keyword.Bluemix_notm}}-Testkonto mit einer Gültigkeit von 30 Tagen. Sie können die Arbeit mit den {{site.data.keyword.Bluemix_notm}}-Anwendungen fortsetzen, ohne sich um Zeitbegrenzungen zu kümmern. 
 {:shortdesc}
 
-Für Benutzer in den Regionen 'Vereinigtes Königreich' und 'USA (Süden)' steht das Standardkonto zur Verfügung. Auch wenn Sie sich nicht in einer dieser Regionen befinden, können Sie ein Standardkonto erstellen, indem Sie einen Freund um eine Einladung bitten oder indem Sie sich unter sales@bluemix.net an das Vertriebsteam wenden. Sobald Sie über ein Standardkonto verfügen, können Sie Freunde und Kollegen einladen, sodass auch sie teilnehmen können.    
+Für Benutzer in den Regionen 'Vereinigtes Königreich' und 'USA (Süden)' steht ein Standardkonto zur Verfügung. Wenn Sie sich nicht in einer dieser Regionen befinden, können Sie dennoch ein Standardkonto erstellen, indem Sie einen Freund um eine Einladung bitten oder indem Sie sich unter sales@bluemix.net an das Vertriebsteam wenden. Wenn Sie über ein Standardkonto verfügen, können Sie Freunde und Kollegen einladen, sodass auch sie teilnehmen können.  
 
 ## {{site.data.keyword.Bluemix_notm}}-Standardkonto - Einführung
 {: #standardaccount}
 
-Sicher interessiert es Sie, welche Unterschiede zwischen dem Standardkonto und dem Testkonto bestehen. Die folgende Tabelle enthält eine Zusammenfassung der wichtigen Details zum {{site.data.keyword.Bluemix_notm}}-Standardkonto. 
+Sicher interessiert es Sie, welche Unterschiede zwischen einem Standardkonto und einem Testkonto bestehen. Die folgende Tabelle enthält eine Zusammenfassung der wichtigen Details zu einem {{site.data.keyword.Bluemix_notm}}-Standardkonto. 
 
 |Neuerungen bei einem Standardkonto |    
 |-----------------|
@@ -47,7 +47,7 @@ Sicher interessiert es Sie, welche Unterschiede zwischen dem Standardkonto und d
 
 **Hinweis**: Wenn Ihr Testkonto nicht konvertiert werden kann, erhalten Sie eine Nachricht mit einer Erläuterung zur Ursache. Möglicherweise enthält das bestehende Testkonto mehr als eine Organisation oder Apps, die nicht übertragen werden können. Sie können die entsprechende Maßnahme ausführen und dann die Konvertierung des Kontos erneut versuchen.
 
-Wenn Sie bei einem Standardkonto angemeldet sind, können Sie Teammitglieder dazu einladen, in Ihrer Organisation und Ihren Bereichen mitzuarbeiten, Nutzungsdaten anzuzeigen, Bereiche zu erstellen, das Kontoprofil zu aktualisieren und die Organisation zu verwalten.
+Wenn Sie über ein Standardkonto verfügen, können Sie Teammitglieder dazu einladen, in Ihrer Organisation und Ihren Bereichen mitzuarbeiten, Nutzungsdaten anzuzeigen, Bereiche zu erstellen, das Kontoprofil zu aktualisieren und die Organisation zu verwalten.
 
 ## Lite-Pläne
 {: #liteplans}
@@ -61,14 +61,14 @@ Lite-Pläne, die auch in einem nutzungsabhängigen Konto verfügbar sind, sind m
 <li>Bereitgestellte Durchsatzkapazität.</li>
 </ul> 
 
-In einem Standardkonto können Sie alle Angebote des {{site.data.keyword.Bluemix_notm}}-Katalogs nutzen, für die ein Lite-Plan vorgesehen ist. Lite-Pläne sind einfach zu finden. Beim Öffnen des Katalogs werden standardmäßig alle Services mit einem Lite-Plan angezeigt und mit einem Lite-Tag ![Lite-Tag](../icons/Lite.svg) gekennzeichnet. Wählen Sie einen Service aus, um die Kontingentdetails für den zugehörigen Lite-Plan anzuzeigen.
+In einem Standardkonto können Sie alle Angebote des {{site.data.keyword.Bluemix_notm}}-Katalogs nutzen, für die ein Lite-Plan vorgesehen ist. Lite-Pläne sind einfach zu finden. Beim Aufrufen des Katalogs werden standardmäßig alle Services mit einem Lite-Plan angezeigt und mit einem Lite-Tag ![Lite-Tag](../icons/Lite.svg) gekennzeichnet. Wählen Sie einen Service aus, um die Kontingentdetails für den zugehörigen Lite-Plan anzuzeigen.
 
 ## Was ist mit einem Standardkonto verfügbar?
 {: #whatsavailable}
 
-In einem Standardkonto können Cloud Foundry-Anwendungen auf maximal 256 MB sofort verfügbaren Laufzeitspeicher zugreifen. Wenn das zugeordnete Kontingent überschritten wird, können Sie einige Ihrer Apps stoppen, um Laufzeitspeicher freizugeben. Sie haben auch die Möglichkeit, mit einem Kubernetes-Cluster mit 2 CPUs und 4 GB RAM arbeiten.  
+In einem Standardkonto können Cloud Foundry-Anwendungen auf maximal 256 MB sofort verfügbaren Laufzeitspeicher zugreifen. Wenn das zugeordnete Kontingent überschritten wird, können Sie einige Ihrer Apps stoppen, um Laufzeitspeicher freizugeben. Sie haben auch die Möglichkeit, mit einem Kubernetes-Cluster mit 2 CPUs und 4 GB RAM arbeiten. 
 
-Während der begrenzten Verfügbarkeit des Standardkontos (Standard Account Limited Release) wird für die folgenden {{site.data.keyword.Bluemix_notm}}-Services ein Lite-Plan angeboten: 
+Während der begrenzten Verfügbarkeit des Standardkontos (Standard Account Limited Release) wird für die folgenden {{site.data.keyword.Bluemix_notm}}-Services ein Lite-Plan angeboten:
 
 <ul>
 <li>{{site.data.keyword.prf_hublong}}</li>
@@ -96,7 +96,7 @@ Sie können 1 Instanz pro Lite-Plan bereitstellen.
 ## Optimierungsfeatures
 {: #devactivity}
 
-Neue Optimierungsfeatures, die auf Entwicklungsaktivitäten und dem Einsatz in der Entwicklungsumgebung basieren, unterstützen Sie beim Ressourcenmanagement. 
+Neue Optimierungsfeatures, die auf Entwicklungsaktivitäten und dem Einsatz in der Entwicklungsumgebung basieren, unterstützen Sie beim Ressourcenmanagement.
 
 ### Automatischer Ruhemodus für Apps
 
@@ -119,14 +119,17 @@ Wenn Sie die Apps erneut aktivieren möchten, beginnen Sie in der Cloud Foundry-
   * cf enable-ssh
   * cf disable-ssh
 
-Informationen zur Verwendung finden Sie unter [Cloud Foundry-Befehle](/docs/cli/reference/cfcommands/index.html). 
+Informationen zur Verwendung finden Sie unter [Cloud Foundry-Befehle](/docs/cli/reference/cfcommands/index.html).
 
- **Hinweis**: Wenn für die App der SSH-Modus bereits aktiviert ist, kann sie mit den Befehlen `cf enable-ssh` und `cf disable-sh` nicht aktiviert werden.  
+ **Hinweis**: Wenn die App bereits für SSH aktiviert ist, kann sie mit den Befehlen `cf enable-ssh` und `cf disable-sh` nicht aktiviert werden. 
 
 ### Garbage-Collection
 
-Ihre Lite-Plan-Services werden gelöscht, wenn über einen Zeitraum von 30 Tagen keine Aktivität dafür stattfindet. Auf diese Weise müssen Sie keine inaktiven Instanzen löschen, wenn Sie eine neue Instanz erstellen möchten.  
+Ihre Lite-Plan-Services werden gelöscht, wenn über einen Zeitraum von 30 Tagen keine Aktivität dafür stattfindet. Auf diese Weise müssen Sie keine inaktiven Instanzen löschen, wenn Sie eine neue Instanz erstellen möchten. 
  
 ## Teilnahme am begrenzten Release des Standardkontos
 {: #lgainvitation}
-Sie können einen Freund, der bereits ein Standardkonto besitzt, bitten, Sie einzuladen, oder Sie können sich unter sales@bluemix.net an das Vertriebsteam wenden. Nutzen Sie die Gelegenheit, das Produkt zu testen! 
+
+Sie können einen Freund, der bereits ein Standardkonto besitzt, bitten, Sie einzuladen, oder Sie können sich unter sales@bluemix.net an das Vertriebsteam wenden. Nutzen Sie die Gelegenheit, das Produkt zu testen!
+
+Wenn Sie eine Einladung von einem Freund oder einem Bluemix-Verkäufer erhalten, wird die exklusive Einladung an die von Ihnen angegebene E-Mail-Adresse gesendet. Nachdem Sie die Einladung erhalten haben, führen Sie die Anweisungen in der E-Mail aus, um eine Registrierung für ein Standardkonto durchzuführen. 

@@ -15,7 +15,7 @@ lastupdated: "2017-06-01"
 # Inscrevendo-se para uma conta grátis
 {: #pricing}
 
-É possível tentar o {{site.data.keyword.Bluemix}} gratuitamente inscrevendo-se para uma conta Padrão ou uma conta para teste de 30 dias. As contas Padrão estão disponíveis para selecionar usuários nas regiões do Reino Unido e do sul dos EUA apenas. As contas para teste estão disponíveis em todas as regiões.
+É possível tentar o {{site.data.keyword.Bluemix}} gratuitamente inscrevendo-se para uma conta Padrão ou uma conta para teste de 30 dias. As contas Padrão estão disponíveis para selecionar usuários nas regiões do Reino Unido e do sul dos EUA apenas. As contas para teste estão disponíveis em todas as regiões. 
 {:shortdesc}
 
 ## Conta padrão

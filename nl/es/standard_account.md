@@ -5,7 +5,7 @@
 copyright:
 
   years: 2016, 2017
-lastupdated: "2017-06-01"
+lastupdated: "2017-08-02"
 
 
 ---
@@ -18,15 +18,15 @@ lastupdated: "2017-06-01"
 # Versión limitada de cuenta estándar de IBM {{site.data.keyword.Bluemix_notm}}
 {: #betaintro}
 
-La cuenta Estándar de versión limitada de {{site.data.keyword.Bluemix}} presenta una nueva cuenta gratuita, que ofrece una nueva forma de trabajo en la nube pública de {{site.data.keyword.Bluemix_notm}}. La cuenta Estándar no caduca nunca, lo que la diferencia de la cuenta de prueba de {{site.data.keyword.Bluemix_notm}} de 30 días. Puede seguir trabajando en sus aplicaciones de {{site.data.keyword.Bluemix_notm}} sin ninguna preocupación sobre las restricciones de tiempo. 
+La cuenta Estándar de versión limitada de {{site.data.keyword.Bluemix}} presenta una nueva cuenta gratuita, que ofrece una nueva forma de trabajo en la nube pública de {{site.data.keyword.Bluemix_notm}}. Una cuenta Estándar no caduca nunca, lo que la diferencia de una cuenta de prueba {{site.data.keyword.Bluemix_notm}} de 30 días. Puede seguir trabajando en sus aplicaciones de {{site.data.keyword.Bluemix_notm}} sin ninguna preocupación sobre las restricciones de tiempo. 
 {:shortdesc}
 
-Los usuarios en las regiones del Reino Unido y EE.UU. Sur serán aptos para la cuenta Estándar. Si no está en una de estas regiones, puede seguir creando una cuenta Estándar y pedir una invitación a un amigo o ponerse en contacto con nuestro equipo de ventas en sales@bluemix.net. Una vez tenga una cuenta Estándar, puede invitar a sus amigos y colegas para que participen.    
+Los usuarios en las regiones del Reino Unido y EE.UU. Sur serán aptos para una cuenta Estándar. Si no está en una de estas regiones, puede seguir creando una cuenta Estándar y pedir una invitación a un amigo o ponerse en contacto con nuestro equipo de ventas en sales@bluemix.net. Como propietario de una cuenta Estándar, puede invitar a sus amigos y colegas para que participen.  
 
 ## Presentación de la cuenta Estándar de {{site.data.keyword.Bluemix_notm}}
 {: #standardaccount}
 
-Puede que se pregunte sobre qué diferencia hay entre la cuenta Estándar y la cuenta de prueba. Las tablas siguientes resumen los detalles clave sobre la cuenta Estándar de {{site.data.keyword.Bluemix_notm}}. 
+Puede que se pregunte sobre qué diferencia hay entre una cuenta Estándar y una cuenta de prueba. Las tablas siguientes resumen los detalles clave sobre una cuenta Estándar de {{site.data.keyword.Bluemix_notm}}. 
 
 |¿Qué novedades hay en una cuenta Estándar? |    
 |-----------------|
@@ -47,7 +47,7 @@ Puede que se pregunte sobre qué diferencia hay entre la cuenta Estándar y la c
 
 **Nota**: Si la cuenta de prueba no se convierte, verá un mensaje que le dirá el motivo. Puede que tenga más de una organización en la cuenta de prueba existente o apps que no se puedan transferir. Puede realizar la acción apropiada y volver a intentar convertir la cuenta.
 
-Cuando se haya registrado para una cuenta Estándar, puede invitar a los miembros del equipo a colaborar en su organización y espacios, a ver su uso, a crear espacios, a actualizar el perfil de la cuenta y a gestionar su organización.
+Cuando sea propietario de una cuenta Estándar, puede invitar a los miembros del equipo a colaborar en su organización y espacios, a ver su uso, a crear espacios, a actualizar el perfil de la cuenta y a gestionar su organización.
 
 ## Planes de Lite
 {: #liteplans}
@@ -61,9 +61,9 @@ Los planes de Lite, que también están disponibles en una cuenta de pago según
 <li>Capacidad de rendimiento suministrada.</li>
 </ul> 
 
-En una cuenta Estándar, puede utilizar cualquier cosa del Catálogo de {{site.data.keyword.Bluemix_notm}} que tiene un plan de Lite. Los planes de Lite son fáciles de encontrar. De forma predeterminada, cuando abra el Catálogo, todos los servicios de que tengan un plan de Lite se muestran y se identifican con una etiqueta de Lite ![etiqueta de Lite](../icons/Lite.svg). Seleccione un servicio para ver los detalles de la cuota para el plan de Lite asociado.
+En una cuenta Estándar, puede utilizar cualquier cosa del catálogo de {{site.data.keyword.Bluemix_notm}} que tiene un plan Lite. Los planes de Lite son fáciles de encontrar. De forma predeterminada, cuando acceda al catálogo, todos los servicios de que tengan un plan de Lite se muestran y se identifican con una etiqueta de Lite ![etiqueta de Lite](../icons/Lite.svg). Seleccione un servicio para ver los detalles de la cuota para el plan de Lite asociado.
 
-## ¿Qué hay disponible en la cuenta Estándar?
+## ¿Qué hay disponible en una cuenta Estándar?
 {: #whatsavailable}
 
 En una cuenta Estándar, las aplicaciones de Cloud Foundry pueden acceder hasta un máximo de 256 MB de memoria de tiempo de ejecución instantánea. Si supera la cuota asignada, puede detener algunas de las apps para liberar memoria de tiempo de ejecución. También puede trabajar con un clúster de Kubernetes con 2 CPU y 4 GB de RAM. 
@@ -121,7 +121,7 @@ Para reactivar las apps, empiece trabajando en ellas de nuevo en la línea de ma
 
 Para ver los detalles de uso, consulte los [mandatos de Cloud Foundry](/docs/cli/reference/cfcommands/index.html).
 
- **Nota**: Si la app ya tiene habilitado ssh, no puede utilizar los mandatos `cf enable-ssh` y `cf disable-sh` para reactivar la app. 
+ **Nota**: Si la app ya tiene habilitado SSH, no puede utilizar los mandatos `cf enable-ssh` ni `cf disable-sh` para reactivar la app. 
 
 ### Recogida de basura
 
@@ -129,4 +129,7 @@ Los servicios del plan de Lite se suprimen si no hay ninguna actividad en ellos 
  
 ## Participación en la cuenta Estándar de disponibilidad limitada
 {: #lgainvitation}
+
 Puede solicitar a un amigo con una cuenta Estándar a que le invite o póngase en contacto con nuestro equipo de ventas en sales@bluemix.net. ¡Nos gustaría que lo probara!
+
+Si recibe una invitación de un amigo o un vendedor de Bluemix, su invitación exclusiva se enviará a la dirección de correo electrónico que proporcione. Cuando reciba la invitación, complete las instrucciones del correo electrónico para registrarse para una cuenta Estándar. 

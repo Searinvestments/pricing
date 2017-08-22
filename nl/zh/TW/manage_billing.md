@@ -81,7 +81,7 @@ lastupdated: "2017-04-12"
 ## 將 {{site.data.keyword.Bluemix_notm}} 服務與 SoftLayer 資產搭配使用
 {: #bluemix_services}
 
-您可以輕鬆地將 API 型公用 {{site.data.keyword.Bluemix_notm}} 服務與 SoftLayer 資產搭配使用。所有 API 都很安全且經過加密，讓您的資料受到保護。
+您可以輕鬆地將以 API 為基礎的公用 {{site.data.keyword.Bluemix_notm}} 服務與 SoftLayer 資產搭配使用。所有 API 都很安全且經過加密，讓您的資料受到保護。
 {:shortdesc}
 
 例如，您是否曾經想要將 Watson 的認知功能新增至在 SoftLayer 的裸機伺服器上執行的應用程式？使用四個簡單的步驟，就可以新增 {{site.data.keyword.personalityinsightsshort}} 之類的服務，以協助瞭解您應用程式的使用者：

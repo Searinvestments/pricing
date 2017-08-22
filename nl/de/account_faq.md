@@ -20,8 +20,7 @@ Die folgenden häufig gestellten Fragen beziehen sich auf ein Standardkonto, das
 ## Wer kann sich für ein Standardkonto anmelden?
 {: #whocanuse}
 
-Da es sich um ein begrenztes Release (Limited Release) handelt, sind nur wenige neue {{site.data.keyword.Bluemix_notm}}-Benutzer im Vereinigten Königreich und in den USA für ein Standardkonto berechtigt. 
-Außerdem erhalten Benutzer die Möglichkeit zur Verwendung eines Standardkontos, wenn sie eine Einladung von einem Benutzer erhalten, der an dem begrenzten Release teilnimmt. Sie können einen Bekannten, der bereits ein Standardkonto besitzt, bitten, Sie einzuladen, oder sich an unseren Vertrieb unter sales@bluemix.net wenden.
+Da es sich um ein begrenztes Release (Limited Release) handelt, sind nur wenige neue {{site.data.keyword.Bluemix_notm}}-Benutzer im Vereinigten Königreich und in den USA für ein Standardkonto berechtigt. Außerdem erhalten Benutzer die Möglichkeit zur Verwendung eines Standardkontos, wenn sie eine Einladung von einem Benutzer erhalten, der an dem begrenzten Release teilnimmt. Sie können einen Bekannten, der bereits ein Standardkonto besitzt, bitten, Sie einzuladen, oder sich an unseren Vertrieb unter sales@bluemix.net wenden.
 
 ## Wie viele Organisationen kann ich in einem Standardkonto verwenden?
 {: #howmanyorgs}

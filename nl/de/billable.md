@@ -15,12 +15,12 @@ lastupdated: "2017-06-01"
 # Anmeldung für ein gebührenpflichtiges Konto
 {: #billable}
 
-Wenn Sie ein Upgrade für Ihr Konto vornehmen, können Sie eines der folgenden gebührenpflichtigen {{site.data.keyword.Bluemix_notm}}-Konten auswählen:  
+Wenn Sie ein Upgrade für Ihr Konto vornehmen, können Sie eines der folgenden gebührenpflichtigen {{site.data.keyword.Bluemix_notm}}-Konten auswählen: 
   
-  * Nutzungsabhängig - Bei einem Konto für nutzungsabhängige Zahlung werden Ihnen die Kosten auf der Grundlage Ihrer Nutzung der {{site.data.keyword.Bluemix_notm}}-Berechnungen und -Services in Rechnung gestellt. 
-  * Abonnement - Bei einem Abonnementkonto können Sie einen monatlichen Rabatt auf der Basis einer verbindlichen Mindestausgabeverpflichtung erhalten. 
-  * {{site.data.keyword.Bluemix_notm}} Dedicated - Die Gebühren werden über Jahresverträge abgerechnet. 
-  * {{site.data.keyword.Bluemix_notm}} Local - Die Gebühren werden über Jahresverträge abgerechnet.   
+  * Nutzungsabhängig - Bei einem Konto für nutzungsabhängige Zahlung werden Ihnen die Kosten auf der Grundlage Ihrer Nutzung der {{site.data.keyword.Bluemix_notm}}-Berechnungen und -Services in Rechnung gestellt.
+  * Abonnement - Bei einem Abonnementkonto können Sie einen monatlichen Rabatt auf der Basis einer verbindlichen Mindestausgabeverpflichtung erhalten.
+  * {{site.data.keyword.Bluemix_notm}} Dedicated - Die Gebühren werden über Jahresverträge abgerechnet.
+  * {{site.data.keyword.Bluemix_notm}} Local - Die Gebühren werden über Jahresverträge abgerechnet.  
 
 Falls während der Verwendung eines nutzungsabhängigen Kontos oder eines Abonnementkontos Probleme mit {{site.data.keyword.Bluemix_notm}} auftreten, finden Sie weitere Informationen unter [Kundenunterstützung abrufen](/docs/support/index.html#getting-customer-support).
 
@@ -36,7 +36,7 @@ In vielen Ländern und Regionen können Sie sich für ein nutzungsabhängiges Ko
   1. Klicken Sie auf das Symbol **Kostenlose Testversion** und anschließend auf **Bestätigen Sie Ihr kostenloses Konto** und wählen Sie **Option 1** aus.
   2. Geben Sie Ihr Land oder Ihre Region ein und klicken Sie auf **Kreditkarte hinzufügen**, um Ihre Kreditkarteninformationen anzugeben.
 
-Akzeptieren Sie nach der Angabe Ihrer Abrechnungs- und Kreditkarteninformationen die Vertragsbedingungen und schicken Sie Ihre Anforderung ab. Anschließend werden Ihre Kreditkarteninformationen geprüft. Es wird auch eine Bestätigungs-E-Mail für die Kontoinformationen gesendet. Einige Minuten nach Empfang der Bestätigungs-E-Mail können Sie zu {{site.data.keyword.Bluemix_notm}} zurückkehren, um mit der Erstellung Ihrer Apps fortzufahren. 
+Akzeptieren Sie nach der Angabe Ihrer Abrechnungs- und Kreditkarteninformationen die Vertragsbedingungen und übergeben Sie Ihre Anforderung; Ihre Kreditkarte wird geprüft. Es wird auch eine Bestätigungs-E-Mail für die Kontoinformationen gesendet. Einige Minuten nach Empfang der Bestätigungs-E-Mail können Sie zu {{site.data.keyword.Bluemix_notm}} zurückkehren, um mit der Erstellung Ihrer Apps fortzufahren. 
 
 Wenn Ihre Onlineanforderung für Ihr Land oder Ihre Region nicht verarbeitet werden kann, können Sie sich an den {{site.data.keyword.Bluemix_notm}}-Vertrieb wenden. Verwenden Sie dazu den Link auf der [{{site.data.keyword.Bluemix_notm}}-Support-Seite ![Symbol für externen Link](../icons/launch-glyph.svg)](http://ibm.biz/bluemixsupport){: new_window}.
 

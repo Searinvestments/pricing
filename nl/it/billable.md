@@ -39,8 +39,9 @@ In molti paesi e regioni, puoi registrarti per un account Pagamento a consumo da
 e fai quindi clic su **Conferma il tuo account gratuito** e seleziona **Opzione 1**.
   2. Immetti il tuo paese o la tua regione e fai clic su **Aggiungi carta di credito** per fornire le informazioni sulla tua carta di credito.
 
-Una volta che hai fornito le informazioni per la fatturazione e quelle relative alla tua carta di credito, accetta i termini e le condizioni e inoltra la richiesta di account.
-La tua carta di credito verrà quindi convalidata. Viene inviata anche una email di conferma delle informazioni sull'account. Qualche minuto dopo che hai ricevuto
+Dopo che hai fornito le informazioni per la fatturazione e quelle relative
+alla tua carta di credito, accettato i termini e le condizioni e inoltrato la richiesta di account, la tua carta di credito
+verrà convalidata. Viene inviata anche una email di conferma delle informazioni sull'account. Qualche minuto dopo che hai ricevuto
 la email di conferma, puoi ritornare a {{site.data.keyword.Bluemix_notm}} per continuare
 a creare le tue applicazioni. 
 

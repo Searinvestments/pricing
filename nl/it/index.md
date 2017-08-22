@@ -57,7 +57,7 @@ Quando ti registri per una versione di prova gratuita con il tuo ID {{site.data.
 ### Cosa succede al termina della prova gratuita? 
 {: #trialend}
 
-Quando la prova gratuita scade 30 giorni dopo la tua registrazione, le applicazioni nel tuo account vengono arrestate. Non puoi registrarti per un'altra versione di prova {{site.data.keyword.Bluemix_notm}}, ma puoi ancora accedere al tuo account e a tutti gli account ai quali sei invitato.  
+Quando la prova gratuita scade 30 giorni dopo la tua registrazione, le applicazioni nel tuo account vengono arrestate. Non puoi registrarti per un'altra versione di prova {{site.data.keyword.Bluemix_notm}}, ma puoi ancora accedere al tuo account e a tutti gli account ai quali sei invitato. 
 
 Per riavviare le tue applicazioni, converti il tuo account in un account a pagamento: fornisci le informazioni della tua carta di credito per un account Pagamento a consumo o crea un account Sottoscrizione. Dopo, puoi continuare a utilizzare le franchigie relative a elaborazione e servizi. Paghi solo per l'utilizzo di servizi, contenitori e runtime non incluso nella tua franchigia mensile.
 

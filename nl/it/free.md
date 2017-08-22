@@ -15,7 +15,7 @@ lastupdated: "2017-06-01"
 # Registrazione a un account gratuito
 {: #pricing}
 
-Puoi provare gratuitamente {{site.data.keyword.Bluemix}} effettuando la registrazione per un account Standard o per un account di prova di 30 giorni. Gli account Standard sono disponibili per utenti selezionati solo nelle regioni Regno Unito e Stati Uniti Sud. Gli account di prova sono disponibili in tutte le regioni.
+Puoi provare gratuitamente {{site.data.keyword.Bluemix}} effettuando la registrazione per un account Standard o per un account di prova di 30 giorni. Gli account Standard sono disponibili per utenti selezionati solo nelle regioni Regno Unito e Stati Uniti Sud. Gli account di prova sono disponibili in tutte le regioni. 
 {:shortdesc}
 
 ## Account Standard

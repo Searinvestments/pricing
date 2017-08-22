@@ -21,15 +21,15 @@ Wenn Sie sich für IBM Bluemix entscheiden, entstehen Ihnen zunächst keine Kost
 ## {{site.data.keyword.Bluemix_notm}}-Standardkonto
 {: #trystandard}
 
-Standardkonten sind nur für bestimmte Benutzer im Vereinigten Königreich und in den USA (Süden) verfügbar. Registrieren Sie sich für ein kostenloses Standardkonto an, um mit gebührenfreien Lite-Plänen in {{site.data.keyword.Bluemix}} Apps zu entwickeln und Services zu nutzen. Ihr Standardkonto gilt unbefristet und Ihre Kreditkarte wird nicht benötigt. Sie können ein Standardkonto erhalten, indem Sie einen Freund, der bereits ein Standardkonto besitzt, bitten, Sie einzuladen, oder Sie können sich unter sales@bluemix.net an das Vertriebsteam wenden.   
+Standardkonten sind nur für bestimmte Benutzer im Vereinigten Königreich und in den USA (Süden) verfügbar. Registrieren Sie sich für ein kostenloses Standardkonto an, um mit gebührenfreien Lite-Plänen in {{site.data.keyword.Bluemix}} Apps zu entwickeln und Services zu nutzen. Ihr Standardkonto gilt unbefristet und Ihre Kreditkarte wird nicht benötigt. Sie können ein Standardkonto erhalten, indem Sie einen Freund, der bereits ein Standardkonto besitzt, bitten, Sie einzuladen, oder Sie können sich unter sales@bluemix.net an das Vertriebsteam wenden.  
 {:shortdesc}
 
-Wenn Sie sich für ein Standardkonto registrieren, können Sie auswählen, in welcher geografischen Region Sie arbeiten wollen. Wenn Sie eine Organisation in einer Region erstellt haben, kann dies nicht mehr geändert werden.  
+Wenn Sie sich für ein Standardkonto registrieren, können Sie auswählen, in welcher geografischen Region Sie arbeiten wollen. Wenn Sie eine Organisation in einer Region erstellt haben, kann dies nicht mehr geändert werden. 
 
 ### Merkmale und Leistungen 
 {: #whatsavailable}
 
-Die folgende Liste beschreibt die Merkmale und Leistungen des Bluemix-Standardkontos. 
+Die folgende Liste beschreibt die Merkmale und Leistungen des Bluemix-Standardkontos.
   * Das Konto ist kostenfrei - Sie benötigen keine Kreditkarte.
   * Für das Konto existiert kein Ablaufdatum. 
   * Sie können eine Organisation in einer {{site.data.keyword.Bluemix_notm}}-Region verwenden.
@@ -48,7 +48,7 @@ Weitere Informationen finden Sie unter [IBM Bluemix-Standardkonto - begrenztes R
 Testkonten sind in allen Regionen verfügbar. Der 30-Tage-Testzeitraum bietet Ihnen die Möglichkeit zum Schnelleinstieg für das Entwickeln von Apps und das Nutzen der Services in {{site.data.keyword.Bluemix}}.
 {:shortdesc}
 
-Wenn Sie sich für einen kostenfreien Test mit Ihrer {{site.data.keyword.Bluemix_notm}}-ID registrieren, wird Ihr Konto gebührenfrei mit den folgenden Ressourcen ausgestattet: 
+Wenn Sie sich für einen kostenfreien Test mit Ihrer {{site.data.keyword.Bluemix_notm}}-ID registrieren, wird Ihr Konto gebührenfrei mit den folgenden Ressourcen ausgestattet:
 
 * Maximal 2 GB Speicher
 * 10 Services
@@ -57,20 +57,20 @@ Wenn Sie sich für einen kostenfreien Test mit Ihrer {{site.data.keyword.Bluemix
 ### Möglichkeiten am Ende des kostenlosen Testzeitraums 
 {: #trialend}
 
-Ihr kostenloser Testzeitraum läuft 30 Tage nach Ihrer Registrierung ab; dann werden die Apps in Ihrem Konto gestoppt. Sie können sich zwar nicht für einen weiteren {{site.data.keyword.Bluemix_notm}}-Test registrieren, aber Sie können weiterhin auf Ihr Konto und die Konten zugreifen, für die Sie eingeladen wurden.  
+Ihr kostenloser Testzeitraum läuft 30 Tage nach Ihrer Registrierung ab; dann werden die Apps in Ihrem Konto gestoppt. Sie können sich zwar nicht für einen weiteren {{site.data.keyword.Bluemix_notm}}-Test registrieren, aber Sie können weiterhin auf Ihr Konto und die Konten zugreifen, für die Sie eingeladen wurden. 
 
-Zum erneuten Starten Ihrer Anwendungen müssen Sie Ihr Konto in ein gebührenpflichtiges Konto umwandeln - also entweder Ihre Kreditkarteninformationen für ein nutzungsabhängiges Konto angeben oder ein Konto vom Typ 'Abonnement' erstellen. Anschließend können Sie mit der Verwendung der kostenlosen Rechen- und Serviceressourcen fortfahren. Sie zahlen nur für die Nutzung von Services, Containern und Laufzeiten, die nicht durch die kostenlosen Monatsleistungen abgedeckt sind. 
+Zum erneuten Starten Ihrer Anwendungen müssen Sie Ihr Konto in ein gebührenpflichtiges Konto umwandeln - also entweder Ihre Kreditkarteninformationen für ein nutzungsabhängiges Konto angeben oder ein Konto vom Typ 'Abonnement' erstellen. Anschließend können Sie mit der Verwendung der kostenlosen Rechen- und Serviceressourcen fortfahren. Sie zahlen nur für die Nutzung von Services, Containern und Laufzeiten, die nicht durch die kostenlosen Monatsleistungen abgedeckt sind.
 
-Wenn Sie Ihr Konto nach Ablauf des kostenlosen Testzeitraums nicht umwandeln, erhalten Sie E-Mail-Benachrichtigungen, die Sie daran erinnern, ein gebührenpflichtiges Konto einzurichten, damit Ihre App-Einstellungen und Servicekonfigurationen nicht verloren gehen. Wenn Sie diese Benachrichtigungen von {{site.data.keyword.Bluemix_notm}} nicht empfangen möchten, können Sie das Abonnement jederzeit beenden. 
+Wenn Sie Ihr Konto nach Ablauf des kostenlosen Testzeitraums nicht umwandeln, erhalten Sie E-Mail-Benachrichtigungen, die Sie daran erinnern, ein gebührenpflichtiges Konto einzurichten, damit Ihre App-Einstellungen und Servicekonfigurationen nicht verloren gehen. Wenn Sie diese Benachrichtigungen von {{site.data.keyword.Bluemix_notm}} nicht empfangen möchten, können Sie das Abonnement jederzeit beenden.
 
-Wenn Sie nach Ablauf des Testzeitraums kein Upgrade vornehmen, werden Ihre Anwendungen und Servicekonfigurationen nach 30 Tagen entfernt. Ihr Konto wird jedoch nicht gelöscht und Sie können sich jederzeit anmelden und Ihr Konto in ein gebührenpflichtiges Konto umwandeln.  
+Wenn Sie nach Ablauf des Testzeitraums kein Upgrade vornehmen, werden Ihre Anwendungen und Servicekonfigurationen nach 30 Tagen entfernt. Ihr Konto wird jedoch nicht gelöscht und Sie können sich jederzeit anmelden und Ihr Konto in ein gebührenpflichtiges Konto umwandeln. 
 
 Wenn Sie Ihr Konto während Ihres kostenlosen Testzeitraums umwandeln, werden Ihre kostenlosen Leistungen auf diejenigen begrenzt, die normalerweise von jedem Service bereitgestellt werden. Die kostenlosen Leistungen sind keine Leistungen mit unbegrenzter Nutzung mehr, die von vielen IBM Services während der kostenlosen Testperiode angeboten werden.
 
 ## Gebührenpflichtige Konten
 {: #billableacts}
 
-Wenn Sie sich für einen gebührenpflichtigen {{site.data.keyword.Bluemix_notm}}-Plan registrieren oder ein Upgrade für Ihr Konto anfordern, können Sie unter vier verschiedenen {{site.data.keyword.Bluemix_notm}}-Konten wählen. In der folgenden Tabelle werden die verschiedenen Kontotypen und ihre Gebührenmodelle aufgelistet.  
+Wenn Sie sich für einen gebührenpflichtigen {{site.data.keyword.Bluemix_notm}}-Plan registrieren oder ein Upgrade für Ihr Konto anfordern, können Sie unter vier verschiedenen {{site.data.keyword.Bluemix_notm}}-Konten wählen. In der folgenden Tabelle werden die verschiedenen Kontotypen und ihre Gebührenmodelle aufgelistet. 
 
 |{{site.data.keyword.Bluemix_notm}}-Kontotyp |	Art der Gebührenabrechnung |
 |------------------|-----------------------|

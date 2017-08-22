@@ -56,7 +56,7 @@ lastupdated: "2017-05-31"
 
 鏈結帳單之後，{{site.data.keyword.Bluemix_notm}} 發票即會針對您所使用的每一項資源列出不同費用：
 
-## API 型 Bluemix 服務
+## 以 API 為基礎的 Bluemix 服務
 {: #api_based_bluemix_services}
 
 下列清單包含可設定為與您的應用程式碼搭配執行的服務。

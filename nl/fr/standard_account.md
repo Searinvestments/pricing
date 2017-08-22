@@ -5,7 +5,7 @@
 copyright:
 
   years: 2016, 2017
-lastupdated: "2017-06-01"
+lastupdated: "2017-08-02"
 
 
 ---
@@ -24,14 +24,14 @@ utiliser vos applications {{site.data.keyword.Bluemix_notm}}
 sans vous soucier des restrictions de temps. 
 {:shortdesc}
 
-Les utilisateurs aux Royaume-Uni et dans les régions Sud des Etats-Unis sont éligibles pour le compte Standard. Si vous n'êtes pas situé dans ces régions, vous pouvez néanmoins créer un compte Standard en demandant à un ami de vous inviter ou en contactant notre équipe commerciale à l'adresse sales@bluemix.net. Une fois que vous disposez d'un compte Standard, vous pouvez inviter des amis et des collègues à participer.    
+Les utilisateurs aux Royaume-Uni et dans les régions Sud des Etats-Unis sont éligibles pour un compte Standard. Si vous n'êtes pas situé dans l'une de ces régions, vous pouvez néanmoins créer un compte Standard en demandant à un ami de vous inviter ou en contactant notre équipe commerciale à l'adresse sales@bluemix.net. En tant que propriétaire d'un compte Standard, vous pouvez inviter des amis et des collègues à participer.  
 
 ## Présentation du compte {{site.data.keyword.Bluemix_notm}} standard
 {: #standardaccount}
 
-Vous vous demandez sans doute en quoi le compte standard diffère du
+Vous vous demandez sans doute en quoi le compte Standard diffère du
 compte d'essai. Les tableaux suivants récapitulent les informations
-essentielles liées au compte standard {{site.data.keyword.Bluemix_notm}}. 
+essentielles sur le compte {{site.data.keyword.Bluemix_notm}} Standard. 
 
 |Quelles sont les nouveautés du compte standard ? |    
 |-----------------|
@@ -53,7 +53,7 @@ essentielles liées au compte standard {{site.data.keyword.Bluemix_notm}}.
 **Remarque :** si votre compte d'essai n'est pas converti, un message d'explication s'affiche. Votre compte d'essai comporte peut-être plusieurs organisations ou des applications qui ne peuvent pas être transférées. Effectuez l'action appropriée, puis faites une nouvelle tentative
 de conversion.
 
-Une fois inscrit à un compte standard, vous pouvez inviter des membres
+Lorsque vous êtes propriétaire d'un compte Standard, vous pouvez inviter des membres
 d'équipe à collaborer dans votre organisation et vos espaces, afficher votre
 utilisation, créer des espaces, mettre à jour votre profil de compte et gérer
 votre organisation.
@@ -76,10 +76,10 @@ ou sur la base d'une utilisation unique. Voici quelques exemples de quotas de pl
 
 Un compte standard vous permet d'utiliser n'importe quel élément du
 catalogue {{site.data.keyword.Bluemix_notm}} doté d'un plan Lite. Les
-plans Lite sont faciles à trouver. Par défaut, lorsque vous ouvrez le
+plans Lite sont faciles à trouver. Par défaut, lorsque vous accédez au
 catalogue, tous les services dotés d'un plan Lite sont affichés et identifiés par une balise Lite ![balise Lite](../icons/Lite.svg). Sélectionnez un service pour afficher les détails du quota du plan Lite associé.
 
-## Qu'est-ce qui est disponible dans le compte standard ?
+## Qu'est-ce qui est disponible dans un compte Standard ?
 {: #whatsavailable}
 
 Dans un compte standard, les applications Cloud Foundry peuvent accéder, au maximum, à 256 Mo de mémoire d'exécution instantanée. Si vous
@@ -101,7 +101,7 @@ Dans l'édition Standard Account Limited Release, les services {{site.data.keywo
 
 Certains services ne sont pas disponibles dans toutes les régions {{site.data.keyword.Bluemix_notm}}. Pour plus d'informations, voir [Services par region](/docs/services/services_region.html#services_region).
 
-Nous étendrons cette liste, donc restez à l'écoute !
+Nous étendrons cette liste de services, donc restez à l'écoute !
 
 ### Limites de quota
 
@@ -109,7 +109,7 @@ Quand vos limites de quota sont atteintes, votre application est arrêtée
 ou votre service est désactivé. Si le plan Lite spécifie que le quota est
 fourni sur une base mensuelle, l'utilisation des ressources est réinitialisée
 le premier de chaque mois et vous pouvez alors réutiliser le service. Lorsque
-vous approchez ou atteignez une limite de quota, vous recevez un courrier électronique de notification. 
+vous approchez ou atteignez la limite de quota, vous recevrez un courrier électronique de notification. 
 
 Vous pouvez mettre à disposition 1 instance par plan Lite. 
 
@@ -131,8 +131,7 @@ de 256 Mo.
 Pour activer vos applications, commencez à les réutiliser dans la
 ligne de commande Cloud Foundry ou dans la console {{site.data.keyword.Bluemix_notm}}. 
  
- Voici la liste de toutes les commandes qui permettent d'activer votre
-application :
+ Voici la liste de toutes les commandes qui permettent d'activer votre application :
   * cf push
   * cf restate
   * cf restart
@@ -149,7 +148,7 @@ application :
 
 Pour plus de détails sur l'utilisation, voir [Commandes Cloud Foundry](/docs/cli/reference/cfcommands/index.html).
 
- **Remarque **: si votre application est déjà activée pour ssh, vous ne pouvez pas utiliser les commandes `cf enable-ssh` et `cf disable-sh` pour ranimer votre application. 
+ **Remarque **: si votre application est déjà activée pour SSH, vous ne pouvez pas utiliser les commandes `cf enable-ssh` et `cf disable-sh` pour ranimer votre application. 
 
 ### Récupération de place
 
@@ -157,4 +156,7 @@ Vos services de plan Lite sont supprimés en l'absence d'activité pendant 30 jo
  
 ## Participation au compte Standard Account Limited Release
 {: #lgainvitation}
+
 Vous pouvez demander à un ami disposant d'un compte Standard de vous inviter ou contacter notre équipe commerciale à l'adresse sales@bluemix.net. Vous êtes le bienvenu si vous désirez l'essayer !
+
+Si vous recevez une invitation d'un ami ou d'un vendeur Bluemix, votre invitation exclusive est envoyée à l'adresse électronique que vous avez fournie. Lorsque vous recevez l'invitation, suivez les instructions du courrier électronique pour vous inscrire pour un compte Standard. 

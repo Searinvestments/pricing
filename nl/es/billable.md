@@ -36,8 +36,7 @@ En muchos países y regiones, puede registrarse para una cuenta Pago según uso 
   1. Pulse el icono **Prueba gratuita**, a continuación **Confirmar cuenta gratuita** y seleccione **Opción 1**.
   2. Después de especificar el país o región y pulsar **Añadir tarjeta de crédito** proporcione la información de su tarjeta de crédito.
 
-Tras proporcionar la información de la tarjeta de crédito y la facturación, aceptar los términos y condiciones y enviar una solicitud de cuenta. 
-A continuación, se validará la tarjeta de crédito. También se envía un correo electrónico de confirmación de la información de la cuenta. Transcurridos algunos minutos tras la recepción del correo electrónico de confirmación, puede volver a {{site.data.keyword.Bluemix_notm}} para continuar creando sus apps. 
+Tras proporcionar la información de la tarjeta de crédito y la facturación, aceptar los términos y condiciones y enviar una solicitud de cuenta, se validará su tarjeta de crédito. También se envía un correo electrónico de confirmación de la información de la cuenta. Transcurridos algunos minutos tras la recepción del correo electrónico de confirmación, puede volver a {{site.data.keyword.Bluemix_notm}} para continuar creando sus apps. 
 
 Si no se puede procesar su solicitud en línea para su país o región, póngase en contacto con el equipo de ventas de {{site.data.keyword.Bluemix_notm}} utilizando el enlace que aparece en la página [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](http://ibm.biz/bluemixsupport){: new_window}.
 

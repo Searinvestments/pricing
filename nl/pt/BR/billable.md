@@ -40,8 +40,7 @@ gratuita** e, então, clique em **Confirmar sua conta gratuita** e selecione
 **Opção 1**.
   2. Insira seu país ou sua região e clique em **Incluir cartão de crédito** para fornecer suas informações de cartão de crédito.
 
-Depois de fornecer suas informações de faturamento e de cartão de crédito, aceite os termos e condições e envie sua solicitação de conta.
-Em seguida, seu cartão de crédito será validado. Um e-mail de confirmação dos dados da conta também será enviado. Alguns minutos após o recebimento do e-mail de confirmação, é possível retornar ao {{site.data.keyword.Bluemix_notm}} para continuar construindo seus apps. 
+Depois de fornecer suas informações de faturamento e cartão de crédito, aceite os termos e condições e envie sua solicitação de conta; seu cartão de crédito será validado. Um e-mail de confirmação dos dados da conta também será enviado. Alguns minutos após o recebimento do e-mail de confirmação, é possível retornar ao {{site.data.keyword.Bluemix_notm}} para continuar construindo seus apps. 
 
 Se a sua solicitação on-line não puder ser processada para seu país ou região, será possível entrar em contato com
 as Vendas do {{site.data.keyword.Bluemix_notm}} usando o link listado na página

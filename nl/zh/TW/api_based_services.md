@@ -14,7 +14,7 @@ lastupdated: "2017-04-12"
 {:screen: .screen}
 {:new_window: target="_blank"}
 
-# API 型 Bluemix 服務
+# 以 API 為基礎的 Bluemix 服務
 {: #api_based_bluemix_services}
 並非所有 {{site.data.keyword.Bluemix_notm}} 服務都可以與 SoftLayer 搭配使用。下列服務可設定為與您的應用程式碼搭配執行：
 * {{site.data.keyword.alchemyapishort}}
