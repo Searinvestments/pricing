@@ -5,7 +5,7 @@
 copyright:
 
   years: 2016, 2017
-lastupdated: "2017-08-22"
+lastupdated: "2017-08-23"
 
 
 ---
@@ -68,7 +68,7 @@ In a Standard account, you can use anything in the {{site.data.keyword.Bluemix_n
 
 With a Standard account, your Cloud Foundry apps can access up to a maximum of 256 MB of instantaneous runtime memory. If you exceed your allocated quota, you can stop some of the apps to free up runtime memory. You can also work with a Kubernetes cluster with 2 CPU and 4 GB RAM. 
 
-You can use any service in the catalog that has a Lite plan. However, you can provision only one instance per Lite plan. During the Standard Account Limited Release, the following {{site.data.keyword.Bluemix_notm}} services offer a Lite plan:
+You can use any service in the {{site.data.keyword.Bluemix_notm}} catalog that has a Lite plan. However, you can provision only one instance per Lite plan. During the Standard Account Limited Release, the following services offer a Lite plan:
 
 <ul>
 <li>{{site.data.keyword.prf_hublong}}</li>
