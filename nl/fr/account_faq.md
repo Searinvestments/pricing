@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-05-31"
+lastupdated: "2017-08-16"
 
 ---
 
@@ -12,7 +12,7 @@ lastupdated: "2017-05-31"
 {:screen: .screen}
 {:new_window: target="_blank"}
 
-# Foire aux questions concernant le compte standard 
+# Foire aux questions concernant le compte standard
 {: #stdaccountfaq}
 
 Ces questions courantes concernent un compte Standard, lequel est créé dans le cloud public {{site.data.keyword.Bluemix}}.
@@ -29,8 +29,8 @@ Vu que le compte Standard n'est pas destiné à des scénarios d'utilisation ava
 
 ## Un compte Standard expire-t-il un jour ?
 {: #neverexpires}
-   
-Non , ce compte n'expire jamais. Vous pouvez utiliser le compte Standard gratuit aussi longtemps que vous le souhaitez. A un certain stade, vous voudrez peut-être utiliser des ressources d'infrastructure ou d'autres services non couverts par un plan Lite. Vous pourrez alors procéder à une mise à niveau vers un compte facturable . 
+
+Non , ce compte n'expire jamais. Vous pouvez utiliser le compte Standard gratuit aussi longtemps que vous le souhaitez. A un certain stade, vous voudrez peut-être utiliser des ressources d'infrastructure ou d'autres services non couverts par un plan Lite. Vous pourrez alors procéder à une mise à niveau vers un compte facturable .
 
 ## Puis-je inviter d'autres personnes à collaborer sur mon compte Standard ?
 {: #inviteothers}
@@ -66,7 +66,7 @@ Certains services ne sont pas disponibles dans toutes les régions {{site.data.k
 <li>Clusters Kubernetes</li>
 </ul>
 
-D'autres ressources de catalogue viendront s'ajouter à cette liste. Surveillez cet espace ! 
+D'autres ressources de catalogue viendront s'ajouter à cette liste. Surveillez cet espace !
 
 ## En quoi consiste un plan Lite ?
 {: #whatisliteplan}
@@ -88,4 +88,9 @@ Si aucune activité de développement actif n'a lieu dans votre compte pendant 1
 
 Interrogez notre communauté de développeurs sur StackOverflow. Nous y répondons promptement aux questions. Pour poster une question alors que vous êtes connecté à votre compte, cliquez sur **Support** et sélectionnez **Trouver des réponses**.  
 
-Vous pouvez également soumettre un ticket de demande de service. Alors que vous êtes connecté à votre compte, cliquez sur **Support** et sélectionnez **Ajouter un ticket**. Choisissez ensuite la catégorie pertinente et entrez vos informations. Vous pouvez également obtenir de l'aide en cliquant sur le lien figurant sur la page [Support {{site.data.keyword.Bluemix_notm}} ![External link icon](../icons/launch-glyph.svg)](http://ibm.biz/bluemixsupport){: new_window}. 
+Vous pouvez également soumettre un ticket de demande de service. Alors que vous êtes connecté à votre compte, cliquez sur **Support** et sélectionnez **Ajouter un ticket**. Choisissez ensuite la catégorie pertinente et entrez vos informations. Vous pouvez également obtenir de l'aide en cliquant sur le lien figurant sur la page [Support {{site.data.keyword.Bluemix_notm}} ![External link icon](../icons/launch-glyph.svg)](http://ibm.biz/bluemixsupport){: new_window}.
+
+## Comment résilier mon compte ?
+{: #cancelaccount}
+
+Depuis la console {{site.data.keyword.Bluemix_notm}}, accédez à la page **Gérer > Facturation et utilisation > Facturation** et cliquez sur **Désactiver le compte**.

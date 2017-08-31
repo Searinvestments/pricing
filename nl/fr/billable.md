@@ -37,8 +37,7 @@ Dans de nombreux pays et régions, vous pouvez créer un compte Paiement à la c
   1. Cliquez sur l'icône **Essai gratuit**, puis cliquez sur **Confirmation de votre compte gratuit** et sélectionnez **Option 1**.
   2. Entrez votre pays ou région et cliquez sur **Ajouter une carte de crédit** pour fournir les informations relatives à votre carte de crédit.
 
-Après avoir fourni vos informations de facturation et de carte de crédit, acceptez les dispositions du contrat et soumettez votre demande de compte. Votre carte de crédit sera alors validée.
-Un courrier électronique de confirmation des
+Après avoir fourni vos informations de facturation et de carte de crédit, acceptez les dispositions du contrat et soumettez votre demande de compte. Votre carte de crédit sera alors validée. Un courrier électronique de confirmation des
 informations de compte est également envoyé. Quelques minutes après la réception du courrier électronique de confirmation, vous pouvez revenir dans
 {{site.data.keyword.Bluemix_notm}} pour continuer de construire vos applications. 
 

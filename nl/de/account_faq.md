@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-05-31"
+lastupdated: "2017-08-16"
 
 ---
 
@@ -12,7 +12,7 @@ lastupdated: "2017-05-31"
 {:screen: .screen}
 {:new_window: target="_blank"}
 
-# Häufig gestellte Fragen (FAQ) zum Standardkonto 
+# Häufig gestellte Fragen (FAQ) zum Standardkonto
 {: #stdaccountfaq}
 
 Die folgenden häufig gestellten Fragen beziehen sich auf ein Standardkonto, das in der öffentlichen {{site.data.keyword.Bluemix}}-Cloud erstellt wird.
@@ -29,8 +29,8 @@ Da das Standardkonto nicht für erweiterte Anwendungsfälle ausgelegt ist, ist e
 
 ## Kann ein Standardkonto ablaufen?
 {: #neverexpires}
-   
-Nein, es läuft nicht ab. Sie können das kostenlose Standardkonto so lange verwenden, wie Sie es brauchen. Irgendwann möchten Sie vielleicht Infrastrukturressourcen oder andere Services nutzen, die keinem Lite-Plan unterliegen. Zu dem Zeitpunkt können Sie ein Upgrade auf ein gebührenpflichtiges Konto durchführen. 
+
+Nein, es läuft nicht ab. Sie können das kostenlose Standardkonto so lange verwenden, wie Sie es brauchen. Irgendwann möchten Sie vielleicht Infrastrukturressourcen oder andere Services nutzen, die keinem Lite-Plan unterliegen. Zu dem Zeitpunkt können Sie ein Upgrade auf ein gebührenpflichtiges Konto durchführen.
 
 ## Kann ich andere zur Zusammenarbeit in mein Standardkonto einladen?
 {: #inviteothers}
@@ -66,7 +66,7 @@ Manche Services sind nicht in allen {{site.data.keyword.Bluemix_notm}}-Regionen 
 <li>Kubernetes-Cluster</li>
 </ul>
 
-Dieser Liste werden noch weitere Katalogressourcen hinzugefügt, Raum lassen! 
+Dieser Liste werden noch weitere Katalogressourcen hinzugefügt, Raum lassen!
 
 ## Was ist ein Lite-Plan?
 {: #whatisliteplan}
@@ -88,4 +88,9 @@ Wenn Sie für einen Zeitraum von 10 Tagen nicht aktiv an Ihrem Konto entwickeln,
 
 Wenden Sie sich an unsere Entwickler-Community auf StackOverflow. Dort sind wir aktiv, um Ihre Fragen zu beantworten. Um eine Frage zu posten, wenn Sie bei Ihrem Konto angemeldet sind, klicken Sie auf **Support** und anschließend auf **Antworten suchen**.  
 
-Sie haben auch die Möglichkeit, ein Support-Ticket einzureichen. Wenn Sie bei Ihrem Konto angemeldet sind, klicken Sie auf **Support** und wählen Sie **Ticket hinzufügen** aus. Wählen Sie dann die entsprechende Kategorie aus und geben Sie die Details an. Andernfalls können Sie Support erhalten, indem Sie den Link verwenden, der auf der Seite [{{site.data.keyword.Bluemix_notm}}-Unterstützung ![Symbol für externen Link](../icons/launch-glyph.svg)](http://ibm.biz/bluemixsupport){: new_window} aufgelistet ist. 
+Sie haben auch die Möglichkeit, ein Support-Ticket einzureichen. Wenn Sie bei Ihrem Konto angemeldet sind, klicken Sie auf **Support** und wählen Sie **Ticket hinzufügen** aus. Wählen Sie dann die entsprechende Kategorie aus und geben Sie die Details an. Andernfalls können Sie Support erhalten, indem Sie den Link verwenden, der auf der Seite [{{site.data.keyword.Bluemix_notm}}-Unterstützung ![Symbol für externen Link](../icons/launch-glyph.svg)](http://ibm.biz/bluemixsupport){: new_window} aufgelistet ist.
+
+## Wie kann ich mein Konto kündigen?
+{: #cancelaccount}
+
+Rufen Sie in der {{site.data.keyword.Bluemix_notm}}-Konsole die Seite **Verwalten > Abrechnung und Nutzung > Abrechnung** auf und klicken Sie auf **Konto inaktivieren**.

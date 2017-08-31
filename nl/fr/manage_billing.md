@@ -5,7 +5,7 @@
 copyright:
 
   years: 2017
-lastupdated: "2017-04-12"
+lastupdated: "2017-08-16"
 
 ---
 
@@ -14,7 +14,7 @@ lastupdated: "2017-04-12"
 {:screen: .screen}
 {:new_window: target="_blank"}
 
-# Gestion de l'utilisation pour les comptes {{site.data.keyword.Bluemix_notm}} liés 
+# Gestion de l'utilisation pour les comptes {{site.data.keyword.Bluemix_notm}} liés
 {: #linked_usage}
 
 Si vous disposez d'un compte {{site.data.keyword.Bluemix_notm}} et d'un compte SoftLayer liés, vous pouvez utiliser le portail de contrôle pour effectuer un paiement ponctuel, changer les détails de votre carte de paiement, afficher vos articles de facturation, et afficher vos factures.
@@ -31,8 +31,8 @@ Vous pouvez effectuer un paiement ponctuel à tout moment. Le montant du paiemen
  * Dans le tableau de bord Infrastructure, cliquez sur **Compte** &gt; **Effectuer un paiement**.
 3. Dans la zone **Payment Amount**, entrez la somme à régler.
 4. Sélectionnez votre méthode de paiement :
- * Paiement avec une carte de crédit. Entrez les détails de votre carte ainsi que l'adresse de facturation de la carte. Ensuite, cliquez sur **Make Credit Card Payment**. 
- * Paiement avec PayPal. Entrez vos informations lorsque vous êtes invité à procéder au paiement. 
+ * Paiement avec une carte de crédit. Entrez les détails de votre carte ainsi que l'adresse de facturation de la carte. Ensuite, cliquez sur **Make Credit Card Payment**.
+ * Paiement avec PayPal. Entrez vos informations lorsque vous êtes invité à procéder au paiement.
 
 Résolvez tout problème signalé qui est lié au paiement. Le solde du compte est mis à jour une fois le paiement accepté. Vous pouvez prendre contact
 avec l'équipe de support en cliquant sur **Support** &gt; **Ajouter un ticket**.
@@ -40,12 +40,12 @@ avec l'équipe de support en cliquant sur **Support** &gt; **Ajouter un ticket**
 ## Changement de méthode de paiement
 {: #managepaymentmethod}
 
-Une carte de crédit valide doit être enregistrée pour chaque compte facturable. Tous les mois, la carte de crédit est débitée du montant correspondant à l'utilisation mensuelle. Dans la console {{site.data.keyword.Bluemix_notm}}, procédez comme suit pour ajouter ou changer vos détails de paiement. 
+Une carte de crédit valide doit être enregistrée pour chaque compte facturable. Tous les mois, la carte de crédit est débitée du montant correspondant à l'utilisation mensuelle. Dans la console {{site.data.keyword.Bluemix_notm}}, procédez comme suit pour ajouter ou changer vos détails de paiement.
 
 1. Sélectionnez l'une des options suivantes, selon le tableau de bord que vous utilisez :  
  * Dans le tableau de bord Applis ou Services, cliquez sur **Gérer** &gt; **Facturation et utilisation** &gt; **Modifier la méthode de paiement**.  
  * Dans le tableau de bord Infrastructure, cliquez sur **Compte** &gt; **Facturation** &gt; **Méthode de paiement**.
-2. Dans la section Add Payment Method, entrez les détails de votre carte de crédit ainsi que l'adresse de facturation de la carte. Ensuite, cliquez sur **Ajouter une carte de crédit**. 
+2. Dans la section Add Payment Method, entrez les détails de votre carte de crédit ainsi que l'adresse de facturation de la carte. Ensuite, cliquez sur **Ajouter une carte de crédit**.
 
 Les détails de votre carte sont validés et votre carte pourra être utilisée sur votre compte dans les 24 heures. Un courrier électronique de confirmation est
 envoyé au contact entré dans la section de l'adresse de facturation de la carte.
@@ -58,9 +58,9 @@ Articles de facturation affiche les articles de facturation associés. Vous pouv
 plusieurs articles à la fois avec l'opération Bulk Actions. Vous pouvez annuler des articles de facturation individuels à tout moment depuis la page Articles de facturation. Dans la console {{site.data.keyword.Bluemix_notm}}, procédez comme suit pour associer ou dissocier vos articles de facturation.
 
 1. Sélectionnez l'une des options suivantes, selon le tableau de bord que vous utilisez :   
- * Dans le tableau de bord Applis ou Services, cliquez sur **Gérer** &gt; **Facturation et utilisation** &gt; **Articles de facturation**.  
+ * Dans le tableau de bord Applications ou Services, cliquez sur **Gérer** &gt; **Facturation et utilisation** &gt; **Facturation**.  
  * Dans le tableau de bord Infrastructure, cliquez sur **Compte** &gt; **Facturation** &gt; **Articles de facturation**.
-2. Sélectionnez l'option d'article de facturation de votre choix et renseignez les zones pertinentes. 
+2. Sélectionnez l'option d'article de facturation de votre choix et renseignez les zones pertinentes.
 
 ## Affichage de vos factures
 {: #manageinvoices}
@@ -74,14 +74,14 @@ soldes. Les catégories de type de facture peuvent être les suivantes :
  *  Credit -- crédit accordé par {{site.data.keyword.Bluemix_notm}} pour le solde du compte.
  *  Refund -- remboursement, ou annulation, de frais ponctuels ou récurrents.
 
-La page Factures affiche également un récapitulatif de la facturation pour le compte, qui inclut le solde en cours et le prochain solde estimé, la méthode de paiement, ainsi que la dernière date et la prochaine date de facture récurrente. Vous pouvez afficher une facture dans le portail de contrôle ou la télécharger. 
+La page Factures affiche également un récapitulatif de la facturation pour le compte, qui inclut le solde en cours et le prochain solde estimé, la méthode de paiement, ainsi que la dernière date et la prochaine date de facture récurrente. Vous pouvez afficher une facture dans le portail de contrôle ou la télécharger.
 
 Dans la console {{site.data.keyword.Bluemix_notm}}, procédez comme suit pour afficher une facture :
 
 1. Sélectionnez l'une des options suivantes, selon le tableau de bord que vous utilisez :  
  * Dans le tableau de bord Applis ou Services, cliquez sur **Gérer** &gt; **Facturation et utilisation** &gt; **Factures**.  
  * Dans le tableau de bord Infrastructure, cliquez sur **Compte** &gt; **Facturation** &gt; **Factures**.
-2. Vous pouvez afficher une facture dans le portail de contrôle ou la télécharger. 
+2. Vous pouvez afficher une facture dans le portail de contrôle ou la télécharger.
 
 ## Utilisation de services {{site.data.keyword.Bluemix_notm}} avec des actifs SoftLayer
 {: #bluemix_services}

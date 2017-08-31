@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-05-31"
+lastupdated: "2017-08-16"
 
 ---
 
@@ -12,7 +12,7 @@ lastupdated: "2017-05-31"
 {:screen: .screen}
 {:new_window: target="_blank"}
 
-# 标准帐户常见问题 
+# 标准帐户常见问题
 {: #stdaccountfaq}
 
 以下常见问题与标准帐户有关，标准帐户在 {{site.data.keyword.Bluemix}} 公共云中创建。
@@ -29,8 +29,8 @@ lastupdated: "2017-05-31"
 
 ## 标准帐户是否会到期？
 {: #neverexpires}
-   
-不，标准帐户不会到期 - 只要您需要，您可以一直使用免费标准帐户。有时，您可能想要使用基础架构资源或其他没有 Lite 套餐的服务。这时，您可以升级到计费帐户。 
+
+不，标准帐户不会到期 - 只要您需要，您可以一直使用免费标准帐户。有时，您可能想要使用基础架构资源或其他没有 Lite 套餐的服务。这时，您可以升级到计费帐户。
 
 ## 我可以邀请其他人在我的标准帐户中进行协作吗？
 {: #inviteothers}
@@ -66,7 +66,7 @@ lastupdated: "2017-05-31"
 <li>Kubernetes 集群</li>
 </ul>
 
-更多目录资源将添加到此列表，敬请期待！ 
+更多目录资源将添加到此列表，敬请期待！
 
 ## 什么是 Lite 套餐？
 {: #whatisliteplan}
@@ -88,4 +88,9 @@ Lite 套餐是以服务套餐为基础的免费配额。您可以使用服务 Li
 
 请在 StackOverflow 的开发人员社区上进行询问。我们在那里积极回答问题。要在登录到帐户时发布问题，请单击**支持**并选择**查找答案**。  
 
-您还可以提交支持凭单。当您登录到帐户时，请单击**支持**并选择**添加凭单**。然后，选择相关类别并输入详细信息。或者，您也可以使用 [{{site.data.keyword.Bluemix_notm}}支持 ![外部链接图标](../icons/launch-glyph.svg)](http://ibm.biz/bluemixsupport){: new_window} 页面上列出的链接来获得支持。 
+您还可以提交支持凭单。当您登录到帐户时，请单击**支持**并选择**添加凭单**。然后，选择相关类别并输入详细信息。或者，您也可以使用 [{{site.data.keyword.Bluemix_notm}}支持 ![外部链接图标](../icons/launch-glyph.svg)](http://ibm.biz/bluemixsupport){: new_window} 页面上列出的链接来获得支持。
+
+## 如何取消帐户？
+{: #cancelaccount}
+
+在 {{site.data.keyword.Bluemix_notm}} 控制台中，转至**管理 > 记帐和使用情况 > 记帐**页面，并单击**停用帐户**。

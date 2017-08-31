@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-05-31"
+lastupdated: "2017-08-16"
 
 ---
 
@@ -12,7 +12,7 @@ lastupdated: "2017-05-31"
 {:screen: .screen}
 {:new_window: target="_blank"}
 
-# 標準帳戶常見問題 (FAQ) 
+# 標準帳戶常見問題 (FAQ)
 {: #stdaccountfaq}
 
 下列是與「標準帳戶」相關的常見問題，而標準帳戶是在 {{site.data.keyword.Bluemix}} 公用雲端中建立。
@@ -29,8 +29,8 @@ lastupdated: "2017-05-31"
 
 ## 「標準帳戶」會到期嗎？
 {: #neverexpires}
-   
-否，不會到期 - 只要您需要，都可以使用免費「標準帳戶」。在某些情況下，您可能要使用基礎架構資源或其他沒有「精簡方案」的服務。然後，您可以升級至計費帳戶。 
+
+否，不會到期 - 只要您需要，都可以使用免費「標準帳戶」。在某些情況下，您可能要使用基礎架構資源或其他沒有「精簡方案」的服務。然後，您可以升級至計費帳戶。
 
 ## 在「標準帳戶」中，我可以邀請其他人分工合作嗎？
 {: #inviteothers}
@@ -66,7 +66,7 @@ lastupdated: "2017-05-31"
 <li>Kubernetes 叢集</li>
 </ul>
 
-更多的型錄資源將會新增至此清單，請觀看此空間！ 
+更多的型錄資源將會新增至此清單，請觀看此空間！
 
 ## 何謂「精簡方案」？
 {: #whatisliteplan}
@@ -88,4 +88,9 @@ lastupdated: "2017-05-31"
 
 請在 StackOverflow 詢問開發人員社群。我們將會在這裡主動回答問題。若要在登入帳戶後張貼問題，請按一下**支援**，然後選取**尋找答案**。  
 
-您也可以提交支援問題單。當您登入帳戶後，請按一下**支援**，然後選取**新增問題單**。然後，選擇相關的種類，並輸入詳細資料。否則，您可以使用 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](http://ibm.biz/bluemixsupport){: new_window} 頁面上列出的鏈結，來取得支援。 
+您也可以提交支援問題單。當您登入帳戶後，請按一下**支援**，然後選取**新增問題單**。然後，選擇相關的種類，並輸入詳細資料。否則，您可以使用 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](http://ibm.biz/bluemixsupport){: new_window} 頁面上列出的鏈結，來取得支援。
+
+## 如何取消我的帳戶？
+{: #cancelaccount}
+
+在 {{site.data.keyword.Bluemix_notm}} 主控台中，移至**管理 > 計費及用量 > 計費**頁面，然後按一下**取消啟動帳戶**。

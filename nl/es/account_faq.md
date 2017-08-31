@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-05-31"
+lastupdated: "2017-08-16"
 
 ---
 
@@ -12,7 +12,7 @@ lastupdated: "2017-05-31"
 {:screen: .screen}
 {:new_window: target="_blank"}
 
-# Preguntas más frecuentes sobre la cuenta Estándar 
+# Preguntas más frecuentes sobre la cuenta Estándar
 {: #stdaccountfaq}
 
 Las siguientes preguntas más frecuentes (FAQ) están relacionadas con la cuenta Estándar que se crea en la nube pública de {{site.data.keyword.Bluemix}}.
@@ -29,8 +29,8 @@ Puesto que la cuenta Estándar no está pensada para casos de uso avanzado, est�
 
 ## ¿Caduca alguna vez una cuenta Estándar?
 {: #neverexpires}
-   
-No, no caduca. Una cuenta Estándar gratuita puede utilizarla tanto tiempo como la necesite. En algún instante, podría querer utilizar los recursos de infraestructura u otros servicios que no tiene un plan Lite. Entonces, podrá actualizarse a una cuenta facturable. 
+
+No, no caduca. Una cuenta Estándar gratuita puede utilizarla tanto tiempo como la necesite. En algún instante, podría querer utilizar los recursos de infraestructura u otros servicios que no tiene un plan Lite. Entonces, podrá actualizarse a una cuenta facturable.
 
 ## ¿Puedo invitar a otros usuarios a colaborar en mi cuenta Estándar?
 {: #inviteothers}
@@ -66,7 +66,7 @@ Algunos servicios no están disponibles en todas las regiones de {{site.data.key
 <li>Clústeres Kubernetes</li>
 </ul>
 
-Siga visitando este espacio porque se añadirán más recursos de catálogo a esta lista. 
+Siga visitando este espacio porque se añadirán más recursos de catálogo a esta lista.
 
 ## ¿Qué es un plan Lite?
 {: #whatisliteplan}
@@ -88,4 +88,9 @@ Si no está desarrollando de forma activa en su cuenta durante un periodo de 10 
 
 Obtenga ayuda en nuestra comunidad de desarrolladores en StackOverflow. Allí respondemos de forma activa a las preguntas que se realizan. Para publicar una pregunta cuando ha iniciado una sesión en su cuenta, pulse **Soporte** y seleccione **Encontrar respuestas**.  
 
-También puede abrir una incidencia de soporte. Cuando haya iniciado una sesión en la cuenta, pulse **Soporte** y seleccione **Añadir incidencia**. A continuación, elija la categoría pertinente y especifique los detalles. De lo contrario, obtenga soporte utilizando el enlace que aparece listado en la página [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](http://ibm.biz/bluemixsupport){: new_window}. 
+También puede abrir una incidencia de soporte. Cuando haya iniciado una sesión en la cuenta, pulse **Soporte** y seleccione **Añadir incidencia**. A continuación, elija la categoría pertinente y especifique los detalles. De lo contrario, obtenga soporte utilizando el enlace que aparece listado en la página [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](http://ibm.biz/bluemixsupport){: new_window}.
+
+## ¿Cómo puedo cancelar mi cuenta?
+{: #cancelaccount}
+
+En la consola de {{site.data.keyword.Bluemix_notm}}, vaya a la página **Gestión > Facturación y uso > Facturación** y pulse **Desactivar cuenta**.

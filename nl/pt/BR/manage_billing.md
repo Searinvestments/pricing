@@ -5,7 +5,7 @@
 copyright:
 
   years: 2017
-lastupdated: "2017-04-12"
+lastupdated: "2017-08-16"
 
 ---
 
@@ -14,7 +14,7 @@ lastupdated: "2017-04-12"
 {:screen: .screen}
 {:new_window: target="_blank"}
 
-# Gerenciando o uso de contas vinculadas do {{site.data.keyword.Bluemix_notm}} 
+# Gerenciando o uso de contas vinculadas do {{site.data.keyword.Bluemix_notm}}
 {: #linked_usage}
 
 Se você tiver uma conta vinculada do {{site.data.keyword.Bluemix_notm}} e do SoftLayer, será possível usar o Portal de controle para fazer um pagamento único, mudar os detalhes de seu cartão de pagamento, visualizar os itens de faturamento e visualizar suas faturas.
@@ -31,8 +31,8 @@ Se você tiver uma conta vinculada do {{site.data.keyword.Bluemix_notm}} e do So
  * No painel Infraestrutura, clique em **Conta** &gt; **Fazer um pagamento**.
 3. No campo **Quantia de pagamento**, insira a quantia que deseja pagar.
 4. Selecione seu método de pagamento:
- * Pagar com um cartão de crédito. Insira os detalhes de seu cartão e o endereço para cobrança do cartão. Em seguida, clique em **Fazer pagamento com cartão de crédito**. 
- * Pagar com PayPal. Digite seus detalhes quando solicitado para concluir o pagamento. 
+ * Pagar com um cartão de crédito. Insira os detalhes de seu cartão e o endereço para cobrança do cartão. Em seguida, clique em **Fazer pagamento com cartão de crédito**.
+ * Pagar com PayPal. Digite seus detalhes quando solicitado para concluir o pagamento.
 
 Resolva os problemas relatados com o pagamento. O Saldo da conta é atualizado depois de o pagamento ser aceito. É possível entrar em contato com a
 equipe de suporte clicando em **Suporte** &gt; **Incluir chamado**.
@@ -40,12 +40,12 @@ equipe de suporte clicando em **Suporte** &gt; **Incluir chamado**.
 ## Mudando o método de pagamento
 {: #managepaymentmethod}
 
-Cada conta faturável deve ter um cartão de crédito registrado que seja válido. Todo mês, o cartão de crédito é cobrado com a quantia de uso acumulada durante esse mês. No console do {{site.data.keyword.Bluemix_notm}}, conclua as etapas a seguir para incluir ou mudar os detalhes de seu pagamento. 
+Cada conta faturável deve ter um cartão de crédito registrado que seja válido. Todo mês, o cartão de crédito é cobrado com a quantia de uso acumulada durante esse mês. No console do {{site.data.keyword.Bluemix_notm}}, conclua as etapas a seguir para incluir ou mudar os detalhes de seu pagamento.
 
 1. Selecione uma das opções a seguir, dependendo do painel que estiver sendo usado:  
  * No painel Apps ou Serviços, clique em **Gerenciar** &gt; **Faturamento e uso** &gt; **Modificar método de pagamento**.  
  * No painel Infraestrutura, clique em **Conta** &gt; **Faturamento** &gt; **Método de pagamento**.
-2. Na seção Incluir método de pagamento, insira os detalhes do cartão de crédito e o endereço para cobrança do cartão. Em seguida, clique em **Incluir cartão de crédito**. 
+2. Na seção Incluir método de pagamento, insira os detalhes do cartão de crédito e o endereço para cobrança do cartão. Em seguida, clique em **Incluir cartão de crédito**.
 
 Os detalhes de seu cartão são validados e, em seguida, o cartão ficará disponível para uso em sua conta dentro de 24 horas. Um e-mail de confirmação é
 enviado para o contato inserido na seção de endereço para cobrança do cartão.
@@ -58,9 +58,9 @@ página Itens de faturamento exibe itens de faturamento associados. É possível
 menu de exibição. A associação e desassociação podem ocorrer para um item ou para mais de um item de cada vez usando a operação Ações em massa. Os itens de faturamento individuais podem ser cancelados a qualquer momento na página Itens de faturamento. No console do {{site.data.keyword.Bluemix_notm}}, conclua as etapas a seguir para associar ou desassociar os itens de faturamento.
 
 1. Selecione uma das opções a seguir, dependendo do painel que estiver sendo usado:   
- * No painel Apps ou Serviços, clique em **Gerenciar** &gt; **Faturamento e uso** &gt; **Itens de faturamento**.  
+ * No painel Apps ou Serviços, clique em **Gerenciar** &gt; **Faturamento e uso** &gt; **Faturamento**.  
  * No painel Infraestrutura, clique em **Conta** &gt; **Faturamento** &gt; **Itens de faturamento**.
-2. Selecione a opção de item de faturamento desejada e conclua os campos relevantes. 
+2. Selecione a opção de item de faturamento desejada e conclua os campos relevantes.
 
 ## Visualizando suas faturas
 {: #manageinvoices}
@@ -75,14 +75,14 @@ saldos monetários. Os tipos de fatura podem se enquadrar nas categorias a segui
  *  Reembolso -- um reembolso ou uma reversão, para um encargo único ou contínuo.
 
 A página Faturas também exibe um resumo de faturamento da conta, que inclui o próximo saldo atual e estimado,
-o método de pagamento e a última e a próxima datas da fatura recorrente. É possível visualizar uma fatura no Portal de controle ou fazer download da fatura. 
+o método de pagamento e a última e a próxima datas da fatura recorrente. É possível visualizar uma fatura no Portal de controle ou fazer download da fatura.
 
 No console do {{site.data.keyword.Bluemix_notm}}, conclua as etapas a seguir para visualizar uma fatura:
 
 1. Selecione uma das opções a seguir, dependendo do painel que estiver sendo usado:  
  * No painel Apps ou Serviços, clique em **Gerenciar** &gt; **Faturamento e uso** &gt; **Faturas**.  
  * No painel Infraestrutura, clique em **Conta** &gt; **Faturamento** &gt; **Faturas**.
-2. É possível visualizar uma fatura no Portal de controle ou fazer download da fatura. 
+2. É possível visualizar uma fatura no Portal de controle ou fazer download da fatura.
 
 ## Usando os serviços do {{site.data.keyword.Bluemix_notm}} com ativos do SoftLayer
 {: #bluemix_services}

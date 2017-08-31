@@ -2,7 +2,8 @@
 
 copyright:
 
-  Anos: 2015, 2017 lastupdated: "2017-05-31"
+  years: 2015, 2017
+lastupdated: "2017-08-16"
 
 ---
 
@@ -11,7 +12,7 @@ copyright:
 {:screen: .screen}
 {:new_window: target="_blank"}
 
-# Conta Padrão FAQ 
+# Conta Padrão FAQ
 {: #stdaccountfaq}
 
 As perguntas mais frequentes a seguir são relacionadas a uma conta Padrão, que é criada na nuvem pública do {{site.data.keyword.Bluemix}}.
@@ -28,8 +29,8 @@ Como a conta Padrão não deve ser usada para casos de uso avançados, ela está
 
 ## Não uma conta padrão nunca expiram.
 {: #neverexpires}
-   
-Não, ela não expira, é possível usar a conta Padrão grátis pelo tempo que você precisar. Em algum ponto, pode-se desejar usar os recursos de infraestrutura ou outros serviços que não têm um plano Lite. É possível, então, fazer upgrade para uma conta faturável. 
+
+Não, ela não expira, é possível usar a conta Padrão grátis pelo tempo que você precisar. Em algum ponto, pode-se desejar usar os recursos de infraestrutura ou outros serviços que não têm um plano Lite. É possível, então, fazer upgrade para uma conta faturável.
 
 ## Posso convidar outras pessoas para colaborar em minha conta Padrão?
 {: #inviteothers}
@@ -66,7 +67,7 @@ Foundry</li>
 <li>Clusters do Kubernetes</li>
 </ul>
 
-Mais recursos do catálogo serão incluídos nesta lista, observe este espaço! 
+Mais recursos do catálogo serão incluídos nesta lista, observe este espaço!
 
 ## E um plano Lite?
 {: #whatisliteplan}
@@ -88,4 +89,9 @@ Se você não estiver desenvolvendo ativamente a sua conta por um período de 10
 
 Pergunte a nossa comunidade de desenvolvedores em stackoverflow. Lá, nós estamos respondendo ativamente as perguntas. Para postar uma pergunta quando você está conectado à sua conta, clique em **Suporte** e selecione **Localizar respostas**.  
 
-Também é possível enviar um chamado de suporte. Quando você está conectado à sua conta, clique em **Suporte** e selecione **Incluir chamado**. Em seguida, escolha a categoria relevante e insira os detalhes. Caso contrário, será possível obter suporte usando o link listado na página [Suporte do {{site.data.keyword.Bluemix_notm}} ![Ícone de link externo](../icons/launch-glyph.svg)](http://ibm.biz/bluemixsupport){: new_window}. 
+Também é possível enviar um chamado de suporte. Quando você está conectado à sua conta, clique em **Suporte** e selecione **Incluir chamado**. Em seguida, escolha a categoria relevante e insira os detalhes. Caso contrário, será possível obter suporte usando o link listado na página [Suporte do {{site.data.keyword.Bluemix_notm}} ![Ícone de link externo](../icons/launch-glyph.svg)](http://ibm.biz/bluemixsupport){: new_window}.
+
+## Como cancelo minha conta?
+{: #cancelaccount}
+
+No console do {{site.data.keyword.Bluemix_notm}}, acesse a página **Gerenciar > Faturamento e uso > Faturamento** e clique em **Desativar conta**.

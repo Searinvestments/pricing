@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-05-31"
+lastupdated: "2017-08-16"
 
 ---
 
@@ -12,7 +12,7 @@ lastupdated: "2017-05-31"
 {:screen: .screen}
 {:new_window: target="_blank"}
 
-# Domande frequenti sull'account Standard 
+# Domande frequenti sull'account Standard
 {: #stdaccountfaq}
 
 Le seguenti domande frequenti sono correlate a un account Standard, che viene creato nel cloud {{site.data.keyword.Bluemix}} pubblico.
@@ -29,8 +29,8 @@ Poiché l'account Standard non è destinato ai casi di utilizzo avanzati, è lim
 
 ## Un account Standard ha una scadenza?
 {: #neverexpires}
-   
-No, non scade; puoi utilizzare l'account Standard gratuito per tutto il tempo che ti serve. A un certo punto, potresti voler utilizzare delle risorse dell'infrastruttura ed altri servizi che non hanno un piano Lite. In tal caso, puoi eseguire l'upgrade a un account fatturabile. 
+
+No, non scade; puoi utilizzare l'account Standard gratuito per tutto il tempo che ti serve. A un certo punto, potresti voler utilizzare delle risorse dell'infrastruttura ed altri servizi che non hanno un piano Lite. In tal caso, puoi eseguire l'upgrade a un account fatturabile.
 
 ## Posso invitare altre persone a collaborare nel mio account Standard?
 {: #inviteothers}
@@ -66,7 +66,7 @@ Alcuni servizi non sono disponibili in tutte le regioni {{site.data.keyword.Blue
 <li>Cluster Kubernetes</li>
 </ul>
 
-Ulteriori risorse di catalogo verranno aggiunte a questo elenco; tieni d'occhio questo spazio. 
+Ulteriori risorse di catalogo verranno aggiunte a questo elenco; tieni d'occhio questo spazio.
 
 ## Cos'è un piano Lite?
 {: #whatisliteplan}
@@ -88,4 +88,9 @@ Se non esegui alcuna attività di sviluppo nel tuo account per un periodo di 10 
 
 Chiedi alla tua community di sviluppatori su StackOverflow. Rispondiamo attivamente alle domande pubblicate in detta community. Per pubblicare una domanda dopo aver eseguito l'accesso al tuo account, fai clic su **Supporto** e seleziona **Trova risposte**.  
 
-Puoi anche inoltrare un ticket di supporto. Dopo che hai eseguito l'accesso al tuo account, fai clic su **Supporto** e seleziona **Aggiungi ticket**. Scegli quindi la categoria pertinente e immetti i dettagli. Altrimenti, puoi ottenere assistenza utilizzando il link elencato nella pagina [Supporto {{site.data.keyword.Bluemix_notm}} ![Icona link esterno](../icons/launch-glyph.svg)](http://ibm.biz/bluemixsupport){: new_window}. 
+Puoi anche inoltrare un ticket di supporto. Dopo che hai eseguito l'accesso al tuo account, fai clic su **Supporto** e seleziona **Aggiungi ticket**. Scegli quindi la categoria pertinente e immetti i dettagli. Altrimenti, puoi ottenere assistenza utilizzando il link elencato nella pagina [Supporto {{site.data.keyword.Bluemix_notm}} ![Icona link esterno](../icons/launch-glyph.svg)](http://ibm.biz/bluemixsupport){: new_window}.
+
+## Come posso eliminare il mio account? 
+{: #cancelaccount}
+
+Nella console {{site.data.keyword.Bluemix_notm}}, vai alla pagina **Gestisci > Fatturazione e utilizzo > Fatturazione** e fai clic su **Disattivare account**.

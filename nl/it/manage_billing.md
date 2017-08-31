@@ -5,7 +5,7 @@
 copyright:
 
   years: 2017
-lastupdated: "2017-04-12"
+lastupdated: "2017-08-16"
 
 ---
 
@@ -14,7 +14,7 @@ lastupdated: "2017-04-12"
 {:screen: .screen}
 {:new_window: target="_blank"}
 
-# Gestione dell'utilizzo degli account collegati {{site.data.keyword.Bluemix_notm}} 
+# Gestione dell'utilizzo degli account collegati {{site.data.keyword.Bluemix_notm}}
 {: #linked_usage}
 
 Se hai un account {{site.data.keyword.Bluemix_notm}} e SoftLayer collegato, puoi utilizzare il portale di controllo per effettuare un pagamento unico, modificare i dettagli della tua carta di pagamento e visualizzare i tuoi elementi di fatturazione e le tue fatture.
@@ -31,8 +31,8 @@ Puoi effettuare un pagamento unico in qualsiasi momento. Il pagamento può esser
  * Dal dashboard Infrastruttura, fai clic su **Account** &gt; **Effettua un pagamento**.
 3. Nel campo **Importo del pagamento**, immetti l'importo che vuoi pagare.
 4. Seleziona il metodo di pagamento che preferisci:
- * Pagamento con carta di credito. Immetti i dettagli della tua carta e l'indirizzo di fatturazione della carta. Quindi, fai clic su **Effettua pagamento con carta di credito**. 
- * Pagamento con PayPal. Immetti i tuoi dettagli quando viene richiesto per completare il pagamento. 
+ * Pagamento con carta di credito. Immetti i dettagli della tua carta e l'indirizzo di fatturazione della carta. Quindi, fai clic su **Effettua pagamento con carta di credito**.
+ * Pagamento con PayPal. Immetti i tuoi dettagli quando viene richiesto per completare il pagamento.
 
 Risolvi eventuali problemi segnalati con il pagamento. Il saldo dell'account viene aggiornato una volta che il pagamento è stato accettato. Puoi contattare il team
 di supporto facendo clic su **Supporto** &gt; **Aggiungi ticket**.
@@ -40,12 +40,12 @@ di supporto facendo clic su **Supporto** &gt; **Aggiungi ticket**.
 ## Modifica del metodo di pagamento
 {: #managepaymentmethod}
 
-Ogni account fatturabile deve avere una carta di credito registrata che sia valida. Ogni mese, la carta di credito viene addebitata in base alla quantità di utilizzo accumulata durante quel mese. Nella console {{site.data.keyword.Bluemix_notm}}, completa la seguente procedura per aggiungere o modificare i tuoi dettagli di pagamento. 
+Ogni account fatturabile deve avere una carta di credito registrata che sia valida. Ogni mese, la carta di credito viene addebitata in base alla quantità di utilizzo accumulata durante quel mese. Nella console {{site.data.keyword.Bluemix_notm}}, completa la seguente procedura per aggiungere o modificare i tuoi dettagli di pagamento.
 
 1. Seleziona una delle seguenti opzioni, a seconda del dashboard che stai utilizzando:  
  * Dal dashboard Applicazioni o Servizi, fai clic su **Gestisci** &gt; **Fatturazione e utilizzo** &gt; **Modifica metodo di pagamento**.  
  * Dal dashboard Infrastruttura, fai clic su **Account** &gt; **Fatturazione** &gt; **Metodo di pagamento**.
-2. Nella sezione Aggiungi metodo di pagamento, immetti i dettagli della tua carta di credito e l'indirizzo di fatturazione della carta. Seleziona **Aggiungi carta di credito**. 
+2. Nella sezione Aggiungi metodo di pagamento, immetti i dettagli della tua carta di credito e l'indirizzo di fatturazione della carta. Seleziona **Aggiungi carta di credito**.
 
 I dettagli della tua carta vengono convalidati e quindi la carta è disponibile per l'utilizzo nel tuo account entro 24 ore. Viene inviata un'e-mail di conferma
 al contatto immesso nella sezione dell'indirizzo di fatturazione della carta.
@@ -58,9 +58,9 @@ pagina Elementi di fatturazione visualizza gli elementi associati. Puoi modifica
 dal menu di visualizzazione. L'associazione e la dissociazione possono verificarsi per un elemento o per più di un elemento alla volta utilizzando l'operazione Azioni in blocco. I singoli elementi di fatturazione possono essere annullati in qualsiasi momento dalla pagina Elementi di fatturazione. Nella console {{site.data.keyword.Bluemix_notm}}, completa la seguente procedura per associare o dissociare i tuoi elementi di fatturazione.
 
 1. Seleziona una delle seguenti opzioni, a seconda del dashboard che stai utilizzando:   
- * Dal dashboard Applicazioni o Servizi, fai clic su **Gestisci** &gt; **Fatturazione e utilizzo** &gt; **Elementi di fatturazione**.  
+ * Dal dashboard Applicazioni o Servizi, fai clic su **Gestisci** &gt; **Fatturazione e utilizzo** &gt; **Fatturazione**.  
  * Dal dashboard Infrastruttura, fai clic su **Account** &gt; **Fatturazione** &gt; **Elementi di fatturazione**.
-2. Seleziona l'opzione di elemento di fatturazione desiderata e completa i relativi campi. 
+2. Seleziona l'opzione di elemento di fatturazione desiderata e completa i relativi campi.
 
 ## Visualizzazione delle tue fatture
 {: #manageinvoices}
@@ -70,19 +70,19 @@ saldi monetari. I tipi di fattura possono rientrare nelle seguenti categorie:
 
  *  Nuovo -- la prima fattura in una serie di fatture ricorrenti.
  *  Ricorrente -- una fattura per gli addebiti ricorrenti che sono stati attivi sull'account per più di un mese.
- *  Addebito una tantum -- un addebito una tantum per le varie spese, che potrebbero includere dei costi aggiuntivi.
+ *  Addebito una tantum -- un addebito una tantum per le varie spese, che possono includere dei costi aggiuntivi. 
  *  Credito -- un credito da {{site.data.keyword.Bluemix_notm}} al saldo dell'account.
  *  Rimborso -- un rimborso, o un'inversione, per un addebito una tantum o ricorrente.
 
 La pagina Fatture mostra inoltre un riepilogo di fatturazione per l'account, che include il saldo corrente e la stima del saldo successivo,
-il metodo di pagamento e le date dell'ultima e della prossima fattura ricorrente. Puoi visualizzare una fattura nel portale di controllo o scaricare la fattura. 
+il metodo di pagamento e le date dell'ultima e della prossima fattura ricorrente. Puoi visualizzare una fattura nel portale di controllo o scaricare la fattura.
 
 Nella console {{site.data.keyword.Bluemix_notm}}, completa la seguente procedura per visualizzare una fattura:
 
 1. Seleziona una delle seguenti opzioni, a seconda del dashboard che stai utilizzando:  
  * Dal dashboard Applicazioni o Servizi, fai clic su **Gestisci** &gt; **Fatturazione e utilizzo** &gt; **Fatture**.  
  * Dal dashboard Infrastruttura, fai clic su **Account** &gt; **Fatturazione** &gt; **Fatture**.
-2. Puoi visualizzare una fattura nel portale di controllo o scaricare la fattura. 
+2. Puoi visualizzare una fattura nel portale di controllo o scaricare la fattura.
 
 ## Utilizzo di servizi {{site.data.keyword.Bluemix_notm}} con risorse SoftLayer
 {: #bluemix_services}
