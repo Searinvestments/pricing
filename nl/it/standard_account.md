@@ -5,7 +5,7 @@
 copyright:
 
   years: 2016, 2017
-lastupdated: "2017-08-02"
+lastupdated: "2017-08-23"
 
 
 ---
@@ -66,9 +66,9 @@ In un account standard, puoi utilizzare qualsiasi servizio del catalogo {{site.d
 ## Cosa è disponibile in un account standard?
 {: #whatsavailable}
 
-In un account standard, le applicazioni Cloud Foundry possono accedere fino a un massimo di 256 MB di memoria di runtime immediata. Se superi la quota assegnata, puoi arrestare alcune delle tue applicazioni per liberare memoria di runtime. Puoi anche lavorare con un cluster Kubernetes con 2 CPU e 4 GB di RAM. 
+Con un account standard, le tue applicazioni Cloud Foundry possono accedere fino a un massimo di 256 MB di memoria di runtime istantanea. Se superi la quota assegnata, puoi arrestare alcune delle applicazioni per liberare memoria di runtime. Puoi anche lavorare con un cluster Kubernetes con 2 CPU e 4 GB di RAM. 
 
-Nella Release limitata dell'account Standard, i seguenti servizi {{site.data.keyword.Bluemix_notm}} offrono un piano Lite:
+Puoi utilizzare qualsiasi servizio del catalogo {{site.data.keyword.Bluemix_notm}} che disponga di un piano Lite. Tuttavia, puoi eseguire il provisioning di soltanto una istanza per piano Lite. Nella Release limitata dell'account Standard, i seguenti servizi offrono un piano Lite:
 
 <ul>
 <li>{{site.data.keyword.prf_hublong}}</li>

@@ -5,7 +5,7 @@
 copyright:
 
   years: 2016, 2017
-lastupdated: "2017-08-02"
+lastupdated: "2017-08-23"
 
 
 ---
@@ -66,9 +66,9 @@ In einem Standardkonto können Sie alle Angebote des {{site.data.keyword.Bluemix
 ## Was ist mit einem Standardkonto verfügbar?
 {: #whatsavailable}
 
-In einem Standardkonto können Cloud Foundry-Anwendungen auf maximal 256 MB sofort verfügbaren Laufzeitspeicher zugreifen. Wenn das zugeordnete Kontingent überschritten wird, können Sie einige Ihrer Apps stoppen, um Laufzeitspeicher freizugeben. Sie haben auch die Möglichkeit, mit einem Kubernetes-Cluster mit 2 CPUs und 4 GB RAM arbeiten. 
+Mit einem Standardkonto können Ihre Cloud Foundry-Apps auf maximal 256 MB sofort verfügbaren Laufzeitspeicher zugreifen. Wenn das zugeordnete Kontingent überschritten wird, können Sie einige der Apps stoppen, um Laufzeitspeicher freizugeben. Sie haben auch die Möglichkeit, mit einem Kubernetes-Cluster mit 2 CPUs und 4 GB RAM arbeiten. 
 
-Während der begrenzten Verfügbarkeit des Standardkontos (Standard Account Limited Release) wird für die folgenden {{site.data.keyword.Bluemix_notm}}-Services ein Lite-Plan angeboten:
+Sie können alle Services im {{site.data.keyword.Bluemix_notm}}-Katalog nutzen, für die ein Lite-Plan vorgesehen ist. Es kann jedoch nur jeweils eine Instanz pro Lite-Plan bereitgestellt werden. Während der begrenzten Verfügbarkeit des Standardkontos (Standard Account Limited Release) wird für die folgenden Services ein Lite-Plan angeboten:
 
 <ul>
 <li>{{site.data.keyword.prf_hublong}}</li>

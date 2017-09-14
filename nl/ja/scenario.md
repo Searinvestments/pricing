@@ -31,17 +31,12 @@ lastupdated: "2017-05-30"
 
 |サービス|	フィーチャー|	価格|
 |--------|-----------|--------|
-|SDK for Node.js|	1 月あたり 375 GB 時間無料
-(すべてのランタイム間で共有)|	$0.07 (米ドル)/GB 時間|
+|SDK for Node.js|	1 月あたり 375 GB 時間無料 (すべてのランタイム間で共有)|	$0.07 (米ドル)/GB 時間|
 |Auto-Scaling|	Auto-Scaling サービスの無料サービス・プラン|	無料|
 |Data Cache - Starter|	1 GB のキャッシュ・スペースおよびレプリカ|	$55.00 (米ドル)/インスタンス|
 |Data Cache - Standard|	5 GB のキャッシュ・スペースおよびレプリカ|	$155.00 (米ドル)/インスタンス|
 |Data Cache - Premium|	25 GB のキャッシュ・スペースおよびレプリカ|	$505.00 (米ドル)/インスタンス|
-|IBM Cloudant® NoSQL DB for {{site.data.keyword.Bluemix_notm}}|	2 GB の無料データ・ストレージ
-<br/>1 月あたり 50,000 回の無料軽負荷 API 呼び出し
-<br/>1 月あたり 10,000 回の無料高負荷 API 呼び出し| $1.00 (米ドル)/GB
-<br/>$0.03 (米ドル)/軽負荷 API 呼び出し 1000 回
-<br/>$0.15 (米ドル)/高負荷 API 呼び出し 1000 回|
+|IBM Cloudant® NoSQL DB for {{site.data.keyword.Bluemix_notm}}|	2 GB の無料データ・ストレージ<br/>1 月あたり 50,000 回の無料軽負荷 API 呼び出し<br/>1 月あたり 10,000 回の無料高負荷 API 呼び出し | $1.00 (米ドル)/GB <br/>$0.03 (米ドル)/軽負荷 API 呼び出し 1000 回 <br/>$0.15 (米ドル)/高負荷 API 呼び出し 1000 回|
 {:caption="表 1. リソースの価格設定" caption-side="top"}
 
 ## アプリ価格の計算

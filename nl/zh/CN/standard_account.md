@@ -5,7 +5,7 @@
 copyright:
 
   years: 2016, 2017
-lastupdated: "2017-08-02"
+lastupdated: "2017-08-23"
 
 
 ---
@@ -66,9 +66,9 @@ Lite 套餐（也在现买现付帐户中提供）构造为免费配额。您可
 ## 标准帐户中提供的功能？
 {: #whatsavailable}
 
-在标准帐户中，Cloud Foundry 应用程序可以访问最多 256 MB 的即时运行时内存。如果您超过分配的配额，那么您可以停止一些应用程序，以释放运行时内存。您还可以使用具有 2 个 CPU 和 4 GB RAM 的 Kubernetes 集群。 
+使用标准帐户，Cloud Foundry 应用程序可以访问最多 256 MB 的即时运行时内存。如果超过分配的配额，您可以停止一些应用程序，以释放运行时内存。您还可以使用具有 2 个 CPU 和 4 GB RAM 的 Kubernetes 集群。 
 
-在标准帐户受限发行版中，以下 {{site.data.keyword.Bluemix_notm}} 服务提供 Lite 套餐：
+您可以使用 {{site.data.keyword.Bluemix_notm}}“目录”中任一 Lite 套餐服务。不过，每个 Lite 套餐只能供应 1 个实例。在标准帐户受限发行版中，以下服务提供 Lite 套餐：
 
 <ul>
 <li>{{site.data.keyword.prf_hublong}}</li>

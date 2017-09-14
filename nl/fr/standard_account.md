@@ -5,7 +5,7 @@
 copyright:
 
   years: 2016, 2017
-lastupdated: "2017-08-02"
+lastupdated: "2017-08-23"
 
 
 ---
@@ -82,11 +82,9 @@ catalogue, tous les services dotés d'un plan Lite sont affichés et identifiés
 ## Qu'est-ce qui est disponible dans un compte Standard ?
 {: #whatsavailable}
 
-Dans un compte standard, les applications Cloud Foundry peuvent accéder, au maximum, à 256 Mo de mémoire d'exécution instantanée. Si vous
-dépassez votre quota alloué, vous pouvez arrêter certaines applications afin de
-libérer de la mémoire d'exécution. Vous pouvez également exploiter un cluster Kubernetes avec 2 UC et 4 Go de mémoire RAM. 
+Avec un compte standard, vos applications Cloud Foundry peuvent accéder, au maximum, à 256 Mo de mémoire d'exécution instantanée. Si vous dépassez votre quota alloué, vous pouvez arrêter certaines applications afin de libérer de la mémoire d'exécution. Vous pouvez également exploiter un cluster Kubernetes avec 2 UC et 4 Go de mémoire RAM. 
 
-Dans l'édition Standard Account Limited Release, les services {{site.data.keyword.Bluemix_notm}} suivants proposent un plan Lite :
+Vous pouvez utiliser n'importe quel service du catalogue {{site.data.keyword.Bluemix_notm}} doté d'un plan Lite. Toutefois, vous ne pouvez mettre à disposition qu'une seule instance par plan Lite. Dans l'édition Standard Account Limited Release, les services suivants proposent un plan Lite :
 
 <ul>
 <li>{{site.data.keyword.prf_hublong}}</li>

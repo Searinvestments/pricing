@@ -5,7 +5,7 @@
 copyright:
 
   years: 2016, 2017
-lastupdated: "2017-08-02"
+lastupdated: "2017-08-23"
 
 
 ---
@@ -66,9 +66,9 @@ En una cuenta Estándar, puede utilizar cualquier cosa del catálogo de {{site.d
 ## ¿Qué hay disponible en una cuenta Estándar?
 {: #whatsavailable}
 
-En una cuenta Estándar, las aplicaciones de Cloud Foundry pueden acceder hasta un máximo de 256 MB de memoria de tiempo de ejecución instantánea. Si supera la cuota asignada, puede detener algunas de las apps para liberar memoria de tiempo de ejecución. También puede trabajar con un clúster de Kubernetes con 2 CPU y 4 GB de RAM. 
+Con una cuenta Estándar, las apps de Cloud Foundry pueden acceder hasta un máximo de 256 MB de memoria de tiempo de ejecución instantánea. Si supera la cuota asignada, puede detener algunas de las apps para liberar memoria de tiempo de ejecución. También puede trabajar con un clúster de Kubernetes con 2 CPU y 4 GB de RAM. 
 
-Durante la cuenta Estándar versión limitada, los siguientes servicios de {{site.data.keyword.Bluemix_notm}} ofrecen un plan Lite:
+Puede utilizar cualquier servicio del catálogo de {{site.data.keyword.Bluemix_notm}} que tenga un plan Lite. Sin embargo, solo puede suministrar una instancia por plan Lite. Durante la cuenta Estándar de disponibilidad limitada, los siguientes servicios ofrecen un plan Lite:
 
 <ul>
 <li>{{site.data.keyword.prf_hublong}}</li>

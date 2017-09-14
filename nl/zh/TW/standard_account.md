@@ -5,7 +5,7 @@
 copyright:
 
   years: 2016, 2017
-lastupdated: "2017-08-02"
+lastupdated: "2017-08-23"
 
 
 ---
@@ -66,9 +66,9 @@ lastupdated: "2017-08-02"
 ## 標準帳戶的可用功能
 {: #whatsavailable}
 
-在標準帳戶中，Cloud Foundry 應用程式可以同時存取最多 256 MB 的運行環境記憶體。如果超過您的配置配額，您可以停止部分應用程式，以釋放運行環境記憶體。您也可以使用具有 2 個 CPU 及 4 GB RAM 的 Kubernetes 叢集。 
+使用標準帳戶，Cloud Foundry 應用程式可以同時存取最多 256 MB 的運行環境記憶體。如果超過您的配置配額，您可以停止部分應用程式，以釋放運行環境記憶體。您也可以使用具有 2 個 CPU 及 4 GB RAM 的 Kubernetes 叢集。 
 
-在「標準帳戶」受限版本期間，下列 {{site.data.keyword.Bluemix_notm}} 服務提供精簡方案：
+您可以使用 {{site.data.keyword.Bluemix_notm}} 型錄中有精簡方案的任何服務。不過，針對每個精簡方案只能佈建一個實例。在「標準帳戶」受限版本期間，下列服務提供精簡方案：
 
 <ul>
 <li>{{site.data.keyword.prf_hublong}}</li>

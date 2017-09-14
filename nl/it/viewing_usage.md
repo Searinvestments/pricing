@@ -38,4 +38,4 @@ runtime, i tuoi servizi e per i singoli servizi, esclusi quelli di terze parti. 
 
 In qualità di proprietario dell'account o gestore della fatturazione, puoi utilizzare la pagina Dashboard di utilizzo per visualizzare tutti i crediti per il tuo account.
 
-Per aprire la pagina Dashboard di utilizzo, dal dashboard Applicazioni o Servizi, fai clic su **Gestisci** &gt; **Fatturazione e utilizzo** &gt; **Utilizzo**. Il dashboard visualizza eventuali crediti e la rispettiva data di scadenza. 
+Per aprire la pagina Dashboard di utilizzo, dal dashboard Applicazioni o Servizi, fai clic su **Gestisci** &gt; **Fatturazione e utilizzo** &gt; **Utilizzo**. Il dashboard visualizza eventuali crediti e la rispettiva data di scadenza.

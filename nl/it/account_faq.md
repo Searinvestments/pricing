@@ -90,7 +90,7 @@ Chiedi alla tua community di sviluppatori su StackOverflow. Rispondiamo attivame
 
 Puoi anche inoltrare un ticket di supporto. Dopo che hai eseguito l'accesso al tuo account, fai clic su **Supporto** e seleziona **Aggiungi ticket**. Scegli quindi la categoria pertinente e immetti i dettagli. Altrimenti, puoi ottenere assistenza utilizzando il link elencato nella pagina [Supporto {{site.data.keyword.Bluemix_notm}} ![Icona link esterno](../icons/launch-glyph.svg)](http://ibm.biz/bluemixsupport){: new_window}.
 
-## Come posso eliminare il mio account? 
+## Come posso eliminare il mio account?
 {: #cancelaccount}
 
 Nella console {{site.data.keyword.Bluemix_notm}}, vai alla pagina **Gestisci > Fatturazione e utilizzo > Fatturazione** e fai clic su **Disattivare account**.

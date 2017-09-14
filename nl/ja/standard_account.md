@@ -5,7 +5,7 @@
 copyright:
 
   years: 2016, 2017
-lastupdated: "2017-08-02"
+lastupdated: "2017-08-23"
 
 
 ---
@@ -66,9 +66,9 @@ lastupdated: "2017-08-02"
 ## 標準アカウントで利用可能なサービス
 {: #whatsavailable}
 
-標準アカウントでは、Cloud Foundry アプリケーションは最大 256 MB の瞬間的ランタイム・メモリーにアクセスできます。割り振られた割り当て量を超える場合、一部のアプリケーションを停止してランタイム・メモリーを解放することができます。また、2 CPU と 4 GB の RAM で Kubernetes クラスターでの作業もできます。 
+標準アカウントを使用すると、Cloud Foundry アプリは最大 256 MB の瞬間的ランタイム・メモリーにアクセスできます。割り振られた割り当て量を超える場合、一部のアプリケーションを停止してランタイム・メモリーを解放できます。また、2 CPU と 4 GB の RAM で Kubernetes クラスターでの作業もできます。 
 
-標準アカウント (Limited Release) の間、以下の {{site.data.keyword.Bluemix_notm}} サービスはライト・プランを提供します。
+ライト・プランがある {{site.data.keyword.Bluemix_notm}} カタログ内のすべてのサービスを利用できます。ただし、プロビジョンできるのは、ライト・プランごとに 1 つのインスタンスのみです。標準アカウント (Limited Release) では、以下のサービスでライト・プランが提供されます。
 
 <ul>
 <li>{{site.data.keyword.prf_hublong}}</li>

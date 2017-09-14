@@ -5,7 +5,7 @@
 copyright:
 
   years: 2016, 2017
-lastupdated: "2017-08-02"
+lastupdated: "2017-08-23"
 
 
 ---
@@ -66,9 +66,9 @@ lastupdated: "2017-08-02"
 ## 표준 계정에서 사용 가능한 기능
 {: #whatsavailable}
 
-표준 계정에서는 Cloud Foundry 애플리케이션이 바로 사용 가능한 최대 256MB의 런타임 메모리에 액세스할 수 있습니다. 할당량을 초과하는 경우, 일부 앱을 중지하여 런타임 메모리를 비울 수 있습니다.2개의 CPU와 4GB RAM의 Kubernetes 클러스터로 작업할 수도 있습니다.  
+표준 계정에서는 Cloud Foundry 앱에서 바로 사용 가능한 최대 256MB의 런타임 메모리에 액세스할 수 있습니다. 할당량을 초과하는 경우, 일부 앱을 중지하여 런타임 메모리를 비울 수 있습니다. 2개의 CPU와 4GB RAM의 Kubernetes 클러스터로 작업할 수도 있습니다.  
 
-표준 계정 제한된 릴리스 기간에는 다음 {{site.data.keyword.Bluemix_notm}} 서비스에서 라이트 플랜을 제공합니다. 
+라이트 플랜에 해당하는 모든 {{site.data.keyword.Bluemix_notm}} 카탈로그 서비스를 사용할 수 있습니다. 그러나 라이트 플랜당 한 개의 인스턴스만 프로비저닝할 수 있습니다. 표준 계정 제한된 릴리스 기간에는 다음 서비스에서 라이트 플랜을 제공합니다.
 
 <ul>
 <li>{{site.data.keyword.prf_hublong}}</li>

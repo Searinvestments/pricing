@@ -70,7 +70,7 @@ saldi monetari. I tipi di fattura possono rientrare nelle seguenti categorie:
 
  *  Nuovo -- la prima fattura in una serie di fatture ricorrenti.
  *  Ricorrente -- una fattura per gli addebiti ricorrenti che sono stati attivi sull'account per più di un mese.
- *  Addebito una tantum -- un addebito una tantum per le varie spese, che possono includere dei costi aggiuntivi. 
+ *  Addebito una tantum -- un addebito una tantum per le varie spese, che possono includere dei costi aggiuntivi.
  *  Credito -- un credito da {{site.data.keyword.Bluemix_notm}} al saldo dell'account.
  *  Rimborso -- un rimborso, o un'inversione, per un addebito una tantum o ricorrente.
 
