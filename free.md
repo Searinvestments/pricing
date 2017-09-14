@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-06-01"
+lastupdated: "2017-09-14"
 
 ---
 
@@ -44,11 +44,6 @@ Your account is provided with the following resources, free of charge:
   * 1 SSL certificate
 
 For more information, see [Bluemix Trial account](/docs/pricing/index.html#bmtrial).
-
-## Sign up now
-{: #signupnow}
-
-Want to sign up now? Go to [IBM {{site.data.keyword.Bluemix_notm}} ![External link icon](../icons/launch-glyph.svg)](https://console.ng.bluemix.net/){: new_window}, click ** Create a free account**, and enter your details.  
 
 ## Applying promo codes
 {: #promo}
