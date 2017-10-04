@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-06-01"
+lastupdated: "2017-09-14"
 
 ---
 
@@ -42,11 +42,6 @@ Ihr Konto wird gebührenfrei mit den folgenden Ressourcen ausgestattet:
   * 1 SSL-Zertifikat
 
 Weitere Informationen finden Sie unter [Bluemix-Testkonto](/docs/pricing/index.html#bmtrial).
-
-## Jetzt anmelden
-{: #signupnow}
-
-Möchten Sie sich jetzt anmelden? Dann wechseln Sie zu [IBM {{site.data.keyword.Bluemix_notm}} ![Symbol für externen Link](../icons/launch-glyph.svg)](https://console.ng.bluemix.net/){: new_window}, klicken Sie auf **Create a free account** und machen Sie die entsprechenden Angaben.  
 
 ## Werbecodes anwenden
 {: #promo}

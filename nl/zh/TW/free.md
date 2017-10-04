@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-06-01"
+lastupdated: "2017-09-14"
 
 ---
 
@@ -42,11 +42,6 @@ lastupdated: "2017-06-01"
   * 1 個 SSL 憑證
 
 如需相關資訊，請參閱 [Bluemix 試用帳戶](/docs/pricing/index.html#bmtrial)。
-
-## 立即註冊
-{: #signupnow}
-
-要立即註冊嗎？請前往 [IBM {{site.data.keyword.Bluemix_notm}} ![外部鏈結圖示](../icons/launch-glyph.svg)](https://console.ng.bluemix.net/){: new_window}，按一下**建立免費帳戶**，然後輸入您的詳細資料。  
 
 ## 套用促銷代碼
 {: #promo}

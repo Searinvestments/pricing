@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-06-01"
+lastupdated: "2017-09-14"
 
 ---
 
@@ -43,11 +43,6 @@ lastupdated: "2017-06-01"
   * SSL 인증서 1개
 
 자세한 정보는 [Bluemix 평가판 계정](/docs/pricing/index.html#bmtrial)을 참조하십시오.
-
-## 지금 등록
-{: #signupnow}
-
-지금 등록하시겠습니까? [IBM {{site.data.keyword.Bluemix_notm}} ![외부 링크 아이콘](../icons/launch-glyph.svg)](https://console.ng.bluemix.net/){: new_window}으로 이동해서 **무료 계정 작성**을 클릭하고 세부사항을 입력하십시오.  
 
 ## 프로모션 코드 적용
 {: #promo}

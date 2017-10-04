@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-06-01"
+lastupdated: "2017-09-14"
 
 ---
 
@@ -42,11 +42,6 @@ lastupdated: "2017-06-01"
   * 1 个 SSL 证书
 
 有关更多信息，请参阅 [Bluemix 试用帐户](/docs/pricing/index.html#bmtrial)。
-
-## 立即注册
-{: #signupnow}
-
-要立即注册吗？请转至 [IBM {{site.data.keyword.Bluemix_notm}} ![外部链接图标](../icons/launch-glyph.svg)](https://console.ng.bluemix.net/){: new_window}，单击**创建免费帐户**，然后输入详细信息。  
 
 ## 应用促销码
 {: #promo}

@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-06-01"
+lastupdated: "2017-09-14"
 
 ---
 
@@ -43,11 +43,6 @@ Sua conta é fornecida com os recursos a seguir, livre de encargo:
   * 1 certificado SSL
 
 Para obter mais informações, veja [Conta para teste do Bluemix](/docs/pricing/index.html#bmtrial).
-
-## Inscrever Agora
-{: #signupnow}
-
-Deseja inscrever-se agora? Acesse o [IBM {{site.data.keyword.Bluemix_notm}} ![Ícone de link externo](../icons/launch-glyph.svg)](https://console.ng.bluemix.net/){: new_window}, clique em ** Criar uma conta grátis** e insira seus detalhes.  
 
 ## Aplicando códigos promocionais
 {: #promo}
