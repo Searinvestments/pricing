@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-06-01"
+lastupdated: "2017-10-10"
 
 ---
 
@@ -15,38 +15,36 @@ lastupdated: "2017-06-01"
 # Account types
 {: #bmaccounts}
 
-You can start building on IBM Bluemix for free. When you are ready to grow, you can upgrade and pay only for what you use beyond free allowances. Bluemix provides a cost calculator, which you can use to estimate the cost beforehand. Check the Usage Dashboard page in your Bluemix account to see the actual cost after you build your apps.
+You can start building on {{site.data.keyword.Bluemix}} for free. When you are ready to grow, you can upgrade and pay only for what you use beyond free allowances. 
 {:shortdesc}
 
-## {{site.data.keyword.Bluemix_notm}} Standard account
+## Standard account
 {: #trystandard}
 
-Standard accounts are available to select users in the United Kingdom and the US South regions only. Sign up for a free Standard account to build apps and explore services with free Lite plans in {{site.data.keyword.Bluemix}}. Your Standard account doesn't expire and your credit card isn't required. You can create a Standard account by asking a friend with a Standard account for an invite or by reaching out to our sales team at sales@bluemix.net.  
-{:shortdesc}
+Standard accounts are available to select users in the United Kingdom and the US South regions only. Sign up for a free Standard account to build apps and explore services with free Lite plans in {{site.data.keyword.Bluemix_notm}}. Your Standard account doesn't expire and your credit card isn't required. You can create a Standard account by asking a friend with a Standard account for an invite or by reaching out to our sales team at sales@bluemix.net.  
 
 When you sign up for a Standard account, you can select which geographical region you want to work in. After you create an org in a region, it can't be changed. 
 
 ### What's available? 
 {: #whatsavailable}
 
-You might be wondering what the Standard account offers. Check out the following list of key details about the Bluemix Standard account.
-  * The account is free -- no credit card required!
-  * The account never expires. 
-  * You can use one org in one {{site.data.keyword.Bluemix_notm}} region.
-  * Free {{site.data.keyword.Bluemix_notm}} support.
-  * Cloud Foundry apps can access up to 256 MB of free, instantaneous runtime memory.
-  * You can access free Lite plans for select services, with more coming soon.
-  * You receive email notifications about your account status.
-  * After 10 days of no development activity, your apps go to sleep.
-  * After 30 days of no development activity, your service instances with Lite plans are deleted.
+You might be wondering what's offered in a Standard account. Check out the following list of key details:
 
-For more information, see [IBM Bluemix Standard Account Limited Release](/docs/pricing/standard_account.html#betaintro).
+   * The account is free -- no credit card required!
+   * The account never expires. 
+   * You can use one org in one {{site.data.keyword.Bluemix_notm}} region.
+   * Cloud Foundry apps can access up to 256 MB of free, instaneous runtime memory. 
+   * You can access free Lite plans for select services, with more coming soon. 
+   * You receive email notifications about your account status. 
+   * After 10 days of no development activity, your apps go to sleep.
+   * After 30 days of no development activity, your service instances with Lite plans are deleted. 
 
-## {{site.data.keyword.Bluemix_notm}} Trial account
+For more information, see [IBM Bluemix Standard Account Limited Release](/docs/pricing/standard_account.html).
+
+## Trial account
 {: #bmtrial}
 
-Trial accounts are available in all regions. With a free 30-day trial, you can jump right in and start building your apps and exploring services in {{site.data.keyword.Bluemix}}.
-{:shortdesc}
+Trial accounts are available in all regions. With a free 30-day trial, you can jump right in and start building your apps and exploring services in {{site.data.keyword.Bluemix_notm}}.
 
 When you sign up for a free trial with your {{site.data.keyword.Bluemix_notm}} ID, your account is provided with the following resources, free of charge:
 
@@ -70,11 +68,11 @@ If you convert your account during your free trial, your free allowances are lim
 ## Billable accounts
 {: #billableacts}
 
-When you sign up for a {{site.data.keyword.Bluemix_notm}} billable plan or request an upgrade to your account you can select from 4  different {{site.data.keyword.Bluemix_notm}} accounts. The following table lists the different account types and their charging methods. 
+When you sign up for a {{site.data.keyword.Bluemix_notm}} billable plan or request an upgrade to your account you can select from four different {{site.data.keyword.Bluemix_notm}} accounts. The following table lists the different account types and their charging methods. 
 
 |{{site.data.keyword.Bluemix_notm}} account type |	How am I charged? |
 |------------------|-----------------------|
-|Pay-As-You-Go |	Charges are based on your use of {{site.data.keyword.Bluemix}} compute and services |
+|Pay-As-You-Go |	Charges are based on your use of {{site.data.keyword.Bluemix_notm}} compute and services |
 |Subscription | You can get a monthly discount based on a minimum monthly spending commitment |
 |Dedicated | Annual contract |
 |Local |	Annual contract |
