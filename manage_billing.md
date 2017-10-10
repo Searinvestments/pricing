@@ -5,7 +5,7 @@
 copyright:
 
   years: 2017
-lastupdated: "2017-08-16"
+lastupdated: "2017-10-10"
 
 ---
 
@@ -17,9 +17,9 @@ lastupdated: "2017-08-16"
 # Managing usage for {{site.data.keyword.Bluemix_notm}} linked accounts
 {: #linked_usage}
 
-If you have a linked {{site.data.keyword.Bluemix_notm}} and SoftLayer account, you can use the Control Portal to make a one-off payment, change your payment card details, view your billing items, and view your involices.
+If you have a linked {{site.data.keyword.Bluemix}} and SoftLayer account, you can use the Customer Portal to make a one-off payment, change your payment card details, view your billing items, and view your involices.
 
-**Note:** The billing and usage options that are displayed in the {{site.data.keyword.Bluemix}} console can be different if you have a free account or you do not have a linked {{site.data.keyword.Bluemix_notm}} and SoftLayer account.
+**Note:** The billing and usage options that are displayed in the {{site.data.keyword.Bluemix_notm}} console can be different if you have a free account or you do not have a linked {{site.data.keyword.Bluemix_notm}} and SoftLayer account.
 
 ## Making a payment
 {: #managemakeapayment}
@@ -27,15 +27,14 @@ If you have a linked {{site.data.keyword.Bluemix_notm}} and SoftLayer account, y
 You can make a one-off payment at any time. The payment can be for the full balance or a partial amount and the details that you enter for the payment are not recorded. In the {{site.data.keyword.Bluemix_notm}} console, complete the following steps to make a one-off payment.
 
 1. Select one of the following options, depending on which dashboard you are using:   
- * From the Apps or Services dashboard, click **Manage** &gt; **Billing and Usage** &gt; **Make a Payment**.  
- * From the Infrastructure dashboard, click **Account** &gt; **Make a Payment**.
+ * From the Apps or Services dashboard, click **Manage** > **Billing and Usage** > **Make a Payment**.  
+ * From the Infrastructure dashboard, click **Account** > **Make a Payment**.
 3. In the **Payment Amount** field, enter the amount you want to pay.
 4. Select your payment method:
  * Paying with a credit card. Enter your card details and the card billing address. Then, click **Make Credit Card Payment**.
  * Paying with PayPal. Enter your details when prompted to complete the payment.
 
-Resolve any reported problems with the payment. The Account Balance is updated after the payment is accepted. You can contact the
-support team by clicking **Support** &gt; **Add Ticket**.
+Resolve any reported problems with the payment. The account balance is updated after the payment is accepted. You can contact the support team by clicking **Support** > **Add Ticket**.
 
 ## Changing your payment method
 {: #managepaymentmethod}
@@ -43,34 +42,31 @@ support team by clicking **Support** &gt; **Add Ticket**.
 Each billable account must have a registered credit card that is valid. Every month, the credit card is charged with the usage amount that is accumulated during that month. In the {{site.data.keyword.Bluemix_notm}} console, complete the following steps to add or change  your payment details.
 
 1. Select one of the following options, depending on which dashboard you are using:  
- * From the Apps or Services dashboard, click **Manage** &gt; **Billing and Usage** &gt; **Modify Payment Method**.  
- * From the Infrastructure dashboard, click **Account** &gt; **Billing** &gt; **Payment Method**.
+ * From the Apps or Services dashboard, click **Manage** > **Billing and Usage** > **Modify Payment Method**.  
+ * From the Infrastructure dashboard, click **Account** > **Billing** > **Payment Method**.
 2. In the Add Payment Method section, enter your credit card details and the card billing address. Then, click **Add Credit Card**.
 
-Your card details are validated and then your card is available to use in your account within 24 hours. A confirmation email is
-sent to contact entered in the card billing address section.
+Your card details are validated and then your card is available to use in your account within 24 hours. A confirmation email is sent to contact entered in the card billing address section.
 
 ## Viewing your billing items
 {: #managebillingitems}
 
-You can associate billing items to specific devices and also disassociate those billing items. By default, the
-Billing Items page displays associated billing items. You can change the view by selecting an option from
-the display menu. Association and disassociation can occur for one item, or for more than one item at a time by using the Bulk Actions operation. Individual billing items can be canceled at any time from the Billing Items page. In the {{site.data.keyword.Bluemix_notm}} console, complete the following steps to associate or disassociate your billing items.
+You can associate billing items to specific devices and also disassociate those billing items. By default, the Billing Items page displays associated billing items. You can change the view by selecting an option from the display menu. Association and disassociation can occur for one item, or for more than one item at a time by using the Bulk Actions operation. Individual billing items can be canceled at any time from the Billing Items page. In the {{site.data.keyword.Bluemix_notm}} console, complete the following steps to associate or disassociate your billing items.
 
 1. Select one of the following options, depending on which dashboard you are using:   
- * From the Apps or Services dashboard, click **Manage** &gt; **Billing and Usage** &gt; **Billing**.  
- * From the Infrastructure dashboard, click **Account** &gt; **Billing** &gt; **Billing Items**.
+ * From the Apps or Services dashboard, click **Manage** > **Billing and Usage** > **Billing**.  
+ * From the Infrastructure dashboard, click **Account** > **Billing** > **Billing Items**.
 2. Select the billing item option that you want and complete the relevant fields.
 
 ## Viewing your invoices
 {: #manageinvoices}
 
-Invoices can be be viewed or paid at any time. Each invoice is summarized by Invoice Number, Date, Invoice Type and various
+You can view or pay your invoices at any time. Each invoice is summarized by Invoice Number, Date, Invoice Type and various
 monetary balances. Invoice Types may fall into the following categories:
 
  *  New -- the first invoice in a series of recurring invoices.
  *  Recurring -- an invoice for recurring charges that have been active on the account for more than one month.
- *  One-Time-Charge -- a one-time charge for various expenses, which might include overages.
+ *  One-Time Charge -- a one-time charge for various expenses, which might include overages.
  *  Credit -- a credit from {{site.data.keyword.Bluemix_notm}} to the account balance.
  *  Refund -- a refund, or reversal, for either a one-time or recurring charge.
 
@@ -80,9 +76,9 @@ the payment method, and the last and next recurring invoice dates. You can view 
 In the {{site.data.keyword.Bluemix_notm}} console, complete the following steps to view an invoice:
 
 1. Select one of the following options, depending on which dashboard you are using:  
- * From the Apps or Services dashboard, click **Manage** &gt; **Billing and Usage** &gt; **Invoices**.  
- * From the Infrastructure dashboard, click **Account** &gt; **Billing** &gt; **Invoices**.
-2. You can view an invoice in the Control Portal or download the invoice.
+ * From the Apps or Services dashboard, click **Manage** > **Billing and Usage** > **Invoices**.  
+ * From the Infrastructure dashboard, click **Account** > **Billing** > **Invoices**.
+2. You can view an invoice in the Customer Portal or download the invoice.
 
 ## Using {{site.data.keyword.Bluemix_notm}} services with SoftLayer assets
 {: #bluemix_services}
