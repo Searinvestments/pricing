@@ -5,7 +5,7 @@
 copyright:
 
   years: 2016, 2017
-lastupdated: "2017-08-23"
+lastupdated: "2017-10-10"
 
 
 ---
@@ -13,12 +13,13 @@ lastupdated: "2017-08-23"
 {:shortdesc: .shortdesc}
 {:codeblock: .codeblock}
 {:screen: .screen}
+{:tip: .tip}
 {:new_window: target="_blank"}
 
 # IBM {{site.data.keyword.Bluemix_notm}} Standard Account Limited Release
 {: #betaintro}
 
-The {{site.data.keyword.Bluemix}} Standard Account Limited Release introduces a new free account, which offers a new way to work in the {{site.data.keyword.Bluemix_notm}} Public Cloud. A Standard account never expires, unlike a 30-day {{site.data.keyword.Bluemix_notm}} trial. You can continue to work on your {{site.data.keyword.Bluemix_notm}} applications without any concerns about time restrictions. 
+The {{site.data.keyword.Bluemix}} Standard Account Limited Release introduces a new free account, which offers a new way to work in the {{site.data.keyword.Bluemix_notm}} public cloud. A Standard account never expires, unlike a 30-day {{site.data.keyword.Bluemix_notm}} trial. You can continue to work on your {{site.data.keyword.Bluemix_notm}} applications without any concerns about time restrictions. 
 {:shortdesc}
 
 Users in the United Kingdom and US South regions are eligible for a Standard account. If you are not in either of those regions, you can still create a Standard account by asking a friend for an invite or reaching out to our sales team at sales@bluemix.net. As a Standard account owner, you can invite friends and colleagues to participate.  
@@ -45,9 +46,8 @@ You might be wondering what is different in a Standard account as compared to a 
 |The level of {{site.data.keyword.Bluemix_notm}} Support stays the same. |
 {:caption="Table 2. What's not changing" caption-side="top"}
 
-**Note**: If your trial account doesn't convert, you'll see a message that explains why. You might have more than one organization in your existing trial account or apps that cannot be transferred. You can take the appropriate action and then try to convert the account again.
-
-When you own a Standard account, you can invite team members to collaborate in your organization and spaces, view your usage, create spaces, update your account profile, and manage your organization.
+If your trial account doesn't convert, you'll see a message that explains why. You might have more than one organization in your existing trial account or apps that cannot be transferred. You can take the appropriate action and then try to convert the account again.
+{: tip}
 
 ## Lite plans
 {: #liteplans}
@@ -89,9 +89,7 @@ We’ll be adding to this list of services so stay tuned!
 
 When quota limits are reached, your application is stopped or your service is disabled. If the Lite plan specifies that the quota is provided on a monthly basis, the resource usage is reset on the 1st of every month when you can resume working with the service. When you are approaching a quota limit, or are at the quota limit, you receive a notification email. 
 
-You can provision 1 instance per Lite plan. 
-
-**Note**: These limitations apply to a Standard account only. At any time, you can upgrade to a Pay-As-You-Go or a Subscription account. You pay only for what you use beyond the free allowances. For more information about Pay-As-You-Go and Subscription accounts, see [Signing up for a billable account](/docs/pricing/billable.html#billable).
+You can provision 1 instance per Lite plan. These limitations apply to a Standard account only. At any time, you can upgrade to a Pay-As-You-Go or a Subscription account. You pay only for what you use beyond the free allowances. For more information about Pay-As-You-Go and Subscription accounts, see [Signing up for a billable account](/docs/pricing/billable.html#billable).
 
 ## Efficiency features
 {: #devactivity}
@@ -102,7 +100,7 @@ To help you manage your resources, we've included efficiency features that are b
 
 Your apps will go to sleep after 10 days of development inactivity. This helps when you want to work on a new app, because you won’t find yourself hitting the 256 MB memory quota limit. 
 
-To wake up your apps, start working on them again in the Cloud Foundry command line or the {{site.data.keyword.Bluemix_notm}} console. 
+To wake up your apps, start working on them again in the Cloud Foundry command-line interface or the {{site.data.keyword.Bluemix_notm}} console. 
  
  Here’s a list of all commands that will wake up your app:
   * cf push
@@ -119,9 +117,7 @@ To wake up your apps, start working on them again in the Cloud Foundry command l
   * cf enable-ssh
   * cf disable-ssh
 
-For usage details, see [Cloud Foundry commands](/docs/cli/reference/cfcommands/index.html).
-
- **Note**: If your app is already enabled for SSH, you can't use the `cf enable-ssh` and `cf disable-sh` commands to wake up your app. 
+If your app is already enabled for SSH, you can't use the `cf enable-ssh` and `cf disable-sh` commands to wake up your app. For more usage details, see [Cloud Foundry commands](/docs/cli/reference/cfcommands/index.html).
 
 ### Garbage collection
 
@@ -132,4 +128,4 @@ Your Lite plan services are deleted if there isn’t any activity on them for 30
 
 You can ask a friend with a Standard account for an invite or reach out to our sales team at sales@bluemix.net. We would love to have you try it out!
 
-If you receive an invitation from a friend or a Bluemix seller, your exclusive invite is sent to the email address you provide. When you receive the invite, complete the instructions in the email to register for a Standard account. 
+If you receive an invitation from a friend or a {{site.data.keyword.Bluemix_notm}} seller, your exclusive invite is sent to the email address you provide. When you receive the invite, complete the instructions in the email to register for a Standard account. 
