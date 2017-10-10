@@ -5,7 +5,7 @@
 copyright:
 
   years: 2017
-lastupdated: "2017-09-29"
+lastupdated: "2017-10-10"
 
 ---
 
@@ -19,10 +19,10 @@ lastupdated: "2017-09-29"
 
 As an account owner, or a billing manager for an org, you can use the Usage Dashboard page to see a summary of estimated charges for all resources - runtimes, containers, services, and support - that are used per month in your organizations. 
 
-To open the Usage Dashboard page, click **Manage** &gt; **Billing and Usage** &gt; **Usage**. You can see a summary of the resource usage for the account. Billing managers can see the details for only the organizations in which they are billing managers.
+To open the Usage Dashboard page, click **Manage** > **Billing and Usage** > **Usage**. You can see a summary of the resource usage for the account. Billing managers can see the details for only the organizations in which they are billing managers.
 
    * Click **View instances** to see a summary of estimated charges for all instances of a specific resource. 
-   * Click **View instance** to see a detailed summary of estimated charges for each instance of the specific resource type. From this view, you can also see the detailed monthly usage metrics for the selected instance. 
+   * Click **View instance** to see a detailed summary of estimated charges for each instance of the specific resource type. You can also see the detailed monthly usage metrics for the selected instance. 
 
 The account owner is charged for the total usage that is incurred across all organizations at the end of each billing cycle. Each billing cycle lasts one month.
 
@@ -37,4 +37,4 @@ As an account manager of a Pay-As-You-Go account, you can set spending notificat
 
 As an account owner or a billing manager, you can use the Usage Dashboard page to see any credits for your account.
 
-To open the Usage Dashboard page, click **Manage** &gt; **Billing and Usage** &gt; **Usage**. The dashboard displays any credits, if they exist, and when they expire.
+To open the Usage Dashboard page, click **Manage** > **Billing and Usage** > **Usage**. The dashboard displays any credits, if they exist, and when they expire.
