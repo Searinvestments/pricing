@@ -18,7 +18,7 @@ lastupdated: "2017-10-10"
 # How to calculate your costs
 {: #cost}
 
-You can use different methods to know how much you need to pay for using {{site.data.keyword.Bluemix} to build and host your app.
+You can use different methods to know how much you need to pay for using {{site.data.keyword.Bluemix}} to build and host your app.
 
 * The cost estimators on the {{site.data.keyword.Bluemix_notm}} {{site.data.keyword.pricing_sheet}} provide a rough estimation of the cost based on the size of your app.
 * The cost calculator on the {{site.data.keyword.Bluemix_notm}} Pricing page provides accurate app prices based on your input of runtime and service usages.
