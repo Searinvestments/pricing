@@ -3,19 +3,20 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-06-01"
+lastupdated: "2017-10-10"
 
 ---
 
 {:shortdesc: .shortdesc}
 {:codeblock: .codeblock}
+{:tip: .tip}
 {:screen: .screen}
 {:new_window: target="_blank"}
 
 # Signing up for a billable account
 {: #billable}
 
-When you upgrade your account, you can choose from the following {{site.data.keyword.Bluemix_notm}} billable accounts: 
+When you upgrade your account, you can choose from the following {{site.data.keyword.Bluemix}} billable accounts: 
   
   * Pay-As-You-Go - you're charged based on your use of {{site.data.keyword.Bluemix_notm}} compute and services
   * Subscription - you can get a monthly discount based on a minimum monthly spending commitment.
@@ -25,10 +26,11 @@ When you upgrade your account, you can choose from the following {{site.data.key
 If you encounter any problems with {{site.data.keyword.Bluemix_notm}} when you are using a Pay-As-You-Go or a Subscription 
 account, see [Getting Customer Support](/docs/support/index.html#getting-customer-support).
 
-**Note:** If you link your {{site.data.keyword.Bluemix_notm}} billable account with a SoftLayer account, starting on the 
+If you link your {{site.data.keyword.Bluemix_notm}} billable account with a SoftLayer account, starting on the 
 first of the next month, your {{site.data.keyword.Bluemix_notm}} and SoftLayer charges are included on your 
 {{site.data.keyword.Bluemix_notm}} invoice. For more information, see 
 [Viewing credits](/docs/pricing/viewing_usage.html#credits).
+{: tip}
 
 ## Pay-As-You-Go account
 {: #upgradetopayg}
