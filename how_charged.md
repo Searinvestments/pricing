@@ -5,7 +5,7 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-04-12"
+lastupdated: "2017-10-10"
 
 ---
 
@@ -17,11 +17,11 @@ lastupdated: "2017-04-12"
 # How you are charged
 {: #charges}
 
-Charges vary depending on the resources used by a particular service, runtime, container, or support option. The resources can be the number of API calls, the number of instances, memory, storage, and so on. {{site.data.keyword.Bluemix_notm}} also provides detailed cost estimators, and a down-to-the-penny cost calculator to help you plan for charges. You can check the actual cost after you build your apps on the Usage Dashboard page.
+Charges vary depending on the resources used by a particular service, runtime, container, or support option. The resources can be the number of API calls, the number of instances, memory, storage, and so on. {{site.data.keyword.Bluemix}} also provides detailed cost estimators, and a down-to-the-penny cost calculator to help you plan for charges. You can check the actual cost after you build your apps on the Usage Dashboard page.
 
-With a {{site.data.keyword.Bluemix_notm}} billable account, you are charged for the compute, containers, and services that are used in your organization. You might be invited by other {{site.data.keyword.Bluemix_notm}} users to participate in organizations under a different account. If you create apps or use services in the organizations that you are invited to, the usage incurred is charged to the account that contains those organizations. You can see more information about a specific charges on a resource details page from the {{site.data.keyword.Bluemix_notm}} Catalog, or on the price calculator from the {{site.data.keyword.Bluemix_notm}} Pricing page.
+With a {{site.data.keyword.Bluemix_notm}} billable account, you are charged for the compute, containers, and services that are used in your organization. You might be invited by other {{site.data.keyword.Bluemix_notm}} users to participate in organizations under a different account. If you create apps or use services in the organizations that you are invited to, the usage incurred is charged to the account that contains those organizations. You can see more information about a specific charges on a resource details page from the {{site.data.keyword.Bluemix_notm}} catalog, or on the price calculator from the {{site.data.keyword.Bluemix_notm}} Pricing page.
 
-Different types of charges apply depending on the features of {{site.data.keyword.Bluemix_notm}} you are using. The following table provides a high-level overview:
+Different types of charges apply depending on the features that you are using. The following table provides a high-level overview:
 
 | Type of charge | Description | {{site.data.keyword.Bluemix_notm}} features that use this type of charge | Example |
 |------------------|------------------|--------------------------|--------------------------|
@@ -52,10 +52,10 @@ Many services include monthly free allowances. Usage of services that is not inc
 <dt>Metered charges</dt>
     <dd>You pay based on your runtime and service consumption. For example, with the Push service, any usage over the free monthly allowance is charged.</dd>
 <dt>Reserved charges</dt>
-    <dd><p>As the account owner of a Pay As You Go account or a Subscription account, you can reserve a service instance, with a long-term commitment, for a discounted price. For example, you can reserve the standard large DB2 on Cloud offering for 12 months.</p>
+    <dd><p>As the account owner of a Pay-As-You-Go account or a Subscription account, you can reserve a service instance, with a long-term commitment, for a discounted price. For example, you can reserve the standard large DB2 on Cloud offering for 12 months.</p>
     <p>Some {{site.data.keyword.Bluemix_notm}} services offer reserved plans. You can request a reserved plan from the {{site.data.keyword.Bluemix_notm}} <strong>Catalog</strong> by clicking the tile of the service. Then, select the service plan that best meets your needs. If a reserved plan is available, click <strong>Request</strong>, and follow the prompts to send your request. You will receive an email that contains the price information of the reserved plan. A {{site.data.keyword.Bluemix_notm}} sales representative will also contact you soon to complete the purchase.</p></dd>
 <dt>Tiered charges</dt>
-    <dd>Similar to metered charges, you pay based based on your runtime and service consumption. However, Tiered charges add additional pricing tiers, often offering discounted charges in tiers with larger consumption. Tiered pricing is offered in simple, graduated, or block.</dd>
+    <dd>Similar to metered charges, you pay based based on your runtime and service consumption. However, tiered charges add additional pricing tiers, often offering discounted charges in tiers with larger consumption. Tiered pricing is offered in simple, graduated, or block.</dd>
 </dl>
 
 ### Simple tier
