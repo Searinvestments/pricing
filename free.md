@@ -3,12 +3,13 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-09-14"
+lastupdated: "2017-10-10"
 
 ---
 
 {:shortdesc: .shortdesc}
 {:codeblock: .codeblock}
+{:tip: .tip}
 {:screen: .screen}
 {:new_window: target="_blank"}
 
@@ -64,7 +65,8 @@ To apply one or more promo codes:
 1. In the {{site.data.keyword.Bluemix_notm}} console, go to **Manage > Billing and Usage > Billing**. 
 2. Enter the promo code details and click **APPLY**.
 
-**Note**: Each promo code can be redeemed only once before the expiration date of the code.
+Each promo code can be redeemed only once before the expiration date of the code.
+{: tip}
 
 
 
