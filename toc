@@ -15,6 +15,7 @@ Managing billing and usage
         free.md
         billable.md
         how_charged.md
+        feature-codes.md
         estimating_costs.md
         scenario.md
             
