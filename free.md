@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-10-10"
+lastupdated: "2017-10-17"
 
 ---
 
@@ -44,29 +44,6 @@ Your account is provided with the following resources, free of charge:
   * 10 services
   * 1 SSL certificate
 
-For more information, see [Bluemix Trial account](/docs/pricing/index.html#bmtrial).
-
-## Applying promo codes
-{: #promo}
-
-Sometimes {{site.data.keyword.Bluemix_notm}} Sales or other representatives provide promo codes to offer you extra resources 
-or capabilities for your free trial. 
-
-The extra resources or capabilities provided by {{site.data.keyword.Bluemix_notm}} vary depending on the particular code, 
-but include one or more of the following items in general:
-
-  * Increase the memory quota to a number of GB specified by the promo code
-  * Add one organization, with a memory quota that is specified by the promo code
-  * Add an unlimited number of organizations
-  * Upload an additional number of SSL certificates, as specified by the promo code
-  * Use premium service plans
-
-To apply one or more promo codes:
-1. In the {{site.data.keyword.Bluemix_notm}} console, go to **Manage > Billing and Usage > Billing**. 
-2. Enter the promo code details and click **APPLY**.
-
-Each promo code can be redeemed only once before the expiration date of the code.
-{: tip}
-
+For more information, see [Bluemix trial account](/docs/pricing/index.html#bmtrial).
 
 
