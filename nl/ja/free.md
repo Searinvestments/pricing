@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-06-01"
+lastupdated: "2017-09-14"
 
 ---
 
@@ -42,11 +42,6 @@ lastupdated: "2017-06-01"
   * 1 通の SSL 証明書
 
 詳しくは、[Bluemix トライアル・アカウント](/docs/pricing/index.html#bmtrial)を参照してください。
-
-## 今すぐ登録
-{: #signupnow}
-
-今すぐ登録しますか? [IBM {{site.data.keyword.Bluemix_notm}} ![外部リンク・アイコン](../icons/launch-glyph.svg)](https://console.ng.bluemix.net/){: new_window} にアクセスし、**「フリー・アカウントの作成」**の作成をクリックし、詳細情報を入力してください。  
 
 ## 割引コードの適用
 {: #promo}
