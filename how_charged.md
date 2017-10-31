@@ -5,23 +5,24 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-10-10"
+lastupdated: "2017-10-31"
 
 ---
 
 {:shortdesc: .shortdesc}
 {:codeblock: .codeblock}
 {:screen: .screen}
+{:tip: .tip}
 {:new_window: target="_blank"}
 
 # How you are charged
 {: #charges}
 
-Charges vary depending on the resources used by a particular service, runtime, container, or support option. The resources can be the number of API calls, the number of instances, memory, storage, and so on. {{site.data.keyword.Bluemix}} also provides detailed cost estimators, and a down-to-the-penny cost calculator to help you plan for charges. You can check the actual cost after you build your apps on the Usage Dashboard page.
+Charges vary depending on the resources used by a particular service, runtime, container, or support option. The resources can be the number of API calls, the number of instances, memory, storage, and so on. {{site.data.keyword.Bluemix}} also provides detailed cost estimators, and a down-to-the-penny cost calculator to help you plan for charges. After you build your apps, you can check the actual cost on the Usage Dashboard page.
 
-With a {{site.data.keyword.Bluemix_notm}} billable account, you are charged for the compute, containers, and services that are used in your organization. You might be invited by other {{site.data.keyword.Bluemix_notm}} users to participate in organizations under a different account. If you create apps or use services in the organizations that you are invited to, the usage incurred is charged to the account that contains those organizations. You can see more information about a specific charges on a resource details page from the {{site.data.keyword.Bluemix_notm}} catalog, or on the price calculator from the {{site.data.keyword.Bluemix_notm}} Pricing page.
+With an {{site.data.keyword.Bluemix_notm}} billable account, you are charged for the compute, containers, and services that are used in your organization. You might be invited by other {{site.data.keyword.Bluemix_notm}} users to participate in organizations under a different account. If you create apps or use services in the organizations that you are invited to, the usage incurred is charged to the account that contains those organizations. You can see more information about a specific charges on a resource details page from the catalog, or on the price calculator from the Pricing page.
 
-Different types of charges apply depending on the features that you are using. The following table provides a high-level overview:
+Different types of charges apply depending on the features of {{site.data.keyword.Bluemix_notm}} that you are using. The following table provides a high-level overview.
 
 | Type of charge | Description | {{site.data.keyword.Bluemix_notm}} features that use this type of charge | Example |
 |------------------|------------------|--------------------------|--------------------------|
@@ -29,6 +30,19 @@ Different types of charges apply depending on the features that you are using. T
 | Metered | Metered-usage pricing is based on the number of GB-hours consumed for runtimes, and on the number of GB-hours consumed and the number of IP addresses and storage for containers. | Services, Compute, and Containers | For the Push service, any usage over the free monthly allowance is charged. |
 |  Tiered   |  Some pricing plans are based on a tiered pricing model, so you can get a volume-based discount according to your actual usage. Services might offer simple, graduated, or block tier pricing plans. | Services | Tiered pricing is typically used for charge metrics that are expected to have very high quantities per month, such as API calls. |
 | Reserved | Reserved pricing is based on a long-term commitment for a service, so you can get a discounted price. With a reserved plan, you get a dedicated service instance that is easy to set up, deploy, and deliver in the public {{site.data.keyword.Bluemix_notm}} environment. | Services | DB2 on Cloud has reserved plans.|
+{:caption="Table 1. Charges based on features" caption-side="top"}
+
+## Lite plans
+{: #liteplans}
+
+Lite plans, which are available in Lite and Pay-As-You-Go accounts, are structured as a free quota. You can work on your projects worry free, without the risk of generating an accidental bill. The quota might operate for a specific time period, for example a month, or on a one-off usage basis. The following list provides some examples of Lite plan quotas:
+
+   * Maximum number of registered devices
+   * Maximum number of application bindings
+   * Encrypted data storage limit, for example 1 GB
+   * Provisioned throughput capacity
+
+You can easily find Lite plans in the catalog. Be default, all services with a Lite plan are displayed with a Lite tag ![Lite tag](../icons/Lite.svg). Select a service to view the quota details for the associated Lite plan.
 
 ## Charges for compute resources
 {: #compute}
@@ -52,8 +66,8 @@ Many services include monthly free allowances. Usage of services that is not inc
 <dt>Metered charges</dt>
     <dd>You pay based on your runtime and service consumption. For example, with the Push service, any usage over the free monthly allowance is charged.</dd>
 <dt>Reserved charges</dt>
-    <dd><p>As the account owner of a Pay-As-You-Go account or a Subscription account, you can reserve a service instance, with a long-term commitment, for a discounted price. For example, you can reserve the standard large DB2 on Cloud offering for 12 months.</p>
-    <p>Some {{site.data.keyword.Bluemix_notm}} services offer reserved plans. You can request a reserved plan from the {{site.data.keyword.Bluemix_notm}} <strong>Catalog</strong> by clicking the tile of the service. Then, select the service plan that best meets your needs. If a reserved plan is available, click <strong>Request</strong>, and follow the prompts to send your request. You will receive an email that contains the price information of the reserved plan. A {{site.data.keyword.Bluemix_notm}} sales representative will also contact you soon to complete the purchase.</p></dd>
+    <dd><p>As the account owner of a Pay As You Go account or a Subscription account, you can reserve a service instance, with a long-term commitment, for a discounted price. For example, you can reserve the standard large DB2 on Cloud offering for 12 months.</p>
+    <p>Some {{site.data.keyword.Bluemix_notm}} services offer reserved plans. You can request a reserved plan from the {{site.data.keyword.Bluemix_notm}} <strong>Catalog</strong> by clicking the tile of the service. Then, select the service plan that best meets your needs. If a reserved plan is available, click <strong>Request</strong>, and follow the prompts to send your request. You will receive an email that contains the price information of the reserved plan. An {{site.data.keyword.Bluemix_notm}} sales representative will also contact you soon to complete the purchase.</p></dd>
 <dt>Tiered charges</dt>
     <dd>Similar to metered charges, you pay based based on your runtime and service consumption. However, tiered charges add additional pricing tiers, often offering discounted charges in tiers with larger consumption. Tiered pricing is offered in simple, graduated, or block.</dd>
 </dl>
@@ -70,7 +84,7 @@ In the simple tier model, the unit price is determined by the tier that the quan
 | Tier 3: 2001 - 3000                  |   $0.75 USD                       |
 | Tier 4: 3001 - 4000           |      $0.60 USD                    |
 |Tier 5: &gt; 4000 | $0.40 USD |
-{:caption="Table 1. Simple tier pricing table" caption-side="top"}
+{:caption="Table 2. Simple tier pricing table" caption-side="top"}
 
 The following table illustrates how much you pay with a plan that is based on a simple tier pricing model:
 
@@ -81,7 +95,7 @@ The following table illustrates how much you pay with a plan that is based on a 
 |2500 |	2500 × 0.75 = 1875 |	$1875 USD|
 |... |	... |	...|
 |5200 |	5200 × 0.40 = 2080 |$2080 USD|
-{:caption="Table 2. Charge calculation by using the simple tier pricing model" caption-side="top"}
+{:caption="Table 3. Charge calculation by using the simple tier pricing model" caption-side="top"}
 
 ### Graduated tier
 {: #graduated_tier}
@@ -95,7 +109,7 @@ In the graduated tier model, the unit price per tier decreases as your level of 
 |    Tier 3: 2001 - 3000 |	$0.75 USD |
 |    Tier 4: 3001 - 4000 |	$0.60 USD |
 |    Tier 5: &gt; 4000 |	$0.40 USD |
-{:caption="Table 3. Graduated tier pricing table" caption-side="top"}
+{:caption="Table 4. Graduated tier pricing table" caption-side="top"}
 
 The following table illustrates how much you pay with a plan that is based on a graduated tier pricing model:
 
@@ -106,7 +120,7 @@ The following table illustrates how much you pay with a plan that is based on a 
 |2500 |	(1000 × 1 (unit price for Tier 1)) + (1000 × 0.90 (unit price for Tier 2)) + (500 × 0.75 (unit price for Tier 3)) = 2275 |	$2275 USD |
 |... |	... |	...|
 |5200 |	(1000 × 1 (unit price for Tier 1)) + (1000 × 0.90 (unit price for Tier 2)) + (1000 × 0.75 (unit price for Tier 3)) + (1000 × 0.60 (unit price for Tier 4)) + (1200 × 0.40 (unit price for Tier 5)) = 3730 |	$3730 USD|
-{:caption="Table 4. Charge calculation by using the graduated tier pricing model" caption-side="top"}
+{:caption="Table 5. Charge calculation by using the graduated tier pricing model" caption-side="top"}
 
 ### Block tier
 {: #block_tier}
@@ -120,7 +134,7 @@ In the block tier model, the price is a set charge for the quantity you use with
 | Tier 3: &lt;= 3000 |	$2800 USD|
 | Tier 4: &lt;= 4000 |	$3500 USD|
 | Tier 5: &lt;= 10000 |	$5000 USD|
-{:caption="Table 5. Block tier pricing table" caption-side="top"}
+{:caption="Table 6. Block tier pricing table" caption-side="top"}
 
 The following table illustrates how much you pay with a plan that is based on a block tier pricing model:
 
@@ -130,4 +144,4 @@ The following table illustrates how much you pay with a plan that is based on a 
 |1500 |	The number of items falls into Tier 2, so the total price is $1900 USD. |	$1900 USD|
 |... |	... |	...|
 |5200 |	The number of items falls into Tier 5, so the total price is $5000 USD. |	$5000 USD|
-{:caption="Table 6. Charge calculation by using the block tier pricing model" caption-side="top"}
+{:caption="Table 7. Charge calculation by using the block tier pricing model" caption-side="top"}
