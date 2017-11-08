@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-10-31"
+lastupdated: "2017-11-07"
 
 ---
 
@@ -16,7 +16,7 @@ lastupdated: "2017-10-31"
 # Account types
 {: #accounts}
 
-You can start building on {{site.data.keyword.Bluemix}} for free. When you are ready to grow, upgrade and pay only for what you use beyond free allowances. We have four different account types that you can choose from: Lite, Pay-As-You-Go, Subscription, and Promo. You can use any of the account types to get started in {{site.data.keyword.Bluemix_notm}} - simply choose the one that best suits your needs.  
+You can start building on {{site.data.keyword.Bluemix}} for free. When you are ready to grow, upgrade and pay only for what you use beyond free allowances. We have four different account types that you can choose from: Lite, Pay-As-You-Go, Subscription, and Trial. You can use any of the account types to get started in {{site.data.keyword.Bluemix_notm}} - simply choose the one that best suits your needs.  
 {:shortdesc}
 
 ## Account comparison
@@ -114,18 +114,24 @@ With {{site.data.keyword.Bluemix_local_notm}}, you must sign up for a one year m
 
 What you pay each month during that term is based on the local services that you want, plus a Subscription account that gives you access to all public services. Usage charges of the services in {{site.data.keyword.Bluemix_notm}} Public are calculated based on your Subscription account agreement. You receive an invoice for any services that you use beyond that subscription agreement. Contact your IBM designated account representative or contact [{{site.data.keyword.Bluemix_notm}} Sales](http://ibm.biz/bluemixsupport){: new_window} ![External link icon](../icons/launch-glyph.svg “External link icon”) to get started on your agreement.
 
-## Promo account
-{: #promo}
+## Trial account
+{: #Trial}
 
-Promo accounts, occasionally offered as part of special promotions, are free timeboxed trials with access to most of the {{site.data.keyword.Bluemix_notm}} catalog. This account type is available through the use of a promo code only. The time period of validity for the account varies by promotion. 
+Trial accounts are available in all regions. With a free 30-day trial, you can jump right in and start building your apps and exploring services in {{site.data.keyword.Bluemix_notm}}. 
 
-### What happens when my Promo account expires?
+When you sign up for a free trial with your {{site.data.keyword.Bluemix_notm}} ID, your account is provided with the following resources, free of charge:
+
+  * Maximum 2 GB memory
+  * 10 services
+  * 1 SSL certificate
+
+### What happens when my free trial ends?
 {: #trialend}
 
-When your Promo account expires, the apps in your account are stopped. You can't sign up for another {{site.data.keyword.Bluemix_notm}} account, but you can still access your account and any accounts that you are invited to.
+When your free trial expires 30 days after you sign up, the apps in your account are stopped. You can't sign up for another {{site.data.keyword.Bluemix_notm}} account, but you can still access your account and any accounts that you are invited to.
 
 To restart your apps, convert your account to a billable account by either providing your credit card information for a Pay-As-You-Go account or creating a Subscription account. You can then continue to use free compute and service allowances. You pay only for the usage of services, containers, and runtimes that's not included in your free monthly allowance.
 
-If you don't convert your account after your Promo account expires, your apps and services are removed after 30 days. However, your account is not deleted and you can log in and upgrade to a billable account at any time. Also, you receive email notifications to remind you to create a billable account and avoid losing your app settings and service configurations. If you prefer not to receive notifications from {{site.data.keyword.Bluemix_notm}}, you can unsubscribe at any time.
+If you don't convert your account after your free trial expires, your apps and services are removed after 30 days. However, your account is not deleted and you can log in and upgrade to a billable account at any time. Also, you receive email notifications to remind you to create a billable account and avoid losing your app settings and service configurations. If you prefer not to receive notifications from {{site.data.keyword.Bluemix_notm}}, you can unsubscribe at any time.
 
 If you convert your account, your free allowances are limited to allowances normally provided by each service. The allowances are no longer unlimited use allowances that are offered by many of the IBM services during the free trial.
