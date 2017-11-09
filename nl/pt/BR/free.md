@@ -3,12 +3,13 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-09-14"
+lastupdated: "2017-10-17"
 
 ---
 
 {:shortdesc: .shortdesc}
 {:codeblock: .codeblock}
+{:tip: .tip}
 {:screen: .screen}
 {:new_window: target="_blank"}
 
@@ -42,28 +43,6 @@ Sua conta é fornecida com os recursos a seguir, livre de encargo:
   * 10 serviços
   * 1 certificado SSL
 
-Para obter mais informações, veja [Conta para teste do Bluemix](/docs/pricing/index.html#bmtrial).
-
-## Aplicando códigos promocionais
-{: #promo}
-
-Às vezes, as Vendas do {{site.data.keyword.Bluemix_notm}} ou outros representantes fornecem códigos promocionais para oferecer recursos ou
-capacidades extras para sua avaliação grátis. 
-
-Os recursos ou as capacidades extras fornecidos pelo {{site.data.keyword.Bluemix_notm}} variam, dependendo do código específico,
-mas incluem um ou mais dos itens a seguir em geral:
-
-  * Aumente a cota de memória a um número de GB especificado pelo código promocional
-  * Inclua uma organização, com uma cota de memória que seja especificada pelo código promocional
-  * Inclua um número ilimitado de organizações
-  * Faça upload de um número adicional de certificados SSL, conforme especificado pelo código promocional
-  * Use planos de serviços premium
-
-Para aplicar um ou mais códigos promocionais:
-1. No console do {{site.data.keyword.Bluemix_notm}}, acesse **Gerenciar > Faturamento e uso > Faturamento**. 
-2. Insira os detalhes do código promocional e clique em **APLICAR**.
-
-**Nota**: cada código promocional pode ser resgatado somente uma vez antes da data de expiração do código.
-
+Para obter mais informações, consulte [Conta para teste do Bluemix](/docs/pricing/index.html#bmtrial).
 
 

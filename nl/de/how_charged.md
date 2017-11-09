@@ -5,7 +5,7 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-04-12"
+lastupdated: "2017-10-10"
 
 ---
 
@@ -17,11 +17,11 @@ lastupdated: "2017-04-12"
 # Berechnung der Gebühren
 {: #charges}
 
-Die Höhe der Gebühren hängt von den jeweiligen Ressourcen ab, die von einem bestimmten Service oder Container bzw. einer bestimmten Laufzeit oder einer Unterstützungsoption verwendet werden. Bei den Ressourcen kann es sich um die Anzahl der API-Aufrufe, die Anzahl der Instanzen, die Hauptspeichermenge, den Speicherplatz, usw. handeln. {{site.data.keyword.Bluemix_notm}} stellt auch eine detaillierte Kostenschätzungsfunktionen und eine Kostenberechnungsfunktion bis auf den letzten Cent bereit, die Ihnen beim Planen der Gebühren behilflich sein können. Sie können die tatsächlichen Kosten nach dem Erstellen der Apps auf der Seite 'Nutzungsdashboard' überprüfen.
+Die Höhe der Gebühren hängt von den jeweiligen Ressourcen ab, die von einem bestimmten Service oder Container bzw. einer bestimmten Laufzeit oder einer Unterstützungsoption verwendet werden. Bei den Ressourcen kann es sich um die Anzahl der API-Aufrufe, die Anzahl der Instanzen, die Hauptspeichermenge, den Speicherplatz, usw. handeln. {{site.data.keyword.Bluemix}} stellt auch eine detaillierte Kostenschätzungsfunktionen und eine Kostenberechnungsfunktion bis auf den letzten Cent bereit, die Ihnen beim Planen der Gebühren behilflich sein können. Sie können die tatsächlichen Kosten nach dem Erstellen der Apps auf der Seite 'Nutzungsdashboard' überprüfen.
 
 Über ein gebührenpflichtiges {{site.data.keyword.Bluemix_notm}}-Konto werden die Gebühren für Berechnungen, Container und Services erhoben, die von Ihrer Organisation in Anspruch genommen werden. Es kann vorkommen, dass Sie von anderen {{site.data.keyword.Bluemix_notm}}-Benutzern eingeladen werden, unter einem anderen Konto an Organisationen teilzunehmen. Wenn Sie in den Organisationen, in die Sie eingeladen wurden, Apps erstellen oder Services verwenden, werden die Gebühren, die für diese Nutzung anfallen, dem Konto in Rechnung gestellt, das die betreffenden Organisationen enthält. Weitere Informationen zu bestimmten Gebühren können Sie über die Detailseite einer Ressource im {{site.data.keyword.Bluemix_notm}}-Katalog oder über den Preisrechner auf der {{site.data.keyword.Bluemix_notm}}-Seite 'Preisstruktur' aufrufen.
 
-Die Gebühren werden abhängig von den von Ihnen verwendeten Komponenten von {{site.data.keyword.Bluemix_notm}} berechnet. In der folgenden Tabelle wird eine allgemeine Übersicht bereitgestellt:
+Die Gebühren werden abhängig von den von Ihnen verwendeten Komponenten berechnet. In der folgenden Tabelle wird eine allgemeine Übersicht bereitgestellt:
 
 | Gebührentyp | Beschreibung | {{site.data.keyword.Bluemix_notm}}-Features, die diesen Gebührentyp verwenden | Beispiel |
 |------------------|------------------|--------------------------|--------------------------|

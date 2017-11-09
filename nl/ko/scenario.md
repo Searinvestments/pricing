@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-05-30"
+lastupdated: "2017-10-10"
 
 ---
 
@@ -15,7 +15,7 @@ lastupdated: "2017-05-30"
 # 시나리오: 예제 Node 앱의 비용 추정
 {: #sample}
 
-확장 기능이 있는 Node.js 웹 앱이 있으며 이 앱이 {{site.data.keyword.Bluemix_notm}}에서 제공하는 여러 서비스를 사용한다고 가정하십시오. 이 예제를 통해 앱의 실제 비용이 어떻게 계산되는지 이해할 수 있습니다. 웹 앱이 사용하는 {{site.data.keyword.Bluemix_notm}} 서비스와 항목은 다음과 같습니다. 
+확장 기능이 있는 Node.js 웹 앱이 있으며 이 앱이 {{site.data.keyword.Bluemix}}에서 제공하는 여러 서비스를 사용한다고 가정하십시오. 이 예제를 통해 앱의 실제 비용이 어떻게 계산되는지 이해할 수 있습니다. 웹 앱이 사용하는 {{site.data.keyword.Bluemix_notm}} 서비스와 항목은 다음과 같습니다. 
 
 * 256MB Node.js 런타임 인스턴스 4개
 * 2개의 {{site.data.keyword.autoscaling}} 정책, 프로세서 및 메모리
@@ -23,7 +23,7 @@ lastupdated: "2017-05-30"
 * 매월 150GB의 NoSQL 데이터베이스, Heavy API 호출 100,000개 및 Light API 호출 500,000개
 * 20GB의 인바운드 또는 아웃바운드 네트워크 트래픽
 
-## Bluemix 리소스의 가격
+## {{site.data.keyword.Bluemix_notm}} 리소스의 가격
 {: #sample_resources}
 
 예를 단순화하기 위해 다음 표의 가격은 특정 시간 범위(예: 한 달) 내에서 또는 시간 범위 간에 변동되지 않는다고 가정합니다. 이 예의 모든 가격은 미국 통화입니다. 
@@ -44,7 +44,7 @@ lastupdated: "2017-05-30"
 
 <dl>
 <dt>256MB Node.js 런타임 인스턴스 4개</dt>
-<dd>Bluemix에서는 런타임 비용을 GB-시간 단위로 청구합니다. 매월 사용량(GB)은 <code>월별 4 x 256 = 1024MB 또는 1GB</code>입니다. <code>한 달은 24 x 30 = 720시간</code>으로 가정하므로 애플리케이션의 비용이 <code>1 x 720 = 720GB-시간</code>으로 청구됩니다.
+<dd>{{site.data.keyword.Bluemix_notm}}에서는 런타임 비용을 GB-시간 단위로 청구합니다. 매월 사용량(GB)은 <code>월별 4 x 256 = 1024MB 또는 1GB</code>입니다. <code>한 달은 24 x 30 = 720시간</code>으로 가정하므로 애플리케이션의 비용이 <code>1 x 720 = 720GB-시간</code>으로 청구됩니다.
 <p>
 375GB-시간은 매달 무료 사용량에 포함되며, 모든 {{site.data.keyword.Bluemix_notm}} 런타임에서 공유됩니다. 런타임의 총 비용은 <code>$0.07 x (720-375) = $24.15</code>입니다. </p></dd>
 

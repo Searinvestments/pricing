@@ -3,12 +3,13 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-09-14"
+lastupdated: "2017-10-17"
 
 ---
 
 {:shortdesc: .shortdesc}
 {:codeblock: .codeblock}
+{:tip: .tip}
 {:screen: .screen}
 {:new_window: target="_blank"}
 
@@ -42,25 +43,5 @@ Ihr Konto wird gebührenfrei mit den folgenden Ressourcen ausgestattet:
   * 1 SSL-Zertifikat
 
 Weitere Informationen finden Sie unter [Bluemix-Testkonto](/docs/pricing/index.html#bmtrial).
-
-## Werbecodes anwenden
-{: #promo}
-
-Gelegentlich erhalten Sie vom {{site.data.keyword.Bluemix_notm}}-Vertrieb oder einem anderen Ansprechpartner Werbecodes, die zusätzliche Ressourcen oder Funktionen bieten, die Sie kostenlos testen können. 
-
-Die von {{site.data.keyword.Bluemix_notm}} zur Verfügung gestellten zusätzlichen Ressourcen oder Funktionen variieren in Abhängigkeit vom jeweiligen Code, doch sie können mehr oder weniger Folgendes umfassen:
-
-  * Vergrößern des Hauptspeicherkontingents auf eine durch den Werbecode angegebene Anzahl an GB
-  * Hinzufügen einer Organisation mit einem durch den Werbecode angegebenen Hauptspeicherkontingent
-  * Hinzufügen einer unbegrenzten Zahl an Organisationen
-  * Hochladen einer durch den Werbecode angegebenen weiteren Anzahl an SSL-Zertifikaten
-  * Verwenden von Prämienserviceplänen
-
-Gehen Sie wie folgt vor, um ein oder mehr Werbecodes anzuwenden:
-1. Wechseln Sie in der {{site.data.keyword.Bluemix_notm}}-Konsole zu **Verwalten > Abrechnung und Nutzung > Abrechnung**. 
-2. Geben Sie die Werbecodedetails ein und klicken Sie auf **Anwenden**.
-
-**Hinweis**: Jeder Werbecode kann vor Ablauf seines Verfallsdatums nur ein einziges Mal eingelöst werden.
-
 
 

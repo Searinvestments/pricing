@@ -5,19 +5,20 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-05-30"
+lastupdated: "2017-10-10"
 
 ---
 
 {:shortdesc: .shortdesc}
 {:codeblock: .codeblock}
+{:tip: .tip}
 {:screen: .screen}
 {:new_window: target="_blank"}
 
 # Vorgehensweise zur Kostenberechnung
 {: #cost}
 
-Es gibt unterschiedliche Methoden zur Ermittlung der Kosten für die Nutzung von {{site.data.keyword.Bluemix_notm}}, um Ihre App zu erstellen und zu hosten.
+Es gibt unterschiedliche Methoden zur Ermittlung der Kosten für die Nutzung von {{site.data.keyword.Bluemix}}, um Ihre App zu erstellen und zu hosten.
 
 * Von den Kostenschätzern auf der {{site.data.keyword.pricing_sheet}} von {{site.data.keyword.Bluemix_notm}} wird eine grobe Einschätzung der Kosten auf Grundlage der Größe Ihrer App bereitgestellt.
 * Mit dem Kostenrechner auf der Seite für die Preisstruktur von {{site.data.keyword.Bluemix_notm}} werden auf der Grundlage Ihrer Eingabe zu Laufzeit und Servicenutzung genaue App-Preise ermittelt.
@@ -61,4 +62,5 @@ In der folgenden Tabelle werden die unterstützten Währungen aufgelistet.
 |ZAR |	  Südafrikanischer Rand|
 {:caption="Tabelle 2. Unterstützte Währungen" caption-side="top"}
 
-**Hinweis:** Wenn Sie Ihre {{site.data.keyword.Bluemix_notm}}- und SoftLayer-Konten verknüpft haben, ist die einzige Rechnung, die Sie erhalten, nur in USD ausgestellt.
+Wenn Sie Ihre {{site.data.keyword.Bluemix_notm}}- und SoftLayer-Konten verknüpft haben, ist die einzige Rechnung, die Sie erhalten, nur in USD ausgestellt.
+{: tip}

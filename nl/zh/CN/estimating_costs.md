@@ -5,19 +5,20 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-05-30"
+lastupdated: "2017-10-10"
 
 ---
 
 {:shortdesc: .shortdesc}
 {:codeblock: .codeblock}
+{:tip: .tip}
 {:screen: .screen}
 {:new_window: target="_blank"}
 
 # 成本计算方法
 {: #cost}
 
-您可以使用不同的方法来了解通过 {{site.data.keyword.Bluemix_notm}} 构建和托管应用程序所需的费用。
+您可以使用不同的方法来了解通过 {{site.data.keyword.Bluemix}} 构建和托管应用程序所需的费用。
 
 * {{site.data.keyword.Bluemix_notm}} {{site.data.keyword.pricing_sheet}} 上的成本估算工具根据您应用程序的大小来提供粗略的成本估算。
 * {{site.data.keyword.Bluemix_notm}}“定价”页面上的成本计算器根据您输入的运行时和服务使用量来提供准确的应用程序价格。
@@ -61,4 +62,5 @@ lastupdated: "2017-05-30"
 |ZAR|	  南非兰特|
 {:caption="表 2. 支持的货币" caption-side="top"}
 
-**注：**如果已链接您的 {{site.data.keyword.Bluemix_notm}} 和 SoftLayer 帐户，那么您收到的单个发票只使用美元 (USD)。
+如果已链接您的 {{site.data.keyword.Bluemix_notm}} 和 SoftLayer 帐户，那么您收到的单个发票只使用美元 (USD)。
+{: tip}

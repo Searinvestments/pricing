@@ -5,7 +5,7 @@
 copyright:
 
   years: 2016, 2017
-lastupdated: "2017-08-23"
+lastupdated: "2017-10-10"
 
 
 ---
@@ -13,6 +13,7 @@ lastupdated: "2017-08-23"
 {:shortdesc: .shortdesc}
 {:codeblock: .codeblock}
 {:screen: .screen}
+{:tip: .tip}
 {:new_window: target="_blank"}
 
 # IBM {{site.data.keyword.Bluemix_notm}}-Standardkonto (begrenztes Release)
@@ -45,9 +46,8 @@ Sicher interessiert es Sie, welche Unterschiede zwischen einem Standardkonto und
 |Die {{site.data.keyword.Bluemix_notm}} Support-Stufe bleibt unverändert. |
 {:caption="Tabelle 2. Was bleibt unverändert?" caption-side="top"}
 
-**Hinweis**: Wenn Ihr Testkonto nicht konvertiert werden kann, erhalten Sie eine Nachricht mit einer Erläuterung zur Ursache. Möglicherweise enthält das bestehende Testkonto mehr als eine Organisation oder Apps, die nicht übertragen werden können. Sie können die entsprechende Maßnahme ausführen und dann die Konvertierung des Kontos erneut versuchen.
-
-Wenn Sie über ein Standardkonto verfügen, können Sie Teammitglieder dazu einladen, in Ihrer Organisation und Ihren Bereichen mitzuarbeiten, Nutzungsdaten anzuzeigen, Bereiche zu erstellen, das Kontoprofil zu aktualisieren und die Organisation zu verwalten.
+Wenn Ihr Testkonto nicht konvertiert werden kann, erhalten Sie eine Nachricht mit einer Erläuterung zur Ursache. Möglicherweise enthält das bestehende Testkonto mehr als eine Organisation oder Apps, die nicht übertragen werden können. Sie können die entsprechende Maßnahme ausführen und dann die Konvertierung des Kontos erneut versuchen.
+{: tip}
 
 ## Lite-Pläne
 {: #liteplans}
@@ -89,9 +89,7 @@ Zu dieser Liste werden weitere Services hinzugefügt, bleiben Sie also dran!
 
 Wenn die Grenzwerte des Kontingents erreicht sind, wird die Anwendung gestoppt oder der Service wird inaktiviert. Wenn im Lite-Plan angegeben ist, dass das Kontingent auf monatlicher Basis bereitgestellt wird, wird die Ressourcennutzung am ersten Tag jedes Monats zurückgesetzt und Sie können die Arbeit mit dem Service fortsetzen. Wenn ein Kontingentgrenzwert erreicht oder fast erreicht ist, erhalten Sie eine Benachrichtigungs-E-Mail. 
 
-Sie können 1 Instanz pro Lite-Plan bereitstellen. 
-
-**Hinweis**: Diese Einschränkungen gelten nur für ein Standardkonto. Sie können jederzeit ein Upgrade auf ein nutzungsabhängiges Konto oder ein abonnementbasiertes Konto durchführen. Kosten fallen nur für die Nutzung an, die über die kostenfreien Kontingente hinausgeht. Weitere Informationen zu nutzungsabhängigen Konten und Abonnementkonten finden Sie unter [Anmeldung für ein gebührenpflichtiges Konto](/docs/pricing/billable.html#billable).
+Sie können 1 Instanz pro Lite-Plan bereitstellen. Diese Einschränkungen gelten nur für ein Standardkonto. Sie können jederzeit ein Upgrade auf ein nutzungsabhängiges Konto oder ein abonnementbasiertes Konto durchführen. Kosten fallen nur für die Nutzung an, die über die kostenfreien Kontingente hinausgeht. Weitere Informationen zu nutzungsabhängigen Konten und Abonnementkonten finden Sie unter [Anmeldung für ein gebührenpflichtiges Konto](/docs/pricing/billable.html#billable).
 
 ## Optimierungsfeatures
 {: #devactivity}
@@ -102,7 +100,7 @@ Neue Optimierungsfeatures, die auf Entwicklungsaktivitäten und dem Einsatz in d
 
 Ihre Apps werden in den Ruhemodus versetzt, falls über einen Zeitraum von 10 Tagen keine Entwicklungsaktivität stattfindet. Dies ist nützlich, wenn Sie an einer neuen App arbeiten möchten, da Sie auf diese Weise den Grenzwert von 256 MB für das Speicherkontingent nicht so schnell erreichen. 
 
-Wenn Sie die Apps erneut aktivieren möchten, beginnen Sie in der Cloud Foundry-Befehlszeile oder der {{site.data.keyword.Bluemix_notm}}-Konsole erneut mit der Bearbeitung der Apps. 
+Wenn Sie die Apps erneut aktivieren möchten, beginnen Sie in der Cloud Foundry-Befehlszeilenschnittstelle oder der {{site.data.keyword.Bluemix_notm}}-Konsole erneut mit der Bearbeitung der Apps. 
  
  In der folgenden Liste sind alle Befehle aufgeführt, mit denen die App aktiviert wird:
   * cf push
@@ -119,9 +117,7 @@ Wenn Sie die Apps erneut aktivieren möchten, beginnen Sie in der Cloud Foundry-
   * cf enable-ssh
   * cf disable-ssh
 
-Informationen zur Verwendung finden Sie unter [Cloud Foundry-Befehle](/docs/cli/reference/cfcommands/index.html).
-
- **Hinweis**: Wenn die App bereits für SSH aktiviert ist, kann sie mit den Befehlen `cf enable-ssh` und `cf disable-sh` nicht aktiviert werden. 
+Wenn die App bereits für SSH aktiviert ist, kann sie mit den Befehlen `cf enable-ssh` und `cf disable-sh` nicht aktiviert werden. Weitere Informationen zur Verwendung finden Sie unter [Cloud Foundry-Befehle](/docs/cli/reference/cfcommands/index.html).
 
 ### Garbage-Collection
 
@@ -132,4 +128,4 @@ Ihre Lite-Plan-Services werden gelöscht, wenn über einen Zeitraum von 30 Tagen
 
 Sie können einen Freund, der bereits ein Standardkonto besitzt, bitten, Sie einzuladen, oder Sie können sich unter sales@bluemix.net an das Vertriebsteam wenden. Nutzen Sie die Gelegenheit, das Produkt zu testen!
 
-Wenn Sie eine Einladung von einem Freund oder einem Bluemix-Verkäufer erhalten, wird die exklusive Einladung an die von Ihnen angegebene E-Mail-Adresse gesendet. Nachdem Sie die Einladung erhalten haben, führen Sie die Anweisungen in der E-Mail aus, um eine Registrierung für ein Standardkonto durchzuführen. 
+Wenn Sie eine Einladung von einem Freund oder einem {{site.data.keyword.Bluemix_notm}}-Verkäufer erhalten, wird die exklusive Einladung an die von Ihnen angegebene E-Mail-Adresse gesendet. Nachdem Sie die Einladung erhalten haben, führen Sie die Anweisungen in der E-Mail aus, um eine Registrierung für ein Standardkonto durchzuführen. 

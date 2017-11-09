@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-05-30"
+lastupdated: "2017-10-10"
 
 ---
 
@@ -15,7 +15,7 @@ lastupdated: "2017-05-30"
 # Ejemplo: Estimación de costes de una app Node.js de ejemplo
 {: #sample}
 
-Suponga que tiene una app web de Node.js con prestaciones de escalabilidad y que la app utiliza varios servicios que suministra {{site.data.keyword.Bluemix_notm}}. En este ejemplo, podrá aprender a calcular el coste real de la app. La app web utiliza los servicios y elementos de {{site.data.keyword.Bluemix_notm}} siguientes:
+Suponga que tiene una app web de Node.js con prestaciones de escalabilidad y que la app utiliza varios servicios que suministra {{site.data.keyword.Bluemix}}. En este ejemplo, podrá aprender a calcular el coste real de la app. La app web utiliza los servicios y elementos de {{site.data.keyword.Bluemix_notm}} siguientes:
 
 * Cuatro instancias de tiempo de ejecución de 256 MB de Node.js.
 * Dos políticas, un procesador y una memoria de {{site.data.keyword.autoscaling}}.
@@ -23,7 +23,7 @@ Suponga que tiene una app web de Node.js con prestaciones de escalabilidad y que
 * 150 GB al mes de base de datos NoSQL, 100.000 llamadas de API pesadas y 500.000 llamadas de API ligeras.
 * 20 GB de tráfico de red de entrada o de salida
 
-## Precios para los recursos de Bluemix
+## Precios para los recursos de {{site.data.keyword.Bluemix_notm}}
 {: #sample_resources}
 
 Para dar un ejemplo sencillo, suponga que los precios en la tabla siguiente no fluctúan en un intervalo de tiempo, por ejemplo, en un mes. En este ejemplo, todos los precios se indican en moneda de EE. UU.
@@ -44,7 +44,7 @@ El precio de la app se puede calcular de la forma siguiente:
 
 <dl>
 <dt>Cuatro instancias de tiempo de ejecución de 256 MB de Node.js.</dt>
-<dd>Cargos de Bluemix para un tiempo de ejecución por GB por hora. El número de GB utilizados al mes es de <code>4 x 256 = 1024 MB o 1 GB al mes</code>. Suponga que hay <code>24 x 30 = 720 horas en un mes</code>, por consiguiente la app ha facturado <code>1 x 720 = 720 GB por hora</code>.
+<dd>Cargos de {{site.data.keyword.Bluemix_notm}} para un tiempo de ejecución por GB por hora. El número de GB utilizados al mes es de <code>4 x 256 = 1024 MB o 1 GB al mes</code>. Suponga que hay <code>24 x 30 = 720 horas en un mes</code>, por consiguiente la app ha facturado <code>1 x 720 = 720 GB por hora</code>.
 <p>
 375 GB por hora están incluidos en la concesión gratuita al mes, compartidos en todos los tiempos de ejecución de {{site.data.keyword.Bluemix_notm}}. Por consiguiente, el coste total para el tiempo de ejecución es de <code>0,07 dólares x (720-375) = 24,15 dólares</code>.</p></dd>
 

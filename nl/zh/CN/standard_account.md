@@ -5,7 +5,7 @@
 copyright:
 
   years: 2016, 2017
-lastupdated: "2017-08-23"
+lastupdated: "2017-10-10"
 
 
 ---
@@ -13,6 +13,7 @@ lastupdated: "2017-08-23"
 {:shortdesc: .shortdesc}
 {:codeblock: .codeblock}
 {:screen: .screen}
+{:tip: .tip}
 {:new_window: target="_blank"}
 
 # IBM {{site.data.keyword.Bluemix_notm}} 标准帐户受限发行版
@@ -45,9 +46,8 @@ lastupdated: "2017-08-23"
 |{{site.data.keyword.Bluemix_notm}} 支持的级别仍相同。|
 {:caption="表 2. 未更改的内容" caption-side="top"}
 
-**注**：如果未转换试用帐户，那么您将看到一条说明原因的消息。您可能在现有试用帐户中有多个组织，或者有无法转移的应用程序。您可以采取适当的操作，然后重新尝试转换帐户。
-
-当您拥有标准帐户时，您可以邀请团队成员在您的组织和空间中进行协作、查看您的使用情况、创建空间、更新您的帐户概要文件以及管理您的组织。
+如果未转换试用帐户，那么您将看到一条说明原因的消息。您可能在现有试用帐户中有多个组织，或者有无法转移的应用程序。您可以采取适当的操作，然后重新尝试转换帐户。
+{: tip}
 
 ## Lite 套餐
 {: #liteplans}
@@ -89,9 +89,7 @@ Lite 套餐（也在现买现付帐户中提供）构造为免费配额。您可
 
 当达到配额限制时，将停止您的应用程序或禁用您的服务。如果 Lite 套餐指定按月提供配额，那么将在每月 1 号重置资源使用情况，这时您可以恢复使用服务。当您将要达到或已达到配额限制时，会收到通知电子邮件。 
 
-您可以针对每个 Lite 套餐供应 1 个实例。 
-
-**注**：这些限制仅适用于标准帐户。您可以随时升级到现买现付或预订帐户。您仅需要为超出免费限额的使用部分付费。有关现买现付和预订帐户的更多信息，请参阅[注册计费帐户](/docs/pricing/billable.html#billable)。
+您可以针对每个 Lite 套餐供应 1 个实例。这些限制仅适用于标准帐户。您可以随时升级到现买现付或预订帐户。您仅需要为超出免费限额的使用部分付费。有关现买现付和预订帐户的更多信息，请参阅[注册计费帐户](/docs/pricing/billable.html#billable)。
 
 ## 效率功能
 {: #devactivity}
@@ -102,7 +100,7 @@ Lite 套餐（也在现买现付帐户中提供）构造为免费配额。您可
 
 如果应用程序的开发处于不活动状态的时间超过 10 天，该应用程序将进入休眠。当您想要使用新应用程序时，这非常有用，因为您将发现自己不会达到 256 MB 的内存配额限制。 
 
-要唤醒应用程序，可在 Cloud Foundry 命令行或 {{site.data.keyword.Bluemix_notm}} 控制台中重新开始使用它们。 
+要唤醒应用程序，可在 Cloud Foundry 命令行界面或 {{site.data.keyword.Bluemix_notm}} 控制台中重新开始使用它们。 
  
  下面是将唤醒应用程序的所有命令的列表：
   * cf push
@@ -119,9 +117,7 @@ Lite 套餐（也在现买现付帐户中提供）构造为免费配额。您可
   * cf enable-ssh
   * cf disable-ssh
 
-有关用法详细信息，请参阅 [Cloud Foundry 命令](/docs/cli/reference/cfcommands/index.html)。
-
- **注**：如果您的应用程序已启用 SSH，那么无法使用 `cf enable-ssh` 和 `cf disable-sh` 命令来唤醒应用程序。 
+如果您的应用程序已启用 SSH，那么无法使用 `cf enable-ssh` 和 `cf disable-sh` 命令来唤醒应用程序。有关更多用法详细信息，请参阅 [Cloud Foundry 命令](/docs/cli/reference/cfcommands/index.html)。
 
 ### 垃圾回收
 
@@ -132,4 +128,4 @@ Lite 套餐（也在现买现付帐户中提供）构造为免费配额。您可
 
 您可以要求已经拥有标准帐户的朋友邀请您，或者通过 sales@bluemix.net 与我们的销售团队取得联系。我们期待您的试用！
 
-如果您收到朋友或 Bluemix 销售商发来的邀请，对您的专属邀请会发送到您提供的电子邮件地址。当您收到邀请时，请完成电子邮件中的指示信息，以注册标准帐户。 
+如果您收到朋友或 {{site.data.keyword.Bluemix_notm}} 销售商发来的邀请，那么对您的专属邀请会发送到您提供的电子邮件地址。当您收到邀请时，请完成电子邮件中的指示信息，以注册标准帐户。 

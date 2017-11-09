@@ -3,19 +3,20 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-06-01"
+lastupdated: "2017-10-10"
 
 ---
 
 {:shortdesc: .shortdesc}
 {:codeblock: .codeblock}
+{:tip: .tip}
 {:screen: .screen}
 {:new_window: target="_blank"}
 
 # Anmeldung für ein gebührenpflichtiges Konto
 {: #billable}
 
-Wenn Sie ein Upgrade für Ihr Konto vornehmen, können Sie eines der folgenden gebührenpflichtigen {{site.data.keyword.Bluemix_notm}}-Konten auswählen: 
+Wenn Sie ein Upgrade für Ihr Konto vornehmen, können Sie eines der folgenden gebührenpflichtigen {{site.data.keyword.Bluemix}}-Konten auswählen: 
   
   * Nutzungsabhängig - Bei einem Konto für nutzungsabhängige Zahlung werden Ihnen die Kosten auf der Grundlage Ihrer Nutzung der {{site.data.keyword.Bluemix_notm}}-Berechnungen und -Services in Rechnung gestellt.
   * Abonnement - Bei einem Abonnementkonto können Sie einen monatlichen Rabatt auf der Basis einer verbindlichen Mindestausgabeverpflichtung erhalten.
@@ -24,7 +25,10 @@ Wenn Sie ein Upgrade für Ihr Konto vornehmen, können Sie eines der folgenden g
 
 Falls während der Verwendung eines nutzungsabhängigen Kontos oder eines Abonnementkontos Probleme mit {{site.data.keyword.Bluemix_notm}} auftreten, finden Sie weitere Informationen unter [Kundenunterstützung abrufen](/docs/support/index.html#getting-customer-support).
 
-**Hinweis:** Wenn Sie Ihr gebührenpflichtiges {{site.data.keyword.Bluemix_notm}}-Konto mit einem SoftLayer-Konto verknüpfen, werden Ihre {{site.data.keyword.Bluemix_notm}}- und SoftLayer-Gebühren ab dem Ersten des folgenden Monats über die {{site.data.keyword.Bluemix_notm}}-Rechnung abgerechnet. Weitere Informationen finden Sie unter [Guthaben anzeigen](/docs/pricing/viewing_usage.html#credits).
+Wenn Sie Ihr gebührenpflichtiges {{site.data.keyword.Bluemix_notm}}-Konto mit einem SoftLayer-Konto verknüpfen,
+werden Ihre {{site.data.keyword.Bluemix_notm}}- und SoftLayer-Gebühren ab dem Ersten des folgenden Monats über die
+{{site.data.keyword.Bluemix_notm}}-Rechnung abgerechnet. Weitere Informationen finden Sie unter [Guthaben anzeigen](/docs/pricing/viewing_usage.html#credits).
+{: tip}
 
 ## Nutzungsabhängiges Konto
 {: #upgradetopayg}

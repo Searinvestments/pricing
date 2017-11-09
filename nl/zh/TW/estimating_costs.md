@@ -5,12 +5,13 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-05-30"
+lastupdated: "2017-10-10"
 
 ---
 
 {:shortdesc: .shortdesc}
 {:codeblock: .codeblock}
+{:tip: .tip}
 {:screen: .screen}
 {:new_window: target="_blank"}
 
@@ -18,7 +19,7 @@ lastupdated: "2017-05-30"
 {: #cost}
 
 您可以使用不同方法來知道使用
-{{site.data.keyword.Bluemix_notm}} 建置及管理您的應用程式，需要支付多少錢。
+{{site.data.keyword.Bluemix}} 建置及管理您的應用程式，需要支付多少錢。
 
 * {{site.data.keyword.Bluemix_notm}} {{site.data.keyword.pricing_sheet}}上的成本預估器會根據您的應用程式大小提供約略的成本預估。
 * {{site.data.keyword.Bluemix_notm}}「定價」頁面上的成本計算機會根據您輸入的運行環境及服務用量來提供正確的應用程式價格。
@@ -62,4 +63,5 @@ lastupdated: "2017-05-30"
 |ZAR|	  南非幣|
 {:caption="表 2. 支援的貨幣" caption-side="top"}
 
-**附註：**如果您已鏈結 {{site.data.keyword.Bluemix_notm}} 與 SoftLayer 帳戶，則所收到的單一發票的計價單位僅為美元 (USD)。
+如果您已鏈結 {{site.data.keyword.Bluemix_notm}} 與 SoftLayer 帳戶，則所收到的單一發票的計價單位僅為美元 (USD)。
+{: tip}

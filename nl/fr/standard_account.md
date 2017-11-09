@@ -5,7 +5,7 @@
 copyright:
 
   years: 2016, 2017
-lastupdated: "2017-08-23"
+lastupdated: "2017-10-10"
 
 
 ---
@@ -13,12 +13,13 @@ lastupdated: "2017-08-23"
 {:shortdesc: .shortdesc}
 {:codeblock: .codeblock}
 {:screen: .screen}
+{:tip: .tip}
 {:new_window: target="_blank"}
 
 # IBM {{site.data.keyword.Bluemix_notm}} Standard Account Limited Release
 {: #betaintro}
 
-L'édition {{site.data.keyword.Bluemix}} Standard Account Limited Release introduit un nouveau compte gratuit, lequel permet de travailler d'une nouvelle façon dans le cloud {{site.data.keyword.Bluemix_notm}} Public. Le compte standard
+L'édition {{site.data.keyword.Bluemix}} Standard Account Limited Release introduit un nouveau compte gratuit, lequel permet de travailler d'une nouvelle façon dans le cloud public {{site.data.keyword.Bluemix_notm}}. Le compte standard
 n'expire jamais, contrairement au compte d'essai {{site.data.keyword.Bluemix_notm}} de 30 jours. Vous pouvez continuer à
 utiliser vos applications {{site.data.keyword.Bluemix_notm}}
 sans vous soucier des restrictions de temps. 
@@ -50,13 +51,9 @@ essentielles sur le compte {{site.data.keyword.Bluemix_notm}} Standard.
 |Le niveau de support {{site.data.keyword.Bluemix_notm}} reste le même. |
 {:caption="Tableau 2. Qu'est-ce qui ne change pas ?" caption-side="top"}
 
-**Remarque :** si votre compte d'essai n'est pas converti, un message d'explication s'affiche. Votre compte d'essai comporte peut-être plusieurs organisations ou des applications qui ne peuvent pas être transférées. Effectuez l'action appropriée, puis faites une nouvelle tentative
+Si votre compte d'essai n'est pas converti, un message d'explication s'affiche. Votre compte d'essai comporte peut-être plusieurs organisations ou des applications qui ne peuvent pas être transférées. Effectuez l'action appropriée, puis faites une nouvelle tentative
 de conversion.
-
-Lorsque vous êtes propriétaire d'un compte Standard, vous pouvez inviter des membres
-d'équipe à collaborer dans votre organisation et vos espaces, afficher votre
-utilisation, créer des espaces, mettre à jour votre profil de compte et gérer
-votre organisation.
+{: tip}
 
 ## Plans Lite
 {: #liteplans}
@@ -109,9 +106,7 @@ fourni sur une base mensuelle, l'utilisation des ressources est réinitialisée
 le premier de chaque mois et vous pouvez alors réutiliser le service. Lorsque
 vous approchez ou atteignez la limite de quota, vous recevrez un courrier électronique de notification. 
 
-Vous pouvez mettre à disposition 1 instance par plan Lite. 
-
-**Remarque **: ces restrictions ne concernent que le compte Standard. Vous pouvez à tout moment procéder à une mise à niveau vers un compte de type Paiement à la carte ou Abonnement. Vous
+Vous pouvez mettre à disposition 1 instance par plan Lite. Ces restrictions ne concernent que le compte Standard. Vous pouvez à tout moment procéder à une mise à niveau vers un compte de type Paiement à la carte ou Abonnement. Vous
 ne payez que ce que vous utilisez au-delà des franchises. Pour plus d'informations sur les comptes de type Paiement à la carte ou Abonnement, voir [Inscription pour un compte facturable](/docs/pricing/billable.html#billable).
 
 ## Fonctions d'efficience
@@ -126,8 +121,7 @@ termes de développement. Cela facilite l'utilisation d'une nouvelle
 application, car vous évitez ainsi  d'atteindre la limite du quota de mémoire
 de 256 Mo. 
 
-Pour activer vos applications, commencez à les réutiliser dans la
-ligne de commande Cloud Foundry ou dans la console {{site.data.keyword.Bluemix_notm}}. 
+Pour activer vos applications, commencez à les réutiliser dans la ligne de commande Cloud Foundry ou dans la console {{site.data.keyword.Bluemix_notm}}. 
  
  Voici la liste de toutes les commandes qui permettent d'activer votre application :
   * cf push
@@ -144,9 +138,7 @@ ligne de commande Cloud Foundry ou dans la console {{site.data.keyword.Bluemix_n
   * cf enable-ssh
   * cf disable-ssh
 
-Pour plus de détails sur l'utilisation, voir [Commandes Cloud Foundry](/docs/cli/reference/cfcommands/index.html).
-
- **Remarque **: si votre application est déjà activée pour SSH, vous ne pouvez pas utiliser les commandes `cf enable-ssh` et `cf disable-sh` pour ranimer votre application. 
+Si votre application est déjà activée pour SSH, vous ne pouvez pas utiliser les commandes `cf enable-ssh` et `cf disable-sh` pour ranimer votre application. Pour plus d'informations sur l'utilisation, voir [Commandes Cloud Foundry](/docs/cli/reference/cfcommands/index.html).
 
 ### Récupération de place
 
@@ -157,4 +149,4 @@ Vos services de plan Lite sont supprimés en l'absence d'activité pendant 30 jo
 
 Vous pouvez demander à un ami disposant d'un compte Standard de vous inviter ou contacter notre équipe commerciale à l'adresse sales@bluemix.net. Vous êtes le bienvenu si vous désirez l'essayer !
 
-Si vous recevez une invitation d'un ami ou d'un vendeur Bluemix, votre invitation exclusive est envoyée à l'adresse électronique que vous avez fournie. Lorsque vous recevez l'invitation, suivez les instructions du courrier électronique pour vous inscrire pour un compte Standard. 
+Si vous recevez une invitation d'un ami ou d'un vendeur {{site.data.keyword.Bluemix_notm}}, votre invitation exclusive est envoyée à l'adresse électronique que vous avez fournie. Lorsque vous recevez l'invitation, suivez les instructions du courrier électronique pour vous inscrire pour un compte Standard. 

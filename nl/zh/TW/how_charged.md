@@ -5,7 +5,7 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-04-12"
+lastupdated: "2017-10-10"
 
 ---
 
@@ -17,11 +17,11 @@ lastupdated: "2017-04-12"
 # 收費方式
 {: #charges}
 
-費用會視特定服務、運行環境、容器或支援選項所使用的資源而改變。資源可以是 API 呼叫數目、實例數、記憶體、儲存空間等。{{site.data.keyword.Bluemix_notm}} 也提供詳細成本預估器，以及計算到分的成本計算機來協助您規劃費用。在「用量儀表板」頁面上建置應用程式之後，即可檢查實際成本。
+費用會視特定服務、運行環境、容器或支援選項所使用的資源而改變。資源可以是 API 呼叫數目、實例數、記憶體、儲存空間等。{{site.data.keyword.Bluemix}} 也提供詳細成本預估器，以及計算到分的成本計算機來協助您規劃費用。在「用量儀表板」頁面上建置應用程式之後，即可檢查實際成本。
 
-使用 {{site.data.keyword.Bluemix_notm}} 計費帳戶，會依照貴組織中使用的運算、容器及服務向您收費。其他 {{site.data.keyword.Bluemix_notm}} 使用者可能會邀請您參與不同帳戶下的組織。如果您在受邀加入的組織中建立應用程式或使用服務，則會向包含那些組織的帳戶收取發生的使用費用。在 {{site.data.keyword.Bluemix_notm}}「型錄」的資源詳細資料頁面上，或 {{site.data.keyword.Bluemix_notm}}「定價」頁面的價格計算機上，您可以查看特定費用的相關資訊。
+使用 {{site.data.keyword.Bluemix_notm}} 計費帳戶，會依照貴組織中使用的運算、容器及服務向您收費。其他 {{site.data.keyword.Bluemix_notm}} 使用者可能會邀請您參與不同帳戶下的組織。如果您在受邀加入的組織中建立應用程式或使用服務，則會向包含那些組織的帳戶收取發生的使用費用。在 {{site.data.keyword.Bluemix_notm}} 型錄的資源詳細資料頁面上，或 {{site.data.keyword.Bluemix_notm}}「定價」頁面的價格計算機上，您可以查看特定費用的相關資訊。
 
-視所使用的 {{site.data.keyword.Bluemix_notm}} 特性而定，會收取不同類型的費用。下表提供高階概觀：
+視所使用的特性而定，會收取不同類型的費用。下表提供高階概觀：
 
 | 費用類型| 說明
 | 使用此費用類型的 {{site.data.keyword.Bluemix_notm}} 特性| 範例|

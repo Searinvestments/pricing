@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-05-30"
+lastupdated: "2017-10-10"
 
 ---
 
@@ -15,7 +15,7 @@ lastupdated: "2017-05-30"
 # Scénario : Evaluation des coûts d'un exemple d'application Node
 {: #sample}
 
-Supposons que vous disposez d'une application Web Node.js avec capacité d'extensibilité et que l'application utilise plusieurs services fournis par {{site.data.keyword.Bluemix_notm}}. Cet exemple explique comment le coût réel de votre application est calculé. L'application Web utilise les services et les éléments {{site.data.keyword.Bluemix_notm}} suivants :
+Supposons que vous disposez d'une application Web Node.js avec capacité d'extensibilité et que l'application utilise plusieurs services fournis par {{site.data.keyword.Bluemix}}. Cet exemple explique comment le coût réel de votre application est calculé. L'application Web utilise les services et les éléments {{site.data.keyword.Bluemix_notm}} suivants :
 
 * Quatre instances d'exécution Node.js de 256 Mo
 * Deux stratégies {{site.data.keyword.autoscaling}}, un processeur et de la mémoire
@@ -23,7 +23,7 @@ Supposons que vous disposez d'une application Web Node.js avec capacité d'exten
 * 150 Go par mois pour NoSQL Database, 100 000 appels API lourds et 500 000 appels API légers
 * 20 Go pour le trafic réseau entrant et sortant
 
-## Prix des ressources Bluemix
+## Prix des ressources {{site.data.keyword.Bluemix_notm}}
 {: #sample_resources}
 
 Pour que cet exemple reste simple, supposez que les prix figurant dans le tableau suivant ne fluctuent pas sur une période de
@@ -45,7 +45,7 @@ Le prix de l'application peut être calculé comme suit :
 
 <dl>
 <dt>Quatre instances d'exécution Node.js de 256 Mo</dt>
-<dd>Bluemix facture un contexte d'exécution par Go/heure. Le nombre de Go utilisés par mois est <code>4 x 256 = 1024 Mo ou 1 Go par mois</code>. Supposez que vous utilisez <code>24 x 30
+<dd>{{site.data.keyword.Bluemix_notm}} facture un contexte d'exécution par Go/heure. Le nombre de Go utilisés par mois est <code>4 x 256 = 1024 Mo ou 1 Go par mois</code>. Supposez que vous utilisez <code>24 x 30
 = 720 heures par mois</code> ; l'application est facturée <code>1 x 720 = 720 Go/heure</code>.
 <p>
 375 Go/heure sont inclus dans une franchise par mois et partagés entre tous les contextes d'exécution

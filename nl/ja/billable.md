@@ -3,19 +3,20 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-06-01"
+lastupdated: "2017-10-10"
 
 ---
 
 {:shortdesc: .shortdesc}
 {:codeblock: .codeblock}
+{:tip: .tip}
 {:screen: .screen}
 {:new_window: target="_blank"}
 
 # 有料アカウントの登録
 {: #billable}
 
-アカウントをアップグレードする際は、以下の {{site.data.keyword.Bluemix_notm}} 有料アカウントから選択できます。 
+アカウントをアップグレードする際は、以下の {{site.data.keyword.Bluemix}} 有料アカウントから選択できます。 
   
   * 従量課金 (PAYG)。{{site.data.keyword.Bluemix_notm}} の計算とサービスの使用に基づいて課金されます。
   * サブスクリプション。月々の最小消費量契約に基づいて、月々の割引を受けることができます。
@@ -24,7 +25,7 @@ lastupdated: "2017-06-01"
 
 「従量課金 (PAYG)」アカウントまたは「サブスクリプション」アカウントを使用していて {{site.data.keyword.Bluemix_notm}} で何らかの問題に直面した場合は、『[お客様サポートの利用](/docs/support/index.html#getting-customer-support)』を参照してください。
 
-**注:** {{site.data.keyword.Bluemix_notm}} 有料アカウントを SoftLayer アカウントとリンクすると、翌月の最初から、{{site.data.keyword.Bluemix_notm}} と SoftLayer の料金は {{site.data.keyword.Bluemix_notm}} 請求書に含まれます。詳しくは、[「クレジットの表示」](/docs/pricing/viewing_usage.html#credits)を参照してください。
+{{site.data.keyword.Bluemix_notm}} 有料アカウントを SoftLayer アカウントとリンクすると、翌月の最初から、{{site.data.keyword.Bluemix_notm}} と SoftLayer の料金は {{site.data.keyword.Bluemix_notm}} の請求書に含められます。詳しくは、[「クレジットの表示」](/docs/pricing/viewing_usage.html#credits)を参照してください。{: tip}
 
 ## 「従量課金 (PAYG)」アカウント
 {: #upgradetopayg}

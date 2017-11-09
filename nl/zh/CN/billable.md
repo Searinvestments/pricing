@@ -3,19 +3,20 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-06-01"
+lastupdated: "2017-10-10"
 
 ---
 
 {:shortdesc: .shortdesc}
 {:codeblock: .codeblock}
+{:tip: .tip}
 {:screen: .screen}
 {:new_window: target="_blank"}
 
 # 注册计费帐户
 {: #billable}
 
-升级帐户时，可以从以下 {{site.data.keyword.Bluemix_notm}} 计费帐户中进行选择： 
+升级帐户时，可以从以下 {{site.data.keyword.Bluemix}} 计费帐户中进行选择： 
   
   * 现买现付 - 将根据您所使用的 {{site.data.keyword.Bluemix_notm}} 计算和服务来收费。
   * 预订 - 可享受基于每月最低花费承诺的每月折扣。
@@ -24,7 +25,8 @@ lastupdated: "2017-06-01"
 
 如果在使用现买现付帐户或预订帐户时遇到任何 {{site.data.keyword.Bluemix_notm}} 问题，请参阅[获取客户支持](/docs/support/index.html#getting-customer-support)。
 
-**注：**如果您将 {{site.data.keyword.Bluemix_notm}} 计费帐户与 SoftLayer 帐户相链接，那么从下个月的第一天开始，您的 {{site.data.keyword.Bluemix_notm}} 和 SoftLayer 费用将会列在 {{site.data.keyword.Bluemix_notm}} 发票上。有关更多信息，请参阅[查看信用值](/docs/pricing/viewing_usage.html#credits)。
+如果您将 {{site.data.keyword.Bluemix_notm}} 计费帐户与 SoftLayer 帐户相链接，那么从下个月的第一天开始，您的 {{site.data.keyword.Bluemix_notm}} 和 SoftLayer 费用将会列在 {{site.data.keyword.Bluemix_notm}} 发票上。有关更多信息，请参阅[查看信用值](/docs/pricing/viewing_usage.html#credits)。
+{: tip}
 
 ## 现买现付帐户
 {: #upgradetopayg}

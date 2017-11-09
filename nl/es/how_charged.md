@@ -5,7 +5,7 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-04-12"
+lastupdated: "2017-10-10"
 
 ---
 
@@ -18,11 +18,11 @@ lastupdated: "2017-04-12"
 {: #charges}
 
 Los cargos varían en función de los recursos utilizados por un servicio concreto, el tiempo de ejecución, el contenedor o la opción de soporte. Los recursos pueden ser el número de llamadas de API, el número de instancias,
-memoria, almacenamiento, etc. {{site.data.keyword.Bluemix_notm}} también proporciona estimadores de coste detallado, y una calculadora de coste hasta el último céntimo para ayudarle a planificar los cargos. Puede comprobar el coste real después de crear sus apps en la página del Panel de control de uso.
+memoria, almacenamiento, etc. {{site.data.keyword.Bluemix}} también proporciona estimadores de coste detallado, y una calculadora de coste hasta el último céntimo para ayudarle a planificar los cargos. Puede comprobar el coste real después de crear sus apps en la página del Panel de control de uso.
 
-Con una cuenta facturable de {{site.data.keyword.Bluemix_notm}}, se le facturará por el cálculo, los contenedores y los servicios que se utilicen en su organización. Es posible que otros usuarios de {{site.data.keyword.Bluemix_notm}} le inviten a participar en organizaciones en una cuenta diferente. Si crea apps o utiliza servicios en las organizaciones las que está invitado, el uso que se produce se factura a la cuenta que contenga dichas organizaciones. Puede ver más información sobre unos cargos específicos en una página de detalles de recurso en el Catálogo de {{site.data.keyword.Bluemix_notm}}, o en la calculadora de precios en la página {{site.data.keyword.Bluemix_notm}} Precios.
+Con una cuenta facturable de {{site.data.keyword.Bluemix_notm}}, se le facturará por el cálculo, los contenedores y los servicios que se utilicen en su organización. Es posible que otros usuarios de {{site.data.keyword.Bluemix_notm}} le inviten a participar en organizaciones en una cuenta diferente. Si crea apps o utiliza servicios en las organizaciones las que está invitado, el uso que se produce se factura a la cuenta que contenga dichas organizaciones. Puede ver más información sobre unos cargos específicos en una página de detalles de recurso en el catálogo de {{site.data.keyword.Bluemix_notm}}, o en la calculadora de precios en la página {{site.data.keyword.Bluemix_notm}} Precios.
 
-Se aplicarán distintos tipos de cargos en función de las características de {{site.data.keyword.Bluemix_notm}} que utilice. En la tabla siguiente se proporciona una visión general de alto nivel:
+Se aplicarán distintos tipos de cargos en función de las características que utilice. En la tabla siguiente se proporciona una visión general de alto nivel:
 
 | Tipo de cargo | Descripción | Características de {{site.data.keyword.Bluemix_notm}} que utilizan este tipo de cargo | Ejemplo |
 |------------------|------------------|--------------------------|--------------------------|

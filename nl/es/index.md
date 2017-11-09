@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-06-01"
+lastupdated: "2017-10-10"
 
 ---
 
@@ -15,38 +15,36 @@ lastupdated: "2017-06-01"
 # Tipos de cuentas
 {: #bmaccounts}
 
-Puede empezar a crear en IBM Bluemix gratis. Cuando esté preparado para crecer, puede actualizar y pagar sólo por uso más allá de las concesiones gratuitas. Bluemix proporciona una calculadora de costes, que puede utilizar para calcular el coste de antemano. Compruebe la página del Panel de control de uso de su cuenta de Bluemix para ver el coste real después de crear sus apps.
+Puede empezar a crear en {{site.data.keyword.Bluemix}} gratis. Cuando esté preparado para crecer, puede actualizar y pagar sólo por uso más allá de las concesiones gratuitas. 
 {:shortdesc}
 
-## Cuenta estándar de {{site.data.keyword.Bluemix_notm}}
+## Cuenta estándar
 {: #trystandard}
 
-Las cuentas Estándar están disponibles para usuarios seleccionados sólo en regiones del Reino Unido y de EE.UU. Sur. Registrarse para una cuenta Estándar gratuita para crear apps y explorar servicios con planes Lite gratuitos en {{site.data.keyword.Bluemix}}. Su cuenta Estándar no caduca y la tarjeta de crédito no es necesaria. Puede crear una cuenta Estándar y pedirle una invitación a un amigo con una cuenta Estándar o puede ponerse en contacto con nuestro equipo de ventas en sales@bluemix.net.  
-{:shortdesc}
+Las cuentas Estándar están disponibles para usuarios seleccionados sólo en regiones del Reino Unido y de EE.UU. Sur. Registrarse para una cuenta Estándar gratuita para crear apps y explorar servicios con planes Lite gratuitos en {{site.data.keyword.Bluemix_notm}}. Su cuenta Estándar no caduca y la tarjeta de crédito no es necesaria. Puede crear una cuenta Estándar y pedirle una invitación a un amigo con una cuenta Estándar o puede ponerse en contacto con nuestro equipo de ventas en sales@bluemix.net.  
 
 Cuando inicia sesión en una cuenta Estándar, puede seleccionar en qué región geográfica desea trabajar. Después de crear una organización en una región, no puede modificarla. 
 
 ### ¿Qué hay disponible? 
 {: #whatsavailable}
 
-Se estará preguntando qué ofrece la cuenta Estándar. Consulte la siguiente lista con los detalles principales de la cuenta Estándar de Bluemix.
-  * La cuenta es gratuita. No necesita tarjeta de crédito.
-  * La cuenta no caduca nunca. 
-  * Puede utilizar una organización en una región de {{site.data.keyword.Bluemix_notm}}.
-  * Soporte gratuito de {{site.data.keyword.Bluemix_notm}}.
-  * Las apps de Cloud Foundry pueden acceder hasta un máximo 256 MB de memoria de tiempo de ejecución gratuita e instantánea.
-  * Puede acceder a los planes Lite gratuitos para servicios seleccionados, con más servicios disponibles muy pronto.
-  * Recibirá notificaciones de correo electrónico sobre el estado de la cuenta.
-  * Después de 10 días de inactividad de desarrollo, sus apps entrarán en suspensión.
-  * Después de 30 días de inactividad de desarrollo, se suprimirán las instancias de servicio con planes Lite.
+Se estará preguntando qué se ofrece en una cuenta Estándar. Consulte la siguiente lista con los detalles principales:
 
-Para obtener más información, consulte [la versión de cuenta Estándar de disponibilidad limitada de IBM Bluemix](/docs/pricing/standard_account.html#betaintro).
+   * La cuenta es gratuita. No necesita tarjeta de crédito.
+   * La cuenta no caduca nunca. 
+   * Puede utilizar una organización en una región de {{site.data.keyword.Bluemix_notm}}.
+   * Las apps de Cloud Foundry pueden acceder hasta un máximo 256 MB de memoria de tiempo de ejecución gratuita e instantánea. 
+   * Puede acceder a los planes Lite gratuitos para servicios seleccionados, con más servicios disponibles muy pronto. 
+   * Recibirá notificaciones de correo electrónico sobre el estado de la cuenta. 
+   * Después de 10 días de inactividad de desarrollo, sus apps entrarán en suspensión.
+   * Después de 30 días de inactividad de desarrollo, se suprimirán las instancias de servicio con planes Lite. 
 
-## Cuenta de prueba de {{site.data.keyword.Bluemix_notm}}
+Para obtener más información, consulte [la versión de cuenta Estándar de disponibilidad limitada de IBM Bluemix](/docs/pricing/standard_account.html).
+
+## Cuenta de prueba
 {: #bmtrial}
 
-Las cuentas de prueba están disponibles en todas las regiones. Con una prueba de 30 días, ya puede empezar a crear sus apps y a explorar los servicios de {{site.data.keyword.Bluemix}}.
-{:shortdesc}
+Las cuentas de prueba están disponibles en todas las regiones. Con una prueba de 30 días, ya puede empezar a crear sus apps y a explorar los servicios de {{site.data.keyword.Bluemix_notm}}.
 
 Cuando se registra en una prueba gratuita con su ID de {{site.data.keyword.Bluemix_notm}}, se le proporciona una cuenta con los siguientes recursos, totalmente gratuitos:
 
@@ -70,11 +68,11 @@ Si convierte la cuenta durante el periodo de prueba gratuito, las concesiones gr
 ## Cuentas facturables
 {: #billableacts}
 
-Cuando se registra en un plan facturable de {{site.data.keyword.Bluemix_notm}} o solicita una actualización de su cuenta, puede seleccionar 4 cuentas distintas de {{site.data.keyword.Bluemix_notm}}. En la tabla siguiente se muestran los distintos tipos de cuentas y los métodos de cargos. 
+Cuando se registra en un plan facturable de {{site.data.keyword.Bluemix_notm}} o solicita una actualización de su cuenta, puede seleccionar cuatro cuentas distintas de {{site.data.keyword.Bluemix_notm}}. En la tabla siguiente se muestran los distintos tipos de cuentas y los métodos de cargos. 
 
 |Tipo de cuenta de {{site.data.keyword.Bluemix_notm}} |	¿Cómo se me facturará? |
 |------------------|-----------------------|
-|Pago según uso |	Los cargos son en función del uso del cálculo y los servicios de {{site.data.keyword.Bluemix}}. |
+|Pago según uso |	Los cargos son en función del uso del cálculo y los servicios de {{site.data.keyword.Bluemix_notm}}. |
 |Suscripción | Puede obtener un descuento mensual en función del compromiso de gasto mensual mínimo |
 |Dedicado | Contrato anual |
 |Local |	Contrato anual |

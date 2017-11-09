@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-06-01"
+lastupdated: "2017-10-10"
 
 ---
 
@@ -15,38 +15,36 @@ lastupdated: "2017-06-01"
 # Types de compte
 {: #bmaccounts}
 
-Vous pouvez commencer à construire des applications dans IBM Bluemix gratuitement. Lorsque vous êtes prêt à aller plus loin, vous pouvez effectuer une mise à niveau en ne payant que pour ce que vous utilisez au-delà des franchises. Bluemix fournit un calculateur de coûts que vous pouvez utiliser pour estimer le coût à l'avance. Examinez la page Tableau de bord de l'utilisation dans votre compte Bluemix pour connaître le coût effectif après avoir généré vos applications.
+Vous pouvez commencer à construire des applications dans {{site.data.keyword.Bluemix}} gratuitement. Lorsque vous êtes prêt à aller plus loin, vous pouvez effectuer une mise à niveau en ne payant que pour ce que vous utilisez au-delà des franchises. 
 {:shortdesc}
 
-## Compte {{site.data.keyword.Bluemix_notm}} Standard
+## Compte Standard
 {: #trystandard}
 
-Les comptes standard ne sont disponibles que pour les utilisateurs dans les régions Royaume-Uni et Sud des Etats-Unis. Inscrivez-vous pour un compte Standard gratuit pour construire des applications et explorer des services associés à des plans Lite gratuits dans {{site.data.keyword.Bluemix}}. Votre compte Standard n'expire pas et votre carte de crédit n'est pas nécessaire. Vous pouvez créer un compte Standard en demandant à un ami de vous inviter ou en contactant notre équipe commerciale à l'adresse sales@bluemix.net.  
-{:shortdesc}
+Les comptes standard ne sont disponibles que pour les utilisateurs dans les régions Royaume-Uni et Sud des Etats-Unis. Inscrivez-vous pour un compte Standard gratuit pour construire des applications et explorer des services associés à des plans Lite gratuits dans {{site.data.keyword.Bluemix_notm}}. Votre compte Standard n'expire pas et votre carte de crédit n'est pas nécessaire. Vous pouvez créer un compte Standard en demandant à un ami de vous inviter ou en contactant notre équipe commerciale à l'adresse sales@bluemix.net.  
 
 Lorsque vous vous inscrivez pour un compte Standard, vous pouvez choisir la région géographique dans laquelle vous désirez travailler. Après avoir créé une organisation dans une région, vous ne pouvez pas en changer. 
 
 ### Quelles sont les disponibilités ? 
 {: #whatsavailable}
 
-Vous vous demandez sûrement ce que comporte l'offre de compte Standard. La liste suivante couvre les informations clés sur le compte Bluemix Standard.
-  * Le compte est gratuit -- Pas besoin de carte de crédit !
-  * Le compte n'expire jamais. 
-  * Vous pouvez utiliser une organisation dans une seule région {{site.data.keyword.Bluemix_notm}}.
-  * Support {{site.data.keyword.Bluemix_notm}} gratuit.
-  * Les applications Cloud Foundry ont accès à 256 Mo de mémoire d'exécution gratuite et simultanée.
-  * Vous pouvez accéder à des plans Lite gratuits concernant des services sélectionnés, d'autres s'ajoutant bientôt.
-  * Des notifications vous sont envoyées par courrier électronique quant au statut de votre compte.
-  * Après 10 jours sans activité de développement, vos applications passent en veille.
-  * Après 30 jours sans activité de développement, vos instances de service non associées à des plans Lite sont supprimées.
+Vous vous demandez sûrement ce que comporte l'offre de compte Standard. La liste suivante comporte des informations clés :
 
-Pour plus d'informations, voir [IBM Bluemix Standard Account Limited Release](/docs/pricing/standard_account.html#betaintro).
+   * Le compte est gratuit -- Pas besoin de carte de crédit !
+   * Le compte n'expire jamais. 
+   * Vous pouvez utiliser une organisation dans une seule région {{site.data.keyword.Bluemix_notm}}.
+   * Les applications Cloud Foundry ont accès à 256 Mo de mémoire d'exécution gratuite et simultanée. 
+   * Vous pouvez accéder à des plans Lite gratuits concernant des services sélectionnés, d'autres s'ajoutant bientôt. 
+   * Des notifications vous sont envoyées par courrier électronique quant au statut de votre compte. 
+   * Après 10 jours sans activité de développement, vos applications passent en veille.
+   * Après 30 jours sans activité de développement, vos instances de service non associées à des plans Lite sont supprimées. 
 
-## Compte {{site.data.keyword.Bluemix_notm}} Trial
+Pour plus d'informations, voir [IBM Bluemix Standard Account Limited Release](/docs/pricing/standard_account.html).
+
+## Compte d'essai
 {: #bmtrial}
 
-Les comptes de type Trial sont disponibles dans toutes les régions. Ce compte d'essai gratuit de 30 jours vous permet de commencer de suite à construire vos applications et à explorer des services dans {{site.data.keyword.Bluemix}}.
-{:shortdesc}
+Les comptes de type Trial sont disponibles dans toutes les régions. Ce compte d'essai gratuit de 30 jours vous permet de commencer de suite à construire vos applications et à explorer des services dans {{site.data.keyword.Bluemix_notm}}.
 
 Lorsque vous vous inscrivez pour un essai gratuit avec votre ID {{site.data.keyword.Bluemix_notm}}, votre compte est doté gratuitement des ressources suivantes :
 
@@ -71,11 +69,11 @@ ne sont plus illimitées comme celles proposées par de nombreux services IBM au
 ## Comptes facturables
 {: #billableacts}
 
-Lorsque vous souscrivez à un plan {{site.data.keyword.Bluemix_notm}} facturable ou soumettez une demande de mise à niveau de votre compte, vous avez le choix entre 4 comptes {{site.data.keyword.Bluemix_notm}} différents. Le tableau suivant recense les différents types de compte et leurs méthodes de facturation. 
+Lorsque vous souscrivez à un plan {{site.data.keyword.Bluemix_notm}} facturable ou soumettez une demande de mise à niveau de votre compte, vous avez le choix entre quatre comptes {{site.data.keyword.Bluemix_notm}} différents. Le tableau suivant recense les différents types de compte et leurs méthodes de facturation. 
 
 |Type de compte {{site.data.keyword.Bluemix_notm}} |	Comment suis-je facturé ? |
 |------------------|-----------------------|
-|Paiement à la carte |	Les frais sont facturés d'après votre utilisation des ressources de calcul et des services {{site.data.keyword.Bluemix}} |
+|Paiement à la carte |	Les frais sont facturés d'après votre utilisation des ressources de calcul et des services {{site.data.keyword.Bluemix_notm}} |
 |Abonnement | Vous pouvez bénéficier d'une réduction mensuelle avec un engagement de consommation mensuelle minimum |
 |Dédié | Contrat annuel |
 |Local |	Contrat annuel |

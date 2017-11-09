@@ -3,19 +3,20 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-06-01"
+lastupdated: "2017-10-10"
 
 ---
 
 {:shortdesc: .shortdesc}
 {:codeblock: .codeblock}
+{:tip: .tip}
 {:screen: .screen}
 {:new_window: target="_blank"}
 
 # Inscrevendo-se para uma conta faturável
 {: #billable}
 
-Ao fazer upgrade de sua conta, é possível escolher entre as contas faturáveis do {{site.data.keyword.Bluemix_notm}} a seguir: 
+Ao fazer upgrade de sua conta, é possível escolher entre as contas faturáveis do {{site.data.keyword.Bluemix}} a seguir: 
   
   * Pagamento por uso - você é cobrado com base no uso do cálculo e serviços do {{site.data.keyword.Bluemix_notm}}
   * Assinatura - é possível obter um desconto mensal com base em um compromisso de gasto mínimo mensal.
@@ -24,9 +25,8 @@ Ao fazer upgrade de sua conta, é possível escolher entre as contas faturáveis
 
 Se encontrar algum problema com o {{site.data.keyword.Bluemix_notm}} quando estiver usando uma conta de Pagamento por uso ou de Assinatura, veja [Obtendo suporte ao cliente](/docs/support/index.html#getting-customer-support).
 
-**Nota:** se você ligar sua conta faturável do {{site.data.keyword.Bluemix_notm}} a uma conta do SoftLayer, iniciando no
-primeiro dia do próximo mês, os encargos do {{site.data.keyword.Bluemix_notm}} e do SoftLayer serão incluídos na
-fatura do {{site.data.keyword.Bluemix_notm}}. Para obter mais informações, veja [Visualizando créditos](/docs/pricing/viewing_usage.html#credits).
+Se você vincular a conta faturável do {{site.data.keyword.Bluemix_notm}} a uma conta do SoftLayer, começando no primeiro dia do próximo mês, seus encargos do {{site.data.keyword.Bluemix_notm}} e do SoftLayer serão incluídos na fatura do {{site.data.keyword.Bluemix_notm}}. Para obter mais informações, veja [Visualizando créditos](/docs/pricing/viewing_usage.html#credits).
+{: tip}
 
 ## Conta de Pagamento por uso
 {: #upgradetopayg}

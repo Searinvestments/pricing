@@ -3,19 +3,20 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-06-01"
+lastupdated: "2017-10-10"
 
 ---
 
 {:shortdesc: .shortdesc}
 {:codeblock: .codeblock}
+{:tip: .tip}
 {:screen: .screen}
 {:new_window: target="_blank"}
 
 # Registro de una cuenta facturable
 {: #billable}
 
-Cuando actualice la cuenta, puede elegir entre las siguientes cuentas facturables de {{site.data.keyword.Bluemix_notm}}: 
+Cuando actualice la cuenta, puede elegir entre las siguientes cuentas facturables de {{site.data.keyword.Bluemix}}: 
   
   * Pago según uso: se le factura en función del uso del cálculo y los servicios de {{site.data.keyword.Bluemix_notm}}.
   * Suscripción: puede obtener un descuento mensual en función del compromiso de gasto mensual mínimo.
@@ -24,7 +25,8 @@ Cuando actualice la cuenta, puede elegir entre las siguientes cuentas facturable
 
 Si surgen problemas con {{site.data.keyword.Bluemix_notm}} cuando vaya a utilizar una cuenta de Pago según uso o una Suscripción, consulte [Obtención de soporte al cliente](/docs/support/index.html#getting-customer-support).
 
-**Nota:** Si enlaza su cuenta facturable de {{site.data.keyword.Bluemix_notm}} con una cuenta de SoftLayer, a partir del día 1 del próximo mes, los cargos de {{site.data.keyword.Bluemix_notm}} y SoftLayer aparecerán en su factura de {{site.data.keyword.Bluemix_notm}}. Para obtener más información, consulte [Visualización de cargos](/docs/pricing/viewing_usage.html#credits).
+Si enlaza su cuenta facturable de {{site.data.keyword.Bluemix_notm}} con una cuenta de SoftLayer, a partir del día 1 del próximo mes, los cargos de {{site.data.keyword.Bluemix_notm}} y SoftLayer aparecerán en su factura de {{site.data.keyword.Bluemix_notm}}. Para obtener más información, consulte [Visualización de cargos](/docs/pricing/viewing_usage.html#credits).
+{: tip}
 
 ## Cuenta de Pago según uso
 {: #upgradetopayg}

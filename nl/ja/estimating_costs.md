@@ -5,19 +5,20 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-05-30"
+lastupdated: "2017-10-10"
 
 ---
 
 {:shortdesc: .shortdesc}
 {:codeblock: .codeblock}
+{:tip: .tip}
 {:screen: .screen}
 {:new_window: target="_blank"}
 
 # コストの計算方法
 {: #cost}
 
-{{site.data.keyword.Bluemix_notm}} を使用してアプリを作成およびホストするのに必要な金額を確認するには、さまざまなメソッドを使うことができます。
+{{site.data.keyword.Bluemix}} を使用してアプリを作成およびホストするのに必要な金額を確認するには、さまざまなメソッドを使うことができます。
 
 * {{site.data.keyword.Bluemix_notm}} {{site.data.keyword.pricing_sheet}} にあるコスト見積もりツールは、アプリのサイズに基づくコストのおおまかな見積もりを提供します。
 * {{site.data.keyword.Bluemix_notm}} の「料金」ページにあるコスト計算器は、ユーザーが入力したランタイムとサービスの使用量に基づくアプリの正確な価格を提供します。
@@ -61,4 +62,5 @@ lastupdated: "2017-05-30"
 |ZAR|	  南アフリカ共和国ランド|
 {:caption="表 2. サポートされている通貨" caption-side="top"}
 
-**注:** {{site.data.keyword.Bluemix_notm}} と SoftLayer のアカウントをリンクした場合、受け取る単一の請求書は、米国ドル (USD) 単位のもののみになります。
+{{site.data.keyword.Bluemix_notm}} アカウントと SoftLayer アカウントをリンクした場合、受け取る単一の請求書は米国ドル (USD) 単位のもののみになります。
+{: tip}

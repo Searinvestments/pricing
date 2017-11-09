@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-05-30"
+lastupdated: "2017-10-10"
 
 ---
 
@@ -15,7 +15,7 @@ lastupdated: "2017-05-30"
 # 情境：預估範例 Node 應用程式的成本
 {: #sample}
 
-假設您具有含可擴充性功能的 Node.js Web 應用程式，而且應用程式使用 {{site.data.keyword.Bluemix_notm}} 所提供的數個服務。您可以瞭解在此範例中如何計算應用程式的實際成本。Web 應用程式使用下列 {{site.data.keyword.Bluemix_notm}} 服務及項目：
+假設您具有含可擴充性功能的 Node.js Web 應用程式，而且應用程式使用 {{site.data.keyword.Bluemix}} 所提供的數個服務。您可以瞭解在此範例中如何計算應用程式的實際成本。Web 應用程式使用下列 {{site.data.keyword.Bluemix_notm}} 服務及項目：
 
 * 四個 256 MB Node.js 運行環境實例
 * 兩個 {{site.data.keyword.autoscaling}} 原則：處理器及記憶體
@@ -23,7 +23,7 @@ lastupdated: "2017-05-30"
 * NoSQL 資料庫每個月 150 GB、100,000 次重量型 API 呼叫，及 500,000 次輕量型 API 呼叫
 * 20 GB 入埠或出埠網路資料流量
 
-## Bluemix 資源的價格
+## {{site.data.keyword.Bluemix_notm}} 資源的價格
 {: #sample_resources}
 
 為了保持範例的簡單性，假設下表中的價格不會在時間範圍（例如，一個月）內或之間波動。此範例中的所有定價都是美國貨幣。
@@ -44,7 +44,7 @@ lastupdated: "2017-05-30"
 
 <dl>
 <dt>四個 256 MB Node.js 運行環境實例</dt>
-<dd>Bluemix 是依 GB-小時針對運行環境計費。每個月所使用的 GB 數目為 <code>4 x 256 = 1024 MB 或 1 GB（每個月）</code>。假設<code>一個月有 24 x 30 = 720 小時</code>，因此，會依 <code>1 x 720 = 720 GB-小時</code>收取應用程式的費用。
+<dd>{{site.data.keyword.Bluemix_notm}} 是依 GB-小時針對運行環境計費。每個月所使用的 GB 數目為 <code>4 x 256 = 1024 MB 或 1 GB（每個月）</code>。假設<code>一個月有 24 x 30 = 720 小時</code>，因此，會依 <code>1 x 720 = 720 GB-小時</code>收取應用程式的費用。
 <p>
 每個月的免費額度包含 375 GB-小時（跨所有 {{site.data.keyword.Bluemix_notm}} 運行環境共用）。因此，運行環境的總成本是 <code>$0.07 x (720-375) = $24.15</code>。</p></dd>
 

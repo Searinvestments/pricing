@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-05-30"
+lastupdated: "2017-10-10"
 
 ---
 
@@ -15,7 +15,7 @@ lastupdated: "2017-05-30"
 # シナリオ: Node アプリの例のコスト見積もり
 {: #sample}
 
-スケーラビリティー機能を持つ Node.js Web アプリを使用しており、そのアプリは {{site.data.keyword.Bluemix_notm}} が提供する複数のサービスを使用していると仮定します。この例で、ご使用のアプリの実際のコストがどのように計算されるかを学習することができます。この Web アプリは、以下の {{site.data.keyword.Bluemix_notm}}
+スケーラビリティー機能を持つ Node.js Web アプリを使用しており、そのアプリは {{site.data.keyword.Bluemix}} が提供する複数のサービスを使用していると仮定します。この例で、ご使用のアプリの実際のコストがどのように計算されるかを学習することができます。この Web アプリは、以下の {{site.data.keyword.Bluemix_notm}}
 サービスとアイテムを使用します。
 
 * 4 個の 256 MB Node.js ランタイム・インスタンス
@@ -24,7 +24,7 @@ lastupdated: "2017-05-30"
 * 1 月あたり 150 GB の NoSQL データベース、100,000 回の高負荷 API 呼び出し、および 500,000 回の軽負荷 API 呼び出し
 * 20 GB のインバウンドまたはアウトバウンドのネットワーク・トラフィック
 
-## Bluemix リソースの価格
+## {{site.data.keyword.Bluemix_notm}} リソースの価格
 {: #sample_resources}
 
 例を単純にするため、以下の表の価格が月などの時間フレーム内または時間フレーム間で変動しないと仮定します。この例の価格設定はすべてアメリカ合衆国の通貨です。
@@ -45,7 +45,8 @@ lastupdated: "2017-05-30"
 
 <dl>
 <dt>4 個の 256 MB Node.js ランタイム・インスタンス</dt>
-<dd>Bluemix は、GB 時間ごとにランタイムに課金します。1 月あたりに使用される GB 数は、<code>4 x 256 = 1024 MB つまり 1 GB /月</code>です。<code>1 カ月を 24 x 30 = 720 時間</code> と仮定すると、アプリケーションは <code>1 x 720 = 720 GB 時間</code>に対して課金されます。
+<dd>{{site.data.keyword.Bluemix_notm}} は、
+GB 時間ごとにランタイムに課金します。1 月あたりに使用される GB 数は、<code>4 x 256 = 1024 MB つまり 1 GB /月</code>です。<code>1 カ月を 24 x 30 = 720 時間</code> と仮定すると、アプリケーションは <code>1 x 720 = 720 GB 時間</code>に対して課金されます。
 <p>
 {{site.data.keyword.Bluemix_notm}} ランタイムを通して共有される 1 月あたりの無料枠に、375 GB 時間が含まれます。そのため、ランタイムの総額は、<code>$0.07 x (720-375) = $24.15</code> となります。</p></dd>
 

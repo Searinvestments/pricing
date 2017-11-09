@@ -5,7 +5,7 @@
 copyright:
 
   years: 2016, 2017
-lastupdated: "2017-08-23"
+lastupdated: "2017-10-10"
 
 
 ---
@@ -13,12 +13,13 @@ lastupdated: "2017-08-23"
 {:shortdesc: .shortdesc}
 {:codeblock: .codeblock}
 {:screen: .screen}
+{:tip: .tip}
 {:new_window: target="_blank"}
 
 # IBM {{site.data.keyword.Bluemix_notm}} Standard Account Limited Release
 {: #betaintro}
 
-O {{site.data.keyword.Bluemix}} Standard Account Limited Release introduz uma nova conta grátis, que oferece uma nova maneira de trabalhar na Nuvem pública do {{site.data.keyword.Bluemix_notm}}. Uma conta Padrão nunca expira, ao contrário de uma avaliação de 30 dias do {{site.data.keyword.Bluemix_notm}}. É possível continuar a trabalhar em seus aplicativos {{site.data.keyword.Bluemix_notm}} sem quaisquer preocupações sobre restrições de tempo. 
+O {{site.data.keyword.Bluemix}} Standard Account Limited Release introduz uma nova conta grátis, que oferece uma nova maneira de trabalhar na nuvem pública do {{site.data.keyword.Bluemix_notm}}. Uma conta Padrão nunca expira, ao contrário de uma avaliação de 30 dias do {{site.data.keyword.Bluemix_notm}}. É possível continuar a trabalhar em seus aplicativos {{site.data.keyword.Bluemix_notm}} sem quaisquer preocupações sobre restrições de tempo. 
 {:shortdesc}
 
 Os usuários nas regiões do Reino Unido e do sul dos EUA são elegíveis para uma conta Padrão. Se você não estiver em nenhuma dessas regiões, ainda será possível criar uma conta Padrão pedindo um convite a um amigo ou entrando em contato com nossa equipe de vendas em sales@bluemix.net. Como um proprietário da conta Padrão, é possível convidar amigos e colegas para participar.  
@@ -47,10 +48,9 @@ os mesmos. Uma organização pode ser transferida para a sua nova conta. |
 |O nível do Suporte {{site.data.keyword.Bluemix_notm}} permanece o mesmo. |
 {:caption="Tabela 2. O que não muda" caption-side="top"}
 
-**Nota**: se a sua conta para teste não for convertida, você verá uma mensagem explicando o motivo. É possível que você tenha mais de uma organização em sua conta para teste ou apps existentes que não pode ser transferida. É possível tomar a ação apropriada e, então, tentar
+Se a sua conta para teste não converter, você verá uma mensagem que explicará o porquê. É possível que você tenha mais de uma organização em sua conta para teste ou apps existentes que não pode ser transferida. É possível tomar a ação apropriada e, então, tentar
 converter a conta novamente.
-
-Quando você possui uma conta Padrão, é possível convidar membros da equipe para colaborar em sua organização e espaços, visualizar seu uso, criar espaços, atualizar o perfil da conta e gerenciar sua organização.
+{: tip}
 
 ## Planos Lite
 {: #liteplans}
@@ -98,9 +98,7 @@ Quando os limites de cota forem atingidos, seu aplicativo será interrompido ou 
 será desativado. Se o plano Lite especificar que a cota será fornecida mensalmente, o uso do recurso será
 reconfigurado no primeiro dia de cada mês, quando você poderá voltar a trabalhar com o serviço. Quando você estiver se aproximando de um limite de cota ou estiver no limite de cota, você receberá um e-mail de notificação. 
 
-É possível fornecer uma instância por Plano Lite. 
-
-**Nota**: essas limitações se aplicam apenas a uma conta Padrão. A qualquer momento, é possível fazer upgrade para uma conta de Pagamento por uso ou de Assinatura. Você paga
+É possível fornecer uma instância por Plano Lite. Essas limitações se aplicam a uma conta Padrão apenas. A qualquer momento, é possível fazer upgrade para uma conta de Pagamento por uso ou de Assinatura. Você paga
 somente pelo que usar, além dos abonos grátis. Para obter mais informações sobre as contas de Pagamento por uso e de Assinatura, veja [Inscrevendo-se para uma conta faturável](/docs/pricing/billable.html#billable).
 
 ## Recursos de eficiência
@@ -114,8 +112,7 @@ Seus apps serão suspensos após de 10 dias de inatividade de desenvolvimento. I
 quando você desejar trabalhar em um novo app, porque não atingirá o limite de cota de memória
 de 256 MB. 
 
-Para acordar seus apps, comece a trabalhar neles novamente na linha de comandos do
-Cloud Foundry ou no console do {{site.data.keyword.Bluemix_notm}}. 
+Para acordar seus apps, comece a trabalhar neles novamente na interface da linha de comandos do Cloud Foundry ou no console {{site.data.keyword.Bluemix_notm}}. 
  
  Aqui está uma lista de todos os comandos que acordarão seu app:
   * cf push
@@ -132,9 +129,7 @@ Cloud Foundry ou no console do {{site.data.keyword.Bluemix_notm}}.
   * cf enable-ssh
   * cf disable-ssh
 
-Para obter detalhes de uso, veja [Comandos do Cloud Foundry](/docs/cli/reference/cfcommands/index.html).
-
- **Nota**: se o seu app já estiver ativado para SSH, não será possível usar os comandos `cf enable-ssh` e `cf disable-sh` para acordá-lo. 
+Se seu aplicativo já estiver ativado para SSH, não será possível usar os comandos `cf enable-ssh` e `cf disable-sh` para acordar seu app. Para obter mais detalhes de uso, consulte [Comandos Cloud Foundry](/docs/cli/reference/cfcommands/index.html).
 
 ### Coleta de Lixo
 
@@ -145,4 +140,4 @@ Os serviços de seu plano Lite serão excluídos se não houver nenhuma atividad
 
 É possível pedir um convite a um amigo com uma conta Padrão ou entrar em contato com nossa equipe de vendas em sales@bluemix.net. Adoraríamos que você experimentasse!
 
-Se você receber um convite de um amigo ou de um vendedor Bluemix, seu convite exclusivo será enviado para o endereço de e-mail fornecido. Ao receber o convite, preencha as instruções no e-mail para se registrar para uma conta Padrão. 
+Se você receber um convite de um amigo ou um vendedor do {{site.data.keyword.Bluemix_notm}}, seu convite exclusivo será enviado para o endereço de e-mail que você fornecer. Ao receber o convite, preencha as instruções no e-mail para se registrar para uma conta Padrão. 

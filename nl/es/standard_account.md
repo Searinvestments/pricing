@@ -5,7 +5,7 @@
 copyright:
 
   years: 2016, 2017
-lastupdated: "2017-08-23"
+lastupdated: "2017-10-10"
 
 
 ---
@@ -13,6 +13,7 @@ lastupdated: "2017-08-23"
 {:shortdesc: .shortdesc}
 {:codeblock: .codeblock}
 {:screen: .screen}
+{:tip: .tip}
 {:new_window: target="_blank"}
 
 # Versión limitada de cuenta estándar de IBM {{site.data.keyword.Bluemix_notm}}
@@ -45,9 +46,8 @@ Puede que se pregunte sobre qué diferencia hay entre una cuenta Estándar y una
 |El nivel de soporte de {{site.data.keyword.Bluemix_notm}} sigue siendo el mismo. |
 {:caption="Tabla 2. Qué es lo que no cambia" caption-side="top"}
 
-**Nota**: Si la cuenta de prueba no se convierte, verá un mensaje que le dirá el motivo. Puede que tenga más de una organización en la cuenta de prueba existente o apps que no se puedan transferir. Puede realizar la acción apropiada y volver a intentar convertir la cuenta.
-
-Cuando sea propietario de una cuenta Estándar, puede invitar a los miembros del equipo a colaborar en su organización y espacios, a ver su uso, a crear espacios, a actualizar el perfil de la cuenta y a gestionar su organización.
+Si la cuenta de prueba no se convierte, verá un mensaje que le dirá el motivo. Puede que tenga más de una organización en la cuenta de prueba existente o apps que no se puedan transferir. Puede realizar la acción apropiada y volver a intentar convertir la cuenta.
+{: tip}
 
 ## Planes de Lite
 {: #liteplans}
@@ -89,9 +89,7 @@ Permanezca atento a las novedades que iremos añadiendo a esta lista de servicio
 
 Cuando se alcancen los límites de la cuota, se detendrá la aplicación o se inhabilitará el servicio. Si el plan de Lite especifica que la cuota se proporciona de forma mensual, el uso de los recursos se restablecerá el día 1 de cada mes cuando vuelva a trabajar con el servicio. Cuando esté llegando al límite de una cuota, o cuando esté en el límite de la misma, recibirá un correo electrónico de notificación. 
 
-Puede suministrar 1 instancia por plan de Lite. 
-
-**Nota**: Estas limitaciones se aplican únicamente a la cuenta Estándar. Puede actualizar a una cuenta de pago según uso o de suscripción en cualquier momento. Pague sólo lo que utilice más allá de las concesiones gratuitas. Para obtener más información sobre las cuentas de Pago según uso y Suscripción, consulte [Registro de una cuenta facturable](/docs/pricing/billable.html#billable).
+Puede suministrar 1 instancia por plan de Lite. Estas limitaciones se aplican únicamente a la cuenta Estándar. Puede actualizar a una cuenta de pago según uso o de suscripción en cualquier momento. Pague sólo lo que utilice más allá de las concesiones gratuitas. Para obtener más información sobre las cuentas de Pago según uso y Suscripción, consulte [Registro de una cuenta facturable](/docs/pricing/billable.html#billable).
 
 ## Características de eficiencia
 {: #devactivity}
@@ -102,7 +100,7 @@ Para ayudarle a gestionar los recursos, hemos incluido características de efici
 
 Las apps entrarán en suspensión tras 10 días de inactividad de desarrollo. Esto ayuda a la hora de trabajar en una nueva app, porque así no llegará al límite de cuota de memoria de 256 MB. 
 
-Para reactivar las apps, empiece trabajando en ellas de nuevo en la línea de mandatos de Cloud Foundry o en la consola de {{site.data.keyword.Bluemix_notm}}. 
+Para reactivar las apps, empiece trabajando en ellas de nuevo en la interfaz de línea de mandatos de Cloud Foundry o en la consola de {{site.data.keyword.Bluemix_notm}}. 
  
  A continuación hay una lista de todos los mandatos que reactivarán la app:
   * cf push
@@ -119,9 +117,7 @@ Para reactivar las apps, empiece trabajando en ellas de nuevo en la línea de ma
   * cf enable-ssh
   * cf disable-ssh
 
-Para ver los detalles de uso, consulte los [mandatos de Cloud Foundry](/docs/cli/reference/cfcommands/index.html).
-
- **Nota**: Si la app ya tiene habilitado SSH, no puede utilizar los mandatos `cf enable-ssh` ni `cf disable-sh` para reactivar la app. 
+Si la app ya tiene habilitado SSH, no puede utilizar los mandatos `cf enable-ssh` ni `cf disable-sh` para reactivar la app. Para ver más detalles de uso, consulte los [mandatos de Cloud Foundry](/docs/cli/reference/cfcommands/index.html).
 
 ### Recogida de basura
 
@@ -132,4 +128,4 @@ Los servicios del plan de Lite se suprimen si no hay ninguna actividad en ellos 
 
 Puede solicitar a un amigo con una cuenta Estándar a que le invite o póngase en contacto con nuestro equipo de ventas en sales@bluemix.net. ¡Nos gustaría que lo probara!
 
-Si recibe una invitación de un amigo o un vendedor de Bluemix, su invitación exclusiva se enviará a la dirección de correo electrónico que proporcione. Cuando reciba la invitación, complete las instrucciones del correo electrónico para registrarse para una cuenta Estándar. 
+Si recibe una invitación de un amigo o un vendedor de {{site.data.keyword.Bluemix_notm}}, su invitación exclusiva se enviará a la dirección de correo electrónico que proporcione. Cuando reciba la invitación, complete las instrucciones del correo electrónico para registrarse para una cuenta Estándar. 

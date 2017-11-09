@@ -5,19 +5,20 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-05-30"
+lastupdated: "2017-10-10"
 
 ---
 
 {:shortdesc: .shortdesc}
 {:codeblock: .codeblock}
+{:tip: .tip}
 {:screen: .screen}
 {:new_window: target="_blank"}
 
 # Cómo calcular sus costes
 {: #cost}
 
-Puede utilizar distintos métodos para saber lo que debe pagar por utilizar {{site.data.keyword.Bluemix_notm}} para crear y alojar su app.
+Puede utilizar distintos métodos para saber lo que debe pagar por utilizar {{site.data.keyword.Bluemix}} para crear y alojar su app.
 
 * Los estimadores de costes de la {{site.data.keyword.pricing_sheet}} de {{site.data.keyword.Bluemix_notm}} proporcionan una estimación aproximada del coste en función del tamaño de la app.
 * La calculadora de costes de la página {{site.data.keyword.Bluemix_notm}} Precios contiene precios precisos de la app en función de la entrada del tiempo de ejecución y del uso de los servicios.
@@ -61,4 +62,5 @@ En la tabla siguiente se proporciona una lista con las distintas monedas soporta
 |ZAR |	  Rand sudafricano|
 {:caption="Tabla 2. Credenciales soportadas" caption-side="top"}
 
-**Nota:** Si ha enlazado las cuentas de {{site.data.keyword.Bluemix_notm}} y SoftLayer, la única factura que recibirá estará en dólares de Estados Unidos (USD).
+Si ha enlazado las cuentas de {{site.data.keyword.Bluemix_notm}} y SoftLayer, la única factura que recibirá estará en dólares de Estados Unidos (USD).
+{: tip}

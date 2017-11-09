@@ -3,19 +3,20 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-06-01"
+lastupdated: "2017-10-10"
 
 ---
 
 {:shortdesc: .shortdesc}
 {:codeblock: .codeblock}
+{:tip: .tip}
 {:screen: .screen}
 {:new_window: target="_blank"}
 
 # 註冊計費帳戶
 {: #billable}
 
-當您升級帳戶時，可以選擇下列 {{site.data.keyword.Bluemix_notm}} 計費帳戶： 
+當您升級帳戶時，可以選擇下列 {{site.data.keyword.Bluemix}} 計費帳戶： 
   
   * 隨收隨付制 - 會根據 {{site.data.keyword.Bluemix_notm}} 運算及服務的使用向您收費。
   * 訂閱 - 您可以根據最低的每月消費承諾來取得每月折扣。
@@ -24,7 +25,8 @@ lastupdated: "2017-06-01"
 
 如果您在使用「隨收隨付制」或「訂閱」帳戶時遇到任何 {{site.data.keyword.Bluemix_notm}} 問題，請參閱[取得客戶支援](/docs/support/index.html#getting-customer-support)。
 
-**附註：**如果您鏈結 {{site.data.keyword.Bluemix_notm}} 計費帳戶與 SoftLayer 帳戶，從下個月 1 日開始，{{site.data.keyword.Bluemix_notm}} 及 SoftLayer 費用將會併入 {{site.data.keyword.Bluemix_notm}} 發票。如需相關資訊，請參閱[檢視額度](/docs/pricing/viewing_usage.html#credits)。
+如果您鏈結 {{site.data.keyword.Bluemix_notm}} 計費帳戶與 SoftLayer 帳戶，從下個月 1 日開始，{{site.data.keyword.Bluemix_notm}} 及 SoftLayer 費用將會併入 {{site.data.keyword.Bluemix_notm}} 發票。如需相關資訊，請參閱[檢視額度](/docs/pricing/viewing_usage.html#credits)。
+{: tip}
 
 ## 隨收隨付制帳戶
 {: #upgradetopayg}

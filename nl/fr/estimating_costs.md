@@ -5,12 +5,13 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-05-30"
+lastupdated: "2017-10-10"
 
 ---
 
 {:shortdesc: .shortdesc}
 {:codeblock: .codeblock}
+{:tip: .tip}
 {:screen: .screen}
 {:new_window: target="_blank"}
 
@@ -18,7 +19,7 @@ lastupdated: "2017-05-30"
 {: #cost}
 
 Vous pouvez utiliser différentes méthodes pour estimer le prix de l'utilisation de
-{{site.data.keyword.Bluemix_notm}} pour la construction et l'hébergement de votre application.
+{{site.data.keyword.Bluemix}} pour la construction et l'hébergement de votre application.
 
 * Les estimateurs de coût dans la page {{site.data.keyword.pricing_sheet}} {{site.data.keyword.Bluemix_notm}}
 fournissent une estimation approximative du coût en fonction de la taille de votre application.
@@ -72,4 +73,5 @@ tableau ci-dessous répertorie les devises prises en charge.
 |ZAR |	  Rand sud-africain|
 {:caption="Tableau 2. Devises prises en charge" caption-side="top"}
 
-**Remarque :** si vous avez lié vos comptes {{site.data.keyword.Bluemix_notm}} et SoftLayer, la facture unique que vous recevez est en dollars américains (USD) seulement.
+Si vous avez lié vos comptes {{site.data.keyword.Bluemix_notm}} et SoftLayer, la facture unique que vous recevez est en dollars américains (USD) seulement.
+{: tip}

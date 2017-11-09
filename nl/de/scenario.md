@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-05-30"
+lastupdated: "2017-10-10"
 
 ---
 
@@ -15,7 +15,7 @@ lastupdated: "2017-05-30"
 # Szenario: Schätzen der Kosten für ein Beispiel-Knoten-App
 {: #sample}
 
-Angenommen, Sie haben eine Node.js-Web-App mit Skalierbarkeitsfunktionalität und die App nutzt verschiedene Services, die von {{site.data.keyword.Bluemix_notm}} bereitgestellt werden. Dieses Beispiel zeigt, wie die tatsächlichen Kosten Ihrer App berechnet werden. Die Web-App nutzt die folgenden {{site.data.keyword.Bluemix_notm}}-Services und -Elemente:
+Angenommen, Sie haben eine Node.js-Web-App mit Skalierbarkeitsfunktionalität und die App nutzt verschiedene Services, die von {{site.data.keyword.Bluemix}} bereitgestellt werden. Dieses Beispiel zeigt, wie die tatsächlichen Kosten Ihrer App berechnet werden. Die Web-App nutzt die folgenden {{site.data.keyword.Bluemix_notm}}-Services und -Elemente:
 
 * Vier Node.js-Laufzeitinstanzen mit jeweils 256 MB
 * Zwei {{site.data.keyword.autoscaling}}-Richtlinien (Prozessor und Speicher)
@@ -23,7 +23,7 @@ Angenommen, Sie haben eine Node.js-Web-App mit Skalierbarkeitsfunktionalität un
 * 150 GB NoSQL-Datenbank pro Monat, 100.000 komplexe API-Aufrufe und 500.000 einfache API-Aufrufe
 * 20 GB Datenvolumen für ein- und ausgehenden Netzverkehr
 
-## Preise für Bluemix-Ressourcen
+## Preise für {{site.data.keyword.Bluemix_notm}}-Ressourcen
 {: #sample_resources}
 
 Nehmen Sie an, um das Beispiel einfach zu halten, dass die Preise in der folgenden Tabelle innerhalb eines Zeitrahmens oder zwischen zwei Perioden zum Beispiel eines Monats nicht schwanken. Alle Preisangaben in diesem Beispiel erfolgen in US-Währung.
@@ -44,7 +44,7 @@ Der Preis der App kann auf die folgende Weise berechnet werden:
 
 <dl>
 <dt>Vier Node.js-Laufzeitinstanzen mit jeweils 256 MB</dt>
-<dd>Bluemix rechnet für eine Laufzeit nach GB-Stunden ab. Die Anzahl der genutzten GB pro Monat beträgt <code>4 x 256 = 1024 MB oder 1 GB pro Monat</code>. Nehmen Sie an, dass <code>ein Monat 24 x 30 = 720 Stunden</code> hat, sodass für die Anwendung <code>1 x 720 = 720 GB-Stunden</code> berechnet werden.
+<dd>{{site.data.keyword.Bluemix_notm}} rechnet für eine Laufzeit nach GB-Stunden ab. Die Anzahl der genutzten GB pro Monat beträgt <code>4 x 256 = 1024 MB oder 1 GB pro Monat</code>. Nehmen Sie an, dass <code>ein Monat 24 x 30 = 720 Stunden</code> hat, sodass für die Anwendung <code>1 x 720 = 720 GB-Stunden</code> berechnet werden.
 <p>
 375 GB-Stunden gehören zu den kostenlosen Leistungen eines Monats, die für alle {{site.data.keyword.Bluemix_notm}}-Laufzeiten genutzt werden können. Daher betragen die Gesamtkosten für die Laufzeit <code>$0,07 x (720-375) = $24,15</code>.</p></dd>
 

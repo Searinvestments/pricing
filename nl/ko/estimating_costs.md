@@ -5,19 +5,20 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-05-30"
+lastupdated: "2017-10-10"
 
 ---
 
 {:shortdesc: .shortdesc}
 {:codeblock: .codeblock}
+{:tip: .tip}
 {:screen: .screen}
 {:new_window: target="_blank"}
 
 # 비용 계산 방법
 {: #cost}
 
-다른 방법을 통해 {{site.data.keyword.Bluemix_notm}}를 사용하여 앱을 빌드하고 호스팅하기 위해 지불해야 하는 비용을 확인할 수 있습니다. 
+다른 방법을 통해 {{site.data.keyword.Bluemix}}를 사용하여 앱을 빌드하고 호스팅하기 위해 지불해야 하는 비용을 확인할 수 있습니다. 
 
 * {{site.data.keyword.Bluemix_notm}} {{site.data.keyword.pricing_sheet}}의 비용 추정기는
 앱의 크기를 기반으로 비용의 대략적인 추정치를 제공합니다. 
@@ -62,4 +63,5 @@ lastupdated: "2017-05-30"
 |ZAR|	  남아프리카공화국 란드|
 {:caption="표 2. 지원되는 통화" caption-side="top"}
 
-**참고:** 연결된 {{site.data.keyword.Bluemix_notm}} 및 SoftLayer 계정이 있으면 발급되는 단일 송장은 미국 달러(USD)만 사용됩니다.
+{{site.data.keyword.Bluemix_notm}}와 SoftLayer 계정이 연결되어 있는 경우 수신하는 단일 송장은 미국 달러(USD)만 사용됩니다.
+{: tip}

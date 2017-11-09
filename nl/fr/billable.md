@@ -3,19 +3,20 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-06-01"
+lastupdated: "2017-10-10"
 
 ---
 
 {:shortdesc: .shortdesc}
 {:codeblock: .codeblock}
+{:tip: .tip}
 {:screen: .screen}
 {:new_window: target="_blank"}
 
 # Inscription pour un compte facturable
 {: #billable}
 
-Lors de la mise à niveau de votre compte, vous avez le choix entre les comptes {{site.data.keyword.Bluemix_notm}} facturables suivants : 
+Lors de la mise à niveau de votre compte, vous avez le choix entre les comptes {{site.data.keyword.Bluemix}} facturables suivants : 
   
   * Pay-As-You-Go (Paiement à la carte) - Vous êtes facturé en fonction de votre utilisation des ressources de calcul et des services {{site.data.keyword.Bluemix_notm}}.
   * Subscription (Abonnement) - Vous pouvez bénéficier d'une remise mensuelle vis à vis d'un engagement de consommation mensuelle minimum.
@@ -24,7 +25,9 @@ Lors de la mise à niveau de votre compte, vous avez le choix entre les comptes 
 
 Si vous rencontrez des problèmes liés à {{site.data.keyword.Bluemix_notm}} lorsque vous utilisez un compte Paiement à la carte ou Abonnement, voir [Support client](/docs/support/index.html#getting-customer-support).
 
-**Remarque :** si vous liez votre compte {{site.data.keyword.Bluemix_notm}} facturable à un compte SoftLayer, à compter du premier jour du mois suivant, vos redevances {{site.data.keyword.Bluemix_notm}} et SoftLayer sont incluses sur votre facture {{site.data.keyword.Bluemix_notm}}. Pour plus d'informations, voir [Affichage des crédits](/docs/pricing/viewing_usage.html#credits).
+Si vous liez votre compte {{site.data.keyword.Bluemix_notm}} facturable à un compte SoftLayer, à compter du premier jour du mois suivant, vos redevances {{site.data.keyword.Bluemix_notm}} et SoftLayer sont incluses sur votre facture {{site.data.keyword.Bluemix_notm}}.
+Pour plus d'informations, voir [Affichage des crédits](/docs/pricing/viewing_usage.html#credits).
+{: tip}
 
 ## Compte Paiement à la carte
 {: #upgradetopayg}

@@ -5,7 +5,7 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-04-12"
+lastupdated: "2017-10-10"
 
 ---
 
@@ -17,11 +17,11 @@ lastupdated: "2017-04-12"
 # 收费方式
 {: #charges}
 
-费用根据特定服务、运行时、容器或支持选项所使用的资源而定。资源可以是 API 调用数、实例数、内存、存储器等。{{site.data.keyword.Bluemix_notm}} 还提供了详细的成本估算工具和精确到分的成本计算器，帮助您规划费用。您可以在“使用情况仪表板”页面上检查构建应用程序后的实际成本。
+费用根据特定服务、运行时、容器或支持选项所使用的资源而定。资源可以是 API 调用数、实例数、内存、存储器等。{{site.data.keyword.Bluemix}} 还提供了详细的成本估算工具和精确到分的成本计算器，帮助您规划费用。您可以在“使用情况仪表板”页面上检查构建应用程序后的实际成本。
 
-使用 {{site.data.keyword.Bluemix_notm}} 计费帐户时，会针对您组织中使用的计算、容器和服务向您收费。其他 {{site.data.keyword.Bluemix_notm}} 用户可能会邀请您以其他帐户参与组织。如果您在邀请您参与的组织中创建应用程序或使用服务，那么使用量费用将计入包含这些组织的帐户。要查看有关特定费用的更多信息，请转至 {{site.data.keyword.Bluemix_notm}}“目录”中的资源详细信息页面，或者 {{site.data.keyword.Bluemix_notm}}“定价”页面上的价格计算器。
+使用 {{site.data.keyword.Bluemix_notm}} 计费帐户时，会针对您组织中使用的计算、容器和服务向您收费。其他 {{site.data.keyword.Bluemix_notm}} 用户可能会邀请您以其他帐户参与组织。如果您在邀请您参与的组织中创建应用程序或使用服务，那么使用量费用将计入包含这些组织的帐户。要查看有关特定费用的更多信息，请转至 {{site.data.keyword.Bluemix_notm}} 目录中的资源详细信息页面，或者 {{site.data.keyword.Bluemix_notm}}“定价”页面上的价格计算器。
 
-所应用的费用类型会有所不同，具体取决于您所使用的 {{site.data.keyword.Bluemix_notm}} 功能。下表提供了高层次的概述：
+所应用的费用类型会有所不同，具体取决于您所使用的功能。下表提供了高层次的概述：
 
 | 费用类型| 描述
 | 使用此费用类型的 {{site.data.keyword.Bluemix_notm}} 功能| 示例|

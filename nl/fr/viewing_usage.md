@@ -5,7 +5,7 @@
 copyright:
 
   years: 2017
-lastupdated: "2017-09-29"
+lastupdated: "2017-10-20"
 
 ---
 
@@ -17,19 +17,19 @@ lastupdated: "2017-09-29"
 # Affichage de votre utilisation
 {: #viewingusage}
 
-En tant que propriétaire de compte ou responsable de la facturation pour une organisation, vous pouvez vous servir de la page Tableau de bord de l'utilisation afin d'afficher un récapitulatif des frais estimés pour toutes les ressources (contextes d'exécution, conteneurs, services et support) que vous utilisez par mois dans vos organisations.  
+En tant que propriétaire de compte ou responsable de la facturation pour une organisation, vous pouvez vous servir de la page Tableau de bord de l'utilisation dans la console {{site.data.keyword.Bluemix}} afin d'afficher un récapitulatif des frais estimés pour toutes les ressources que vous utilisez par mois dans vos organisations.  
 
-Pour ouvrir la page Tableau de bord de l'utilisation, cliquez sur **Gérer** &gt; **Facturation et utilisation** &gt; **Utilisation**. Un récapitulatif de l'utilisation des ressources est affiché pour le compte. Les responsables de la facturation ne peuvent afficher les détails que pour les organisations pour lesquelles ils sont responsables de la
+Pour ouvrir la page Tableau de bord de l'utilisation, cliquez sur **Gérer** > **Facturation et utilisation** > **Utilisation**. Un récapitulatif de l'utilisation des ressources est affiché pour le compte. Les responsables de la facturation ne peuvent afficher les détails que pour les organisations pour lesquelles ils sont responsables de la
 facturation.
 
-   * Cliquez sur **Afficher les instances** pour afficher un récapitulatif des frais estimés pour toutes les instances d'une ressource donnée.  
-   * Cliquez sur **Afficher l'instance** pour afficher un récapitulatif détaillé des frais estimés pour chaque instance du type de ressource spécifique. Depuis cette vue, vous pouvez également afficher des statistiques d'utilisation mensuelles détaillées pour l'instance sélectionnée.  
+   * Cliquez sur **Afficher les instances** pour afficher un récapitulatif des frais estimés pour toutes les instances d'une ressource donnée. 
+   * Cliquez sur **Afficher l'instance** pour afficher un récapitulatif détaillé des frais estimés pour chaque instance du type de ressource spécifique. Vous pouvez également afficher des statistiques d'utilisation mensuelles détaillées pour l'instance sélectionnée.  
 
 Le propriétaire de compte est facturé pour l'utilisation totale occasionnée dans toutes les organisations à la fin de chaque cycle de
 facturation. Chaque
 cycle de facturation dure un mois.
 
-Les propriétaires de compte peuvent filtrer le récapitulatif de l'utilisation par organisation. Si vous êtes un propriétaire de compte, affectez à **Afficher par** la valeur **Compte** afin d'afficher l'utilisation de tout le compte sur une période de 12 mois. Sélectionnez un mois particulier afin d'afficher l'utilisation correspondante. Les prix affichés représentent la somme qui
+Les propriétaires de compte peuvent filtrer le récapitulatif de l'utilisation par organisation. Si vous êtes un propriétaire de compte, affectez à **Afficher par** la valeur **Compte** afin d'afficher l'utilisation de tout le compte sur une période de 12 mois. Sélectionnez un mois particulier afin d'afficher l'utilisation correspondante.  Les prix affichés représentent la somme qui
 vous sera facturée pour ce mois, en tant que propriétaire de compte.
 
 Si vous sélectionnez une organisation spécifique dans la liste **Groupe**, l'utilisation totale pour cette organisation apparaît, y compris celle relevant d'un niveau gratuit. Le prix affiché pour l'organisation n'est pas le prix qui vous est facturé. L'utilisation d'une tranche gratuite apparaît comme gratuite au niveau du compte, mais pas au niveau de l'organisation. Par conséquent, lorsque
@@ -46,4 +46,4 @@ notifications lorsque vous atteignez 80 %, 90 % et 100 % des seuils que vous ave
 
 En tant que propriétaire de compte ou responsable de la facturation, vous pouvez utiliser la page Tableau de bord de l'utilisation afin de consulter les crédits éventuels dont bénéficie votre compte.
 
-Pour ouvrir la page Tableau de bord de l'utilisation, cliquez sur **Gérer** &gt; **Facturation et utilisation** &gt; **Utilisation**. Le tableau de bord affiche les crédits éventuels, ainsi que leur date d'expiration.
+Pour ouvrir la page Tableau de bord de l'utilisation, cliquez sur **Gérer** > **Facturation et utilisation** > **Utilisation**. Le tableau de bord affiche les crédits éventuels, ainsi que leur date d'expiration.

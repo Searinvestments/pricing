@@ -3,19 +3,20 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-06-01"
+lastupdated: "2017-10-10"
 
 ---
 
 {:shortdesc: .shortdesc}
 {:codeblock: .codeblock}
+{:tip: .tip}
 {:screen: .screen}
 {:new_window: target="_blank"}
 
 # 청구 가능 계정에 등록
 {: #billable}
 
-계정을 업그레이드할 때 다음 {{site.data.keyword.Bluemix_notm}} 청구 가능 계정에서 선택할 수 있습니다.  
+계정을 업그레이드할 때 다음 {{site.data.keyword.Bluemix}} 청구 가능 계정에서 선택할 수 있습니다.  
   
   * 종량과금제 - {{site.data.keyword.Bluemix_notm}} 컴퓨팅 및 서비스의 사용을 기준으로 비용이 청구됩니다.
   * 구독 - 매월 최소 지출 약정에 따라 월별 할인을 받을 수 있습니다. 
@@ -24,7 +25,12 @@ lastupdated: "2017-06-01"
 
 종량과금제 또는 구독 계정을 사용 중일 때 {{site.data.keyword.Bluemix_notm}}에서 문제점이 발생할 경우에는 [고객 지원 받기](/docs/support/index.html#getting-customer-support)를 참조하십시오. 
 
-**참고:** {{site.data.keyword.Bluemix_notm}} 청구 가능 계정을 SoftLayer 계정과 연결하며, 다음 달 초에서 시작하여 {{site.data.keyword.Bluemix_notm}} 및 SoftLayer 비용이 {{site.data.keyword.Bluemix_notm}} 송장에 포함됩니다. 자세한 정보는 [크레딧 보기](/docs/pricing/viewing_usage.html#credits)를 참조하십시오. 
+{{site.data.keyword.Bluemix_notm}} 청구 가능 계정을 SoftLayer 계정과 연결하면, 다음 달 초부터
+{{site.data.keyword.Bluemix_notm}} 및 SoftLayer 비용이 {{site.data.keyword.Bluemix_notm}} 송장에
+포함됩니다. 자세한 정보는
+[크레딧 보기](/docs/pricing/viewing_usage.html#credits)를
+참조하십시오.
+{: tip}
 
 ## 종량과금제 계정
 {: #upgradetopayg}

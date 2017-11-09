@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-06-01"
+lastupdated: "2017-10-10"
 
 ---
 
@@ -15,38 +15,36 @@ lastupdated: "2017-06-01"
 # Kontotypen
 {: #bmaccounts}
 
-Wenn Sie sich für IBM Bluemix entscheiden, entstehen Ihnen zunächst keine Kosten. Wenn Sie Ihre Umgebung später ausbauen wollen, zahlen Sie bei einem Upgrade nur das, was Sie über die Gratisleistungen hinaus nutzen. Bluemix stellt einen Kostenrechner zur Verfügung, den Sie verwenden können, um die Kosten im Voraus zu schätzen. Die tatsächlichen Kosten können Sie nach dem Erstellen der Apps auf der Seite 'Nutzungsdashboard' überprüfen.
+Wenn Sie sich für {{site.data.keyword.Bluemix}} entscheiden, entstehen Ihnen zunächst keine Kosten. Wenn Sie Ihre Umgebung später ausbauen wollen, zahlen Sie bei einem Upgrade nur das, was Sie über die Gratisleistungen hinaus nutzen. 
 {:shortdesc}
 
-## {{site.data.keyword.Bluemix_notm}}-Standardkonto
+## Standardkonto
 {: #trystandard}
 
-Standardkonten sind nur für bestimmte Benutzer im Vereinigten Königreich und in den USA (Süden) verfügbar. Registrieren Sie sich für ein kostenloses Standardkonto an, um mit gebührenfreien Lite-Plänen in {{site.data.keyword.Bluemix}} Apps zu entwickeln und Services zu nutzen. Ihr Standardkonto gilt unbefristet und Ihre Kreditkarte wird nicht benötigt. Sie können ein Standardkonto erhalten, indem Sie einen Freund, der bereits ein Standardkonto besitzt, bitten, Sie einzuladen, oder Sie können sich unter sales@bluemix.net an das Vertriebsteam wenden.  
-{:shortdesc}
+Standardkonten sind nur für bestimmte Benutzer im Vereinigten Königreich und in den USA (Süden) verfügbar. Registrieren Sie sich für ein kostenloses Standardkonto an, um mit gebührenfreien Lite-Plänen in {{site.data.keyword.Bluemix_notm}} Apps zu entwickeln und Services zu nutzen. Ihr Standardkonto gilt unbefristet und Ihre Kreditkarte wird nicht benötigt. Sie können ein Standardkonto erhalten, indem Sie einen Freund, der bereits ein Standardkonto besitzt, bitten, Sie einzuladen, oder Sie können sich unter sales@bluemix.net an das Vertriebsteam wenden.  
 
 Wenn Sie sich für ein Standardkonto registrieren, können Sie auswählen, in welcher geografischen Region Sie arbeiten wollen. Wenn Sie eine Organisation in einer Region erstellt haben, kann dies nicht mehr geändert werden. 
 
 ### Merkmale und Leistungen 
 {: #whatsavailable}
 
-Die folgende Liste beschreibt die Merkmale und Leistungen des Bluemix-Standardkontos.
-  * Das Konto ist kostenfrei - Sie benötigen keine Kreditkarte.
-  * Für das Konto existiert kein Ablaufdatum. 
-  * Sie können eine Organisation in einer {{site.data.keyword.Bluemix_notm}}-Region verwenden.
-  * Kostenloser {{site.data.keyword.Bluemix_notm}}-Support.
-  * Cloud Foundry-Apps können auf bis zu 256 MB an freiem, sofort verfügbarem Laufzeitspeicher zugreifen.
-  * Sie erhalten Zugang zu kostenfreien Lite-Plänen für ausgewählte Services, wobei in Kürze weitere Service zur Verfügung stehen werden.
-  * Sie erhalten E-Mail-Benachrichtigungen über Ihren Kontostatus.
-  * Nach 10 Tagen ohne Entwicklungstätigkeit werden Ihre Apps inaktiviert.
-  * Nach 30 Tagen ohne Entwicklungstätigkeit werden Ihre Serviceinstanzen mit den Lite-Plänen gelöscht.
+Ein Standardkonto umfasst das nachfolgend beschriebene Angebot. Die folgende Liste enthält die wichtigsten Details:
 
-Weitere Informationen finden Sie unter [IBM Bluemix-Standardkonto - begrenztes Release](/docs/pricing/standard_account.html#betaintro).
+   * Das Konto ist kostenfrei - Sie benötigen keine Kreditkarte.
+   * Für das Konto existiert kein Ablaufdatum. 
+   * Sie können eine Organisation in einer {{site.data.keyword.Bluemix_notm}}-Region verwenden.
+   * Cloud Foundry-Apps können auf bis zu 256 MB an freiem, sofort verfügbarem Laufzeitspeicher zugreifen.  
+   * Sie erhalten Zugang zu kostenfreien Lite-Plänen für ausgewählte Services, wobei in Kürze weitere Service zur Verfügung stehen werden. 
+   * Sie erhalten E-Mail-Benachrichtigungen über Ihren Kontostatus. 
+   * Nach 10 Tagen ohne Entwicklungstätigkeit werden Ihre Apps inaktiviert.
+   * Nach 30 Tagen ohne Entwicklungstätigkeit werden Ihre Serviceinstanzen mit den Lite-Plänen gelöscht. 
 
-## {{site.data.keyword.Bluemix_notm}}-Testkonto
+Weitere Informationen finden Sie unter [IBM Bluemix-Standardkonto - begrenztes Release](/docs/pricing/standard_account.html).
+
+## Testkonto
 {: #bmtrial}
 
-Testkonten sind in allen Regionen verfügbar. Der 30-Tage-Testzeitraum bietet Ihnen die Möglichkeit zum Schnelleinstieg für das Entwickeln von Apps und das Nutzen der Services in {{site.data.keyword.Bluemix}}.
-{:shortdesc}
+Testkonten sind in allen Regionen verfügbar. Der 30-Tage-Testzeitraum bietet Ihnen die Möglichkeit zum Schnelleinstieg für das Entwickeln von Apps und das Nutzen der Services in {{site.data.keyword.Bluemix_notm}}.
 
 Wenn Sie sich für einen kostenfreien Test mit Ihrer {{site.data.keyword.Bluemix_notm}}-ID registrieren, wird Ihr Konto gebührenfrei mit den folgenden Ressourcen ausgestattet:
 
@@ -74,7 +72,7 @@ Wenn Sie sich für einen gebührenpflichtigen {{site.data.keyword.Bluemix_notm}}
 
 |{{site.data.keyword.Bluemix_notm}}-Kontotyp |	Art der Gebührenabrechnung |
 |------------------|-----------------------|
-|Nutzungsabhängig |	Kosten werden auf der Grundlage Ihrer Nutzung der {{site.data.keyword.Bluemix}}-Berechnungen und -Services in Rechnung gestellt. |
+|Nutzungsabhängig |	Kosten werden auf der Grundlage Ihrer Nutzung der {{site.data.keyword.Bluemix_notm}}-Berechnungen und -Services in Rechnung gestellt. |
 |Abonnement | Sie können einen monatlichen Rabatt auf der Basis einer verbindlichen Mindestausgabeverpflichtung erhalten. |
 |Dedicated (Dediziert) | Jahresvertrag |
 |Local |	Jahresvertrag |

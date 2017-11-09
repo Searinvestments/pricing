@@ -5,7 +5,7 @@
 copyright:
 
   years: 2016, 2017
-lastupdated: "2017-08-23"
+lastupdated: "2017-10-10"
 
 
 ---
@@ -13,12 +13,13 @@ lastupdated: "2017-08-23"
 {:shortdesc: .shortdesc}
 {:codeblock: .codeblock}
 {:screen: .screen}
+{:tip: .tip}
 {:new_window: target="_blank"}
 
 # IBM {{site.data.keyword.Bluemix_notm}} 標準帳戶受限版本
 {: #betaintro}
 
-「{{site.data.keyword.Bluemix}} 標準帳戶受限版本」引進新的免費帳戶，提供新的方式在「{{site.data.keyword.Bluemix_notm}} 公用雲端」工作。標準帳戶永不到期，不像 30 天的 {{site.data.keyword.Bluemix_notm}} 試用。您可以繼續使用 {{site.data.keyword.Bluemix_notm}} 應用程式，而不必擔心時間限制。
+「{{site.data.keyword.Bluemix}} 標準帳戶受限版本」引進新的免費帳戶，提供新的方式在 {{site.data.keyword.Bluemix_notm}} 公用雲端工作。標準帳戶永不到期，不像 30 天的 {{site.data.keyword.Bluemix_notm}} 試用。您可以繼續使用 {{site.data.keyword.Bluemix_notm}} 應用程式，而不必擔心時間限制。
 {:shortdesc}
 
 英國及美國南部地區的使用者有資格使用「標準帳戶」。如果您不在任一地區，則要求朋友發出邀請，或在 sales@bluemix.net 連繫銷售團隊，仍可建立「標準帳戶」。身為「標準帳戶」擁有者，您可以邀請朋友及同事來參與。  
@@ -45,9 +46,8 @@ lastupdated: "2017-08-23"
 |{{site.data.keyword.Bluemix_notm}} 支援層次維持相同。|
 {:caption="表 2. 未變更的內容" caption-side="top"}
 
-**附註**：如果您的試用帳戶未轉換，您會看到一則解釋原因的訊息。您的現有試用帳戶中可能有多個組織，或是無法轉移的應用程式。您可以採取適當的動作，然後嘗試重新轉換帳戶。
-
-擁有標準帳戶時，您可以邀請團隊成員在您的組織及空間中分工合作、檢視您的用量、建立空間、更新帳戶設定檔，以及管理組織。
+如果您的試用帳戶未轉換，您會看到一則解釋原因的訊息。您的現有試用帳戶中可能有多個組織，或是無法轉移的應用程式。您可以採取適當的動作，然後嘗試重新轉換帳戶。
+{: tip}
 
 ## 精簡方案
 {: #liteplans}
@@ -89,9 +89,7 @@ lastupdated: "2017-08-23"
 
 達到配額限制時，會停止您的應用程式，或是停用您的服務。如果精簡方案指定配額是以月為基準提供，資源用量會在每月一日重設，您便可以繼續使用該服務。當您接近配額限制，或是已達到配額限制時，您會收到一封通知電子郵件。 
 
-您可以針對每個精簡方案佈建 1 個實例。 
-
-**附註**：這些限制僅適用於「標準帳戶」。您隨時都可以升級至「隨收隨付制」或「訂閱」帳戶。您只需要為您使用超過免費額度的部分付費。如需「隨收隨付制」及「訂閱」帳戶的相關資訊，請參閱[註冊計費帳戶](/docs/pricing/billable.html#billable)。
+您可以針對每個精簡方案佈建 1 個實例。這些限制僅適用於「標準帳戶」。您隨時都可以升級至「隨收隨付制」或「訂閱」帳戶。您只需要為您使用超過免費額度的部分付費。如需「隨收隨付制」及「訂閱」帳戶的相關資訊，請參閱[註冊計費帳戶](/docs/pricing/billable.html#billable)。
 
 ## 效率特性
 {: #devactivity}
@@ -119,9 +117,7 @@ lastupdated: "2017-08-23"
   * cf enable-ssh
   * cf disable-ssh
 
-如需用量詳細資料，請參閱 [Cloud Foundry 指令](/docs/cli/reference/cfcommands/index.html)。
-
- **附註**：如果您的應用程式已啟用 SSH，則無法使用 `cf enable-ssh` 及 `cf disable-sh` 指令來喚醒您的應用程式。 
+如果您的應用程式已啟用 SSH，則無法使用 `cf enable-ssh` 及 `cf disable-sh` 指令來喚醒您的應用程式。如需更多用量詳細資料，請參閱 [Cloud Foundry 指令](/docs/cli/reference/cfcommands/index.html)。
 
 ### 記憶體回收
 
@@ -132,4 +128,4 @@ lastupdated: "2017-08-23"
 
 您可以要求具有「標準帳戶」的朋友發出邀請，或在 sales@bluemix.net 連繫銷售團隊。我們很開心您的試用！
 
-如果您收到朋友或 Bluemix 賣方的邀請，您的專屬邀請會傳送至您提供的電子郵件位址。收到邀請之後，請完成電子郵件中的指示，來註冊標準帳戶。 
+如果您收到朋友或 {{site.data.keyword.Bluemix_notm}} 賣方的邀請，您的專屬邀請會傳送至您提供的電子郵件位址。收到邀請之後，請完成電子郵件中的指示，來註冊標準帳戶。 

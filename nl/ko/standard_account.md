@@ -5,7 +5,7 @@
 copyright:
 
   years: 2016, 2017
-lastupdated: "2017-08-23"
+lastupdated: "2017-10-10"
 
 
 ---
@@ -13,12 +13,13 @@ lastupdated: "2017-08-23"
 {:shortdesc: .shortdesc}
 {:codeblock: .codeblock}
 {:screen: .screen}
+{:tip: .tip}
 {:new_window: target="_blank"}
 
 # IBM {{site.data.keyword.Bluemix_notm}} 표준 계정 제한된 릴리스
 {: #betaintro}
 
-{{site.data.keyword.Bluemix}} 표준 계정 제한된 릴리스에는 새로운 무료 계정을 선보입니다. 이를 통해 새로운 방식으로 {{site.data.keyword.Bluemix_notm}} 퍼블릭 클라우드에서 작업할 수 있습니다. 표준 계정은 30일 {{site.data.keyword.Bluemix_notm}} 평가판과 달리 만료되지 않습니다. 시간 제한에 대해 신경쓰지 않고 {{site.data.keyword.Bluemix_notm}} 애플리케이션 작업을 계속할 수 있습니다.
+{{site.data.keyword.Bluemix}} 표준 계정 제한 릴리스에서는 새로운 무료 계정을 선보입니다. 이를 통해 새로운 방식으로 {{site.data.keyword.Bluemix_notm}} 퍼블릭 클라우드에서 작업할 수 있습니다. 표준 계정은 30일 {{site.data.keyword.Bluemix_notm}} 평가판과 달리 만료되지 않습니다. 시간 제한에 대해 신경쓰지 않고 {{site.data.keyword.Bluemix_notm}} 애플리케이션 작업을 계속할 수 있습니다.
 {:shortdesc}
 
 영국과 미국 남부 지역의 사용자는 표준 계정을 사용할 수 있습니다. 해당 지역이 아닌 경우에도 친구에게 초대를 요청하거나 sales@bluemix.net으로 영업 팀에 연락하여 표준 계정을 작성할 수 있습니다. 표준 계정 소유자로서 친구와 동료들이 참여하도록 초대할 수 있습니다.  
@@ -45,9 +46,8 @@ lastupdated: "2017-08-23"
 |{{site.data.keyword.Bluemix_notm}} 지원의 레벨이 동일하게 유지됩니다.|
 {:caption="표 2. 변경되지 않는 내용" caption-side="top"}
 
-**참고**: 평가판 계정이 변환되지 않는 경우 이유를 설명하는 메시지가 표시됩니다. 기존 평가판 계정에 둘 이상의 조직이 있거나 이전할 수 없는 앱이 있을 수 있습니다. 적절한 조치를 취한 다음에 계정을 다시 변환할 수 있습니다.
-
-표준 계정을 소유하고 있으면 팀 구성원을 초대하여 조직과 영역에서 협업할 수 있으며, 사용량을 확인하고, 영역을 작성하며, 계정 프로파일을 업데이트하고, 조직을 관리할 수 있습니다. 
+평가판 계정이 변환되지 않는 경우 이유를 설명하는 메시지가 표시됩니다. 기존 평가판 계정에 둘 이상의 조직이 있거나 이전할 수 없는 앱이 있을 수 있습니다. 적절한 조치를 취한 다음에 계정을 다시 변환할 수 있습니다.
+{: tip}
 
 ## 라이트 플랜
 {: #liteplans}
@@ -89,9 +89,7 @@ lastupdated: "2017-08-23"
 
 할당량 한계에 도달하면 애플리케이션이 중지되거나 서비스를 사용할 수 없게 됩니다. 라이트 플랜에서 월 단위로 할당량이 제공된다고 지정한 경우, 리소스 사용량이 매월 1일에 재설정되며, 이때 다시 서비스 작업을 재개할 수 있습니다. 할당량 한계에 가까워지거나 할당량 한계에 도달하면 알림 이메일을 받게 됩니다.  
 
-라이트 플랜당 한 개의 인스턴스를 프로비저닝할 수 있습니다. 
-
-**참고**: 이러한 제한사항은 표준 계정에만 적용됩니다. 언제든지 종량과금제 또는 구독 계정으로 업그레이드할 수 있습니다. 무료 사용량을 초과한 항목에 대해서만 비용을 지불하면 됩니다. 종량과금제 및 구독 계정에 대한 자세한 정보는 [청구 가능 계정에 등록](/docs/pricing/billable.html#billable)을 참조하십시오. 
+라이트 플랜당 한 개의 인스턴스를 프로비저닝할 수 있습니다. 이러한 제한사항은 표준 계정에만 적용됩니다. 언제든지 종량과금제 또는 구독 계정으로 업그레이드할 수 있습니다. 무료 사용량을 초과한 항목에 대해서만 비용을 지불하면 됩니다. 종량과금제 및 구독 계정에 대한 자세한 정보는 [청구 가능 계정에 등록](/docs/pricing/billable.html#billable)을 참조하십시오. 
 
 ## 효율성 기능
 {: #devactivity}
@@ -102,7 +100,7 @@ lastupdated: "2017-08-23"
 
 10일 동안 개발 활동이 없을 경우 앱이 휴면 상태가 됩니다. 이를 통해 256MB 메모리 할당량 한계에 도달하는 것을 피할 수 있으며, 새 앱에 대한 작업을 원활하게 수행할 수 있습니다.  
 
-앱을 활성화하려면 Cloud Foundry 명령행 또는 {{site.data.keyword.Bluemix_notm}} 콘솔에서 다시 작업을 시작하십시오. 
+앱을 활성화하려면 Cloud Foundry 명령행 인터페이스 또는 {{site.data.keyword.Bluemix_notm}} 콘솔에서 다시 작업을 시작하십시오. 
  
  앱을 활성화하는 모든 명령의 목록:
   * cf push
@@ -119,9 +117,7 @@ lastupdated: "2017-08-23"
   * cf enable-ssh
   * cf disable-ssh
 
-사용법 세부사항은 [Cloud Foundry 명령](/docs/cli/reference/cfcommands/index.html)을 참조하십시오.
-
- **참고**: SSH에 사용 가능하도록 앱이 이미 설정되어 있는 경우, `cf enable-ssh` 및 `cf disable-sh` 명령을 사용하여 앱을 활성화할 수 없습니다.  
+SSH에 사용 가능하도록 앱이 이미 설정되어 있는 경우, `cf enable-ssh` 및 `cf disable-sh` 명령을 사용하여 앱을 활성화할 수 없습니다. 사용법 세부사항은 [Cloud Foundry 명령](/docs/cli/reference/cfcommands/index.html)을 참조하십시오.
 
 ### 가비지 콜렉션
 
@@ -132,4 +128,4 @@ lastupdated: "2017-08-23"
 
 표준 계정이 있는 친구에게 초대를 요청하거나 sales@bluemix.net으로 영업 팀에 연락하십시오. 사용해보실 수 있도록 도와드리겠습니다!
 
-친구 또는 Bluemix 판매자로부터 초대를 받으면 사용자가 제공하는 이메일 주소로 귀하만을 위한 초대장이 발송됩니다. 초대장을 받으면 이메일의 지시사항을 완료하여 표준 계정에 등록하십시오.  
+친구 또는 {{site.data.keyword.Bluemix_notm}} 판매자로부터 초대를 받으면 귀하가 제공한 이메일 주소로 귀하만을 위한 초대장이 발송됩니다. 초대장을 받으면 이메일의 지시사항을 완료하여 표준 계정에 등록하십시오.  

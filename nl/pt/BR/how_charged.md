@@ -5,7 +5,7 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-04-12"
+lastupdated: "2017-10-10"
 
 ---
 
@@ -17,11 +17,11 @@ lastupdated: "2017-04-12"
 # Como você é cobrado
 {: #charges}
 
-Os encargos variam dependendo dos recursos usados por um determinado serviço, tempo de execução, contêiner ou opção de suporte. O recurso pode ser o número de chamadas API, o número de instâncias, a memória, o armazenamento e assim por diante. O {{site.data.keyword.Bluemix_notm}} também fornece estimadores de custo detalhados e uma calculadora de custo que não deixa escapar nenhum centavo para ajudar você a planejar os encargos. Será possível verificar o custo real após a construção de seus apps na página Painel de uso.
+Os encargos variam dependendo dos recursos usados por um determinado serviço, tempo de execução, contêiner ou opção de suporte. O recurso pode ser o número de chamadas API, o número de instâncias, a memória, o armazenamento e assim por diante. {{site.data.keyword.Bluemix}} também fornece estimadores de custo detalhados e uma calculadora de custo que não deixa escapar nenhum centavo para ajudar você a planejar os encargos. Será possível verificar o custo real após a construção de seus apps na página Painel de uso.
 
-Com uma conta faturável do {{site.data.keyword.Bluemix_notm}}, você é cobrado pelo cálculo, os contêineres e os serviços que são usados em sua organização. Você poderá ser convidado por outros usuários do {{site.data.keyword.Bluemix_notm}} a participar em organizações em uma conta diferente. Se você criar apps ou usar serviços nas organizações para as quais é convidado, o uso incorrido será debitado da conta que contém essas organizações. É possível obter informações adicionais sobre um encargo específico em uma página de detalhes do recurso a partir do Catálogo do {{site.data.keyword.Bluemix_notm}} ou na calculadora de preços a partir da página Precificação do {{site.data.keyword.Bluemix_notm}}.
+Com uma conta faturável do {{site.data.keyword.Bluemix_notm}}, você é cobrado pelo cálculo, os contêineres e os serviços que são usados em sua organização. Você poderá ser convidado por outros usuários do {{site.data.keyword.Bluemix_notm}} a participar em organizações em uma conta diferente. Se você criar apps ou usar serviços nas organizações para as quais é convidado, o uso incorrido será debitado da conta que contém essas organizações. É possível ver mais informações sobre encargos específicos em uma página de detalhes do recurso por meio do catálogo {{site.data.keyword.Bluemix_notm}} ou na calculadora de preços da página Precificação do {{site.data.keyword.Bluemix_notm}}.
 
-Tipos diferentes de encargos se aplicam, dependendo dos recursos do {{site.data.keyword.Bluemix_notm}} que você estiver usando. A tabela a seguir fornece uma visão geral resumida:
+Tipos diferentes de encargos se aplicam, dependendo dos recursos que você estiver usando. A tabela a seguir fornece uma visão geral resumida:
 
 | Tipo de encargo | Descrição | Recursos do {{site.data.keyword.Bluemix_notm}} que usam esse tipo de encargo | Exemplo |
 |------------------|------------------|--------------------------|--------------------------|
@@ -52,7 +52,7 @@ Vários serviços incluem abonos grátis mensais. O uso de serviços que não es
 <dt>Encargos medidos</dt>
     <dd>Você paga com base no consumo de tempo de execução e de serviço. Por exemplo, com o serviço de Push, qualquer uso acima do abono grátis mensal é cobrado.</dd>
 <dt>Encargos reservados</dt>
-    <dd><p>Como o proprietário da conta de uma conta Pagamento por uso ou uma conta de Assinatura, é possível reservar uma instância de serviço, com um compromisso a longo prazo, para um preço com desconto. Por exemplo, é possível reservar a grande oferta padrão do DB2 on Cloud para 12 meses.</p>
+    <dd><p>Como o proprietário da conta de uma conta Pay-as-you-go ou de uma conta de Assinatura, é possível reservar uma instância de serviço, com um compromisso a longo prazo, para um preço com desconto. Por exemplo, é possível reservar a grande oferta padrão do DB2 on Cloud para 12 meses.</p>
     <p>Alguns serviços do {{site.data.keyword.Bluemix_notm}} oferecem planos reservados. É possível solicitar um plano reservado a partir do <strong>Catálogo</strong> do {{site.data.keyword.Bluemix_notm}}, clicando no ladrilho do serviço. Em seguida, selecione o plano de serviço que atenda melhor às suas necessidades. Se um plano reservado estiver disponível, clique em <strong>Solicitar</strong> e siga os prompts para enviar sua solicitação. Você receberá um e-mail que contém as informações de preços do plano reservado. Um representante de vendas do {{site.data.keyword.Bluemix_notm}} entrará em contato com você em breve para concluir a compra.</p></dd>
 <dt>Encargos em camadas</dt>
     <dd>Semelhante a encargos medidos, você paga com base em seu consumo de tempo de execução e de serviço. No entanto, os encargos em camadas incluem camadas de precificação adicionais, geralmente oferecendo encargos com desconto em camadas com maior consumo. A precificação em camadas é oferecida em simples, graduada ou bloco.</dd>

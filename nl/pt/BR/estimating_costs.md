@@ -4,19 +4,21 @@
 
 copyright:
 
-  Anos: 2015, 2017 lastupdated: "2017-05-30"
+  years: 2015, 2017
+lastupdated: "2017-10-10"
 
 ---
 
 {:shortdesc: .shortdesc}
 {:codeblock: .codeblock}
+{:tip: .tip}
 {:screen: .screen}
 {:new_window: target="_blank"}
 
 # Como calcular seus custos
 {: #cost}
 
-É possível usar diferentes métodos para saber quanto você precisa pagar para usar o {{site.data.keyword.Bluemix_notm}} para construir e hospedar seu app.
+É possível usar diferentes métodos para saber quanto você precisa pagar para usar o {{site.data.keyword.Bluemix}} para construir e hospedar seu app.
 
 * Os estimadores de custo na {{site.data.keyword.pricing_sheet}} do {{site.data.keyword.Bluemix_notm}}
 fornecem uma estimativa aproximada do custo com base no tamanho de seu app.
@@ -61,4 +63,5 @@ A tabela a seguir lista as diferentes moedas que são suportadas.
 |ZAR |	  Rand sul-africano|
 {:caption="Tabela 2. Moedas suportadas" caption-side="top"}
 
-**Observação:** se você vinculou suas contas {{site.data.keyword.Bluemix_notm}} e SoftLayer, a fatura única que você recebe será somente em dólares dos Estados Unidos (USD).
+Se você tiver vinculado suas contas {{site.data.keyword.Bluemix_notm}} e SoftLayer, a fatura única que você receber será em dólares dos Estados Unidos (USD) apenas.
+{: tip}

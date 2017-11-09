@@ -3,12 +3,13 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-09-14"
+lastupdated: "2017-10-17"
 
 ---
 
 {:shortdesc: .shortdesc}
 {:codeblock: .codeblock}
+{:tip: .tip}
 {:screen: .screen}
 {:new_window: target="_blank"}
 
@@ -42,25 +43,5 @@ lastupdated: "2017-09-14"
   * 1 個 SSL 憑證
 
 如需相關資訊，請參閱 [Bluemix 試用帳戶](/docs/pricing/index.html#bmtrial)。
-
-## 套用促銷代碼
-{: #promo}
-
-有時，{{site.data.keyword.Bluemix_notm}} 業務代表或其他業務代表會提供促銷代碼，以提供您免費試用的額外資源或功能。 
-
-{{site.data.keyword.Bluemix_notm}} 所提供的額外資源或功能會視特定代碼而不同，但一般會包括下列其中一個以上的項目：
-
-  * 將記憶體配額提高到促銷代碼指定的 GB 數
-  * 新增一個組織，並使用促銷代碼指定的記憶體配額
-  * 新增數目無限制的組織
-  * 上傳促銷代碼指定的額外數目 SSL 憑證
-  * 使用進階服務方案
-
-若要套用一個以上的促銷代碼，請執行下列動作：
-1. 在 {{site.data.keyword.Bluemix_notm}} 主控台中，移至**管理 > 計費及用量 > 計費**。 
-2. 輸入促銷代碼詳細資料，然後按一下**套用**。
-
-**附註**：每一個促銷代碼都只能在代碼到期日之前兌換一次。
-
 
 
