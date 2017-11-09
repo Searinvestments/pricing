@@ -53,7 +53,7 @@ You might be wondering what's offered in a Lite account. Check out the following
    * You receive email notifications about your account status and quota limits.
    * Your Cloud Foundry apps can access up to 256 MB of free, instantaneous runtime memory. 
    * You can work with a Kubernetes cluster with 2 CPU and 4 GB RAM.
-   * You can provision one instance of any service in the [{{site.data.keyword.Bluemix_notm}} catalog](https://console.bluemix.net/catalog/?search=label:lite%20lite){: new_window} ![External link icon](../icons/launch-glyph.svg “External link icon”) that has a Lite plan.
+   * You can provision one instance of any service in the [{{site.data.keyword.Bluemix_notm}} catalog](https://console.bluemix.net/catalog/?search=label:lite%20lite){: new_window} that has a Lite plan.
    * After 10 days of no development activity, your apps go to sleep. You can start working on new apps without having to worry about hitting memory quota limits.
    * After 30 days of no development activity, your service instances with Lite plans are deleted. This way, you don't have to manage deleting inactive instances before you create new ones.
 
@@ -79,15 +79,15 @@ With a Pay-As-You-Go account, you're eligible for free runtime and service allow
 
 In many countries and regions, you can sign up for a Pay-As-You-Go account from the {{site.data.keyword.Bluemix_notm}} console. After you provide your billing and credit card information, accept the terms and conditions, and submit your account request. Then, your credit card will be validated. A confirmation email of the account information is also sent. A few minutes after you receive the confirmation email, you can return to the console to continue building your apps.
 
-If your online request can't be processed for your country or region, contact {{site.data.keyword.Bluemix_notm}} Sales by using the link listed on the [{{site.data.keyword.Bluemix_notm}} Support](http://ibm.biz/bluemixsupport){: new_window} ![External link icon](../icons/launch-glyph.svg “External link icon”) page.
+If your online request can't be processed for your country or region, contact {{site.data.keyword.Bluemix_notm}} Sales by using the link listed on the [{{site.data.keyword.Bluemix_notm}} Support](http://ibm.biz/bluemixsupport){: new_window} page.
 
-You can convert your Pay-As-You-Go account to a Subscription account at any time. Contact {{site.data.keyword.Bluemix_notm}} Sales by using the link listed on the [{{site.data.keyword.Bluemix_notm}} Support](http://ibm.biz/bluemixsupport){: new_window} ![External link icon](../icons/launch-glyph.svg “External link icon”) page.
+You can convert your Pay-As-You-Go account to a Subscription account at any time. Contact {{site.data.keyword.Bluemix_notm}} Sales by using the link listed on the [{{site.data.keyword.Bluemix_notm}} Support](http://ibm.biz/bluemixsupport){: new_window} page.
 
 ### Subscription account
 
 With a Subscription account, you commit to a minimum spending amount each month and receive a subscription discount that is applied to that minimum charge. You also pay for any usage that exceeds the minimum spending amount.
 
-To sign up for a Subscription account, and for more information about subscription rates and discounts, you must contact {{site.data.keyword.Bluemix_notm}} Sales by using the link listed on the [{{site.data.keyword.Bluemix_notm}} Support](http://ibm.biz/bluemixsupport){: new_window} ![External link icon](../icons/launch-glyph.svg “External link icon”) page.
+To sign up for a Subscription account, and for more information about subscription rates and discounts, you must contact {{site.data.keyword.Bluemix_notm}} Sales by using the link listed on the [{{site.data.keyword.Bluemix_notm}} Support](http://ibm.biz/bluemixsupport){: new_window} page.
 
 ### {{site.data.keyword.Bluemix_dedicated_notm}} account
 
@@ -99,9 +99,9 @@ With {{site.data.keyword.Bluemix_dedicated_notm}}, you must sign up for a one ye
    * All dedicated services that you have selected and all public {{site.data.keyword.Bluemix_notm}} services
    * Standard {{site.data.keyword.Bluemix_notm}} support
 
-You can also order optional items such as SoftLayer DirectLink or premium support options. Contact [{{site.data.keyword.Bluemix_notm}} Sales](http://ibm.biz/bluemixsupport){: new_window} ![External link icon](../icons/launch-glyph.svg “External link icon”) for more information.
+You can also order optional items such as SoftLayer DirectLink or premium support options. Contact [{{site.data.keyword.Bluemix_notm}} Sales](http://ibm.biz/bluemixsupport){: new_window} for more information.
 
-What you pay each month during that term is based on the dedicated services that you want, plus a Subscription account that gives you access to all public services. Usage charges of the services in {{site.data.keyword.Bluemix_notm}} Public are calculated based on your Subscription account agreement. You receive an invoice for any services that you use beyond that subscription agreement. Contact your IBM designated account representative or contact [{{site.data.keyword.Bluemix_notm}} Sales](http://ibm.biz/bluemixsupport){: new_window} ![External link icon](../icons/launch-glyph.svg “External link icon”) to get started on your agreement.
+What you pay each month during that term is based on the dedicated services that you want, plus a Subscription account that gives you access to all public services. Usage charges of the services in {{site.data.keyword.Bluemix_notm}} Public are calculated based on your Subscription account agreement. You receive an invoice for any services that you use beyond that subscription agreement. Contact your IBM designated account representative or contact [{{site.data.keyword.Bluemix_notm}} Sales](http://ibm.biz/bluemixsupport){: new_window} to get started on your agreement.
 
 ### {{site.data.keyword.Bluemix_local_notm}} account
 
@@ -112,7 +112,7 @@ With {{site.data.keyword.Bluemix_local_notm}}, you must sign up for a one year m
    * All local services that you have selected and access to all public {{site.data.keyword.Bluemix_notm}} services
    * Standard {{site.data.keyword.Bluemix_notm}} support
 
-What you pay each month during that term is based on the local services that you want, plus a Subscription account that gives you access to all public services. Usage charges of the services in {{site.data.keyword.Bluemix_notm}} Public are calculated based on your Subscription account agreement. You receive an invoice for any services that you use beyond that subscription agreement. Contact your IBM designated account representative or contact [{{site.data.keyword.Bluemix_notm}} Sales](http://ibm.biz/bluemixsupport){: new_window} ![External link icon](../icons/launch-glyph.svg “External link icon”) to get started on your agreement.
+What you pay each month during that term is based on the local services that you want, plus a Subscription account that gives you access to all public services. Usage charges of the services in {{site.data.keyword.Bluemix_notm}} Public are calculated based on your Subscription account agreement. You receive an invoice for any services that you use beyond that subscription agreement. Contact your IBM designated account representative or contact [{{site.data.keyword.Bluemix_notm}} Sales](http://ibm.biz/bluemixsupport){: new_window} to get started on your agreement.
 
 ## Trial account
 {: #Trial}
