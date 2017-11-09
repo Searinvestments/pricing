@@ -5,7 +5,7 @@
 copyright:
 
   years: 2017
-lastupdated: "2017-10-10"
+lastupdated: "2017-11-09"
 
 ---
 
@@ -17,7 +17,7 @@ lastupdated: "2017-10-10"
 # Managing usage for {{site.data.keyword.Bluemix_notm}} linked accounts
 {: #linked_usage}
 
-If you have a linked {{site.data.keyword.Bluemix}} and SoftLayer account, you can use the Customer Portal to make a one-off payment, change your payment card details, view your billing items, and view your involices.
+If you have a linked {{site.data.keyword.Bluemix}} and SoftLayer account, you can use the customer portal to make a one-off payment, change your payment card details, view your billing items, and view your invoices.
 
 **Note:** The billing and usage options that are displayed in the {{site.data.keyword.Bluemix_notm}} console can be different if you have a free account or you do not have a linked {{site.data.keyword.Bluemix_notm}} and SoftLayer account.
 
@@ -64,11 +64,11 @@ You can associate billing items to specific devices and also disassociate those 
 You can view or pay your invoices at any time. Each invoice is summarized by Invoice Number, Date, Invoice Type and various
 monetary balances. Invoice Types may fall into the following categories:
 
- *  New -- the first invoice in a series of recurring invoices.
- *  Recurring -- an invoice for recurring charges that have been active on the account for more than one month.
- *  One-Time Charge -- a one-time charge for various expenses, which might include overages.
- *  Credit -- a credit from {{site.data.keyword.Bluemix_notm}} to the account balance.
- *  Refund -- a refund, or reversal, for either a one-time or recurring charge.
+ *  New: The first invoice in a series of recurring invoices.
+ *  Recurring: An invoice for recurring charges that have been active on the account for more than one month.
+ *  One-Time Charge: A one-time charge for various expenses, which might include overages.
+ *  Credit: A credit from {{site.data.keyword.Bluemix_notm}} to the account balance.
+ *  Refund: A refund, or reversal, for either a one-time or recurring charge.
 
 The Invoices page also displays a billing summary for the account, which includes the current and estimated next balance,
 the payment method, and the last and next recurring invoice dates. You can view an invoice in the Control Portal or download the invoice.
@@ -78,7 +78,7 @@ In the {{site.data.keyword.Bluemix_notm}} console, complete the following steps 
 1. Select one of the following options, depending on which dashboard you are using:  
  * From the Apps or Services dashboard, click **Manage** > **Billing and Usage** > **Invoices**.  
  * From the Infrastructure dashboard, click **Account** > **Billing** > **Invoices**.
-2. You can view an invoice in the Customer Portal or download the invoice.
+2. You can view an invoice in the customer portal or download the invoice.
 
 ## Using {{site.data.keyword.Bluemix_notm}} services with SoftLayer assets
 {: #bluemix_services}

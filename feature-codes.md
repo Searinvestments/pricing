@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-10-17"
+lastupdated: "2017-11-09"
 
 ---
 
@@ -16,10 +16,9 @@ lastupdated: "2017-10-17"
 # Applying feature codes
 {: #codes}
 
-Sometimes {{site.data.keyword.Bluemix}} Sales or other representatives provide feature codes to offer you extra resources or capabilities for your trial or Standard account.
+Sometimes {{site.data.keyword.Bluemix}} Sales or other representatives provide feature codes to offer you extra resources or capabilities for your trial or Lite account.
 
-The extra resources or capabilities provided by {{site.data.keyword.Bluemix_notm}} vary depending on the particular code,
-but include one or more of the following items in general:
+The extra resources or capabilities provided by {{site.data.keyword.Bluemix_notm}} vary depending on the particular code, but include one or more of the following items in general:
 
   * Increase the memory quota to a number of GB specified by the promo code
   * Add one organization, with a memory quota that is specified by the promo code
