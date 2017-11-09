@@ -5,7 +5,7 @@
 copyright:
 
   years: 2017
-lastupdated: "2017-10-20"
+lastupdated: "2017-11-09"
 
 ---
 
@@ -17,7 +17,7 @@ lastupdated: "2017-10-20"
 # Viewing your usage
 {: #viewingusage}
 
-As an account owner, or a billing manager for an org, you can use the Usage Dashboard page in the {{site.data.keyword.Bluemix}} console to see a summary of estimated charges for all resources that are used per month in your organizations. 
+As an account owner or a billing manager for an org, you can use the Usage Dashboard page in the {{site.data.keyword.Bluemix}} console to see a summary of estimated charges for all resources that are used per month in your organizations. 
 
 To open the Usage Dashboard page, click **Manage** > **Billing and Usage** > **Usage**. You can see a summary of the resource usage for the account. Billing managers can see the details for only the organizations in which they are billing managers.
 

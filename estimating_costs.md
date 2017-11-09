@@ -5,7 +5,7 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-10-10"
+lastupdated: "2017-11-09"
 
 ---
 
@@ -37,7 +37,7 @@ To use the calculator, type your projected monthly usage of the listed resources
 ## Calculating your costs manually
 {: #manual}
 
-You might want to estimate your {{site.data.keyword.Bluemix_notm}} costs yourself, to better understand how {{site.data.keyword.Bluemix_notm}} costs are calculated. You can calculate the total price of using {{site.data.keyword.Bluemix_notm}} to build and host your app by considering the prices of the runtime and the services it uses. The prices of runtimes and services sometimes change, so you must refer to the latest information on the {{site.data.keyword.Bluemix_notm}} pricing sheet when you calculate the total price.
+You might want to estimate your {{site.data.keyword.Bluemix_notm}} costs yourself to better understand how {{site.data.keyword.Bluemix_notm}} costs are calculated. You can calculate the total price of using {{site.data.keyword.Bluemix_notm}} to build and host your app by considering the prices of the runtime and the services it uses. The prices of runtimes and services sometimes change, so you must refer to the latest information on the {{site.data.keyword.Bluemix_notm}} {{site.data.keyword.pricing_sheet}} when you calculate the total price.
 
 ## Supported currencies
 
@@ -60,7 +60,7 @@ The following table lists the different currencies that are supported.
 |SEK |	  Swedish krona|
 |USD |    United States dollar|
 |ZAR |	  South African rand|
-{:caption="Table 2. Supported currencies" caption-side="top"}
+{:caption="Table 1. Supported currencies" caption-side="top"}
 
 If you have linked your {{site.data.keyword.Bluemix_notm}} and SoftLayer accounts, the single invoice you receive is in United States dollars (USD) only.
 {: tip}

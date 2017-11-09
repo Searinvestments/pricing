@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-11-07"
+lastupdated: "2017-11-09"
 
 ---
 
@@ -60,14 +60,14 @@ You might be wondering what's offered in a Lite account. Check out the following
 ## Billable accounts
 {: #billableacts}
 
-When you sign up for a {{site.data.keyword.Bluemix_notm}} billable plan or request an upgrade to your account, you can select from four different {{site.data.keyword.Bluemix_notm}} accounts. The following table lists the different account types and their charging methods.
+When you sign up for an {{site.data.keyword.Bluemix_notm}} billable plan or request an upgrade to your account, you can select from four different {{site.data.keyword.Bluemix_notm}} accounts. The following table lists the different account types and their charging methods.
 
 |Account type |	How am I charged? |
 |------------------|-----------------------|
 |Pay-As-You-Go |	Charges are based on your use of {{site.data.keyword.Bluemix_notm}} compute and services |
 |Subscription | You can get a monthly discount based on a minimum monthly spending commitment |
 | {{site.data.keyword.Bluemix_dedicated_notm}} | Annual contract |
-|{{site.data.keyword.Bluemix_local_notm}} |	Annual contract |
+|{{site.data.keyword.Bluemix_local_notm}} | Annual contract |
 {:caption="Table 2. {{site.data.keyword.Bluemix_notm}} billable accounts and charges" caption-side="top"}
 
 If you link your {{site.data.keyword.Bluemix_notm}} billable account with a SoftLayer account, starting on the first of the next month, your combined charges are included on your {{site.data.keyword.Bluemix_notm}} invoice. For more information, see [Viewing credits](/docs/pricing/viewing_usage.html#credits).
