@@ -136,7 +136,7 @@ When you sign up for a free trial with your {{site.data.keyword.Bluemix_notm}} I
   * 10 services
   * 1 SSL certificate
 
-You also have access to a single resource group that's created for you and named `Default`. All of your IAM-managed service instances are automatically added to this resource group. You can update the name of this resource group at any time. See [Renaming a resource group](/docs/admin/resource-groups.html#renaming-a-resource-group) for the detailed steps.
+You also have access to a single resource group that's created for you and named `Default`. All of your IAM-managed service instances are automatically added to this resource group. You can update the name of this resource group at any time. See [Renaming a resource group](/docs/admin/resourcegroups.html#renaming-a-resource-group) for the detailed steps.
 
 Each resource group is free. When you create a connection between a service managed by IAM and a Cloud Foundry app, you create an alias, which is a service instance, that counts toward your quota. See [What is an alias?](/docs/manageapps/connecting_apps.html#what_is_alias).
 {: tip}
