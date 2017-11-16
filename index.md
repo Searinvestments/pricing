@@ -16,7 +16,7 @@ lastupdated: "2017-11-15"
 # Account types
 {: #accounts}
 
-You can start building on {{site.data.keyword.Bluemix}} for free. When you are ready to grow, upgrade and pay only for what you use beyond free allowances. We have four different account types that you can choose from: Lite, Pay-As-You-Go, Subscription, and Trial. You can use any of the account types to get started in {{site.data.keyword.Bluemix_notm}} - simply choose the one that best suits your needs.  
+You can start building on {{site.data.keyword.Bluemix}} for free. When you are ready to grow, upgrade and pay only for what you use beyond free allowances. We have four different account types that you can choose from: Lite, Pay-As-You-Go, Subscription, and Promo. You can use any of the account types to get started in {{site.data.keyword.Bluemix_notm}} - simply choose the one that best suits your needs. 
 {:shortdesc}
 
 ## Account comparison
@@ -24,10 +24,10 @@ You can start building on {{site.data.keyword.Bluemix}} for free. When you are r
 
 The following table provides a comparison of Lite, Pay-As-You-Go, and Subscription accounts. For more details about each account, see the sections that follow.
 
-| | Lite | Pay-As-You-Go | Subscription |
-|---------------|---------------|---------------|
+|  | Lite  | Pay-As-You-Go | Subscription | 
+|--------------------|--------------------|--------------------|--------------------|
 | **Access to free Cloud Foundry memory** | 256 MB | 512 MB | 512 MB | 
-| **Access to [Lite service plans](https://console.bluemix.net/catalog/?search=label:lite%20lite)** | ![Feature available](../icons/icon_enabled.svg) | ![Feature available](../icons/icon_enabled.svg) | ![Feature available](../icons/icon_enabled.svg) |
+| **Access to [Lite service plans ![External link icon](../icons/launch-glyph.svg "External link icon")](https://console.bluemix.net/catalog/?search=label:lite%20lite){: new_window}** | ![Feature available](../icons/icon_enabled.svg) | ![Feature available](../icons/icon_enabled.svg) | ![Feature available](../icons/icon_enabled.svg) |
 | **Access to all free plans** |  | ![Feature available](../icons/icon_enabled.svg) | ![Feature available](../icons/icon_enabled.svg) |
 | **Access to the full catalog** |  | ![Feature available](../icons/icon_enabled.svg) | ![Feature available](../icons/icon_enabled.svg) |
 | **No time restrictions** | ![Feature available](../icons/icon_enabled.svg) | ![Feature available](../icons/icon_enabled.svg) | ![Feature available](../icons/icon_enabled.svg) |
@@ -40,9 +40,14 @@ The following table provides a comparison of Lite, Pay-As-You-Go, and Subscripti
 ## Lite account
 {: #liteaccount}
 
-Sign up for a free Lite account to build apps and explore services with select free plans that are named Lite and displayed with a Lite tag ![Lite tag](../icons/Lite.svg) in the {{site.data.keyword.Bluemix_notm}} console. Your Lite account doesn't expire and your credit card isn't required.
+Sign up for a free Lite account to build apps and explore services with select free plans that are named Lite and displayed with a Lite tag ![Lite tag](../icons/Lite.svg) in the {{site.data.keyword.Bluemix_notm}} console. Your Lite account doesn't expire and your credit card isn't required. 
 
-### What's available? 
+You have access to a single resource group that's created for you and named `Default`. All of your services instances that are managed by {{site.data.keyword.Bluemix_notm}} Identity and Access Management (IAM) are automatically added to this resource group. You can update the name of this resource group at any time. See [Renaming a resource group](/docs/admin/resourcegroups.html#renaming-a-resource-group) for the detailed steps. 
+
+Each resource group is free. When you create a connection between a service managed by IAM and a Cloud Foundry app, you create an alias, which is a service instance, that counts toward your quota. See [What is an alias?](/docs/manageapps/connecting_apps.html#what_is_alias).
+{: tip}
+
+### What's available?
 
 You might be wondering what's offered in a Lite account. Check out the following list of key features:
 
@@ -53,21 +58,21 @@ You might be wondering what's offered in a Lite account. Check out the following
    * You receive email notifications about your account status and quota limits.
    * Your Cloud Foundry apps can access up to 256 MB of free, instantaneous runtime memory. 
    * You can work with a Kubernetes cluster with 2 CPU and 4 GB RAM.
-   * You can provision one instance of any service in the [{{site.data.keyword.Bluemix_notm}} catalog](https://console.bluemix.net/catalog/?search=label:lite%20lite){: new_window} that has a Lite plan.
+   * You can provision one instance of any service in the [{{site.data.keyword.Bluemix_notm}} catalog ![External link icon](../icons/launch-glyph.svg "External link icon")](https://console.bluemix.net/catalog/?search=label:lite%20lite){: new_window} that has a Lite plan.
    * After 10 days of no development activity, your apps go to sleep. You can start working on new apps without having to worry about hitting memory quota limits.
    * After 30 days of no development activity, your service instances with Lite plans are deleted. This way, you don't have to manage deleting inactive instances before you create new ones.
 
 ## Billable accounts
 {: #billableacts}
 
-When you sign up for an {{site.data.keyword.Bluemix_notm}} billable plan or request an upgrade to your account, you can select from four different {{site.data.keyword.Bluemix_notm}} accounts. The following table lists the different account types and their charging methods.
+When you sign up for a {{site.data.keyword.Bluemix_notm}} billable plan or request an upgrade to your account, you can select from four different {{site.data.keyword.Bluemix_notm}} accounts. The following table lists the different account types and their charging methods.
 
 |Account type |	How am I charged? |
 |------------------|-----------------------|
 |Pay-As-You-Go |	Charges are based on your use of {{site.data.keyword.Bluemix_notm}} compute and services |
 |Subscription | You can get a monthly discount based on a minimum monthly spending commitment |
 | {{site.data.keyword.Bluemix_dedicated_notm}} | Annual contract |
-|{{site.data.keyword.Bluemix_local_notm}} | Annual contract |
+|{{site.data.keyword.Bluemix_local_notm}} |	Annual contract |
 {:caption="Table 2. {{site.data.keyword.Bluemix_notm}} billable accounts and charges" caption-side="top"}
 
 If you link your {{site.data.keyword.Bluemix_notm}} billable account with a SoftLayer account, starting on the first of the next month, your combined charges are included on your {{site.data.keyword.Bluemix_notm}} invoice. For more information, see [Viewing credits](/docs/pricing/viewing_usage.html#credits).
@@ -75,19 +80,25 @@ If you link your {{site.data.keyword.Bluemix_notm}} billable account with a Soft
 
 ### Pay-As-You-Go account
 
-With a Pay-As-You-Go account, you're eligible for free runtime and service allowances. If you use more than the free allowance, you'll receive a monthly {{site.data.keyword.Bluemix_notm}} invoice. The invoice will be in United States dollars (USD) and will detail your resource charges. 
+With a Pay-As-You-Go account, you can create multiple resource groups to easily manage quota and view billing usage for a set of resources.
+
+You're eligible for free runtime and service allowances. If you use more than the free allowance, you'll receive a monthly {{site.data.keyword.Bluemix_notm}} invoice. The invoice will be in United States dollars (USD) and will detail your resource charges. 
 
 In many countries and regions, you can sign up for a Pay-As-You-Go account from the {{site.data.keyword.Bluemix_notm}} console. After you provide your billing and credit card information, accept the terms and conditions, and submit your account request. Then, your credit card will be validated. A confirmation email of the account information is also sent. A few minutes after you receive the confirmation email, you can return to the console to continue building your apps.
 
-If your online request can't be processed for your country or region, contact {{site.data.keyword.Bluemix_notm}} Sales by using the link listed on the [{{site.data.keyword.Bluemix_notm}} Support](http://ibm.biz/bluemixsupport){: new_window} page.
+If your online request can't be processed for your country or region, contact {{site.data.keyword.Bluemix_notm}} Sales by using the link listed on the
+[{{site.data.keyword.Bluemix_notm}} Support ![External link icon](../icons/launch-glyph.svg)](http://ibm.biz/bluemixsupport){: new_window} page.
 
-You can convert your Pay-As-You-Go account to a Subscription account at any time. Contact {{site.data.keyword.Bluemix_notm}} Sales by using the link listed on the [{{site.data.keyword.Bluemix_notm}} Support](http://ibm.biz/bluemixsupport){: new_window} page.
+You can convert your Pay-As-You-Go account to a Subscription account at any time. Contact {{site.data.keyword.Bluemix_notm}} Sales by using the link listed on the
+[{{site.data.keyword.Bluemix_notm}} Support ![External link icon](../icons/launch-glyph.svg)](http://ibm.biz/bluemixsupport){: new_window} page.
 
 ### Subscription account
 
-With a Subscription account, you commit to a minimum spending amount each month and receive a subscription discount that is applied to that minimum charge. You also pay for any usage that exceeds the minimum spending amount.
+With a Subscription account, you can create multiple resource groups to easily manage quota and view billing usage for a set of resources.
 
-To sign up for a Subscription account, and for more information about subscription rates and discounts, you must contact {{site.data.keyword.Bluemix_notm}} Sales by using the link listed on the [{{site.data.keyword.Bluemix_notm}} Support](http://ibm.biz/bluemixsupport){: new_window} page.
+You commit to a minimum spending amount each month and receive a subscription discount that is applied to that minimum charge. You also pay for any usage that exceeds the minimum spending amount.
+
+To sign up for a Subscription account, and for more information about subscription rates and discounts, you must contact {{site.data.keyword.Bluemix_notm}} Sales by using the link listed on the [{{site.data.keyword.Bluemix_notm}} Support ![External link icon](../icons/launch-glyph.svg)](http://ibm.biz/bluemixsupport){: new_window} page.
 
 ### {{site.data.keyword.Bluemix_dedicated_notm}} account
 
@@ -99,9 +110,9 @@ With {{site.data.keyword.Bluemix_dedicated_notm}}, you must sign up for a one ye
    * All dedicated services that you have selected and all public {{site.data.keyword.Bluemix_notm}} services
    * Standard {{site.data.keyword.Bluemix_notm}} support
 
-You can also order optional items such as SoftLayer DirectLink or premium support options. Contact [{{site.data.keyword.Bluemix_notm}} Sales](http://ibm.biz/bluemixsupport){: new_window} for more information.
+You can also order optional items such as SoftLayer DirectLink or premium support options. Contact [{{site.data.keyword.Bluemix_notm}} Sales ![External link icon](../icons/launch-glyph.svg)](http://ibm.biz/bluemixsupport){: new_window} for more information.
 
-What you pay each month during that term is based on the dedicated services that you want, plus a Subscription account that gives you access to all public services. Usage charges of the services in {{site.data.keyword.Bluemix_notm}} Public are calculated based on your Subscription account agreement. You receive an invoice for any services that you use beyond that subscription agreement. Contact your IBM designated account representative or contact [{{site.data.keyword.Bluemix_notm}} Sales](http://ibm.biz/bluemixsupport){: new_window} to get started on your agreement.
+What you pay each month during that term is based on the dedicated services that you want, plus a Subscription account that gives you access to all public services. Usage charges of the services in {{site.data.keyword.Bluemix_notm}} Public are calculated based on your Subscription account agreement. You receive an invoice for any services that you use beyond that subscription agreement. Contact your IBM designated account representative or contact [{{site.data.keyword.Bluemix_notm}} Sales ![External link icon](../icons/launch-glyph.svg)](http://ibm.biz/bluemixsupport){: new_window} to get started on your agreement.
 
 ### {{site.data.keyword.Bluemix_local_notm}} account
 
@@ -112,7 +123,7 @@ With {{site.data.keyword.Bluemix_local_notm}}, you must sign up for a one year m
    * All local services that you have selected and access to all public {{site.data.keyword.Bluemix_notm}} services
    * Standard {{site.data.keyword.Bluemix_notm}} support
 
-What you pay each month during that term is based on the local services that you want, plus a Subscription account that gives you access to all public services. Usage charges of the services in {{site.data.keyword.Bluemix_notm}} Public are calculated based on your Subscription account agreement. You receive an invoice for any services that you use beyond that subscription agreement. Contact your IBM designated account representative or contact [{{site.data.keyword.Bluemix_notm}} Sales](http://ibm.biz/bluemixsupport){: new_window} to get started on your agreement.
+What you pay each month during that term is based on the local services that you want, plus a Subscription account that gives you access to all public services. Usage charges of the services in {{site.data.keyword.Bluemix_notm}} Public are calculated based on your Subscription account agreement. You receive an invoice for any services that you use beyond that subscription agreement. Contact your IBM designated account representative or contact [{{site.data.keyword.Bluemix_notm}} Sales ![External link icon](../icons/launch-glyph.svg)](http://ibm.biz/bluemixsupport){: new_window} to get started on your agreement.
 
 ## Trial account
 {: #Trial}
@@ -124,6 +135,11 @@ When you sign up for a free trial with your {{site.data.keyword.Bluemix_notm}} I
   * Maximum 2 GB memory
   * 10 services
   * 1 SSL certificate
+
+You also have access to a single resource group that's created for you and named `Default`. All of your IAM-managed service instances are automatically added to this resource group. You can update the name of this resource group at any time. See [Renaming a resource group](/docs/admin/resource-groups.html#renaming-a-resource-group) for the detailed steps.
+
+Each resource group is free. When you create a connection between a service managed by IAM and a Cloud Foundry app, you create an alias, which is a service instance, that counts toward your quota. See [What is an alias?](/docs/manageapps/connecting_apps.html#what_is_alias).
+{: tip}
 
 ### What happens when my free trial ends?
 {: #trialend}
