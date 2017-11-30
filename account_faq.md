@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-10-31"
+lastupdated: "2017-11-30"
 
 ---
 
@@ -33,7 +33,7 @@ In a Lite account your apps can access up to 256 MB of instantaneous runtime mem
 ## Why won't my credit card go through?
 {: #addcard}
 
-Protecting your identity is a priority for us, therefore we take credit card verification very seriously. The simplest way to resolve your issue is to contact us by using one of the following methods. We'll ask you a few questions to verify your identity and credit card to then get you back on your way to productivity.
+Protecting your identity is a priority for us, therefore we take credit card verification very seriously. The simplest way to resolve your issue is to contact us by using one of the following methods. We'll ask you a few questions to verify your identity to then get you back on your way to productivity.
 
    * Call us: 1-866-325-0045 (Select option 3.)
    * Email us: [accounting@softlayer.com](accounting@softlayer.com)
