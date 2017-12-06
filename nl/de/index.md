@@ -33,7 +33,7 @@ Ein Standardkonto umfasst das nachfolgend beschriebene Angebot. Die folgende Lis
    * Das Konto ist kostenfrei - Sie benötigen keine Kreditkarte.
    * Für das Konto existiert kein Ablaufdatum. 
    * Sie können eine Organisation in einer {{site.data.keyword.Bluemix_notm}}-Region verwenden.
-   * Cloud Foundry-Apps können auf bis zu 256 MB an freiem, sofort verfügbarem Laufzeitspeicher zugreifen.  
+   * Cloud Foundry-Apps können auf bis zu 256 MB an freiem, sofort verfügbarem Laufzeitspeicher zugreifen. 
    * Sie erhalten Zugang zu kostenfreien Lite-Plänen für ausgewählte Services, wobei in Kürze weitere Service zur Verfügung stehen werden. 
    * Sie erhalten E-Mail-Benachrichtigungen über Ihren Kontostatus. 
    * Nach 10 Tagen ohne Entwicklungstätigkeit werden Ihre Apps inaktiviert.

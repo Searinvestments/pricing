@@ -17,7 +17,7 @@ lastupdated: "2017-10-10"
 # Modifica del tuo piano
 {: #changing}
 
-Puoi modificare il tuo piano di servizio in {{site.data.keyword.Bluemix}} nel dashboard del servizio, se per tale servizio sono abilitate le modifiche del piano. 
+Puoi modificare il tuo piano di servizio in {{site.data.keyword.Bluemix}} nel dashboard del servizio, se per tale servizio sono abilitate le modifiche del piano.
 
 Solo degli specifici servizi ti consentono di modificare il piano di servizio. Se le modifiche del piano sono abilitate per il servizio, il Dashboard del servizio visualizza un'opzione **Piano** nel riquadro di navigazione. Se modifichi
 il tuo piano, ogni servizio prevede una procedura diversa a cui devi attenerti.
