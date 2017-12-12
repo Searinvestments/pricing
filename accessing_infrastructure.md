@@ -5,7 +5,7 @@
 copyright:
 
   years: 2017
-lastupdated: "2017-11-09"
+lastupdated: "2017-12-12"
 
 ---
 
@@ -26,7 +26,7 @@ To outline the {{site.data.keyword.Bluemix_notm}} accounts that are available in
 
 |{{site.data.keyword.Bluemix_notm}} account type |	Infrastructure dashboard access? |	What are my options? |
 |------------------|-----------------------|---------------|
-|Free account (Lite or trial) |	No access |	Upgrade your free account to a Pay-As-You-Go account. |
+|Free account (Lite or 30-day trial) |	No access |	Upgrade your free account to a Pay-As-You-Go account. |
 |Pay-As-You-Go account | Yes, if your account was created after 24 October 2016 | Nothing else is required. | 
 | | No access, if your account was created before 24 October 2016 | Add your credit card details again to access the Infrastructure dashboard. |
 |Subscription account |	No access |	Create a separate Pay-As-You-Go account with a different email address to the email address that is associated to your Subscription account. Each {{site.data.keyword.Bluemix_notm}} account must have a unique email address associated with it. You are billed separately for your Pay-As-You-Go and Subscription accounts. |
