@@ -16,7 +16,7 @@ lastupdated: "2017-11-17"
 # Applying feature (promo) codes
 {: #codes}
 
-Sometimes {{site.data.keyword.Bluemix}} Sales or other representatives provide feature codes, previously known as promo codes, to offer you extra resources or capabilities for your Lite or trial account. While we recently renamed promo codes to features codes, and you can still use them to unlock additional {{site.data.keyword.Bluemix_notm}} capabilities.
+Sometimes {{site.data.keyword.Bluemix}} Sales or other representatives provide feature codes, previously known as promo codes, to offer you extra resources or capabilities for your Lite or trial account. While we recently renamed promo codes to features codes, you can still use them to unlock additional {{site.data.keyword.Bluemix_notm}} capabilities.
 {: shortdesc}
 
 The extra resources or capabilities provided by {{site.data.keyword.Bluemix_notm}} vary depending on the particular code,
