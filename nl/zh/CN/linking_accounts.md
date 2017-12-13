@@ -5,7 +5,7 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-05-31"
+lastupdated: "2017-11-09"
 
 ---
 
@@ -20,7 +20,7 @@ lastupdated: "2017-05-31"
 您可以链接 {{site.data.keyword.Bluemix_notm}} 和 SoftLayer 帐户以利用组合资源。链接 {{site.data.keyword.Bluemix_notm}} 和 Softlayer 帐户后，您将收到单个 {{site.data.keyword.Bluemix_notm}} 发票。如果您有现有的 {{site.data.keyword.Bluemix_notm}} 帐户，那么通过 {{site.data.keyword.Bluemix_notm}} 对 SoftLayer 资源进行记帐会在链接帐户之后启动的新记帐周期生效。
 
 
-**重要信息：**{{site.data.keyword.Bluemix_notm}} 中的所有链接帐户都必须是现买现付帐户。您可以创建新的现买现付帐户，链接现有的现买现付帐户，或者链接现有试用帐户（此帐户接着将升级为现买现付帐户）。不能链接预订 {{site.data.keyword.Bluemix_notm}} 帐户。
+**重要信息：**{{site.data.keyword.Bluemix_notm}} 中的所有链接帐户都必须是现买现付帐户。您可以创建新的现买现付帐户，链接现有的现买现付帐户，或者链接现有试用帐户（此帐户随后将升级为现买现付帐户）。但不能链接 {{site.data.keyword.Bluemix_notm}} 预订帐户。
 
 您必须是 SoftLayer 帐户中的主用户，才能链接帐户。
 
@@ -35,7 +35,7 @@ lastupdated: "2017-05-31"
 
 作为主用户，请完成以下步骤来链接您的 {{site.data.keyword.Bluemix_notm}} 和 SoftLayer 帐户：
 
- 1. 从 {{site.data.keyword.slportal}}，单击**链接 {{site.data.keyword.Bluemix_notm}} 帐户**。
+ 1. 在客户门户网站中，单击**链接 {{site.data.keyword.Bluemix_notm}} 帐户**。
  2. 阅读并接受链接 SoftLayer 和 {{site.data.keyword.Bluemix_notm}} 帐户的条款。
  3. 要求时，提供与 {{site.data.keyword.Bluemix_notm}} 帐户相关联的电子邮件地址。如果您没有 {{site.data.keyword.Bluemix_notm}} 帐户，请提供要使用的电子邮件地址，然后遵循指示受邀加入 {{site.data.keyword.Bluemix_notm}} 并创建帐户。
 
@@ -49,9 +49,9 @@ lastupdated: "2017-05-31"
 
 {{site.data.keyword.Bluemix_notm}} 使用情况周期以日历月为基础，因此您的帐户会在每月的建立收费协议的记帐日进行记帐。使用 SoftLayer，您的使用情况周期从您开始使用 SoftLayer 开始，因此每月会在您注册 SoftLayer 帐户的那一天进行记帐。 
 
-当链接帐户时，{{site.data.keyword.Bluemix_notm}} 使用情况将继续在当前月份周期内测量，并会在 {{site.data.keyword.Bluemix_notm}} 发票上对该使用情况进行记帐。从下个月的第一天开始，您的 {{site.data.keyword.Bluemix_notm}} 和 SoftLayer 费用将会一并列在 {{site.data.keyword.Bluemix_notm}} 发票上。
+链接帐户时，{{site.data.keyword.Bluemix_notm}} 使用量将继续度量并计入当前月份周期内，并会在 {{site.data.keyword.Bluemix_notm}} 发票上对该使用量进行记帐。从下个月的第一天开始，您的 {{site.data.keyword.Bluemix_notm}} 和 SoftLayer 费用将会一并列在 {{site.data.keyword.Bluemix_notm}} 发票上。
 
-例如，如果您在 2017 年 4 月 16 日链接了帐户，那么您将获得 4 月使用量的 Bluemix 发票。根据链接帐户的时间，您可能会收到针对 SoftLayer 使用量的单独帐单。您在五月对 SoftLayer 和 {{site.data.keyword.Bluemix_notm}} 的使用量将通过 {{site.data.keyword.Bluemix_notm}} 帐户记帐。
+例如，如果您在 2017 年 4 月 16 日链接了帐户，那么您将获得 4 月使用量的 {{site.data.keyword.Bluemix_notm}} 发票。根据链接帐户的时间，您可能会收到针对 SoftLayer 使用量的单独帐单。您在五月对 SoftLayer 和 {{site.data.keyword.Bluemix_notm}} 的使用量将通过 {{site.data.keyword.Bluemix_notm}} 帐户记帐。
 
 ![链接 Bluemix 和 SoftLayer 帐户摘要](BluemixSoftLayerBill.svg)
 

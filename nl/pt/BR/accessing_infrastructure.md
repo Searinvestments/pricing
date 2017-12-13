@@ -4,7 +4,7 @@
 
 copyright:
 
-  Anos: 2017 lastupdated: "2017-05-25"
+  anos: 2017 última atualização: "09-11-2017"
 
 ---
 
@@ -25,7 +25,7 @@ Para descrever as contas do {{site.data.keyword.Bluemix_notm}} que estão dispon
 
 |{{site.data.keyword.Bluemix_notm}} tipo de conta |	Infraestrutura do painel de acesso? |	Quais são as minhas opções? |
 |------------------|-----------------------|---------------|
-|Livre da conta (Standard ou Teste) |	Sem Acesso |	Faça upgrade de sua conta grátis para uma conta Pagamento por uso. |
+|Conta grátis (Lite ou avaliação) |	Sem Acesso |	Faça upgrade de sua conta grátis para uma conta Pagamento por uso. |
 |Conta de Pagamento por uso | Sim, se sua conta foi criada após 24 de outubro de 2016 | Nada mais é necessário. | 
 | | Sem acesso, se sua conta foi criada antes de 24 de outubro de 2016 | Inclua detalhes de seu cartão de crédito novamente para acessar o painel Infraestrutura. |
 |Conta Assinatura |	Sem Acesso |	Crie uma conta Pagamento por uso separada com um endereço de e-mail diferente para o endereço de e-mail que está associado à sua conta da Assinatura. Cada conta do {{site.data.keyword.Bluemix_notm}} deve ter um endereço de e-mail exclusivo associado a ela. É feito faturamento separado para suas contas Pagamento por uso e Assinatura. |
@@ -34,4 +34,4 @@ Para descrever as contas do {{site.data.keyword.Bluemix_notm}} que estão dispon
 **Importante:** quando um upgrade de conta é solicitado, as informações inseridas são verificadas e deve-se ser aprovado para que o acesso ao painel Infraestrutura seja concedido. Assegure-se de que as informações de contato estejam corretas
 porque a equipe de Suporte do {{site.data.keyword.Bluemix_notm}} pode entre em contato com você para confirmar certos detalhes.    
 
-Se você tiver perguntas ou experienciar quaisquer problemas para os quais não localize respostas, a equipe de Suporte do {{site.data.keyword.Bluemix_notm}} ficará feliz em ajudá-lo. Quando você está conectado à sua conta, clique em **Suporte** e selecione **Incluir chamado** e conclua os detalhes relevantes. Também é possível obter suporte usando o link listado na página [Suporte do {{site.data.keyword.Bluemix_notm}} ![Ícone de link externo](../icons/launch-glyph.svg)](http://ibm.biz/bluemixsupport){: new_window}.
+Se você tiver perguntas ou tiver quaisquer problemas para os quais não consiga localizar respostas, a equipe de Suporte do {{site.data.keyword.Bluemix_notm}} ficará feliz em ajudá-lo. Quando você está conectado à sua conta, clique em **Suporte** e selecione **Incluir chamado** e conclua os detalhes relevantes. Também é possível obter suporte usando o link listado na página [Suporte do {{site.data.keyword.Bluemix_notm}} ![Ícone de link externo](../icons/launch-glyph.svg)](http://ibm.biz/bluemixsupport){: new_window}.

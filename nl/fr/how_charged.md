@@ -5,26 +5,25 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-10-10"
+lastupdated: "2017-10-31"
 
 ---
 
 {:shortdesc: .shortdesc}
 {:codeblock: .codeblock}
 {:screen: .screen}
+{:tip: .tip}
 {:new_window: target="_blank"}
 
 # Paiement
 {: #charges}
 
-Le prix varie selon les ressources utilisées par un service, un contexte d'exécution, un conteneur ou une option de support spécifique. Les ressources peuvent correspondre au nombre d'appels d'API, au nombre d'instances, à la mémoire, à l'espace de stockage, etc. {{site.data.keyword.Bluemix}} met également à disposition des estimateurs de coût détaillé ainsi qu'une calculatrice de prix au centime près pour vous aider à planifier vos frais. Vous pouvez vérifier le coût réel une fois que vous avez construit vos applications dans la page Tableau de bord de l'utilisation.
+Le prix varie selon les ressources utilisées par un service, un contexte d'exécution, un conteneur ou une option de support spécifique. Les ressources peuvent correspondre au nombre d'appels d'API, au nombre d'instances, à la mémoire, à l'espace de stockage, etc. {{site.data.keyword.Bluemix}} met également à disposition des estimateurs de coût détaillé ainsi qu'une calculatrice de prix au centime près pour vous aider à planifier vos frais. Après avoir construit vos applications, vous pouvez vérifier leur coût réel dans la page Tableau de bord de l'utilisation.
 
-Avec un compte de facturation {{site.data.keyword.Bluemix_notm}}, vous êtes facturé pour les ressources de traitement, les conteneurs et les services que
-vous utilisez dans votre organisation. Vous pouvez être invité par d'autres utilisateurs
-{{site.data.keyword.Bluemix_notm}} à participer à des organisations sur un compte différent. Si vous créez des applications ou utilisez des services dans les organisations dans lesquelles vous êtes invité, cette utilisation est facturée au compte sur lequel se trouvent ces organisations. Vous pouvez afficher davantage d'informations sur un tarif spécifique dans la page des détails du catalogue {{site.data.keyword.Bluemix_notm}} ou dans la calculatrice des prix sur la page Tarification de {{site.data.keyword.Bluemix_notm}}.
+Avec un compte de facturation {{site.data.keyword.Bluemix_notm}}, vous êtes facturé pour les ressources de traitement, les conteneurs et les services que vous utilisez dans votre organisation. Vous pouvez être invité par d'autres utilisateurs
+{{site.data.keyword.Bluemix_notm}} à participer à des organisations sur un compte différent. Si vous créez des applications ou utilisez des services dans les organisations dans lesquelles vous êtes invité, cette utilisation est facturée au compte sur lequel se trouvent ces organisations. Vous pouvez afficher davantage d'informations sur un tarif spécifique dans la page des détails du catalogue ou dans la calculatrice des prix sur la page Tarification.
 
-Différents types de frais s'appliquent selon les fonctions que vous utilisez. Le tableau suivant
-propose une présentation générale :
+Différents types de frais s'appliquent selon les fonctions {{site.data.keyword.Bluemix_notm}} que vous utilisez. Le tableau suivant propose une présentation générale.
 
 | Type de frais | Description | Fonctions {{site.data.keyword.Bluemix_notm}} utilisant ce type de frais | Exemple |
 |------------------|------------------|--------------------------|--------------------------|
@@ -32,6 +31,19 @@ propose une présentation générale :
 | Au compteur | La tarification au compteur repose sur le nombre de Go/heure consommés pour les contextes d'exécution ainsi que sur le nombre de Go/heure, le nombre d'adresses IP et le stockage consommés pour les conteneurs. | Services, ressources de traitement et conteneurs | Pour le service Push, toute utilisation dépassant la franchise mensuelle est facturée. |
 |  Différenciée   |  Certains plans de tarification s'appuient sur un modèle de tarification différenciée ; ainsi, vous pouvez obtenir une remise selon le volume en fonction de votre utilisation réelle. Les services peuvent proposer des plans de tarification par tranches simples, graduées ou fixes. | Services | En général, la tarification différenciée est utilisée pour les paramètres de calcul des frais pour lesquels des quantités élevées par mois sont prévues, comme les appels d'API. |
 | Réservé | La tarification réservée repose sur un engagement à long terme pour un service, qui permet d'obtenir une remise. Avec un plan réservé, vous obtenez une instance de service dédiée facile à configurer, à déployer et à distribuer dans l'environnement {{site.data.keyword.Bluemix_notm}} public. | Services | DB2 on Cloud propose des plans réservés.|
+{:caption="Tableau 1. Prix sur la base des fonctions" caption-side="top"}
+
+## Plans Lite
+{: #liteplans}
+
+Les plans Lite, disponibles dans les comptes de type Paiement à la carte, sont structurés sous forme de quota gratuit. Vous pouvez utiliser vos projets gratuitement, sans risque de générer une facture par accident. Le quota peut fonctionner pour une période spécifique, par exemple, un mois, ou sur la base d'une utilisation unique. La liste suivante répertorie quelques exemples de quotas de plan Lite :
+
+   * Nombre maximal de périphériques enregistrés
+   * Nombre maximal de liaisons d'application
+   * Limite de stockage de données chiffrées, par exemple, 1 Go
+   * Débit mis à disposition
+
+Vous pouvez facilement trouver ces plans Lite dans le catalogue. Par défaut, tous les services dotés d'un plan Lite sont affichés et identifiés par une balise Lite ![Balise Lite](../icons/Lite.svg). Sélectionnez un service pour afficher les détails du quota du plan Lite associé.
 
 ## Prix des ressources de traitement
 {: #compute}
@@ -64,9 +76,8 @@ De nombreux services incluent des franchises mensuelles. L'utilisation des servi
     <dd>Vous payez en fonction de la consommation que vous faites des contextes d'exécution et des services. Par exemple, avec le service Push, toute utilisation dépassant
 la franchise mensuelle est facturée.</dd>
 <dt>Tarification réservée</dt>
-    <dd><p>En tant que propriétaire d'un compte de type Paiement à la carte ou Abonnement, vous pouvez réserver une instance de service avec un engagement à
-long terme en échange d'une remise. Par exemple, vous pouvez réserver l'offre DB2 on Cloud de grande taille standard pour 12 mois.</p>
-    <p>Certains services {{site.data.keyword.Bluemix_notm}} offrent des plans réservés. Vous pouvez demander un plan réservé à partir du <strong>Catalogue</strong> {{site.data.keyword.Bluemix_notm}} en cliquant sur le titre du service. Ensuite, sélectionnez le plan de service le mieux adapté à vos besoins. Si un plan réservé est disponible, cliquez sur <strong>Demande</strong> et suivez les invites pour envoyer votre demande. Vous
+    <dd><p>En tant que propriétaire d'un compte de type Paiement à la carte ou Abonnement, vous pouvez réserver une instance de service avec un engagement à long terme en échange d'une remise. Par exemple, vous pouvez réserver l'offre DB2 on Cloud de grande taille standard pour 12 mois.</p>
+    <p>Certains services {{site.data.keyword.Bluemix_notm}} offrent des plans réservés. Vous pouvez demander un plan réservé à partir du catalogue {{site.data.keyword.Bluemix_notm}} en cliquant sur la vignette du service. Ensuite, sélectionnez le plan de service le mieux adapté à vos besoins. Si un plan réservé est disponible, cliquez sur <strong>Demande</strong> et suivez les invites pour envoyer votre demande. Vous
 recevrez un courrier électronique contenant les informations sur le prix du plan réservé. Un ingénieur commercial {{site.data.keyword.Bluemix_notm}} prendra également contact avec vous rapidement pour finaliser l'achat.</p></dd>
 <dt>Tarification différenciée</dt>
     <dd>A l'instar de la tarification au compteur, le prix que vous payez dépend de la consommation que vous faites des contextes d'exécution et des
@@ -85,7 +96,7 @@ Dans le modèle à tranches simples, le prix unitaire est déterminé par la tra
 | Tranche 3 : 2001 à 3000                  |   0,75 $                       |
 | Tranche 4 : 3001 à 4000           |      0,60 $                    |
 |Tranche 5 : &gt; 4000 | 0,40 $ |
-{:caption="Tableau 1. Tarification à tranches simples" caption-side="top"}
+{:caption="Tableau 2. Tarification à tranches simples" caption-side="top"}
 
 Le tableau suivant indique le montant que vous payez avec un plan qui s'appuie sur un modèle de tarification à tranches simples :
 
@@ -96,7 +107,7 @@ Le tableau suivant indique le montant que vous payez avec un plan qui s'appuie s
 |2500 |	2500 × 0,75 = 1875 |	1875 $|
 |... |	... |	...|
 |5200 |	5200 × 0,40 = 2080 |2080 $|
-{:caption="Tableau 2. Calcul des frais à l'aide du modèle de tarification à tranches simples" caption-side="top"}
+{:caption="Tableau 3. Calcul des frais à l'aide du modèle de tarification à tranches simples" caption-side="top"}
 
 ### Tranche graduée
 {: #graduated_tier}
@@ -111,7 +122,7 @@ correspond aux frais cumulés pour chaque niveau d'utilisation, c'est-à-dire la
 |    Tranche 3 : 2001 à 3000 |	0,75 $ |
 |    Tranche 4 : 3001 à 4000 |	0,60 $ |
 |    Tranche 5 : &gt; 4000 |	0,40 $ |
-{:caption="Tableau 3. Tarification à tranches graduées" caption-side="top"}
+{:caption="Tableau 4. Tarification à tranches graduées" caption-side="top"}
 
 Le tableau suivant indique le montant que vous payez avec un plan qui s'appuie sur un modèle de tarification à tranches graduées :
 
@@ -122,7 +133,7 @@ Le tableau suivant indique le montant que vous payez avec un plan qui s'appuie s
 |2500 |	(1000 × 1 (prix unitaire pour la tranche 1)) + (1000 × 0.90 (prix unitaire pour la tranche 2)) + (500 × 0.75 (prix unitaire pour la tranche 3)) = 2275 |	2275 $ |
 |... |	... |	...|
 |5200 |	(1000 × 1 (prix unitaire pour la tranche 1)) + (1000 × 0.90 (prix unitaire pour la tranche 2)) + (1000 × 0.75 (prix unitaire pour la tranche 3)) + (1000 × 0.60 (prix unitaire pour la tranche 4)) + (1200 × 0.40 (prix unitaire pour la tranche 5)) = 3730 |	3730 $|
-{:caption="Tableau 4. Calcul des frais à l'aide du modèle de tarification à tranches graduées" caption-side="top"}
+{:caption="Tableau 5. Calcul des frais à l'aide du modèle de tarification à tranches graduées" caption-side="top"}
 
 ### Tranche fixe
 {: #block_tier}
@@ -137,7 +148,7 @@ correspond aux frais pour votre niveau d'utilisation, quelle que soit votre util
 | Tranche 3 : &lt;= 3000 |	2800 $|
 | Tranche 4 : &lt;= 4000 |	3500 $|
 | Tranche 5 : &lt;= 10000 |	5000 $|
-{:caption="Tableau 5. Tarification à tranches fixes" caption-side="top"}
+{:caption="Tableau 6. Tarification à tranches fixes" caption-side="top"}
 
 Le tableau suivant indique le montant que vous payez avec un plan qui s'appuie sur un modèle de tarification à tranches fixes :
 
@@ -147,4 +158,4 @@ Le tableau suivant indique le montant que vous payez avec un plan qui s'appuie s
 |1500 |	Le nombre d'éléments correspond à la tranche 2 ; par conséquent, le prix total est 1900 $. |	1900 $|
 |... |	... |	...|
 |5200 |	Le nombre d'éléments correspond à la tranche 5 ; par conséquent, le prix total est 5000 $. |	5000 $|
-{:caption="Tableau 6. Calcul des frais à l'aide du modèle de tarification à tranches fixes" caption-side="top"}
+{:caption="Tableau 7. Calcul des frais à l'aide du modèle de tarification à tranches fixes" caption-side="top"}

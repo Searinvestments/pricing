@@ -5,7 +5,7 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-10-10"
+lastupdated: "2017-11-09"
 
 ---
 
@@ -38,7 +38,7 @@ lastupdated: "2017-10-10"
 ## 수동으로 비용 계산
 {: #manual}
 
-{{site.data.keyword.Bluemix_notm}}의 비용 계산 방식을 더 잘 이해하도록 {{site.data.keyword.Bluemix_notm}} 비용을 직접 추정하고자 할 수 있습니다. 사용되는 런타임과 서비스의 가격을 고려하여 {{site.data.keyword.Bluemix_notm}}를 사용하여 앱을 빌드하고 호스팅하는 데 드는 총 비용을 계산할 수 있습니다. 런타임과 서비스의 가격은 종종 변경되므로, 총 가격을 계산할 경우 {{site.data.keyword.Bluemix_notm}} 가격 책정 시트에서 최신 정보를 참조해야 합니다. 
+{{site.data.keyword.Bluemix_notm}} 비용의 계산 방식을 보다 잘 이해할 수 있도록 {{site.data.keyword.Bluemix_notm}} 비용을 직접 추정하고자 할 수 있습니다. 사용되는 런타임과 서비스의 가격을 고려하여 {{site.data.keyword.Bluemix_notm}}를 사용하여 앱을 빌드하고 호스팅하는 데 드는 총 비용을 계산할 수 있습니다. 런타임과 서비스의 가격이 종종 변경되므로, 총 가격을 계산할 때는 {{site.data.keyword.Bluemix_notm}} {{site.data.keyword.pricing_sheet}}에서 최신 정보를 참조해야 합니다. 
 
 ## 지원되는 통화
 
@@ -61,7 +61,7 @@ lastupdated: "2017-10-10"
 |SEK|	  스웨덴 크로나|
 |USD|    미국 달러|
 |ZAR|	  남아프리카공화국 란드|
-{:caption="표 2. 지원되는 통화" caption-side="top"}
+{:caption="표 1. 지원되는 통화" caption-side="top"}
 
 {{site.data.keyword.Bluemix_notm}}와 SoftLayer 계정이 연결되어 있는 경우 수신하는 단일 송장은 미국 달러(USD)만 사용됩니다.
 {: tip}

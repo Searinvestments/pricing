@@ -4,8 +4,7 @@
 
 copyright:
 
-  years: 2017
-lastupdated: "2017-10-10"
+  anos: 2017 última atualização: "09-11-2017"
 
 ---
 
@@ -17,7 +16,7 @@ lastupdated: "2017-10-10"
 # Gerenciando o uso de contas vinculadas do {{site.data.keyword.Bluemix_notm}}
 {: #linked_usage}
 
-Se você tiver uma conta {{site.data.keyword.Bluemix}} e do SoftLayer vinculada, será possível usar o Portal do Cliente para fazer um pagamento único, mudar os detalhes de seu cartão de pagamento, visualizar seus itens de faturamento e visualizar suas faturas.
+Se você tiver uma conta do {{site.data.keyword.Bluemix}} e do SoftLayer vinculada, será possível usar o portal do cliente para fazer um pagamento único, mudar os detalhes de seu cartão de pagamento, visualizar seus itens de faturamento e visualizar suas faturas.
 
 **Nota:** as opções de faturamento e uso exibidas no console do {{site.data.keyword.Bluemix_notm}} poderão ser diferentes se você tiver uma conta grátis ou não tiver uma conta vinculada do {{site.data.keyword.Bluemix_notm}} e do SoftLayer.
 
@@ -68,11 +67,11 @@ menu de exibição. A associação e desassociação podem ocorrer para um item 
 É possível visualizar ou pagar suas faturas a qualquer momento. Cada fatura é resumida pelo Número da fatura, Data, Tipo de fatura e vários
 saldos monetários. Os tipos de fatura podem se enquadrar nas categorias a seguir:
 
- *  Nova -- a primeira fatura em uma série de faturas recorrentes.
- *  Recorrente -- uma fatura para encargos contínuos que estão ativos na conta há mais de um mês.
- *  Tarifa única -- uma tarifa única para despesas diversas, que podem incluir excedentes.
- *  Crédito -- um crédito do {{site.data.keyword.Bluemix_notm}} para o saldo da conta.
- *  Reembolso -- um reembolso ou uma reversão, para um encargo único ou contínuo.
+ *  Novo: a primeira fatura em uma série de faturas recorrentes.
+ *  Recorrente: uma fatura para encargos contínuos que estão ativos na conta há mais de um mês.
+ *  Tarifa única: uma tarifa única para várias despesas, que podem incluir excedentes.
+ *  Crédito: um crédito do {{site.data.keyword.Bluemix_notm}} para o saldo da conta.
+ *  Reembolso: um reembolso ou uma reversão para um encargo único ou contínuo.
 
 A página Faturas também exibe um resumo de faturamento da conta, que inclui o próximo saldo atual e estimado,
 o método de pagamento e a última e a próxima datas da fatura recorrente. É possível visualizar uma fatura no Portal de controle ou fazer download da fatura.
@@ -82,7 +81,7 @@ No console do {{site.data.keyword.Bluemix_notm}}, conclua as etapas a seguir par
 1. Selecione uma das opções a seguir, dependendo do painel que estiver sendo usado:  
  * No painel Apps ou Serviços, clique em **Gerenciar** > **Faturamento e uso** > **Faturas**.  
  * No painel Infraestrutura, clique em **Conta** > **Faturamento** > **Faturas**.
-2. É possível visualizar uma fatura no Portal do Cliente ou fazer download da fatura.
+2. É possível visualizar uma fatura no portal do cliente ou fazer download da fatura.
 
 ## Usando os serviços do {{site.data.keyword.Bluemix_notm}} com ativos do SoftLayer
 {: #bluemix_services}

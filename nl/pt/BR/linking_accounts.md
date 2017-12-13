@@ -4,7 +4,7 @@
 
 copyright:
 
-  Anos: 2015, 2017 lastupdated: "2017-05-31"
+  anos: 2015, 2017 última atualização: "09-11-2017"
 
 ---
 
@@ -18,7 +18,7 @@ copyright:
 
 É possível vincular suas contas do {{site.data.keyword.Bluemix_notm}} e do SoftLayer para usar os recursos combinados. Ao vincular suas contas do {{site.data.keyword.Bluemix_notm}} e do Softlayer, você receberá uma única fatura do {{site.data.keyword.Bluemix_notm}}. Se você tiver uma conta do {{site.data.keyword.Bluemix_notm}} existente, o faturamento por meio de recursos do {{site.data.keyword.Bluemix_notm}} for SoftLayer entra em vigor para o novo ciclo de faturamento que se inicia após as contas serem vinculadas.
 
-**Importante:** todas as contas vinculadas no {{site.data.keyword.Bluemix_notm}} devem ser contas de Pagamento por uso. É possível criar uma nova conta de Pagamento por uso, vincular uma conta de Pagamento por uso existente ou vincular uma conta para teste existente (que será em seguida submetida a upgrade para uma conta de Pagamento por uso). Não é possível vincular contas de assinatura do {{site.data.keyword.Bluemix_notm}}.
+**Importante:** todas as contas vinculadas no {{site.data.keyword.Bluemix_notm}} devem ser contas de Pagamento por uso. É possível criar uma nova conta de Pagamento por uso, vincular uma conta de Pagamento por uso existente ou vincular uma conta para teste existente (que é então submetida a upgrade para uma conta Pagamento por uso). Não é possível vincular contas de Assinatura do {{site.data.keyword.Bluemix_notm}}.
 
 Deve-se ser um usuário principal na conta do SoftLayer para vincular contas.
 
@@ -33,7 +33,7 @@ Quando suas contas estiverem vinculadas:
 
 Como usuário principal, conclua as etapas a seguir para vincular suas contas do {{site.data.keyword.Bluemix_notm}} e do SoftLayer:
 
- 1. A partir do {{site.data.keyword.slportal}}, clique em **Vincular uma Conta do {{site.data.keyword.Bluemix_notm}}**.
+ 1. No portal do cliente, clique em **Vincular uma conta do {{site.data.keyword.Bluemix_notm}}**.
  2. Leia e aceite os termos para vincular contas do SoftLayer e do {{site.data.keyword.Bluemix_notm}}.
  3. Quando solicitado, forneça o endereço de e-mail que está associado à sua conta do {{site.data.keyword.Bluemix_notm}}. Se você não tiver uma conta do
 {{site.data.keyword.Bluemix_notm}}, forneça o endereço de e-mail que deseja usar e, em seguida, siga as instruções para ser convidado para o {{site.data.keyword.Bluemix_notm}} e criar uma
@@ -52,9 +52,9 @@ O seu ciclo de uso do {{site.data.keyword.Bluemix_notm}} está em uma base por m
 a sua concordância com os encargos. Com o SoftLayer, o seu ciclo de uso
 começa a partir de quando você começou com o SoftLayer; portanto, você é faturado todo mês no mesmo dia do mês em que você se inscreveu para a sua conta do SoftLayer. 
 
-Quando as suas contas estão vinculadas, o seu uso do {{site.data.keyword.Bluemix_notm}} continuará a ser medido para o ciclo do mês atual e você será faturado por esse uso em uma conta do {{site.data.keyword.Bluemix_notm}}. Iniciando no primeiro dia do próximo mês, seus encargos do {{site.data.keyword.Bluemix_notm}} e do SoftLayer serão combinados em sua fatura do {{site.data.keyword.Bluemix_notm}}.
+Quando as suas contas estiverem vinculadas, seu uso do {{site.data.keyword.Bluemix_notm}} continuará a ser medido para o ciclo do mês atual e você será faturado por esse uso em uma fatura do {{site.data.keyword.Bluemix_notm}}. Iniciando no primeiro dia do próximo mês, seus encargos do {{site.data.keyword.Bluemix_notm}} e do SoftLayer serão combinados em sua fatura do {{site.data.keyword.Bluemix_notm}}.
 
-Por exemplo, se você tiver vinculado suas contas em 16 de abril de 2017, obterá uma fatura do Bluemix para seu uso de abril. Dependendo de quando você vinculou as suas contas, você poderá ter uma conta separada para o uso do SoftLayer. Seu uso durante Maio para o SoftLayer e o {{site.data.keyword.Bluemix_notm}} será faturado por meio de sua conta do {{site.data.keyword.Bluemix_notm}}.
+Por exemplo, se tiver vinculado as suas contas em 16 de abril de 2017, você obterá uma fatura do {{site.data.keyword.Bluemix_notm}} para seu uso de abril. Dependendo de quando você vinculou as suas contas, você poderá ter uma conta separada para o uso do SoftLayer. Seu uso durante Maio para o SoftLayer e o {{site.data.keyword.Bluemix_notm}} será faturado por meio de sua conta do {{site.data.keyword.Bluemix_notm}}.
 
 ![Vinculando o resumo de contas do Bluemix e do SoftLayer](BluemixSoftLayerBill.svg)
 

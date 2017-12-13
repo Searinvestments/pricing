@@ -5,7 +5,7 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-10-10"
+lastupdated: "2017-11-09"
 
 ---
 
@@ -37,7 +37,7 @@ Para utilizar la calculadora, escriba el uso mensual proyectado de los recursos 
 ## Cálculo manual de los costes
 {: #manual}
 
-Es posible que desee calcular los costes {{site.data.keyword.Bluemix_notm}} usted mismo para entender mejor cómo se calculan los costes en {{site.data.keyword.Bluemix_notm}}. Puede calcular el precio total derivado de utilizar {{site.data.keyword.Bluemix_notm}} para crear y alojar su app teniendo en cuenta los precios de tiempo de ejecución y los servicios que utiliza. Los precios de los tiempos de ejecución y de los servicios pueden cambiar a veces; por consiguiente, debe hacer referencia a la información más reciente en el precio de hoja de precios de {{site.data.keyword.Bluemix_notm}} a la hora de calcular el precio de la hoja total.
+Es posible que desee calcular los costes {{site.data.keyword.Bluemix_notm}} usted mismo para entender mejor cómo se calculan los costes en {{site.data.keyword.Bluemix_notm}}. Puede calcular el precio total derivado de utilizar {{site.data.keyword.Bluemix_notm}} para crear y alojar su app teniendo en cuenta los precios de tiempo de ejecución y los servicios que utiliza. Los precios de los tiempos de ejecución y de los servicios pueden cambiar a veces; por consiguiente, debe hacer referencia a la información más reciente en el precio de {{site.data.keyword.Bluemix_notm}} {{site.data.keyword.pricing_sheet}} a la hora de calcular el precio de la hoja total.
 
 ## Monedas soportadas
 
@@ -60,7 +60,7 @@ En la tabla siguiente se proporciona una lista con las distintas monedas soporta
 |SEK |	  Corona sueca|
 |USD |    Dólar estadounidense|
 |ZAR |	  Rand sudafricano|
-{:caption="Tabla 2. Credenciales soportadas" caption-side="top"}
+{:caption="Tabla 1. Monedas soportadas" caption-side="top"}
 
 Si ha enlazado las cuentas de {{site.data.keyword.Bluemix_notm}} y SoftLayer, la única factura que recibirá estará en dólares de Estados Unidos (USD).
 {: tip}

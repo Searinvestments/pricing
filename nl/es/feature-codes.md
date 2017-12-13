@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-10-17"
+lastupdated: "2017-11-17"
 
 ---
 
@@ -13,22 +13,24 @@ lastupdated: "2017-10-17"
 {:new_window: target="_blank"}
 {:tip: .tip}
 
-# Aplicación de códigos de característica
+# Aplicación de códigos de característica (promoción)
 {: #codes}
 
-En ocasiones, el representante de ventas de {{site.data.keyword.Bluemix}} u otros representantes ofrecen códigos de característica para ofrecer recursos o funciones adicionales para su cuenta estándar o de prueba.
+En ocasiones, el representante de ventas de {{site.data.keyword.Bluemix}} u otros representantes ofrecen códigos de característica, antes conocidos como códigos promocionales, para ofrecer recursos o funciones adicionales para su cuenta Lite o de prueba. Hemos cambiado el nombre de los códigos promocionales a códigos de características y puede seguir usándolos para desbloquear funciones adicionales de {{site.data.keyword.Bluemix_notm}}.
+{: shortdesc}
 
 Los recursos o funciones adicionales proporcionados por {{site.data.keyword.Bluemix_notm}} varían en función del código en particular, pero incluyen uno o varios de los siguientes elementos en general:
 
-  * Aumentar la cuota de memoria a un número determinado de GB especificado por el código promocional
-  * Añadir una organización, con una cuota de memoria especificada por el código promocional
+  * Aumentar la cuota de memoria a un número determinado de GB especificado por el código
+  * Añadir una organización, con una cuota de memoria especificada por el código
   * Añadir un número ilimitado de organizaciones
-  * Cargar un número adicional de certificados SSL, especificado por el código promocional
+  * Cargar un número adicional de certificados SSL, especificado por el código
   * Utilizar los planes de servicio premium
 
-Para solicitar uno o más códigos de característica:
-1. En la consola de {{site.data.keyword.Bluemix_notm}}, vaya a **Gestión > Facturación y uso > Facturación**.
-2. Especifique los detalles del código de característica y pulse **Aplicar código de característica**.
+Para solicitar un código:
 
-Cada código de característica se puede canjear una sola vez antes de la fecha de caducidad del código.
+1. En la consola de {{site.data.keyword.Bluemix_notm}}, vaya a **Gestión > Facturación y uso > Facturación**.
+2. Especifique los detalles del código de característica y pulse **Aplicar código**.
+
+Cada código se puede canjear una sola vez antes de la fecha de caducidad del código.
 {: tip}

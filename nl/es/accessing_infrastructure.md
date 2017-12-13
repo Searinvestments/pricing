@@ -5,7 +5,7 @@
 copyright:
 
   years: 2017
-lastupdated: "2017-05-25"
+lastupdated: "2017-11-09"
 
 ---
 
@@ -26,7 +26,7 @@ Para esquematizar las cuentas de {{site.data.keyword.Bluemix_notm}} disponibles 
 
 |Tipo de cuenta de {{site.data.keyword.Bluemix_notm}} |	¿Acceso al panel de control de Infraestructura? |	¿Qué opciones tengo? |
 |------------------|-----------------------|---------------|
-|Cuenta gratuita (Estándar o Prueba) |	Sin acceso |	Actualice su cuenta gratuita a una cuenta de Pago según uso. |
+|Cuenta gratuita (Lite o Prueba) |	Sin acceso |	Actualice su cuenta gratuita a una cuenta de Pago según uso. |
 |Cuenta de Pago según uso | Sí, si su cuenta se creó después del 24 de octubre de 2016 | No es necesario nada más. | 
 | | Sin acceso, si su cuenta se creó antes del 24 de octubre de 2016 | Añada de nuevo sus detalles de la tarjeta de crédito para acceder al panel de control de Infraestructura. |
 |Cuenta de Suscripción |	Sin acceso |	Cree una cuenta de Pago según uso aparte con una dirección de correo electrónico diferente a la dirección de correo electrónico que está asociada a su cuenta de Suscripción. Cada cuenta de {{site.data.keyword.Bluemix_notm}} debe tener una dirección de correo electrónica exclusiva asociada a la misma. Se le facturará de forma separada para sus cuentas de Pago según uso y de Suscripción. |

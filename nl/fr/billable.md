@@ -25,8 +25,7 @@ Lors de la mise à niveau de votre compte, vous avez le choix entre les comptes 
 
 Si vous rencontrez des problèmes liés à {{site.data.keyword.Bluemix_notm}} lorsque vous utilisez un compte Paiement à la carte ou Abonnement, voir [Support client](/docs/support/index.html#getting-customer-support).
 
-Si vous liez votre compte {{site.data.keyword.Bluemix_notm}} facturable à un compte SoftLayer, à compter du premier jour du mois suivant, vos redevances {{site.data.keyword.Bluemix_notm}} et SoftLayer sont incluses sur votre facture {{site.data.keyword.Bluemix_notm}}.
-Pour plus d'informations, voir [Affichage des crédits](/docs/pricing/viewing_usage.html#credits).
+Si vous liez votre compte {{site.data.keyword.Bluemix_notm}} facturable à un compte SoftLayer, à compter du premier jour du mois suivant, vos redevances {{site.data.keyword.Bluemix_notm}} et SoftLayer sont incluses sur votre facture {{site.data.keyword.Bluemix_notm}}. Pour plus d'informations, voir [Affichage des crédits](/docs/pricing/viewing_usage.html#credits).
 {: tip}
 
 ## Compte Paiement à la carte

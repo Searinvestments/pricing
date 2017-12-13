@@ -5,7 +5,7 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-10-10"
+lastupdated: "2017-11-09"
 
 ---
 
@@ -37,7 +37,7 @@ lastupdated: "2017-10-10"
 ## 手动计算成本
 {: #manual}
 
-您可能想要自己估算 {{site.data.keyword.Bluemix_notm}} 成本，以更好地了解 {{site.data.keyword.Bluemix_notm}} 成本的计算方式。您可以考虑运行时和它使用的服务的价格，计算使用 {{site.data.keyword.Bluemix_notm}} 构建和托管应用程序的总价格。由于运行时和服务的价格有时会更改，因此在计算总价格时必须参考 {{site.data.keyword.Bluemix_notm}} 价格表上的最新信息。
+您可能想要自己估算 {{site.data.keyword.Bluemix_notm}} 成本，以更好地了解 {{site.data.keyword.Bluemix_notm}} 成本的计算方式。您可以考虑运行时和它使用的服务的价格，计算使用 {{site.data.keyword.Bluemix_notm}} 构建和托管应用程序的总价格。由于运行时和服务的价格有时会更改，因此在计算总价格时必须参考 {{site.data.keyword.Bluemix_notm}} {{site.data.keyword.pricing_sheet}} 上的最新信息。
 
 ## 支持的货币
 
@@ -60,7 +60,7 @@ lastupdated: "2017-10-10"
 |SEK|	  瑞典克朗|
 |USD|    美元|
 |ZAR|	  南非兰特|
-{:caption="表 2. 支持的货币" caption-side="top"}
+{:caption="表 1. 支持的货币" caption-side="top"}
 
 如果已链接您的 {{site.data.keyword.Bluemix_notm}} 和 SoftLayer 帐户，那么您收到的单个发票只使用美元 (USD)。
 {: tip}

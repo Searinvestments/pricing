@@ -5,7 +5,7 @@
 copyright:
 
   years: 2017
-lastupdated: "2017-05-25"
+lastupdated: "2017-11-09"
 
 ---
 
@@ -26,7 +26,7 @@ Pour identifier les comptes {{site.data.keyword.Bluemix_notm}} disponibles dans 
 
 |Type de compte {{site.data.keyword.Bluemix_notm}} |	Accès au tableau de bord Infrastructure ? |	Options ? |
 |------------------|-----------------------|---------------|
-|Compte gratuit (Standard ou compte d'essai) |	Aucun accès |	Mettez à niveau votre compte gratuit vers un compte de type Paiement à la carte. |
+|Compte gratuit (Lite ou compte d'essai) |	Aucun accès |	Mettez à niveau votre compte gratuit vers un compte de type Paiement à la carte. |
 |Compte Paiement à la carte | Oui, si votre compte a été créé après 24 octobre 2016 | Rien d'autre n'est requis. | 
 | | Aucun accès si votre compte a été créé avant le 24 octobre 2016 | Ajoutez à nouveau vos informations de carte de crédit pour accéder au tableau de bord Infrastructure. |
 |Compte d'abonnement |	Aucun accès |	Créez un compte de type Paiement à la carte avec une adresse électronique différente de celle associée à votre compte d'abonnement. Chaque compte {{site.data.keyword.Bluemix_notm}} doit avoir une adresse électronique unique qui lui est associée. Vous êtes facturé séparément pour votre compte de type Paiement à la carte et pour vos comptes d'abonnement. |

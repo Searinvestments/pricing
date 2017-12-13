@@ -4,8 +4,7 @@
 
 copyright:
 
-  years: 2017
-lastupdated: "2017-10-20"
+  anos: 2017 última atualização: "09-11-2017"
 
 ---
 
@@ -17,7 +16,7 @@ lastupdated: "2017-10-20"
 # Visualizando seu uso
 {: #viewingusage}
 
-Como um proprietário da conta ou um gerente de faturamento de uma organização, é possível usar a página Painel de uso no console do {{site.data.keyword.Bluemix}} para ver um resumo dos encargos estimados para todos os recursos que são usados por mês em suas organizações. 
+Como um proprietário da conta ou um gerenciador de faturamento para uma organização, é possível usar a página Painel de uso no console do {{site.data.keyword.Bluemix}} para ver um resumo dos encargos estimados para todos os recursos que são usados por mês em suas organizações. 
 
 Para abrir a página Painel de uso, clique em **Gerenciar** > **Faturamento e uso** > **Uso**. É possível ver um resumo do uso de recursos para a conta. Os gerentes de faturamento podem ver os detalhes somente das organizações nas quais eles são gerentes de faturamento.
 

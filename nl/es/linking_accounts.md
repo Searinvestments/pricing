@@ -5,7 +5,7 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-05-31"
+lastupdated: "2017-11-09"
 
 ---
 
@@ -19,7 +19,7 @@ lastupdated: "2017-05-31"
 
 Puede enlazar las cuentas de {{site.data.keyword.Bluemix_notm}} y SoftLayer para hacer uso de los recursos combinados. Cuando enlace las cuentas de {{site.data.keyword.Bluemix_notm}} y Softlayer, recibirá una factura única de {{site.data.keyword.Bluemix_notm}}. Si ya tiene una cuenta de {{site.data.keyword.Bluemix_notm}}, la facturación a través de {{site.data.keyword.Bluemix_notm}} para los recursos de SoftLayer será efectiva para el nuevo ciclo de facturación que empieza una vez se hayan enlazado las cuentas.
 
-**Importante:** todas las cuentas vinculadas en {{site.data.keyword.Bluemix_notm}} deben ser cuentas Pago según uso. Puede crear una nueva cuenta de Pago según uso, enlazar a una cuenta de Pago según uso existente o enlazar con una cuenta de prueba existente (que deberá entonces actualizar a una cuenta de Pago según uso). No puede enlazar a cuentas de {{site.data.keyword.Bluemix_notm}} de suscripción.
+**Importante:** todas las cuentas vinculadas en {{site.data.keyword.Bluemix_notm}} deben ser cuentas Pago según uso. Puede crear una nueva cuenta de Pago según uso, enlazar a una cuenta de Pago según uso existente o enlazar con una cuenta de prueba existente (que se actualizará a una cuenta de Pago según uso). No puede enlazar cuentas de suscripción de {{site.data.keyword.Bluemix_notm}}.
 
 Para enlazar cuentas debe ser un usuario maestro en la cuenta de Softlayer.
 
@@ -34,7 +34,7 @@ Cuando se enlacen sus cuentas:
 
 Como usuario maestro, complete los siguientes pasos para enlazar sus cuentas de {{site.data.keyword.Bluemix_notm}} y SoftLayer:
 
- 1. Desde {{site.data.keyword.slportal}}, haga clic en **Enlaza a una cuenta {{site.data.keyword.Bluemix_notm}}**.
+ 1. Desde el portal de cliente, haga clic en **Enlaza a una cuenta {{site.data.keyword.Bluemix_notm}}**.
  2. Lea y acepte las condiciones para enlazar cuentas de SoftLayer y {{site.data.keyword.Bluemix_notm}}.
  3. Cuando se le solicite, proporcione la dirección de correo electrónico asociada con su cuenta de {{site.data.keyword.Bluemix_notm}}. Si no tiene ninguna cuenta de {{site.data.keyword.Bluemix_notm}}, especifique la dirección de correo electrónico que desea utilizar y siga las instrucciones para ser invitado a {{site.data.keyword.Bluemix_notm}} y crear una cuenta.
 
@@ -50,7 +50,7 @@ El ciclo de uso de {{site.data.keyword.Bluemix_notm}} se basa en meses naturales
 
 Cuando las cuentas estén enlazadas, el uso de {{site.data.keyword.Bluemix_notm}} seguirá midiéndose para el ciclo mensual y dicho uso se facturará en una factura de {{site.data.keyword.Bluemix_notm}}. A partir del día 1 del siguiente mes, los cargos de {{site.data.keyword.Bluemix_notm}} y SoftLayer se combinarán en la factura de {{site.data.keyword.Bluemix_notm}}.
 
-Por ejemplo, si enlazó las cuentas el 16 de abril del 2017, recibirá una factura de Bluemix para su uso de abril. Según cuándo haya enlazado las cuentas, podrá obtener una factura independiente para el uso de SoftLayer. Su uso durante mayo tanto para SoftLayer como para {{site.data.keyword.Bluemix_notm}} se facturará mediante su cuenta de {{site.data.keyword.Bluemix_notm}}.
+Por ejemplo, si enlazó las cuentas el 16 de abril del 2017, recibirá una factura de {{site.data.keyword.Bluemix_notm}} para su uso de abril. Según cuándo haya enlazado las cuentas, podrá obtener una factura independiente para el uso de SoftLayer. Su uso durante mayo tanto para SoftLayer como para {{site.data.keyword.Bluemix_notm}} se facturará mediante su cuenta de {{site.data.keyword.Bluemix_notm}}.
 
 ![Resumen del enlace de cuentas de Bluemix y SoftLayer](BluemixSoftLayerBill.svg)
 

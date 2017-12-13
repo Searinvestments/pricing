@@ -5,7 +5,7 @@
 copyright:
 
   years: 2017
-lastupdated: "2017-10-20"
+lastupdated: "2017-11-09"
 
 ---
 
@@ -17,13 +17,13 @@ lastupdated: "2017-10-20"
 # Affichage de votre utilisation
 {: #viewingusage}
 
-En tant que propriétaire de compte ou responsable de la facturation pour une organisation, vous pouvez vous servir de la page Tableau de bord de l'utilisation dans la console {{site.data.keyword.Bluemix}} afin d'afficher un récapitulatif des frais estimés pour toutes les ressources que vous utilisez par mois dans vos organisations.  
+En tant que propriétaire de compte ou responsable de la facturation pour une organisation, vous pouvez vous servir de la page Tableau de bord de l'utilisation dans la console {{site.data.keyword.Bluemix}} afin d'afficher un récapitulatif des frais estimés pour toutes les ressources que vous utilisez par mois dans vos organisations. 
 
 Pour ouvrir la page Tableau de bord de l'utilisation, cliquez sur **Gérer** > **Facturation et utilisation** > **Utilisation**. Un récapitulatif de l'utilisation des ressources est affiché pour le compte. Les responsables de la facturation ne peuvent afficher les détails que pour les organisations pour lesquelles ils sont responsables de la
 facturation.
 
    * Cliquez sur **Afficher les instances** pour afficher un récapitulatif des frais estimés pour toutes les instances d'une ressource donnée. 
-   * Cliquez sur **Afficher l'instance** pour afficher un récapitulatif détaillé des frais estimés pour chaque instance du type de ressource spécifique. Vous pouvez également afficher des statistiques d'utilisation mensuelles détaillées pour l'instance sélectionnée.  
+   * Cliquez sur **Afficher l'instance** pour afficher un récapitulatif détaillé des frais estimés pour chaque instance du type de ressource spécifique. Vous pouvez également afficher des statistiques d'utilisation mensuelles détaillées pour l'instance sélectionnée. 
 
 Le propriétaire de compte est facturé pour l'utilisation totale occasionnée dans toutes les organisations à la fin de chaque cycle de
 facturation. Chaque

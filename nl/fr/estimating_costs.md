@@ -5,7 +5,7 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-10-10"
+lastupdated: "2017-11-09"
 
 ---
 
@@ -46,8 +46,7 @@ paramétrer la calculatrice pour qu'elle affiche les coûts annuels au lieu des 
 
 Vous pouvez décider d'estimer le coût de {{site.data.keyword.Bluemix_notm}} vous-même pour mieux comprendre comment les coûts relatifs à {{site.data.keyword.Bluemix_notm}} sont calculés. Vous pouvez calculer le prix total de l'utilisation de {{site.data.keyword.Bluemix_notm}} pour la construction
 et l'hébergement de votre application, en tenant compte des prix du contexte d'exécution et des services qu'il utilise. Les prix des contextes d'exécution et des
-services peuvent changer ; par conséquent, vous devez vous référer aux informations les plus récentes dans la feuille des prix
-{{site.data.keyword.Bluemix_notm}} lorsque vous calculez le prix total.
+services peuvent changer ; par conséquent, vous devez vous référer aux informations les plus récentes dans la {{site.data.keyword.pricing_sheet}} {{site.data.keyword.Bluemix_notm}} lorsque vous calculez le prix total.
 
 ## Devises prises en charge
 
@@ -71,7 +70,7 @@ tableau ci-dessous répertorie les devises prises en charge.
 |SEK |	  Couronne suédoise|
 |USD |    Dollar américain|
 |ZAR |	  Rand sud-africain|
-{:caption="Tableau 2. Devises prises en charge" caption-side="top"}
+{:caption="Tableau 1. Devises prises en charge" caption-side="top"}
 
 Si vous avez lié vos comptes {{site.data.keyword.Bluemix_notm}} et SoftLayer, la facture unique que vous recevez est en dollars américains (USD) seulement.
 {: tip}

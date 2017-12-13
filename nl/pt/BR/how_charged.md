@@ -4,24 +4,24 @@
 
 copyright:
 
-  years: 2015, 2017
-lastupdated: "2017-10-10"
+  anos: 2015, 2017 última atualização: "31-10-2017"
 
 ---
 
 {:shortdesc: .shortdesc}
 {:codeblock: .codeblock}
 {:screen: .screen}
+{:tip: .tip}
 {:new_window: target="_blank"}
 
 # Como você é cobrado
 {: #charges}
 
-Os encargos variam dependendo dos recursos usados por um determinado serviço, tempo de execução, contêiner ou opção de suporte. O recurso pode ser o número de chamadas API, o número de instâncias, a memória, o armazenamento e assim por diante. {{site.data.keyword.Bluemix}} também fornece estimadores de custo detalhados e uma calculadora de custo que não deixa escapar nenhum centavo para ajudar você a planejar os encargos. Será possível verificar o custo real após a construção de seus apps na página Painel de uso.
+Os encargos variam dependendo dos recursos usados por um determinado serviço, tempo de execução, contêiner ou opção de suporte. O recurso pode ser o número de chamadas API, o número de instâncias, a memória, o armazenamento e assim por diante. {{site.data.keyword.Bluemix}} também fornece estimadores de custo detalhados e uma calculadora de custo que não deixa escapar nenhum centavo para ajudar você a planejar os encargos. Depois de construir seus apps, é possível verificar o custo real na página Painel de uso.
 
-Com uma conta faturável do {{site.data.keyword.Bluemix_notm}}, você é cobrado pelo cálculo, os contêineres e os serviços que são usados em sua organização. Você poderá ser convidado por outros usuários do {{site.data.keyword.Bluemix_notm}} a participar em organizações em uma conta diferente. Se você criar apps ou usar serviços nas organizações para as quais é convidado, o uso incorrido será debitado da conta que contém essas organizações. É possível ver mais informações sobre encargos específicos em uma página de detalhes do recurso por meio do catálogo {{site.data.keyword.Bluemix_notm}} ou na calculadora de preços da página Precificação do {{site.data.keyword.Bluemix_notm}}.
+Com uma conta faturável do {{site.data.keyword.Bluemix_notm}}, você é cobrado pelo cálculo, contêineres e serviços que são usados em sua organização. Você poderá ser convidado por outros usuários do {{site.data.keyword.Bluemix_notm}} a participar em organizações em uma conta diferente. Se você criar apps ou usar serviços nas organizações para as quais é convidado, o uso incorrido será debitado da conta que contém essas organizações. É possível ver mais informações sobre um encargo específico em uma página de detalhes do recurso do catálogo ou na calculadora de preços da página Precificação.
 
-Tipos diferentes de encargos se aplicam, dependendo dos recursos que você estiver usando. A tabela a seguir fornece uma visão geral resumida:
+Tipos diferentes de encargos se aplicam, dependendo dos recursos do {{site.data.keyword.Bluemix_notm}} que você está usando. A tabela a seguir fornece uma visão geral de alto nível.
 
 | Tipo de encargo | Descrição | Recursos do {{site.data.keyword.Bluemix_notm}} que usam esse tipo de encargo | Exemplo |
 |------------------|------------------|--------------------------|--------------------------|
@@ -29,6 +29,20 @@ Tipos diferentes de encargos se aplicam, dependendo dos recursos que você estiv
 | Medido | A precificação com uso medido é baseada no número de GB/horas consumidas para tempos de execução e no número de GB/horas consumidas e no número de endereços IP e armazenamento para contêineres. | Serviços, cálculo e contêineres | Para o serviço de Push, todo uso acima do abono mensal grátis é cobrado. |
 |  Disposto em camadas   |  Alguns planos de precificação são baseados em um modelo de precificação em camadas, de modo que seja possível obter um desconto baseado em volume de acordo com o seu uso real. O serviços podem oferecer planos de precificação simples, graduados ou de camada de bloco. | Serviços | A precificação em camadas é geralmente usada para métricas de encargo que terão quantidades muito altas por mês, como chamadas API. |
 | Reserved | A precificação reservada é baseada em um compromisso a longo prazo para um serviço, portanto, é possível obter um preço com desconto. Com um plano reservado, você obtém uma instância de serviço dedicado que é fácil configurar, implementar e entregar no ambiente público do {{site.data.keyword.Bluemix_notm}}. | Serviços | O DB2 on Cloud tem planos reservados.|
+{:caption="Tabela 1. Encargos com base em recursos" caption-side="top"}
+
+## Planos Lite
+{: #liteplans}
+
+Os planos Lite, que estão disponíveis em contas Lite e Pagamento por uso, são estruturados como uma cota grátis. É possível trabalhar em seus projetos sem preocupações, sem o risco de gerar uma conta acidental. A cota pode operar por um período específico, por exemplo um mês ou em uma base de uso único. A lista a seguir fornece alguns exemplos de cotas do plano Lite:
+
+   * Número máximo de dispositivos registrados
+   * Número máximo de ligações de aplicativos
+   * Limite de armazenamento de dados criptografados, por exemplo 1 GB
+   * Capacidade de rendimento provisionada
+
+É possível localizar facilmente planos Lite no catálogo. Por padrão, todos os serviços com um plano Lite são exibidos com uma tag Lite ![Lite tag](../icons/Lite.svg). Selecione um serviço para
+visualizar os detalhes da cota para o plano Lite associado.
 
 ## Encargos para recursos de cálculo
 {: #compute}
@@ -52,8 +66,8 @@ Vários serviços incluem abonos grátis mensais. O uso de serviços que não es
 <dt>Encargos medidos</dt>
     <dd>Você paga com base no consumo de tempo de execução e de serviço. Por exemplo, com o serviço de Push, qualquer uso acima do abono grátis mensal é cobrado.</dd>
 <dt>Encargos reservados</dt>
-    <dd><p>Como o proprietário da conta de uma conta Pay-as-you-go ou de uma conta de Assinatura, é possível reservar uma instância de serviço, com um compromisso a longo prazo, para um preço com desconto. Por exemplo, é possível reservar a grande oferta padrão do DB2 on Cloud para 12 meses.</p>
-    <p>Alguns serviços do {{site.data.keyword.Bluemix_notm}} oferecem planos reservados. É possível solicitar um plano reservado a partir do <strong>Catálogo</strong> do {{site.data.keyword.Bluemix_notm}}, clicando no ladrilho do serviço. Em seguida, selecione o plano de serviço que atenda melhor às suas necessidades. Se um plano reservado estiver disponível, clique em <strong>Solicitar</strong> e siga os prompts para enviar sua solicitação. Você receberá um e-mail que contém as informações de preços do plano reservado. Um representante de vendas do {{site.data.keyword.Bluemix_notm}} entrará em contato com você em breve para concluir a compra.</p></dd>
+    <dd><p>Como o proprietário da conta de uma conta Pagamento por uso ou uma conta de Assinatura, é possível reservar uma instância de serviço, com um compromisso a longo prazo, para um preço com desconto. Por exemplo, é possível reservar a grande oferta padrão do DB2 on Cloud para 12 meses.</p>
+    <p>Alguns serviços do {{site.data.keyword.Bluemix_notm}} oferecem planos reservados. É possível solicitar um plano reservado no catálogo do {{site.data.keyword.Bluemix_notm}} clicando no tile do serviço. Em seguida, selecione o plano de serviço que atenda melhor às suas necessidades. Se um plano reservado estiver disponível, clique em <strong>Solicitar</strong> e siga os prompts para enviar sua solicitação. Você receberá um e-mail que contém as informações de preços do plano reservado. Um representante de vendas do {{site.data.keyword.Bluemix_notm}} também entrará em contato com você em breve para concluir a compra.</p></dd>
 <dt>Encargos em camadas</dt>
     <dd>Semelhante a encargos medidos, você paga com base em seu consumo de tempo de execução e de serviço. No entanto, os encargos em camadas incluem camadas de precificação adicionais, geralmente oferecendo encargos com desconto em camadas com maior consumo. A precificação em camadas é oferecida em simples, graduada ou bloco.</dd>
 </dl>
@@ -71,7 +85,7 @@ exemplo:
 | Camada 3: 2.001 - 3.000                  |   US$ 0,75                       |
 | Camada 4: 3.001 - 4.000           |      US$ 0,60                    |
 |Camada 5: &gt; 4.000 | US$ 0,40 |
-{:caption="Tabela 1. Tabela de precificação de camada simples" caption-side="top"}
+{:caption="Tabela 2. Tabela de precificação de camada simples" caption-side="top"}
 
 A tabela a seguir ilustra o quanto do valor que você paga pelo seu plano se baseia em um modelo de precificação de camada simples:
 
@@ -82,7 +96,7 @@ A tabela a seguir ilustra o quanto do valor que você paga pelo seu plano se bas
 |2.500 |	2.500 × 0,75 = 1.875 |	US$ 1.875|
 |... |	... |	...|
 |5.200 |	5.200 × 0,40 = 2.080 |US$ 2.080|
-{:caption="Tabela 2. Cálculo de encargo usando o modelo de precificação de camada simples" caption-side="top"}
+{:caption="Tabela 3. Cálculo de encargo usando o modelo de precificação de camada simples" caption-side="top"}
 
 ### Camada graduada
 {: #graduated_tier}
@@ -97,7 +111,7 @@ exemplo:
 |    Camada 3: 2.001 - 3.000 |	US$ 0,75 |
 |    Camada 4: 3.001 - 4.000 |	US$ 0,60 |
 |    Camada 5: &gt; 4.000 |	US$ 0,40 |
-{:caption="Tabela 3. Tabela de precificação de camada graduada" caption-side="top"}
+{:caption="Tabela 4. Tabela de precificação de camada graduada" caption-side="top"}
 
 A tabela a seguir ilustra o quanto do valor que você paga pelo seu plano se baseia em um modelo de precificação de camada graduada:
 
@@ -108,7 +122,7 @@ A tabela a seguir ilustra o quanto do valor que você paga pelo seu plano se bas
 |2.500 |	(1000 × 1 (preço unitário da Camada 1) + (1000 × 0,90 (preço unitário da Camada 2) + (500 × 0,75 (preço unitário da Camada 3)) = 2275 |	US$ 2.275 |
 |... |	... |	...|
 |5.200 |	(1000 × 1 (preço unitário da Camada 1) + (1000 × 0,90 (preço unitário da Camada 2) + (1000 × 0,75 (preço unitário da Camada 3) + (1000 × 0,60 (preço unitário da Camada 4) + (1200 × 0,40 (preço unitário da Camada 5)) = 3730 |	US$ 3.730|
-{:caption="Tabela 4. Cálculo de encargo usando o modelo de precificação de camada graduada" caption-side="top"}
+{:caption="Tabela 5. Cálculo de encargo usando o modelo de precificação de camada graduada" caption-side="top"}
 
 ### Camada em bloco
 {: #block_tier}
@@ -123,7 +137,7 @@ exemplo:
 | Camada 3: &lt;= 3.000 |	US$ 2.800|
 | Camada 4: &lt;= 4.000 |	US$ 3.500|
 | Camada 5: &lt;= 10.000 |	US$ 5.000|
-{:caption="Tabela 5. Tabela de precificação de camada de bloco" caption-side="top"}
+{:caption="Tabela 6. Tabela de precificação de camada de bloco" caption-side="top"}
 
 A tabela a seguir ilustra o quanto do valor que você paga pelo seu plano se baseia em um modelo de precificação de camada em bloco:
 
@@ -133,4 +147,4 @@ A tabela a seguir ilustra o quanto do valor que você paga pelo seu plano se bas
 |1.500 |	O número de itens se enquadra na Camada 2, assim o preço total é US$ 1.900. |	U$ 1.900|
 |... |	... |	...|
 |5.200 |	O número de itens se enquadra na Camada 5, assim o preço total é US$ 5.000. |	US$ 5.000|
-{:caption="Tabela 6. Cálculo de encargo usando o modelo de precificação de camada de bloco" caption-side="top"}
+{:caption="Tabela 7. Cálculo de encargo usando o modelo de precificação de camada de bloco" caption-side="top"}

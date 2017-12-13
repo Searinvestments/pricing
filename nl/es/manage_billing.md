@@ -5,7 +5,7 @@
 copyright:
 
   years: 2017
-lastupdated: "2017-10-10"
+lastupdated: "2017-11-09"
 
 ---
 
@@ -17,7 +17,7 @@ lastupdated: "2017-10-10"
 # Gestión de la utilización de cuentas enlazadas de {{site.data.keyword.Bluemix_notm}}
 {: #linked_usage}
 
-Si ha enlazado una cuenta de {{site.data.keyword.Bluemix}} y otra de SoftLayer, utilice el Portal del cliente para realizar pagos puntuales, cambiar los detalles de su tarjeta de pago, ver los artículos facturados y sus facturas.
+Si ha enlazado una cuenta de {{site.data.keyword.Bluemix}} y otra de SoftLayer, utilice el portal del cliente para realizar pagos puntuales, cambiar los detalles de su tarjeta de pago, ver los artículos facturados y sus facturas.
 
 **Nota:** Las opciones de facturación y utilización que se visualizan en la consola de {{site.data.keyword.Bluemix_notm}} pueden diferir según si tiene una cuenta gratuita o si no tiene las cuentas de {{site.data.keyword.Bluemix_notm}} y SoftLayer enlazadas.
 
@@ -63,11 +63,11 @@ Puede asociar los artículos a facturar a dispositivos específicos, y también 
 
 Puede ver o pagar sus facturas siempre que lo desee. Cada factura viene resumida con su Número de factura, Fecha, Tipo de factura así como con otros saldos monetarios. Los tipos de factura se agrupan en las siguientes categorías:
 
- *  Nueva -- la primera factura de una serie recurrente de facturas.
- *  Recurrente - una factura de cargos recurrente que han estado activos en la cuenta por más de un mes.
- *  Cargo puntual - un cargo puntual de distintos gastos, que pueden incluir los sobrecostes.
- *  Cargo -- un cargo de {{site.data.keyword.Bluemix_notm}} en el saldo de su cuenta.
- *  Devolución - una devolución o desembolso de un cargo puntual o recurrente.
+ *  Nueva : La primera factura de una serie recurrente de facturas.
+ *  Recurrente: Una factura de cargos recurrente que han estado activos en la cuenta por más de un mes.
+ *  Cargo puntual: Un cargo puntual de distintos gastos, que pueden incluir los sobrecostes.
+ *  Cargo : Un cargo de {{site.data.keyword.Bluemix_notm}} en el saldo de su cuenta.
+ *  Devolución: Una devolución o desembolso de un cargo puntual o recurrente.
 
 La página Facturas también visualizan un resumen de facturación de la cuente, que incluye el saldo actual y el próximo saldo estimado así como las fechas de la última factura y la próxima factura recurrente. Puede visualizar una factura en el portal de control o descargarla.
 
@@ -76,7 +76,7 @@ Complete los siguientes pasos en la consola de {{site.data.keyword.Bluemix_notm}
 1. Seleccione una de las opciones siguientes dependiendo del panel de control que esté utilizando:  
  * Desde el panel de control de Apps o Servicios, pulse **Gestionar** > **Facturación y utilización** > **Facturas**.  
  * Desde el panel de control de Infraestructura, pulse **Cuenta** > **Facturación** > **Facturas**.
-2. Puede visualizar una factura en el Portal del cliente o descargarla.
+2. Puede visualizar una factura en el portal del cliente o descargarla.
 
 ## Utilización de servicios de {{site.data.keyword.Bluemix_notm}} con activos de SoftLayer
 {: #bluemix_services}

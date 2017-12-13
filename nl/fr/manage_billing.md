@@ -5,7 +5,7 @@
 copyright:
 
   years: 2017
-lastupdated: "2017-10-10"
+lastupdated: "2017-11-09"
 
 ---
 
@@ -68,11 +68,11 @@ plusieurs articles à la fois avec l'opération Bulk Actions. Vous pouvez annule
 Vous pouvez afficher ou régler vos factures à tout moment. Le récapitulatif de chaque facture comporte le numéro de la facture, sa date, son type, ainsi que divers
 soldes. Les catégories de type de facture peuvent être les suivantes :
 
- *  New -- première facture d'une série de factures récurrentes.
- *  Recurring -- facture pour des frais récurrents survenant sur le compte plusieurs mois.
- *  One-Time Charge -- frais ponctuels pour diverses dépenses pouvant inclure des dépassements.
- *  Credit -- crédit accordé par {{site.data.keyword.Bluemix_notm}} pour le solde du compte.
- *  Refund -- remboursement, ou annulation, de frais ponctuels ou récurrents.
+ *  New : première facture d'une série de factures récurrentes.
+ *  Recurring : facture pour des frais récurrents survenant sur le compte plusieurs mois.
+ *  One-Time Charge : frais ponctuels pour diverses dépenses pouvant inclure des dépassements.
+ *  Credit : crédit accordé par {{site.data.keyword.Bluemix_notm}} pour le solde du compte.
+ *  Refund : remboursement, ou annulation, de frais ponctuels ou récurrents.
 
 La page Factures affiche également un récapitulatif de la facturation pour le compte, qui inclut le solde en cours et le prochain solde estimé, la méthode de paiement, ainsi que la dernière date et la prochaine date de facture récurrente. Vous pouvez afficher une facture dans le portail de contrôle ou la télécharger.
 

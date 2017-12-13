@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-10-17"
+lastupdated: "2017-11-17"
 
 ---
 
@@ -13,23 +13,25 @@ lastupdated: "2017-10-17"
 {:new_window: target="_blank"}
 {:tip: .tip}
 
-# Aplicando códigos de recurso
+# Aplicando códigos de recursos (promocionais)
 {: #codes}
 
-Às vezes, o {{site.data.keyword.Bluemix}} Sales ou outros representantes fornecem códigos de recurso para oferecer recursos ou capacidades extras para sua avaliação ou conta Padrão.
+Às vezes, o {{site.data.keyword.Bluemix}} Sales ou outros representantes fornecem códigos de recursos, anteriormente conhecidos como códigos promocionais, para oferecer recursos ou capacidades extras para sua conta para teste ou Lite. Embora nós tenhamos renomeado recentemente os códigos promocionais para códigos de recursos, ainda é possível usá-los para desbloquear capacidades adicionais do {{site.data.keyword.Bluemix_notm}}.
+{: shortdesc}
 
 Os recursos ou as capacidades extras fornecidos pelo {{site.data.keyword.Bluemix_notm}} variam, dependendo do código específico,
 mas incluem um ou mais dos itens a seguir em geral:
 
-  * Aumente a cota de memória a um número de GB especificado pelo código promocional
-  * Inclua uma organização, com uma cota de memória que seja especificada pelo código promocional
-  * Inclua um número ilimitado de organizações
-  * Faça upload de um número adicional de certificados SSL, conforme especificado pelo código promocional
-  * Use planos de serviços premium
+  * Aumentar a cota de memória para um número de GB especificado pelo código
+  * Incluir uma organização, com uma cota de memória que seja especificada pelo código
+  * Incluir um número ilimitado de organizações
+  * Fazer upload de um número adicional de certificados SSL, conforme especificado pelo código
+  * Usar planos de serviços premium
 
-Para aplicar um ou mais códigos de recurso:
+Para aplicar um código:
+
 1. No console do {{site.data.keyword.Bluemix_notm}}, acesse **Gerenciar > Faturamento e uso > Faturamento**.
-2. Insira os detalhes do código de recurso e clique em **Aplicar código de recurso**.
+2. Insira os detalhes do código de recurso e clique em **Aplicar código**.
 
-Cada código de recurso pode ser resgatado somente uma vez antes da data de expiração do código.
+Cada código pode ser resgatado somente uma vez antes da data de expiração do código.
 {: tip}
