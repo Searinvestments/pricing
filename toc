@@ -1,18 +1,19 @@
 {:navgroup: .navgroup}
 {:topicgroup: .topicgroup}
 
-{: .toc subcollection="bluemix-pricing" audience="platform" href="/docs/pricing/index.html"}
+{: .toc subcollection="pricing" audience="platform" href="/docs/pricing/index.html"}
 Managing billing and usage
 
     {: .navgroup id="howto"}
     {: .topicgroup}
-    Pricing
+    Billing
         index.md
         how_charged.md
         feature-codes.md
+        eusupported.md
         estimating_costs.md
         scenario.md
-            
+
     changing_plan.md
 
     {: .topicgroup}
