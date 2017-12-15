@@ -5,7 +5,7 @@
 copyright:
 
   years: 2017
-lastupdated: "2017-05-25"
+lastupdated: "2017-11-09"
 
 ---
 
@@ -26,7 +26,7 @@ Zur Gliederung der {{site.data.keyword.Bluemix_notm}}-Konten, die in der öffent
 
 |{{site.data.keyword.Bluemix_notm}}-Kontotyp |	Zugriff auf das Infrastruktur-Dashboard? |	Was sind meine Optionen? |
 |------------------|-----------------------|---------------|
-|Kostenloses Konto (Standard oder Testversion) |	Kein Zugriff |	Führen Sie ein Upgrade Ihres kostenlosen Kontos auf ein nutzungsabhängiges Konto durch. |
+|Kostenloses Konto (Lite oder Testversion) |	Kein Zugriff |	Führen Sie ein Upgrade Ihres kostenlosen Kontos auf ein nutzungsabhängiges Konto durch. |
 |Nutzungsabhängiges Konto | Ja, wenn Ihr Konto nach dem 24. Oktober 2016 erstellt wurde | Nichts anderes ist erforderlich. | 
 | | Kein Zugriff, wenn Ihr Konto vor dem 24. Oktober 2016 erstellt wurde | Fügen Sie Ihre Kreditkarteninformationen für den Zugriff auf das Infrastruktur-Dashboard erneut hinzu. |
 |Abonnementkonto |	Kein Zugriff |	Erstellen Sie ein separates nutzungsabhängiges Konto mit einer anderen E-Mail-Adresse als der E-Mail-Adresse, die Ihrem Abonnement zugeordnet ist. Jedem {{site.data.keyword.Bluemix_notm}}-Konto muss eine eindeutige E-Mail-Adresse zugeordnet sein. Das nutzungsabhängige und das Abonnement-Konto werden Ihnen einzeln in Rechnung gestellt. |

@@ -5,23 +5,24 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-10-10"
+lastupdated: "2017-10-31"
 
 ---
 
 {:shortdesc: .shortdesc}
 {:codeblock: .codeblock}
 {:screen: .screen}
+{:tip: .tip}
 {:new_window: target="_blank"}
 
 # Berechnung der Gebühren
 {: #charges}
 
-Die Höhe der Gebühren hängt von den jeweiligen Ressourcen ab, die von einem bestimmten Service oder Container bzw. einer bestimmten Laufzeit oder einer Unterstützungsoption verwendet werden. Bei den Ressourcen kann es sich um die Anzahl der API-Aufrufe, die Anzahl der Instanzen, die Hauptspeichermenge, den Speicherplatz, usw. handeln. {{site.data.keyword.Bluemix}} stellt auch eine detaillierte Kostenschätzungsfunktionen und eine Kostenberechnungsfunktion bis auf den letzten Cent bereit, die Ihnen beim Planen der Gebühren behilflich sein können. Sie können die tatsächlichen Kosten nach dem Erstellen der Apps auf der Seite 'Nutzungsdashboard' überprüfen.
+Die Höhe der Gebühren hängt von den jeweiligen Ressourcen ab, die von einem bestimmten Service oder Container bzw. einer bestimmten Laufzeit oder einer Unterstützungsoption verwendet werden. Bei den Ressourcen kann es sich um die Anzahl der API-Aufrufe, die Anzahl der Instanzen, die Hauptspeichermenge, den Speicherplatz, usw. handeln. {{site.data.keyword.Bluemix}} stellt auch eine detaillierte Kostenschätzungsfunktionen und eine Kostenberechnungsfunktion bis auf den letzten Cent bereit, die Ihnen beim Planen der Gebühren behilflich sein können. Nach dem Erstellen der Apps können Sie die tatsächlichen Kosten auf der Seite 'Nutzungsdashboard' überprüfen.
 
-Über ein gebührenpflichtiges {{site.data.keyword.Bluemix_notm}}-Konto werden die Gebühren für Berechnungen, Container und Services erhoben, die von Ihrer Organisation in Anspruch genommen werden. Es kann vorkommen, dass Sie von anderen {{site.data.keyword.Bluemix_notm}}-Benutzern eingeladen werden, unter einem anderen Konto an Organisationen teilzunehmen. Wenn Sie in den Organisationen, in die Sie eingeladen wurden, Apps erstellen oder Services verwenden, werden die Gebühren, die für diese Nutzung anfallen, dem Konto in Rechnung gestellt, das die betreffenden Organisationen enthält. Weitere Informationen zu bestimmten Gebühren können Sie über die Detailseite einer Ressource im {{site.data.keyword.Bluemix_notm}}-Katalog oder über den Preisrechner auf der {{site.data.keyword.Bluemix_notm}}-Seite 'Preisstruktur' aufrufen.
+Über ein gebührenpflichtiges {{site.data.keyword.Bluemix_notm}}-Konto werden die Gebühren für Berechnungen, Container und Services erhoben, die von Ihrer Organisation in Anspruch genommen werden. Es kann vorkommen, dass Sie von anderen {{site.data.keyword.Bluemix_notm}}-Benutzern eingeladen werden, unter einem anderen Konto an Organisationen teilzunehmen. Wenn Sie in den Organisationen, in die Sie eingeladen wurden, Apps erstellen oder Services verwenden, werden die Gebühren, die für diese Nutzung anfallen, dem Konto in Rechnung gestellt, das die betreffenden Organisationen enthält. Weitere Informationen zu bestimmten Gebühren können Sie über die Detailseite einer Ressource im Katalog oder über den Preisrechner auf der Seite 'Preisstruktur' aufrufen.
 
-Die Gebühren werden abhängig von den von Ihnen verwendeten Komponenten berechnet. In der folgenden Tabelle wird eine allgemeine Übersicht bereitgestellt:
+Die Gebühren werden abhängig von den von Ihnen verwendeten {{site.data.keyword.Bluemix_notm}}-Komponenten berechnet. In der folgenden Tabelle wird eine allgemeine Übersicht bereitgestellt.
 
 | Gebührentyp | Beschreibung | {{site.data.keyword.Bluemix_notm}}-Features, die diesen Gebührentyp verwenden | Beispiel |
 |------------------|------------------|--------------------------|--------------------------|
@@ -29,6 +30,19 @@ Die Gebühren werden abhängig von den von Ihnen verwendeten Komponenten berechn
 | Nutzungsabhängig | Die nutzungsabhängige Preisgestaltung basiert auf der Anzahl der GB-Stunden, die für Laufzeiten verbraucht werden, der Anzahl der GB-Stunden, die verbraucht wurden und der Anzahl der IP-Adressen und des Speichers für die Container. | Services, Berechnen und Container | Beim Push-Service wird jede Nutzung in Rechnung gestellt, die über die kostenlose monatliche Leistung hinausgeht. |
 |  Preisstufen   |  Manche Pläne basieren auf einem Preisstufenmodell, das einen dem tatsächlichen Nutzungsvolumen entsprechenden Nachlass ermöglicht. Für Services können Preistarife für einfache, gestaffelte oder Blockpreisstufen angeboten werden. | Services | Die gestaffelte Preisstruktur wird in der Regel für Gebührenmetriken verwendet, wenn große Mengen pro Monat erwartet werden, zum Beispiel für API-Aufrufe. |
 | Reserviert | Die Preisgestaltung für Reservierungen basiert auf einer langfristigen Zusage für einen Service; dafür erhalten Sie einen reduzierten Preis. Bei einem Reservierungsplan erhalten Sie eine dedizierte Serviceinstanz, die sich in der öffentlichen {{site.data.keyword.Bluemix_notm}}-Umgebung leicht einrichten, implementieren und bereitstellen lässt. | Services | Für DB2 on Cloud werden Reservierungspläne bereitgestellt.|
+{:caption="Tabelle 1. Gebühren in Abhängigkeit von den Komponenten" caption-side="top"}
+
+## Lite-Pläne
+{: #liteplans}
+
+Lite-Pläne, die in nutzungsabhängigen Konten verfügbar sind, sind mit kostenfreien Kontingenten strukturiert. Sie können an Ihren Projekten arbeiten, ohne sich darüber Gedanken zu machen, versehentlich Kosten zu generieren. Das Kontingent kann über einen bestimmten Zeitraum hinweg gültig sein, z. B. für einen Monat, oder auf einer Einzelnutzungsbasis. In der folgenden Liste sind einige Beispiele für Kontingente im Rahmen eines Lite-Plans aufgeführt:
+
+   * Maximale Anzahl registrierter Geräte
+   * Maximale Anzahl von Anwendungsbindungen
+   * Grenzwert für den verschlüsselten Datenspeicher, z. B. 1 GB
+   * Bereitgestellte Durchsatzkapazität
+
+Die Lite-Pläne sind im Katalog einfach zu finden. Alle Services mit einem Lite-Plan werden standardmäßig mit einem Lite-Tag ![Lite-Tag](../icons/Lite.svg) angezeigt. Wählen Sie einen Service aus, um die Kontingentdetails für den zugehörigen Lite-Plan anzuzeigen.
 
 ## Gebühren für Rechenressourcen
 {: #compute}
@@ -53,7 +67,7 @@ Viele Services schließen monatliche kostenlose Leistungen ein. Die Nutzung von 
     <dd>Sie bezahlen entsprechend Ihrer Laufzeit- und Servicenutzung. Beispiel: Beim Push-Service wird jede Nutzung in Rechnung gestellt, die über die kostenlose monatliche Leistung hinausgeht.</dd>
 <dt>Reservierungsgebühren</dt>
     <dd><p>Als Eigner eines Kontos für nutzungsabhängige Zahlung oder eines Abonnementkontos können Sie sich eine Serviceinstanz bei einer langfristigen Verpflichtung zu einem reduzierten Preis reservieren lassen. Beispiel: Sie können sich das Angebot 'DB2 on Cloud' in der herkömmlichen Größe für 12 Monate reservieren lassen.</p>
-    <p>Für manche {{site.data.keyword.Bluemix_notm}}-Services werden Reservierungspläne angeboten. Sie können einen Reservierungsplan im {{site.data.keyword.Bluemix_notm}}-<strong>Katalog</strong> durch Klicken auf die Kachel des Service anfordern. Wählen Sie anschließend den Serviceplan aus, der Ihren Anforderungen am ehesten entspricht. Wenn ein Reservierungsplan verfügbar ist, klicken Sie auf <strong>Anfordern</strong> und gehen gemäß den Eingabeaufforderungen vor, um Ihre Anforderung zu senden. Sie erhalten eine E-Mail, in der die Preisinformationen für den Reservierungsplan enthalten sind. Außerdem wird sich bald ein {{site.data.keyword.Bluemix_notm}}-Vertriebsbeauftragter mit Ihnen in Verbindung setzen, um den Kauf durchzuführen.</p></dd>
+    <p>Für manche {{site.data.keyword.Bluemix_notm}}-Services werden Reservierungspläne angeboten. Sie können einen Reservierungsplan im {{site.data.keyword.Bluemix_notm}}-Katalog durch Klicken auf die Kachel des Service anfordern. Wählen Sie anschließend den Serviceplan aus, der Ihren Anforderungen am ehesten entspricht. Wenn ein Reservierungsplan verfügbar ist, klicken Sie auf <strong>Anfordern</strong> und gehen gemäß den Eingabeaufforderungen vor, um Ihre Anforderung zu senden. Sie erhalten eine E-Mail, in der die Preisinformationen für den Reservierungsplan enthalten sind. Außerdem wird sich bald ein {{site.data.keyword.Bluemix_notm}}-Vertriebsbeauftragter mit Ihnen in Verbindung setzen, um den Kauf durchzuführen.</p></dd>
 <dt>Gestaffelte Preise</dt>
     <dd>Ähnlich wie bei den nutzungsabhängigen Gebühren bezahlen Sie die Gebühren entsprechend Ihrer Laufzeit- und Servicenutzung. Bei gestaffelten Preisen werden jedoch zusätzliche Preisstufen hinzugefügt, wobei oft reduzierte Gebühren in Stufen mit hohem Verbrauch angeboten werden. Gestaffelte Preise werden einfach, gestaffelt oder als Block angeboten.</dd>
 </dl>
@@ -70,7 +84,7 @@ Im Modell mit einer einfachen Preisstufe wird der Einzelpreis durch die Preisstu
 | Preisstufe 3: 2001 - 3000                  |   $ 0,75 USD                       |
 | Preisstufe 4: 3001 - 4000           |      $ 0,60 USD                    |
 |Preisstufe 5: &gt; 4000 | $ 0,40 USD |
-{:caption="Tabelle 1. Tabelle der einfachen Preisabstufung" caption-side="top"}
+{:caption="Tabelle 2. Tabelle der einfachen Preisabstufung" caption-side="top"}
 
 In der folgenden Tabelle sind die Gebühren dargestellt, die im Rahmen eines Plans anfallen, der auf dem Preismodell mit einfacher Preisstufe basiert:
 
@@ -81,7 +95,7 @@ In der folgenden Tabelle sind die Gebühren dargestellt, die im Rahmen eines Pla
 |2500 |	2500 × 0,75 = 1875 |	$ 1875 USD|
 |... |	... |	...|
 |5200 |	5200 × 0,40 = 2080 |$ 2080 USD|
-{:caption="Tabelle 2. Gebührenberechnung mit einem einfachen Preisstaffelungsmodell" caption-side="top"}
+{:caption="Tabelle 3. Gebührenberechnung mit einem einfachen Preisstaffelungsmodell" caption-side="top"}
 
 ### Gestaffelte Preisstufe
 {: #graduated_tier}
@@ -95,7 +109,7 @@ Im Modell mit gestaffelter Preisstufe sinkt der Einzelpreis bei einer höheren N
 |    Preisstufe 3: 2001 - 3000 |	$ 0,75 USD |
 |    Preisstufe 4: 3001 - 4000 |	$ 0,60 USD |
 |    Preisstufe 5: &gt; 4000 |	$ 0,40 USD |
-{:caption="Tabelle 3. Tabelle mit erweiterter Preisstaffelung" caption-side="top"}
+{:caption="Tabelle 4. Tabelle mit erweiterter Preisstaffelung" caption-side="top"}
 
 In der folgenden Tabelle sind die Gebühren dargestellt, die im Rahmen eines Plans anfallen, der auf dem Preismodell mit gestaffelter Preisstufe basiert:
 
@@ -106,7 +120,7 @@ In der folgenden Tabelle sind die Gebühren dargestellt, die im Rahmen eines Pla
 |2500 |	(1000 × 1 (Einzelpreis für Preisstufe 1)) + (1000 × 0,90 (Einzelpreis für Preisstufe 2)) + (500 × 0,75 (Einzelpreis für Preisstufe 3)) = 2275 |	$ 2275 USD |
 |... |	... |	...|
 |5200 |	(1000 × 1 (Einzelpreis für Preisstufe 1)) + (1000 × 0,90 (Einzelpreis für Preisstufe 2)) + (1000 × 0,75 (Einzelpreis für Preisstufe 3)) + (1000 × 0,60 (Einzelpreis für Preisstufe 4)) + (1200 × 0,40 (Einzelpreis für Preisstufe 5)) = 3730 |	$ 3730 USD|
-{:caption="Tabelle 4. Gebührenberechnung mit dem erweiterten Preisstaffelungsmodell" caption-side="top"}
+{:caption="Tabelle 5. Gebührenberechnung mit dem erweiterten Preisstaffelungsmodell" caption-side="top"}
 
 ### Blockpreisstufe
 {: #block_tier}
@@ -120,7 +134,7 @@ Im Preismodell mit Blockpreisstufen ist der Preis eine feste Gebühr für die ge
 | Preisstufe 3: &lt;= 3000 |	$ 2800 USD|
 | Preisstufe 4: &lt;= 4000 |	$ 3500 USD|
 | Preisstufe 5: &lt;= 10000 |	$ 5000 USD|
-{:caption="Tabelle 5. Tabelle der Blockpreisstaffelung" caption-side="top"}
+{:caption="Tabelle 6. Tabelle der Blockpreisstaffelung" caption-side="top"}
 
 In der folgenden Tabelle sind die Gebühren dargestellt, die im Rahmen eines Plans anfallen, der auf dem Preismodell mit Blockpreisstufe basiert:
 
@@ -130,4 +144,4 @@ In der folgenden Tabelle sind die Gebühren dargestellt, die im Rahmen eines Pla
 |1500 |	Die Anzahl der Posten fällt in die Preisstufe 2, d. h., der Gesamtpreis beträgt $ 1900 USD. |	$ 1900 USD|
 |... |	... |	...|
 |5200 |	Die Anzahl der Posten fällt in die Preisstufe 5, d. h., der Gesamtpreis beträgt $ 5000 USD. |	$ 5000 USD|
-{:caption="Tabelle 6. Gebührenberechnung mit dem Blockpreisstaffelungsmodell" caption-side="top"}
+{:caption="Tabelle 7. Gebührenberechnung mit dem Blockpreisstaffelungsmodell" caption-side="top"}

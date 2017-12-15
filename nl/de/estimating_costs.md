@@ -5,7 +5,7 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-10-10"
+lastupdated: "2017-11-09"
 
 ---
 
@@ -37,7 +37,7 @@ Zur Verwendung der Berechnungsfunktion geben Sie Ihre projizierte monatliche Nut
 ## Kosten manuell schätzen
 {: #manual}
 
-Sie können zum Beispiel Ihre {{site.data.keyword.Bluemix_notm}}-Kosten selbst schätzen, um besser zu verstehen, wie sich {{site.data.keyword.Bluemix_notm}}-Kosten errechnen. Sie können den Gesamtpreis für die Nutzung von {{site.data.keyword.Bluemix_notm}} für das Erstellen und Hosting Ihrer App berechnen, indem Sie die Preise der Laufzeit und der von der Laufzeit verwendeten Services betrachten. Die Preise der Laufzeiten und Services ändern sich manchmal, sodass Sie jeweils die neuesten Informationen auf der {{site.data.keyword.Bluemix_notm}}-Preisliste für die Berechnung des Gesamtpreises verwenden müssen.
+Sie können zum Beispiel Ihre {{site.data.keyword.Bluemix_notm}}-Kosten selbst schätzen, um besser zu verstehen, wie sich {{site.data.keyword.Bluemix_notm}}-Kosten errechnen. Sie können den Gesamtpreis für die Nutzung von {{site.data.keyword.Bluemix_notm}} für das Erstellen und Hosting Ihrer App berechnen, indem Sie die Preise der Laufzeit und der von der Laufzeit verwendeten Services betrachten. Die Preise der Laufzeiten und Services ändern sich manchmal, sodass Sie jeweils die neuesten Informationen auf der Preisliste unter {{site.data.keyword.Bluemix_notm}} {{site.data.keyword.pricing_sheet}} für die Berechnung des Gesamtpreises verwenden müssen.
 
 ## Unterstützte Währungen
 
@@ -60,7 +60,7 @@ In der folgenden Tabelle werden die unterstützten Währungen aufgelistet.
 |SEK |	  Schwedische Krone|
 |USD |    US-Dollar|
 |ZAR |	  Südafrikanischer Rand|
-{:caption="Tabelle 2. Unterstützte Währungen" caption-side="top"}
+{:caption="Tabelle 1. Unterstützte Währungen" caption-side="top"}
 
 Wenn Sie Ihre {{site.data.keyword.Bluemix_notm}}- und SoftLayer-Konten verknüpft haben, ist die einzige Rechnung, die Sie erhalten, nur in USD ausgestellt.
 {: tip}

@@ -5,7 +5,7 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-05-31"
+lastupdated: "2017-11-09"
 
 ---
 
@@ -34,7 +34,7 @@ Nach dem Verknüpfen Ihrer Konten gilt Folgendes:
 
 Führen Sie als Masterbenutzer die folgenden Schritte aus, um die {{site.data.keyword.Bluemix_notm}}- und SoftLayer-Konten zu verknüpfen:
 
- 1. Klicken Sie im {{site.data.keyword.slportal}} auf **{{site.data.keyword.Bluemix_notm}}-Konto verknüpfen**.
+ 1. Klicken Sie im Kundenportal auf **{{site.data.keyword.Bluemix_notm}}-Konto verknüpfen**.
  2. Lesen und akzeptieren Sie die Bedingungen für das Verknüpfen von SoftLayer- und {{site.data.keyword.Bluemix_notm}}-Konten.
  3. Geben Sie nach entsprechender Aufforderung die E-Mail-Adresse an, die Ihrem {{site.data.keyword.Bluemix_notm}}-Konto zugeordnet ist. Wenn Sie über kein {{site.data.keyword.Bluemix_notm}}-Konto verfügen, geben Sie die von Ihnen gewünschte E-Mail-Adresse an und befolgen Sie die Anweisungen für die Einladung zu {{site.data.keyword.Bluemix_notm}} und das Erstellen eines Kontos.
 
@@ -50,7 +50,7 @@ Der {{site.data.keyword.Bluemix_notm}}-Nutzungszyklus basiert auf Kalendermonate
 
 Wenn Sie Ihre Konten verknüpfen, wird die {{site.data.keyword.Bluemix_notm}}-Nutzung für den aktuellen Monat noch wie bisher abgerechnet und Sie erhalten für diesen Nutzungszeitraum eine {{site.data.keyword.Bluemix_notm}}-Rechnung. Ab dem Ersten des Folgemonats werden Ihre {{site.data.keyword.Bluemix_notm}}- und SoftLayer-Gebühren zusammen über Ihre {{site.data.keyword.Bluemix_notm}}-Rechnung abgerechnet.
 
-Wenn Sie Ihre Konten beispielsweise am 16. April 2017 verknüpft haben, erhalten Sie für die Nutzung im April eine Bluemix-Rechnung. Je nach Zeitpunkt der Verknüpfung Ihrer Konten erhalten Sie möglicherweise eine separate Rechnung für Ihre SoftLayer-Nutzung. Die Nutzung im Mai sowohl für SoftLayer als auch für {{site.data.keyword.Bluemix_notm}} wird über Ihr {{site.data.keyword.Bluemix_notm}}-Konto abgerechnet.
+Wenn Sie Ihre Konten beispielsweise am 16. April 2017 verknüpft haben, erhalten Sie für die Nutzung im April eine {{site.data.keyword.Bluemix_notm}}-Rechnung. Je nach Zeitpunkt der Verknüpfung Ihrer Konten erhalten Sie möglicherweise eine separate Rechnung für Ihre SoftLayer-Nutzung. Die Nutzung im Mai sowohl für SoftLayer als auch für {{site.data.keyword.Bluemix_notm}} wird über Ihr {{site.data.keyword.Bluemix_notm}}-Konto abgerechnet.
 
 ![Verknüpfung von Bluemix- und SoftLayer-Konten - Zusammenfassung](BluemixSoftLayerBill.svg)
 

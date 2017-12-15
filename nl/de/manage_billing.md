@@ -5,7 +5,7 @@
 copyright:
 
   years: 2017
-lastupdated: "2017-10-10"
+lastupdated: "2017-11-09"
 
 ---
 
@@ -63,11 +63,11 @@ Sie können Rechnungspositionen zu bestimmten Geräten zuordnen und diese Zuordn
 
 Sie können Ihre Rechnungen jederzeit anzeigen oder bezahlen. Jede Rechnung wird nach Rechnungsnummer, Datum, Rechnungstyp und verschiedenen monetären Bilanzposten zusammengefasst. Rechnungstypen können in die folgenden Kategorien fallen:
 
- *  Neu -- Die erste Rechnung in einer Reihe von Einzelrechnungen.
- *  Wiederholt auftretend -- Eine Rechnung für wiederkehrende Gebühren, die seit mehr als einem Monat für das Konto anfallen.
- *  Einmalige Gebühr -- Eine einmalige Gebühr für verschiedene Ausgaben, die Überschreitungen enthalten kann.
- *  Guthaben -- Ein Guthaben von {{site.data.keyword.Bluemix_notm}} für den Kontostand.
- *  Rückerstattung -- Eine Rückerstattung oder Rückbuchung für eine einmalige oder wiederkehrende Gebühr.
+ *  Neu: Die erste Rechnung in einer Reihe von Einzelrechnungen.
+ *  Wiederholt auftretend: Eine Rechnung für wiederkehrende Gebühren, die seit mehr als einem Monat für das Konto anfallen.
+ *  Einmalige Gebühr: Eine einmalige Gebühr für verschiedene Ausgaben, die Überschreitungen enthalten kann.
+ *  Guthaben: Ein Guthaben von {{site.data.keyword.Bluemix_notm}} für den Kontostand.
+ *  Rückerstattung: Eine Rückerstattung oder Rückbuchung für eine einmalige oder wiederkehrende Gebühr.
 
 Auf der Seite 'Rechnungen' wird außerdem eine Rechnungszusammenfassung für das Konto angezeigt, die den aktuellen und erwarteten nächsten Kontostand, die Zahlungsmethode und die letzten und nächsten Einzelrechnungsdaten enthält. Sie können eine Rechnung im Steuerungsportal anzeigen oder die Rechnung herunterladen.
 
